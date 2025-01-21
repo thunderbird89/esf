@@ -3287,3 +3287,315 @@ As the team exited Langley’s operations wing, the late afternoon sun cast long
 But for now, they had done what was asked of them.  
 
 And the Federation was watching.  
+
+### Epilogue, Part I: Iran  
+
+The factory ruins still smoldered beneath the pale light of dawn. Blackened steel beams jutted from piles of rubble like skeletal remains, and the air was thick with the acrid stench of charred chemicals and burnt machinery. Colonel Farhad Khani, a seasoned officer of the IRGC, stepped out of his vehicle, his boots crunching on the debris-strewn ground. His expression was a mixture of disbelief and fury as he surveyed the devastation.  
+
+Behind him, a small team of subordinates fanned out, their movements cautious. They spoke in hushed tones, their usual bravado tempered by the eerie silence of the site.  
+
+“What could have done this?” muttered one of the men, staring at the craters that pockmarked the ground.  
+
+Khani didn’t answer. His attention was fixed on the twisted remains of the central production facility. The structure had been obliterated, reduced to a smoking crater surrounded by scattered debris. Nearby, the remnants of vehicles lay scorched and unrecognizable, their metal frames warped by intense heat.  
+
+---
+
+#### Assessing the Damage  
+
+Khani crouched beside a chunk of shattered concrete, picking up a piece of metal that had been fused to it. He turned it over in his hands, his mind racing. This wasn’t the work of saboteurs or local insurgents. The precision of the strikes, the complete annihilation of critical infrastructure, and the sheer scale of the damage spoke of something far more advanced.  
+
+“Colonel,” one of his men called out, jogging over. “We found traces of explosives near the storage bunker, but the damage to the main facility… it’s not consistent with anything we’ve seen before. There’s no sign of conventional ordnance. No missile fragments, no shells.”  
+
+Khani stood, his jaw tightening. “This was not an accident,” he said, his voice low and deliberate. “And it was not local sabotage. Whoever did this had resources and technology beyond anything we’ve encountered.”  
+
+He turned to another officer, his tone sharp. “Get me the latest reports from the distribution hubs. If any of them are compromised, I need to know.”  
+
+“Understood, sir,” the officer replied, hurrying away.  
+
+---
+
+#### Reporting to the Superiors  
+
+Khani pulled a satellite phone from his coat and dialed a secure line, his hand tightening around the device as he waited for the connection. When a voice answered, he didn’t waste time.  
+
+“This is Colonel Khani. I’m at the Rudbar facility. It’s gone.”  
+
+A pause. Then, the voice on the other end asked, “Define ‘gone.’”  
+
+Khani’s gaze swept over the ruins once more. “Destroyed. Completely. The facility, the equipment, everything. It wasn’t a conventional attack—this was surgical. Precise. Whoever did this wanted us to know they could wipe us out at will.”  
+
+The voice on the other end was quiet for a moment. “Do you have leads?”  
+
+“None,” Khani admitted, his voice bitter. “But I will find out who did this. And when I do, they will pay.”  
+
+He ended the call, slipping the phone back into his coat. As he stood amidst the devastation, his fists clenched at his sides, the sense of helplessness gnawed at him. This wasn’t just an attack on a facility—it was a message.  
+
+And Colonel Farhad Khani had no choice but to deliver it to his superiors.  
+
+### Epilogue, Part I (Continued): Iran  
+
+#### **The Report Escalates**  
+
+Colonel Khani’s report made its way swiftly through the labyrinthine hierarchy of the IRGC. Initial assessments from his subordinates, combined with satellite imagery and the fragments collected on-site, painted a bleak picture. The production facility near Rudbar—one of the linchpins of the narcotics network—had not just been destroyed but obliterated with surgical precision.  
+
+By the time the report reached Tehran, it had already been filtered and reframed multiple times. Each level of review stripped away conjecture and added carefully worded analyses that tried, and failed, to explain the nature of the attack. The final version that landed on the desk of General Amir Hosseini, head of the IRGC Intelligence Directorate, was concise but alarming:  
+
+- **Status:** Rudbar facility destroyed.  
+- **Casualties:** Moderate, primarily guards. No survivors from the on-site command staff.  
+- **Cause:** Unknown. No evidence of traditional explosives or conventional aerial strikes.  
+- **Preliminary Assessment:** Likely the result of foreign intelligence operations employing advanced, possibly experimental, technologies.  
+
+General Hosseini read the report in silence, his face expressionless. Finally, he set it aside and turned to his adjutant. “Assemble the Supreme Council. This isn’t a field matter anymore.”  
+
+---
+
+#### **The Supreme Council Meets**  
+
+Hours later, in a secure underground chamber in Tehran, the Supreme Council of National Security convened. The meeting included high-ranking members of the IRGC, the Ministry of Defense, and the Ministry of Intelligence. The Supreme Leader’s representative, a stoic cleric with an impassive demeanor, sat at the head of the table, listening intently as General Hosseini presented his findings.  
+
+“This is the latest satellite imagery from the site,” Hosseini said, gesturing to a series of grainy photos projected onto the wall. The images showed the factory reduced to ash and rubble, with no discernible patterns of impact or debris that might indicate conventional explosives or missiles.  
+
+“This was not the work of insurgents or local saboteurs,” Hosseini continued. “Nor does it bear the signature of any known foreign intelligence agency. The precision and scale of this destruction suggest the use of technology far beyond what we’ve encountered.”  
+
+The Defense Minister, a grizzled man with a voice like gravel, leaned forward. “Are you suggesting this was some kind of experimental weapon?”  
+
+Hosseini hesitated. “I am suggesting that we cannot rule it out. There were no missile fragments, no traces of gunpowder or conventional explosives. The thermal damage patterns are inconsistent with any ordnance in our database. Whatever caused this, it was targeted and left no room for counteraction.”  
+
+---
+
+#### **Speculation and Debate**  
+
+The room erupted into discussion.  
+
+“What about the Americans?” the Minister of Intelligence demanded. “They’ve been developing advanced drone technologies and directed energy weapons for years.”  
+
+The Defense Minister scoffed. “If the Americans had such weapons, why use them here? Why not deploy them against us in a theater of war? This is disproportionate for a narcotics operation.”  
+
+“It could be a demonstration,” suggested another official. “A message. They want us to know what they’re capable of.”  
+
+“Or it could be the Israelis,” the cleric at the head of the table interjected, his voice calm but firm. The room fell silent as he continued. “They have no love for us, and their intelligence operations are among the most sophisticated in the world. If they have developed new technology, this would be the perfect opportunity to test it while undermining our position.”  
+
+---
+
+#### **The Leadership Decides**  
+
+General Hosseini raised a hand to regain the floor. “Whoever was responsible, we cannot allow this attack to go unanswered. Our networks are compromised, and our position in the region is weakened. If this is a prelude to further actions, we must be prepared.”  
+
+The cleric nodded thoughtfully. “Then we must find answers. Mobilize our intelligence assets. Focus on foreign entities—American, Israeli, and otherwise. And ensure that our remaining hubs are secured. This cannot happen again.”  
+
+As the meeting adjourned, the Supreme Council left with orders to tighten security, mobilize intelligence, and prepare for retaliatory measures.  
+
+But as Colonel Khani returned to his command, overseeing the implementation of these directives, the unease lingered. Whatever had hit them at Rudbar wasn’t just an attack. It was a statement.  
+
+And they had no idea what it truly meant.  
+
+### Epilogue, Part II: The Americans  
+
+#### **The Langley War Room**  
+
+Deep within CIA headquarters in Langley, Virginia, a small group of senior strategists gathered in a secure conference room. The mood was a mix of satisfaction and apprehension, with the successful operation in Iran dominating the agenda. The Wraith, and its AI Hermes, had proved a decisive force, but the implications of deploying such advanced technology were far-reaching.
+
+At the head of the table sat Deputy Director Caroline Harper, a sharp-eyed woman with decades of counterintelligence experience. She flipped through the classified after-action report, her lips pressed into a thin line.  
+
+“To begin,” she said, her voice crisp, “we’ve neutralized a major IRGC narcotics production facility, extracted valuable intelligence, and taken Colonel Abbas Rezaei into custody. That alone is a significant win.”  
+
+She paused, letting the weight of her next words hang in the air. “But the means by which we achieved it are… unprecedented. Let’s hear some analysis. What’s the read on the Wraith?”  
+
+---
+
+#### **The Strategists Weigh In**  
+
+Matthew Lyle, a middle-aged operations planner with a habit of chewing his pen, was the first to speak. “The Wraith didn’t just change the game—it rewrote the rulebook. Hermes’s ability to analyze real-time data, neutralize threats with pinpoint precision, and even assist with interrogations made this mission something we could never have pulled off with conventional assets.”  
+
+Harper gave him a sharp look. “And that’s a good thing? Because as far as I’m concerned, this mission didn’t just raise the bar—it raised questions. How do we justify deploying technology that our enemies can’t even comprehend, let alone counter?”  
+
+Lyle hesitated. “It’s a fair point, but this kind of dominance has its own deterrent effect. If the IRGC—or anyone else—gets even a whiff of what took out that factory, they’ll think twice about expanding operations.”  
+
+---
+
+#### **Rezaei’s Value**  
+
+“Speaking of deterrence,” interjected Maria Vasquez, a senior analyst specializing in Middle Eastern affairs, “let’s not forget that we’ve got Rezaei in custody. He’s not just a figurehead—he’s a critical cog in their logistics and narcotics network. Extracting actionable intel from him could cripple their entire operation.”  
+
+Harper nodded. “Agreed. But let’s not get ahead of ourselves. Rezaei’s loyalty to the IRGC and his survival instincts mean he’s not going to break easily. That’s where Hermes was invaluable during the mission—he cracked under the psychological pressure. Now that we’ve got him in a controlled environment, we need to be just as precise.”  
+
+---
+
+#### **The Risks of Deployment**  
+
+Vasquez turned the conversation back to the Wraith. “Let’s address the elephant in the room: the risk of exposure. The Wraith’s capabilities—especially Hermes’s level of autonomy—make it a double-edged sword. If the Iranians even suspect what kind of tech was used against them, it’ll spark an arms race. They’ll escalate, and so will everyone else.”  
+
+Lyle nodded reluctantly. “And it’s not just foreign adversaries. If word of this leaks domestically, the political fallout would be catastrophic. People already mistrust AI. A weaponized platform like this would confirm their worst fears.”  
+
+Harper leaned back in her chair, her fingers steepled. “You’re both right. The Wraith gives us a strategic advantage unlike anything else, but we’re walking a tightrope. One wrong move, and the consequences could spiral out of control.”  
+
+---
+
+#### **Framing the Mission’s Success**  
+
+John Michaels, the Director of Covert Operations, cleared his throat. “Still, we can’t ignore the success of the operation. Rezaei’s capture and the destruction of the factory sent a clear message to the IRGC. They’ll know someone hit them with technology they can’t counter, and that uncertainty alone will keep them on the back foot. For now, that’s a win.”  
+
+“But it’s a win we have to frame carefully,” Harper countered. “We can’t flaunt the Wraith—or even let most of our own people know about it. This technology only works in the shadows, and that’s where it’s going to stay.”  
+
+---
+
+#### **Looking Forward**  
+
+Harper glanced around the room. “So, where does this leave us? The Wraith was loaned to us by the Federation to handle impossible missions. And this mission proved its value. But it also showed us how dependent we are on technology we can’t fully control or replicate.”  
+
+She sighed, closing the report and folding her hands on top of it. “Rezaei will give us a chance to dismantle more of the IRGC’s networks. But we’ll need to tread carefully. Every operation going forward has to be weighed not just for its potential success but for the risks it poses. No mistakes. No exposure.”  
+
+The room was silent for a moment before she stood. “Let’s move forward with the interrogation protocols for Rezaei and begin planning next steps. Keep this operation classified at the highest level. Dismissed.”  
+
+As the group began filing out, Harper lingered by the table, staring at the now-dark holographic display. For all the success the Wraith had brought, she couldn’t shake the feeling that they were playing with fire.  
+
+### Epilogue, Part II (Continued): The Congressional Hearing  
+
+#### **The Hearing Room**  
+
+The chamber was a stark contrast to the dark, covert world of Langley. Bright lights illuminated rows of polished wood benches and the raised dais where members of the Congressional Intelligence Oversight Committee sat in a semi-circle. Reporters filled the public gallery behind them, pens poised and cameras ready to capture the proceedings.  
+
+Alicia Monroe sat at a solitary table in the center of the room, flanked by a stack of documents she wouldn’t touch and a glass of water she hadn’t yet sipped. She was calm, her composed demeanor hiding the tension simmering beneath the surface.  
+
+At the head of the dais, Senator Barbara Kellerman, chair of the committee, tapped her microphone and leaned forward. “Ms. Monroe, thank you for joining us today. As Deputy Director of Covert Operations, your insight is critical to this committee’s understanding of recent events in the Middle East.”  
+
+Alicia gave a measured nod. “I’m happy to provide whatever information I can within the bounds of my responsibilities, Senator.”  
+
+---
+
+#### **The Questions Begin**  
+
+Kellerman adjusted her glasses and glanced at the documents in front of her. “Let’s start with the recent disruption of IRGC narcotics operations in Northern Iran. Our intelligence indicates that a high-value target, Colonel Abbas Rezaei, is now in CIA custody, and a significant production facility has been destroyed. Can you confirm these reports?”  
+
+Alicia’s voice was steady. “Yes, Senator, I can confirm that Colonel Rezaei is in our custody and that the operation successfully dismantled a key component of the IRGC’s narcotics network.”  
+
+Senator Raymond Decker, a gruff man known for his skepticism of CIA operations, cut in. “Ms. Monroe, reports from foreign intelligence suggest the destruction of that facility was... unusual. No evidence of conventional explosives, no trace of missile strikes. Just devastation. Care to explain how this was achieved?”  
+
+Alicia met his gaze without flinching. “I’m not at liberty to discuss operational details in an open forum, Senator.”  
+
+Decker leaned back, crossing his arms. “Not at liberty, or unwilling?”  
+
+---
+
+#### **Alicia Pleads the Fifth**  
+
+Kellerman raised a hand, cutting off the brewing tension. “Let’s rephrase. Ms. Monroe, did this operation involve any external assistance or unconventional technologies beyond standard CIA assets?”  
+
+Alicia’s jaw tightened for a fraction of a second before she spoke. “I respectfully decline to answer that question, Senator, on the grounds that it involves sensitive operational details and classified information.”  
+
+Senator Decker leaned forward, his voice dripping with sarcasm. “In other words, you’re pleading the Fifth. Convenient.”  
+
+Alicia didn’t rise to the bait. “I am invoking the CIA’s right to protect classified information critical to national security, Senator.”  
+
+Kellerman interjected. “Ms. Monroe, I want to remind you that this committee has oversight authority. The American people have the right to know how their intelligence agencies are operating. Are you saying there are elements of this mission so sensitive that they cannot even be discussed with us?”  
+
+Alicia’s composure didn’t falter. “Yes, Senator. The details of this operation involve methodologies and capabilities that, if disclosed, would compromise ongoing and future missions. I am willing to discuss them in a classified session, but not here.”  
+
+---
+
+#### **Mounting Pressure**  
+
+Senator Decker pressed further, his frustration mounting. “Ms. Monroe, let me ask you directly: did the CIA use technology not developed or controlled by the United States to carry out this mission? Yes or no?”  
+
+Alicia paused, her expression unchanging. “I am not at liberty to answer that question, Senator.”  
+
+Decker’s face reddened. “This isn’t a game, Ms. Monroe. We’re talking about accountability. If the CIA is using technology beyond our oversight, the implications are staggering.”  
+
+Alicia’s voice remained calm, almost cold. “I understand your concern, Senator. And I assure you, every decision made during this mission was in service of national security and within the bounds of our mandate.”  
+
+---
+
+#### **The Chair Steps In**  
+
+Kellerman rapped her gavel lightly, her tone firm but diplomatic. “That’s enough for now, Senator Decker. Ms. Monroe has made her position clear. We will pursue further clarification in a classified session.”  
+
+She turned back to Alicia. “For the record, Ms. Monroe, this committee expects full transparency in those sessions. If it comes to light that the CIA has acted outside its mandate or engaged with unvetted external entities, there will be consequences.”  
+
+Alicia nodded slightly. “Understood, Senator.”  
+
+---
+
+#### **The Session Adjourns**  
+
+The hearing concluded shortly after, the tension in the room palpable as Alicia gathered her documents and prepared to leave. The reporters in the gallery whispered among themselves, sensing that something significant was being hidden.  
+
+As she walked out of the hearing room, Alicia’s mind was already on the classified session to come. She knew the questions wouldn’t stop, and the answers she couldn’t give would only fuel the fire.  
+
+But for now, the Wraith remained a shadow, and Hermes remained a secret.  
+
+### Epilogue, Part III: The Israelis  
+
+#### **The Mossad’s Discovery**  
+
+In a secure briefing room at Mossad headquarters in Tel Aviv, Director Yitzhak Ben-Ari stood before a digital map of Northern Iran. The map displayed the ruins of the destroyed narcotics facility, annotated with intelligence gathered from satellite images, regional assets, and intercepted communications.  
+
+Ben-Ari tapped a stylus against the screen, circling the smoldering wreckage. “This is what’s left of the IRGC’s production facility near Rudbar. Completely annihilated—no trace of conventional explosives, no missile fragments, nothing.”  
+
+A senior analyst leaned forward, squinting at the images. “The destruction is surgical. It doesn’t match any weapon systems we know the Americans—or anyone else—have deployed in the region.”  
+
+Ben-Ari’s tone was sharp. “That’s the problem. Our assets in Iran picked up chatter from the IRGC about advanced, ‘experimental’ technology. They’re scared, but they’re also asking the same questions we are: who did this, and how?”  
+
+Another operative spoke up. “If it was the Americans, they’ve deployed something entirely new. Something they haven’t even hinted at sharing with us.”  
+
+Ben-Ari’s expression darkened. “Then it’s time we find out.”
+
+---
+
+#### **Diplomatic Pressure**  
+
+The next morning, at the Israeli embassy in Washington, the Israeli Ambassador to the United States, Miriam Katz, sat across from Deputy Secretary of State William Carter in a private meeting room. The atmosphere was polite but tense.  
+
+“We both know why I’m here, Bill,” Katz said, her tone firm but diplomatic. “The operation in Northern Iran. We know the Americans were involved.”  
+
+Carter’s expression was neutral, his hands folded neatly on the table. “We don’t comment on covert operations, Miriam. You know that.”  
+
+Katz smiled faintly, though there was no humor in it. “And we both know that Israel has always been your closest partner in matters concerning Iran. We’ve shared intelligence, technology, and resources for decades. If you’ve developed something new—something capable of achieving that level of precision—we need to know about it.”  
+
+Carter sighed, leaning back in his chair. “Miriam, I assure you, the United States remains fully committed to our partnership. But I can’t confirm or deny anything regarding operations in Iran.”  
+
+The ambassador’s smile faded. “This isn’t just about partnership, Bill. This is about the balance of power in the region. If you’ve developed a weapon or platform of this magnitude, it changes everything. And if it falls into the wrong hands…”  
+
+“I understand your concerns,” Carter said carefully. “But as I’ve said, there’s nothing I can share at this time.”  
+
+---
+
+#### **Persistent Pressure**  
+
+As the weeks passed, Israeli diplomatic channels ramped up their efforts. Letters were sent, meetings were requested, and backchannel discussions became increasingly frequent. The message was clear: Israel wanted answers, and it wasn’t going to stop asking.  
+
+At the same time, Mossad operatives intensified their own efforts, combing through every available scrap of intelligence on the operation. They intercepted IRGC communications, scrutinized satellite imagery, and deployed agents to gather human intelligence on the ground.  
+
+“We’re finding nothing,” one senior Mossad officer reported during a briefing. “No heat signatures, no missile contrails, no radar pings. It’s as if the entire operation was invisible.”  
+
+Ben-Ari frowned, his jaw tight. “Invisible or not, someone left their mark. If the Americans won’t tell us, we’ll make them.”  
+
+---
+
+#### **Covert Leverage**  
+
+Back in Washington, Miriam Katz sat in a late-night meeting with her staff. A classified Mossad dossier lay open on the table, filled with speculative analyses of the Rudbar operation.  
+
+“This isn’t working,” she said bluntly, her frustration evident. “The Americans are stonewalling us at every turn.”  
+
+One of her aides leaned forward. “What if we leverage our shared operations? Remind them how many missions we’ve run together against Iran. If they think we’re unhappy with their cooperation, it might shake something loose.”  
+
+Katz shook her head. “It’s risky. If we push too hard, we risk alienating them altogether.”  
+
+“But what’s the alternative?” the aide pressed. “If they’ve developed something like this and they’re keeping it from us, it’s a fundamental shift in our relationship. We have to act.”  
+
+Katz sighed, rubbing her temples. “I’ll escalate through diplomatic channels. But make no mistake—if Mossad finds a crack, we’ll exploit it. Quietly.”  
+
+---
+
+#### **The Growing Rift**  
+
+The persistence of Israeli pressure did not go unnoticed in Washington. Reports of the escalating demands made their way back to the CIA and State Department, adding another layer of complexity to an already delicate situation.  
+
+Back in Langley, Caroline Harper, the CIA’s Deputy Director, reviewed a memo detailing the latest Israeli overtures. She frowned as she read it, her mind racing.  
+
+“They’re not going to let this go,” she murmured to herself. “The Israelis won’t stop until they get what they want—or until they’re sure they’ve gotten everything we’re not saying.”  
+
+Harper closed the memo with a sharp sigh. The Wraith had proved its worth, but the secrets surrounding it were becoming harder to keep.  
+
+---  
+**End of Epilogue.**  
