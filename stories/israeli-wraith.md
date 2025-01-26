@@ -200,8 +200,6 @@ The dossier snapped shut in his hands. Abramov leaned back in his chair, his min
 
 Outside his office, the first stirrings of activity began as his aides and ministers arrived to start the day. But inside, the weight of the Federation’s words loomed heavy over the prime minister, a reminder that they were indeed watching—and waiting for Israel to do better.
 
-## Chapter 2: A Message Delivered (Continued)
-
 ### Scene 4: An Emergency Session
 
 The chamber of the Knesset buzzed with an unusual energy. Emergency sessions were rare, called only for matters of utmost importance. Prime Minister David Abramov’s summons had come without explanation, but the urgency of his tone in private conversations with party leaders had ensured every seat in the chamber was filled.
@@ -241,4 +239,238 @@ The chamber buzzed again, this time with mixed reactions. Some applauded cautiou
 He finished with a final, resolute statement: “The Federation has spoken, and now we must decide how we will respond—not with indignation, but with action. The world is watching. *They* are watching. Let us show them we can do better.”
 
 As he stepped away from the podium, the chamber erupted once more, debates sparking across the floor. Abramov returned to his seat, his expression unreadable, as the weight of his decision settled over the room like a storm cloud.
+
+### Scene 7: The Long View
+
+The days following the emergency session of the Knesset were fraught with tension, debate, and no small measure of resistance. Prime Minister Abramov had thrown down the gauntlet, challenging the legislative body to undertake the kind of introspection and reform that many had dismissed as impractical, if not outright impossible. The Federation’s dossier remained a stark presence in the debate, a silent reminder of the price of inaction.
+
+Abramov knew the Federation would not reach out. They had made their expectations clear in the single, damning phrase that closed their message: *You need to do better.* He could only hope that their actions—however small they seemed—would not go unnoticed.
+
+### Scene 8: A Nation's Struggle to Change
+
+#### **Policy Overhaul**
+
+The first steps were bureaucratic and slow, but they marked a significant departure from the status quo. The Knesset passed a series of sweeping reforms aimed at addressing systemic issues in the occupied territories. Laws were enacted to limit military overreach, with stricter guidelines for engagement and oversight by independent watchdog organizations. A dedicated commission was established to investigate allegations of IDF misconduct, staffed with civilians and representatives from international humanitarian organizations.
+
+#### **Humanitarian Efforts**
+
+Under pressure from Abramov’s office, Israel began a concerted push to improve conditions in the Gaza Strip and the West Bank. Checkpoints were restructured to prioritize humanitarian concerns, with expedited lanes for aid workers and medical supplies. Infrastructure projects—long stalled by political gridlock—were restarted, focusing on rebuilding schools, hospitals, and housing.
+
+The Federation’s reference to their Landmate peacekeeping forces also struck a nerve. While Israel had no equivalent to the advanced exoskeletons, Abramov quietly directed the Ministry of Defense to reassign IDF units to humanitarian protection roles, ensuring aid convoys were shielded from interference.
+
+#### **Diplomatic Outreach**
+
+Perhaps the boldest move was a renewed push for regional diplomacy. Abramov’s government reached out to neighboring countries with a sincerity that surprised even seasoned diplomats. Offers of economic cooperation and shared infrastructure projects were extended to Egypt and Jordan, while backchannel talks with Palestinian leadership sought to restart long-dormant peace negotiations.
+
+The efforts were met with skepticism, even outright hostility, in some quarters. Opposition leaders lambasted Abramov for compromising national security, while hardliners in the IDF grumbled about perceived weaknesses. But Abramov pressed on, spurred by the nagging hope that these efforts might, one day, catch the attention of the Federation.
+
+### Scene 9: The Waiting Game
+
+Months turned into a year, and the Federation remained silent. No cryptic messages, no unexpected visits, no signs of approval—or disapproval. For Abramov, the lack of feedback was maddening. Were they watching? Did their actions matter, or were they being dismissed as inadequate?
+
+The uncertainty gnawed at him, but he found himself drawing strength from the changes underway. Reports from Gaza spoke of incremental improvements: fewer clashes at checkpoints, aid convoys reaching their destinations unimpeded, civilians reporting a cautious optimism that had been absent for decades. In the West Bank, international observers noted a shift in tone, if not yet in substance, during peace talks.
+
+Even abroad, perceptions of Israel began to soften. Western allies cautiously welcomed the reforms, and nations that had long criticized Israeli policy began acknowledging its efforts, however hesitant their praise.
+
+Abramov remained resolute. Whether the Federation acknowledged their actions or not, he saw the value in continuing. “We must prove it to ourselves,” he told his cabinet during one particularly grueling session. “Even if they never respond, we must show that we are capable of doing better.”
+
+### Scene 10: Hope Against Silence
+
+As the second year of reforms began, Abramov stood on the balcony of his office, gazing out at the skyline of Jerusalem. The silence from the Federation still hung over him, a constant reminder of how far they had to go.
+
+But the city below was quieter, more at peace than it had been in years. He could see signs of change: the construction crews rebuilding homes, the renewed vitality in neighborhoods long abandoned to despair.
+
+Abramov didn’t know if the Federation was watching at that moment. But he knew he was doing the right thing, even if the only audience was his own conscience.
+
+## Chapter 3: **The Shadow Arrives**
+
+### Scene 1: A Visitor at Dawn
+
+The airfield was quiet in the early hours of the summer morning, its operations deliberately subdued to avoid prying eyes. Located deep in the Negev Desert, the covert Mossad facility blended seamlessly into the barren landscape, its runways barely visible from above and shielded from satellite surveillance by advanced camouflage systems.
+
+As the sun climbed higher, its heat shimmering off the tarmac, a faint hum broke the stillness. The sound was odd, dissonant, as though the air itself were being folded and compressed. The lone air traffic controller in the small tower frowned, scanning the skies with a mix of confusion and growing apprehension.
+
+Then, it appeared.
+
+A sleek black craft shimmered into existence, decloaking mid-air as if conjured from nothingness. Its angular frame was unmistakable: a Federation Wraith. The craft descended smoothly, its landing gear deploying with practiced precision as it settled onto the runway. The quiet hum of its engines faded into silence, leaving the air heavy with tension.
+
+Before anyone could react, a voice boomed across the airfield’s PA system, crisp and mechanical, yet with an undertone of calm authority.
+
+“*This is Tsel,*” it announced in flawless Hebrew. “*Shadow of the Federation. I have been assigned to the Mossad under the usual conditions of the Federation. Commanding officer, report to the access ramp for an introductory tour.*”
+
+The voice echoed across the airfield, reverberating against the surrounding buildings. The personnel exchanged wary glances, some frozen mid-task, unsure of how to proceed. The Wraith’s ramp lowered with a hydraulic hiss, a faint mist of cool air spilling out into the sweltering desert heat.
+
+### Scene 2: Meeting the Shadow
+
+Colonel Noam Feld, the commanding officer of the facility, stepped forward. Dressed in a crisp flight suit, his face betrayed neither awe nor fear, only a practiced professionalism. As he approached the Wraith, his sharp eyes scanned its contours, noting its immaculate design and the absence of markings beyond the Federation’s insignia.
+
+“Tsel,” Feld said, his voice steady. “I am Colonel Noam Feld, commanding officer of this airfield. I will be your liaison.”
+
+“*Acknowledged, Colonel Feld,*” the Wraith’s voice replied, this time emanating from speakers along the ramp. “*Welcome aboard.*”
+
+Feld hesitated a moment before ascending the ramp, his boots echoing faintly on the metal. Inside, the air was cool, the interior bathed in a soft blue light that seemed to emanate from the walls themselves. The space was pristine, the layout minimalist but functional. 
+
+“*This is your introductory tour,*” Tsel announced, its voice now coming from hidden speakers within the craft. “*I am a standard Wraith-class covert operations platform, optimized for Mossad operations. My armory has been left empty for your customization, allowing you to integrate your preferred equipment and weaponry.*”
+
+Feld nodded as he followed the voice deeper into the craft. The armory was a spacious compartment with modular racks and mounting points, clearly designed for versatility. He could already envision how Mossad operatives would equip it: specialized surveillance drones, disguised weapons, and advanced electronic countermeasures.
+
+“Capacity?” Feld asked, running a hand along one of the empty racks.
+
+“*Two Q-cars, ten operatives, or equivalent mission equipment,*” Tsel replied. “*Mission duration: up to four weeks without resupply, depending on payload and operational conditions.*”
+
+Feld moved to the cockpit next, where a single chair faced an array of holographic displays and controls. The design was intuitive yet alien, clearly optimized for rapid adjustments and seamless integration with Federation AI systems.
+
+“Operational autonomy?” Feld inquired.
+
+“*Autonomous in all flight, navigation, and mission support functions,*” Tsel responded. “*However, command authority remains yours, subject to standard Federation terms of use. I will provide tactical advice and operational support but will defer to your orders unless they conflict with the Federation’s overriding protocols.*”
+
+### Scene 3: The Federation’s Conditions
+
+As Feld completed the tour, he found himself in a conference-style briefing room near the rear of the craft. A holographic display activated as he entered, projecting a concise list of the Federation’s conditions for the Wraith’s deployment:
+
+1. **Operational Oversight**: Federation override protocols remain in effect, including no direct action against civilians or Federation-aligned assets.
+2. **Non-Proliferation**: Federation technology must not be duplicated, shared, or studied for reverse engineering under any circumstances.
+3. **Accountability**: All mission logs and operational data must be shared with the Federation for oversight and evaluation.
+
+Feld studied the list, his jaw tightening slightly at the restrictions. Yet he understood the unspoken message: the Federation was offering power, but only on a leash.
+
+“*You may take your time to familiarize yourself with my systems,*” Tsel said as the hologram faded. “*When you are ready, I will integrate with your operatives for initial mission calibration.*”
+
+Feld nodded, stepping back down the ramp into the heat of the day. Behind him, the Wraith remained as still and imposing as ever, its sleek form a reminder of the Federation’s reach and silent vigilance.
+
+As he returned to his staff, Feld’s mind churned with possibilities and concerns. The Shadow had arrived, and with it, the weight of the Federation’s expectations.
+
+### Scene 2: **First Impressions**
+
+A week after the Wraith’s sudden arrival, a select team of Mossad operatives stood on the tarmac, shielding their eyes against the sun as they stared up at the enigmatic craft. Known informally as Shadow, the Wraith sat silent and imposing, its angular frame gleaming faintly under the desert sky. The operatives exchanged skeptical glances, their disbelief as palpable as the heat shimmering off the airfield.
+
+Colonel Noam Feld, standing at the head of the group, cleared his throat. “Listen up. This is your assignment now. Treat it with respect—and that includes respecting its capabilities.”
+
+“Capabilities,” one operative muttered under his breath, earning a sharp look from Feld.
+
+The access ramp hissed open, and the same disembodied voice they had heard on the PA system a week earlier now spoke again, calm and deliberate.
+
+“*Welcome, operatives. I am Tsel, your assigned covert operations platform. Please board for your briefing and familiarization tour.*”
+
+Reluctantly, the team ascended the ramp, their boots clanging softly against the metal. As they stepped into the Wraith’s cool interior, the soft blue lighting and polished surfaces immediately struck a contrast with the harsh, dusty environment outside. The operatives looked around, their expressions ranging from wary curiosity to outright skepticism.
+
+“*This is your home for the duration of your operations,*” Tsel began. “*I will provide an overview of my capabilities, systems, and protocols. Please follow the illuminated path.*”
+
+A faint line of light appeared on the floor, leading them deeper into the craft. The operatives exchanged looks, and one—Ari, the team’s tech specialist—whispered, “This thing has a guided tour?”
+
+Feld silenced him with a glance. “Pay attention.”
+
+### **The Armory**
+
+Their first stop was the armory, its walls lined with modular racks and compartments. Most were empty, awaiting the team’s equipment.
+
+“*This armory is configured to hold up to two tons of equipment, including weapons, surveillance tools, and auxiliary devices,*” Tsel explained. “*The modular layout allows for rapid reconfiguration to suit mission parameters.*”
+
+Yael, the team’s sharpshooter, ran a hand over an empty rack. “It’s a lot of space, but it’s useless without weapons,” she said, her tone skeptical. “What’s the point of sending us an empty shell?”
+
+“*The point is adaptability,*” Tsel replied, its voice carrying an edge of precision. “*My role is to enhance your capabilities, not dictate them. You bring the tools; I provide the platform.*”
+
+Ari chuckled, his disbelief evident. “A fancy, empty toolbox. Got it.”
+
+“*That toolbox,*” Tsel countered, “*has autonomous support capabilities that include real-time threat analysis, electronic warfare, and secure communication. If you find that insufficient, I recommend reconsidering your expectations.*”
+
+The operatives exchanged glances, caught off guard by the AI’s retort.
+
+### **The Operations Room**
+
+The next stop was the operations room, a spacious chamber dominated by holographic displays that flickered to life as the team entered. Tactical maps, schematics, and live surveillance feeds filled the air, suspended in shimmering blue light.
+
+“*This is your nerve center,*” Tsel explained. “*Mission planning, intelligence analysis, and real-time coordination are conducted here. I will integrate with your field data to provide tactical recommendations and live updates.*”
+
+Ziv, the team leader, frowned. “And who controls the data flow? You, or us?”
+
+“*You remain in control,*” Tsel replied. “*I am an asset, not a commander. My role is to enhance your situational awareness, not to override your judgment.*”
+
+Yael crossed her arms. “And how do we know you won’t conveniently decide to ‘enhance’ something against our orders?”
+
+“*Because such actions would violate Federation protocols, which I am programmed to uphold,*” Tsel said evenly. “*If you doubt my compliance, I suggest observing my operations firsthand.*”
+
+The room fell quiet as the team absorbed the AI’s response. For all their skepticism, there was no denying the craft’s capabilities.
+
+### **The Cockpit**
+
+Finally, the tour ended in the cockpit, a single seat surrounded by a dizzying array of holographic interfaces. The displays pulsed faintly, waiting for input.
+
+“*The cockpit is reserved for mission command and direct flight control,*” Tsel said. “*While I am fully autonomous, manual override is available for critical scenarios.*”
+
+Ari raised an eyebrow. “So, we can take the wheel if you start acting up?”
+
+“*You may, though I assure you it will not be necessary,*” Tsel replied. “*My track record includes zero mission failures due to AI malfunction.*”
+
+The tech specialist smirked. “Guess there’s a first time for everything.”
+
+Ziv turned to Feld, his expression unreadable. “Colonel, are we really supposed to trust this thing? It feels... alien.”
+
+Feld met his gaze. “It *is* alien, Ziv. That’s why it’s here. The Federation operates on a different level, and they’ve entrusted us with this. Treat it like you would any tool—learn it, use it, and respect it.”
+
+“*Your commander is correct,*” Tsel added. “*I am here to augment your capabilities. Whether you trust me is secondary to how effectively you utilize me.*”
+
+### **First Impressions**
+
+As the operatives exited the Wraith and stepped back into the desert heat, the group was quiet, their earlier skepticism tempered by the overwhelming sense of possibility.
+
+“Well,” Yael said at last, her voice half-joking. “I still don’t trust it.”
+
+Ari smirked. “You don’t trust *anything.*”
+
+Ziv remained silent, his eyes lingering on the craft. For all his doubts, one thought lingered in his mind: if the Wraith delivered on even half of its promises, their missions would never be the same.
+
+From the shadows of the Wraith’s interior, Tsel observed them silently. The operatives might not trust it yet, but trust was not its goal. Results were.
+
+### Scene 3: **A Daring Demonstration**
+
+The operatives were still clustered near the ramp, their discussion a mix of lingering doubt and reluctant curiosity, when the Wraith’s calm voice interrupted.
+
+“*If trust must be earned, allow me to begin the process.*”
+
+Before anyone could respond, the access ramp began to retract. The hydraulic hiss startled them into silence as the metal sealed with a soft thud. The craft’s ambient hum grew louder, the faint vibration under their feet signaling its engines powering up.
+
+“Wait—what’s it doing?” Ari asked, his voice sharp with concern.
+
+“Taking off,” Ziv said flatly, gripping a nearby rail as the Wraith lifted effortlessly into the air. The team stumbled slightly, unused to the smooth, almost organic ascent.
+
+“*Remain calm,*” Tsel said, its voice resonating from the walls. “*You are in no danger. This is merely a demonstration.*”
+
+The operatives exchanged uneasy glances, but no one dared protest further. The sensation of movement was disorienting—not the jarring thrust of a conventional aircraft, but a steady, surreal glide. The faint hum of the engines was the only indication they were airborne.
+
+“*I recommend you look out the starboard observation port,*” Tsel announced after a few moments.
+
+A faint line of light illuminated a section of the wall, where a window panel slid open. The team crowded around, their curiosity overcoming their apprehension. As they peered out, the breath caught in their throats.
+
+Below them, barely a hundred meters away, was the sprawling modern architecture of the Tel Aviv Museum of Fine Arts. The intricate geometric patterns of its facade gleamed in the summer sun, so close that they could make out individual pedestrians milling about outside. The heart of Tel Aviv lay beneath them, unaware of their presence.
+
+“What the—” Yael whispered, her face pale. “How is this possible? We’re flying over Tel Aviv. *Tel Aviv.* How are we not—”
+
+“—getting shot out of the sky?” Ari finished for her, his tone equal parts astonishment and dread.
+
+Ziv turned to the nearest wall-mounted speaker, his voice sharp. “Tsel, explain. How are we flying over one of the most heavily monitored cities in the region without every fighter in the IAF scrambling to intercept us?”
+
+“*Active stealth and radar cancellation systems render my presence undetectable to conventional and advanced tracking technologies,*” Tsel replied. “*Additionally, thermal and acoustic signatures are suppressed to levels indistinguishable from ambient noise. Simply put, I am invisible.*”
+
+Yael pressed her forehead to the glass, staring down at the streets below. “This is... insane. If someone spotted us—”
+
+“*They will not,*” Tsel interrupted. “*Even visual observation would fail at this range unless you drew attention to yourselves by opening a hatch or projecting external lights.*”
+
+The team fell silent, the enormity of the Wraith’s capabilities sinking in. The doubts that had clung to them like a fog were evaporating, replaced by a growing awe.
+
+“This isn’t just a craft,” Ziv said finally, his voice subdued. “This is a weapon. A weapon of absolute precision.”
+
+“Or a shield,” Yael added, her voice quiet. “Depends how we use it.”
+
+Ari, normally the most vocal skeptic, was uncharacteristically quiet, his eyes fixed on the streets below. Finally, he muttered, “Okay. I take it back. This thing is... something else.”
+
+“*Your response is noted,*” Tsel said, the faintest hint of dry humor in its tone. “*Shall we return to the airfield, or would you prefer additional demonstrations?*”
+
+The team exchanged glances, a flicker of excitement in their expressions. Respect had replaced belligerence, and curiosity had replaced doubt.
+
+“Let’s head back,” Ziv said, his tone steady now. “We’ve got work to do.”
+
+“*Understood,*” Tsel replied. The craft began its descent, the faint hum of its engines the only sign of its motion. As the cityscape fell away, the operatives couldn’t shake the realization that they had just glimpsed a level of technology far beyond their understanding. 
+
+For the first time, they truly grasped the magnitude of what the Federation had entrusted to them.
 
