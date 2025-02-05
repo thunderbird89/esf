@@ -1,6 +1,6 @@
 # The Cormorant Gambit
 
-## **Cold Open**  
+## In the Void
 
 Darkness and silence blanketed the bridge of the ESF *Cormorant*, broken only by the dim glow of emergency lighting and the steady, faint beeps of the ship's life-support system. The vessel tumbled slowly through the asteroid field, her hull riddled with impact craters and deep scoring from energy burns. To any outside observer—especially the trio of Ryzak frigates circling like predators—the *Cormorant* was dead in space.  
 
@@ -102,7 +102,7 @@ Voss smirked, glancing at her battered ship with something almost like pride.
 
 *Never—never—bet against the humans.*
 
-## **Final Report**  
+## Final Report
 
 Envoy Zhaeleth sat in the quiet confines of his assigned quarters aboard the Xenari diplomatic vessel *Vaelos Prime*, his elongated fingers trembling ever so slightly over the holographic interface of his terminal. The dim, blue lighting of his cabin did little to calm his rattled nerves. Every time he closed his eyes, he could still feel it—the crushing, suffocating weight of acceleration, the monstrous force that had nearly rendered him unconscious. The unrelenting brutality of it all.  
 
@@ -183,9 +183,9 @@ Zhaeleth closed his eyes, the ghostly echo of his own words still lingering in h
 
 ## Encore
 
-### **The Prey That Hunts**
+### The Prey That Hunts
 
-#### **Before the Kill**
+#### Before the Kill
 
 Commander Vrak Tohlek flexed his claws in anticipation as the three Ryzak frigates closed in on the drifting human vessel.  
 
@@ -249,7 +249,7 @@ It wasn't just destruction.
 
 It was **butchery**.  
 
-#### **The Fear**  
+#### The Fear
 
 “This is not a battle," one of his officers gasped. His voice held something Ryzak did not know how to process. Something **impossible**.  
 
