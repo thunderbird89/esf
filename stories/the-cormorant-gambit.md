@@ -10,31 +10,31 @@ Commander Helen Voss watched the tactical display on her wrist-mounted holo-inte
 
 Across from her, the Xenari observer, Envoy Zhaeleth, shifted uncomfortably in his seat. His pale, almost translucent skin shimmered in the low light, and his eyes—large, lidless, and filled with anxious energy—darted from Voss to the main viewport. The sight of the Ryzak vessels looming in the distance clearly unsettled him.  
 
-“Commander Voss," Zhaeleth murmured, his voice a whisper of restrained concern. “Surely, we should engage evasive maneuvers. This—this waiting is suicide."  
+"Commander Voss," Zhaeleth murmured, his voice a whisper of restrained concern. "Surely, we should engage evasive maneuvers. This—this waiting is suicide."  
 
-Voss didn't look at him. Instead, she smirked, her fingers drumming against her console. “That's exactly what they think we're doing, Envoy. Dying."  
+Voss didn't look at him. Instead, she smirked, her fingers drumming against her console. "That's exactly what they think we're doing, Envoy. Dying."  
 
-Zhaeleth's throat quivered in the Xenari equivalent of a gulp. “A deceptive tactic, then?"  
+Zhaeleth's throat quivered in the Xenari equivalent of a gulp. "A deceptive tactic, then?"  
 
-“More like a bar fight in space," Lieutenant Darrin Cole muttered from the gunnery station, his fingers wrapped around the fire controls. “You let the bastard think he's got you on the ground, then you put a knife in his ribs when he leans in close."  
+"More like a bar fight in space," Lieutenant Darrin Cole muttered from the gunnery station, his fingers wrapped around the fire controls. "You let the bastard think he's got you on the ground, then you put a knife in his ribs when he leans in close."  
 
-Zhaeleth exhaled, his skin shifting slightly in hue. “Crude."  
+Zhaeleth exhaled, his skin shifting slightly in hue. "Crude."  
 
-“But effective," Voss said. “And that's all that matters."  
+"But effective," Voss said. "And that's all that matters."  
 
 The *Cormorant* was an anomaly of Federation warship design—built for speed and aggression rather than defense. Her oversized fusion torches gave her brutal acceleration, and her weapons layout favored forward-facing firepower rather than broadside engagements. A single spinal-mounted railgun, capable of punching through a warship's hull like a fist through glass, was her main weapon. Flanking it were turreted short-range autocannons, each capable of shredding enemy armor at close range. In open combat, she was a duelist, a knife fighter—if she could get in close.  
 
 And that was the plan.  
 
-“Captain," Amos Rhys, the *Cormorant*'s pilot, spoke for the first time in minutes, his voice a low rasp of anticipation. “We're down to five kilometers. They'll be inside our range in thirty seconds."  
+"Captain," Amos Rhys, the *Cormorant*'s pilot, spoke for the first time in minutes, his voice a low rasp of anticipation. "We're down to five kilometers. They'll be inside our range in thirty seconds."  
 
 The Ryzak were taking the bait, moving into optimal range to scavenge what they assumed was a crippled vessel. Their mistake.  
 
 Voss tightened her grip on her restraints and leaned forward. Her voice was calm, resolute.  
 
-“Amos," she said, her lips curling into a razor-thin smile.  
+"Amos," she said, her lips curling into a razor-thin smile.  
 
-“Light her up."  
+"Light her up."  
 
 ## Burning Bright
 
@@ -54,9 +54,9 @@ A single, hyper-dense slug left the ship's forward accelerator with a silent, de
 
 The third Ryzak frigate saw its fate and bolted.
 
-“Frigate is retreating, Captain," Lieutenant Cole announced, his voice tight with adrenaline. “They're already burning at max thrust."
+"Frigate is retreating, Captain," Lieutenant Cole announced, his voice tight with adrenaline. "They're already burning at max thrust."
 
-Voss didn't even hesitate. “Pursuit course, maximum acceleration."
+Voss didn't even hesitate. "Pursuit course, maximum acceleration."
 
 The words sent a ripple of dread through the bridge crew, but no one questioned her. Not even Amos, whose hands were already primed over the thruster controls.
 
@@ -66,7 +66,7 @@ A klaxon blared, flashing red across every screen on the bridge:
 
 **[WARNING] ACCELERATION NOT SURVIVABLE**
 
-“Just ... a ... few ... seconds ..." wheezed Amos, his voice strained under the crushing G-forces as the *Cormorant* barreled forward.
+"Just ... a ... few ... seconds ..." wheezed Amos, his voice strained under the crushing G-forces as the *Cormorant* barreled forward.
 
 The bridge became a warzone of human physiology. Even with their reinforced flight suits and the injected medical supplements stabilizing their cardiovascular systems, every officer felt the brutal weight of their own bodies pressing them deep into their acceleration couches. Blood vessels screamed under the strain. Breath came in ragged gasps. Zhaeleth, utterly unprepared for human levels of suicidal velocity, convulsed as his translucent skin darkened under the pressure.
 
@@ -74,7 +74,7 @@ The *Cormorant* was **gaining**.
 
 The fleeing Ryzak frigate burned hard, but it was never meant for this kind of chase. The *Cormorant* closed the gap in **twenty seconds**, its reinforced frame groaning under the relentless acceleration.
 
-At point-blank range, Voss rasped through the pressure: “Fire."
+At point-blank range, Voss rasped through the pressure: "Fire."
 
 The railgun's second shot fired with devastating precision. The slug pierced straight through the Ryzak frigate's reactor core, breaching containment.
 
@@ -86,19 +86,19 @@ A wave of fire and wreckage erupted in all directions, but the *Cormorant* didn'
 
 The bridge crew gasped for air as the ship's medical systems flooded their veins with counteracting agents, stabilizing blood flow and easing the brutal aftershocks of high-G trauma.
 
-Voss let out a slow breath, unstrapping herself as the ship stabilized. “Amos, take us back to the fleet."
+Voss let out a slow breath, unstrapping herself as the ship stabilized. "Amos, take us back to the fleet."
 
-“Aye, ma'am," Rhys replied, voice hoarse from the G-forces. “Setting course."
+"Aye, ma'am," Rhys replied, voice hoarse from the G-forces. "Setting course."
 
 As they rendezvoused with the surviving Xenari ships, the alien fleet's communications were abuzz with stunned transmissions. Their escort was supposed to be the superior force—yet the *Cormorant* had survived, outgunned and outnumbered, and **won**.
 
 On the bridge, Zhaeleth unstrapped himself with great difficulty. His pale skin had darkened slightly—a Xenari stress response. His gaze swept over the human crew, lingering on Voss with what could only be described as *cautious reverence*.
 
-Finally, he spoke. “Commander Voss… I believe I understand now why your Federation survives against such impossible odds." He exhaled. “You humans are utterly, completely insane."
+Finally, he spoke. "Commander Voss… I believe I understand now why your Federation survives against such impossible odds." He exhaled. "You humans are utterly, completely insane."
 
 Voss smirked, glancing at her battered ship with something almost like pride.
 
-“Welcome to the EarthSpace Federation, Envoy," she said. “We call it *creative problem-solving*."  As the *Cormorant* burned back toward the fleet, her hull scorched and her crew battle-worn, the Xenari officer straightened in his seat, inhaled slowly, and muttered something in his native tongue—a phrase that roughly translated to:
+"Welcome to the EarthSpace Federation, Envoy," she said. "We call it *creative problem-solving*."  As the *Cormorant* burned back toward the fleet, her hull scorched and her crew battle-worn, the Xenari officer straightened in his seat, inhaled slowly, and muttered something in his native tongue—a phrase that roughly translated to:
 
 *Never—never—bet against the humans.*
 
@@ -197,11 +197,11 @@ They relied on clever tactics, but physically? **Fragile.** The average Ryzak co
 
 It was only **natural** that the weak be consumed.  
 
-“Target is not responding," his weapons officer rumbled, mandibles clicking as he analyzed the drifting human destroyer. “Minimal heat signatures. No active power."
+"Target is not responding," his weapons officer rumbled, mandibles clicking as he analyzed the drifting human destroyer. "Minimal heat signatures. No active power."
 
-“It is dead," another crew member muttered.  
+"It is dead," another crew member muttered.  
 
-Vrak bared his fangs. “Move into boarding range. Strip it for salvage. Tear its—"  
+Vrak bared his fangs. "Move into boarding range. Strip it for salvage. Tear its—"  
 
 **The human ship ignited.**  
 
@@ -251,7 +251,7 @@ It was **butchery**.
 
 #### The Fear
 
-“This is not a battle," one of his officers gasped. His voice held something Ryzak did not know how to process. Something **impossible**.  
+"This is not a battle," one of his officers gasped. His voice held something Ryzak did not know how to process. Something **impossible**.  
 
 **Fear.**  
 
@@ -267,9 +267,9 @@ His helmsman did not wait for an order. The engines fired at **maximum burn**, t
 
 But the humans were not **done.**  
 
-Vrak turned to his sensor officer. “Report—"  
+Vrak turned to his sensor officer. "Report—"  
 
-“The *Cormorant* is in pursuit," the officer choked. “Burning at—" he faltered, mandibles twitching. “Burning at **impossible acceleration.**"  
+"The *Cormorant* is in pursuit," the officer choked. "Burning at—" he faltered, mandibles twitching. "Burning at **impossible acceleration.**"  
 
 Vrak's claws dug into his seat. **No. No, that made no sense.**  
 
@@ -281,7 +281,7 @@ On the tactical display, the distance was shrinking. **Too fast.**
 
 The *Cormorant* was gaining as if **the laws of physics did not apply to it.**  
 
-Vrak snarled. “Turn! Bring weapons to bear—"  
+Vrak snarled. "Turn! Bring weapons to bear—"  
 
 His words died in his throat as he saw the human ship through the viewport, burning **straight toward them like a hunting beast.**  
 
