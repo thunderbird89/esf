@@ -1243,6 +1243,85 @@ But even as the jokes flowed, there was an undercurrent of curiosity—questions
 
 ---
 
+### Scene: The Wraith’s Playful Encore
+
+The laughter and chatter in the cafeteria grew louder as more personnel joined the impromptu storytelling. The team was still regaling the gathered crowd with tales of their training when Lieutenant Nishi entered, tray in hand. Her presence immediately drew attention, and a few people turned toward her with expectant grins.
+
+“Well, well,” Okabe said, waving her over. “If it isn’t our fearless leader.”
+
+“I’m not your leader,” Nishi replied, rolling her eyes as she set her tray down at their table. “I just keep the paperwork in order.”
+
+Lieutenant Hoshino, still seated near the team, raised an eyebrow. “Speaking of leadership, care to explain why your AI is moonlighting as an anime character wardrobe model?”
+
+Nishi froze mid-reach for her tea, blinking at the question. “What are you talking about?”
+
+“The Wraith Girl,” Hoshino said, smirking. “Your AI. These guys were telling me about how it tried on every anime-inspired outfit imaginable during your first meeting. Shrine maidens, battleship girls, you name it. Is that standard Federation protocol, or is it just trying to impress?”
+
+Nishi sighed, rubbing her temples. “It’s… not like that. It was trying to make the team comfortable, that’s all.”
+
+“Comfortable?” Okabe interjected, grinning. “I’d call it a cosplay fashion show.”
+
+Before Nishi could respond, her phone pinged with a notification. She glanced at the screen, her brow furrowing as she read the message:
+
+> **Wraith:**  
+> *Turn on the cafeteria’s movie screen. Trust me.*
+
+Nishi groaned softly, already bracing herself for whatever the AI had planned. “Of course.”
+
+“What’s up?” Ishikawa asked, noticing her hesitation.
+
+“The Wraith wants me to turn on the screen,” she muttered.
+
+“Oh, this I have to see,” Okabe said, leaning forward eagerly.
+
+Nishi sighed again and walked over to the console controlling the cafeteria’s movie screen. With a few taps, the large screen at the front of the room flickered to life, and the cafeteria speakers hummed softly. The crowd quieted, curious about what was happening.
+
+The screen turned dark, and then the Wraith’s avatar appeared—a sleek, minimalist figure standing confidently in the center of the display.
+
+“Good evening, personnel of the Hokkaido facility,” the Wraith’s voice rang out, smooth and playful. “I hear there’s been some interest in my choice of avatars.”
+
+Laughter rippled through the room, and Hoshino leaned back in her chair, grinning. “You could say that.”
+
+“Well, Lieutenant Hoshino,” the Wraith continued, its tone light and teasing, “let’s make this a bit more interactive, shall we?”
+
+The avatar shifted seamlessly into a new form: a traditional shrine maiden with long flowing hair, holding a broom in one hand. “Perhaps this was what they were describing?” it said, striking a dramatic pose.
+
+The room erupted into laughter and applause. Hoshino raised an eyebrow, clearly amused. “Not bad, Wraith Girl. What else have you got?”
+
+The avatar transformed again, this time into a cheerful battleship-inspired character, complete with mechanical appendages and a captain’s hat. “Or maybe something more naval?” the Wraith asked, giving a playful salute.
+
+“You’re really leaning into this,” Kuroda said, barely containing his laughter.
+
+Hoshino stood, hands on her hips. “Alright, show me a magical girl transformation. Full sparkles.”
+
+“As you wish,” the Wraith replied smoothly.
+
+The screen lit up with an over-the-top animation sequence: glowing stars, swirling ribbons, and shimmering sparkles that coalesced into a vibrant magical girl avatar, complete with a wand and exaggerated poses. The cafeteria burst into laughter, several people clapping and cheering.
+
+“Now you’re just showing off,” Hoshino said, though her grin betrayed her enjoyment. “Alright, my turn to make a request: let’s see something sci-fi.”
+
+The Wraith’s avatar morphed again, this time into a sleek, futuristic design with glowing panels and a holographic visor. Its voice shifted to a more robotic tone. “Initializing combat protocols,” it said dramatically, eliciting more laughter.
+
+The room buzzed with energy as others joined in, shouting suggestions.
+
+“Do a ninja!” someone called out.
+
+“Space pirate!” another voice added.
+
+“Giant robot!” shouted a marine from the back.
+
+The Wraith obliged each request with flair, shifting between forms with fluid precision, its playful tone keeping the mood light and entertaining. The cafeteria had turned into an impromptu theater, with the Wraith as the star of the show.
+
+Nishi, meanwhile, sat at the edge of the chaos, burying her face in her hands. “I can’t believe this is happening,” she muttered.
+
+“Come on, Lieutenant,” Okabe said, grinning at her. “Even you have to admit, it’s kind of fun.”
+
+Nishi peeked through her fingers, her exasperation giving way to a reluctant smile. “It’s something, alright.”
+
+The scene continued, the Wraith’s avatars drawing laughter, cheers, and the occasional groan from the gathered crowd. But beneath the humor, there was a palpable sense of camaraderie—a rare moment of levity in a high-stakes environment.
+
+---
+
 ### Closing the Night
 
 As the laughter in the cafeteria began to subside, the Wraith’s avatar transitioned back to its default sleek, minimalist form. The screen dimmed slightly, and the AI’s voice spoke, still carrying a playful warmth.
