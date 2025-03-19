@@ -6,3 +6,7 @@ remote_theme: "jekyll/minima@1e8a445"
 exclude_files:
   - esf.code-workspace
   - story-adrenaline.md
+
+exclude:
+  - esf.code-workspace
+  - story-adrenaline.md
