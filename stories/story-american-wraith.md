@@ -1,3 +1,5 @@
+# The Wraith
+
 ## **Chapter 1: Shadows in the Kremlin**
 
 The CIA's headquarters buzzed with its usual activity—flashing monitors, agents on calls, and the low hum of an endless war of information. Amid this orchestrated chaos sat Alicia Monroe, a senior field agent handler in the agency's Russia division. Her desk was littered with decoded intercepts, a stack of coffee-stained briefing folders, and a blinking alert on her secure terminal.
