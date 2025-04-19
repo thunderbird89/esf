@@ -1,5 +1,8 @@
-# Adrenaline
-# Adrenaline
+---
+layout: page
+title: Adrenaline
+permalink: /stories/adrenaline
+---
 ## Chapter 1: The Arrival
 
 ### Vireen's Observations

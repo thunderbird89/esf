@@ -1,5 +1,8 @@
-# Silent Watchers
-
+---
+layout: page
+title: Silent Watchers
+permalink: /stories/the-japanese-wraith
+---
 ## Chapter 1: Whisper of Shadows
 
 **Tokyo, Japan - Defense Intelligence Agency Headquarters**

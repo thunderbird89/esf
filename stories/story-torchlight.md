@@ -1,5 +1,8 @@
-# Torchlight
-
+---
+layout: page
+title: Torchlight
+permalink: /stories/torchlight
+---
 ## The Ambush
 
 The *Galara's Hope* was a freighter designed for peaceful purposes—long-haul logistics, carrying high-value, low-volume cargo across systems, and never built for a fight. Kryllian efficiency meshed with Xenari elegance to create a vessel that was sleek, functional, and, most importantly, unarmed. It had neither shields nor point defenses—because it was never meant to need them.

@@ -1,4 +1,8 @@
-# The Shadow's Alliance
+---
+layout: page
+title: The Shadow Alliance
+permalink: /stories/shadow-alliance
+---
 ## Chapter 1: **The Adjacent Alliance**
 
 ### NATO Headquarters, Brussels, Belgium  

@@ -1,5 +1,8 @@
-# The Cormorant Gambit
-
+---
+layout: page
+title: The Cormorant Gambit
+permalink: /stories/the-cormorant-gambit
+---
 ## In the Void
 
 Darkness and silence blanketed the bridge of the ESF *Cormorant*, broken only by the dim glow of emergency lighting and the steady, faint beeps of the ship's life-support system. The vessel tumbled slowly through the asteroid field, her hull riddled with impact craters and deep scoring from energy burns. To any outside observer—especially the trio of Ryzak frigates circling like predators—the *Cormorant* was dead in space.  

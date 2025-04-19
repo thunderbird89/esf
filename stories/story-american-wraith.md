@@ -1,3 +1,8 @@
+---
+layout: page
+title: The Wraith
+permalink: /stories/the-american-wraith
+---
 # The Wraith
 
 ## Chapter 1: Shadows in the Kremlin

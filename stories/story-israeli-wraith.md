@@ -1,7 +1,8 @@
-Here’s the first chapter of your story. Let me know how you'd like to refine or expand it.
-
 ---
-
+layout: page
+title: Shadows in Tel Aviv
+permalink: /stories/the-israeli-wraith
+---
 ## Chapter 1: Diplomatic Tensions
 
 ### Scene 1: The Pressure Mounts
