@@ -1,8 +1,12 @@
-# Adrenaline
-# **Adrenaline**
-## **Chapter 1: The Arrival**
+---
+layout: story
+type: story
+title: Adrenaline
+permalink: /stories/adrenaline
+---
+## The Arrival
 
-### **Vireen's Observations**
+### Vireen's Observations
 
 The **Grand Concordance of Interstellar Medicine** was in full swing. The **Xenari**, **Seraphyn**, **Kryllians**, and dozens of other species moved in polite currents through the expansive **Ivai’Shan Medical Complex**, an orbital research station suspended over the Xenari homeworld. 
 
@@ -27,7 +31,7 @@ Then everything changed.
 
 ---
 
-### **The Terror Squad Strikes**
+### The Terror Squad Strikes
 
 It began with a **series of sharp cracks**—the unmistakable sound of **ballistic discharges** against reinforced glass. The hum of conversation **shattered into silence**, the crowd **freezing** in a moment of collective confusion before the first **detonations** shook the hall.
 
@@ -63,7 +67,7 @@ For all their advancements, for all their **intellect**, the assembled species o
 
 ---
 
-### **The Hostage Declaration**
+### The Hostage Declaration
 
 “**This station is now under our control,**” the leader declared. **Clawed fingers gestured** toward the terrified crowd. “**Any resistance will be met with annihilation. Any attempt to summon aid will bring only death. Cooperate, and you may yet live.**” 
 
@@ -85,8 +89,8 @@ Something the aliens present **had never seen before**.
 
 And when it happened, **the galaxy would never forget it**.
 
-## **Chapter 1: Adrenaline (Part II)**  
-### **Unleashing the Beast**  
+## Adrenaline (Part II)  
+### Unleashing the Beast  
 
 The room held its breath.  
 
@@ -102,7 +106,7 @@ They assumed the humans were like every other species in the galaxy.
 
 They assumed **wrong**.  
 
-#### **Logan Carter: The Opening Kill**  
+#### Logan Carter: The Opening Kill  
 
 Staff Sergeant Logan Carter moved first.  
 
@@ -122,7 +126,7 @@ Logan Carter didn’t even glance at the **dying, wheezing pile of twitching lim
 
 Because the others were already in motion.  
 
-#### **Dr. Evelyn Park: A Surgeon’s Precision**  
+#### Dr. Evelyn Park: A Surgeon’s Precision  
 
 Dr. Evelyn Park **was not a fighter.**  
 
@@ -146,7 +150,7 @@ The **terrorist spasmed violently** as his spinal column was **severed**, and he
 
 Evelyn **yanked the scalpel free**, **flicked the alien blood off with practiced precision**, and looked up for the next target.  
 
-#### **Dr. Marcus Patel: The Biologist Breaks Bone**  
+#### Dr. Marcus Patel: The Biologist Breaks Bone  
 
 Dr. Marcus Patel had always been a **gentle man**. A scholar. A scientist.  
 
@@ -170,7 +174,7 @@ His knuckles were bleeding.
 
 He ignored it.  
 
-#### **Dr. Alan Greaves: The Geneticist’s Fury**  
+#### Dr. Alan Greaves: The Geneticist’s Fury  
 
 Dr. Alan Greaves didn’t think. He just **moved**.  
 
@@ -192,7 +196,7 @@ His **vision swam with adrenaline**, but he **felt no pain**.
 
 He looked for his next kill.  
 
-#### **Dr. Rebecca Henshaw: The Epidemiologist’s Execution**  
+#### Dr. Rebecca Henshaw: The Epidemiologist’s Execution  
 
 Dr. Rebecca Henshaw **was calm**.  
 
@@ -218,7 +222,7 @@ He **fell in two halves.**
 
 ---
 
-### **The Aftermath**  
+### The Aftermath  
 
 The silence was deafening.  
 
@@ -258,7 +262,7 @@ Greaves stretched his **bruised knuckles** and let out a slow exhale.
 
 Henshaw **shook off her bloodied hands** like she had just finished **washing up in a sink.**  
 
-# **Chapter 2: Aftermath**
+# Aftermath
 
 The fight was over.  
 
@@ -268,7 +272,7 @@ The humans stood amidst the carnage, **panting, bruised, and bleeding**.
 
 And then, **the adrenaline wore off**.  
 
-### **The Pain Sets In**  
+### The Pain Sets In  
 
 Logan Carter was the first to feel it.  
 
@@ -284,7 +288,7 @@ Dr. Evelyn Park **shot him a glare** as she **clutched her wounded arm**, using 
 
 Carter smirked, despite himself. “**Oof, doc, at least buy me a drink first.**”  
 
-### **Alien Doctors, Stunned into Action**  
+### Alien Doctors, Stunned into Action  
 
 The **alien medical teams** finally snapped out of their collective stupor. The Xenari, Seraphyn, and Kryllian physicians, **once paralyzed by disbelief**, now **rushed forward** with medkits and scanners.  
 
@@ -326,7 +330,7 @@ Not aggressively. Not threateningly. Just **flatly**, like she was **staring thr
 
 Henshaw **gave her a nod**.  
 
-### **Emergency Care, and More Questions**  
+### Emergency Care, and More Questions  
 
 The med teams rushed them down the corridor into the **primary trauma bay**, a sleek Xenari-designed facility that gleamed with **advanced biotech** and **zero-contamination measures**.  
 
@@ -355,8 +359,8 @@ Even **in pain, even wounded**, they were **different**.
 
 And she was **going to find out why**.  
 
-## **Chapter 2: Aftermath (Part II)**  
-### **Alien Medicine, Human Resilience**  
+## Aftermath (Part II)  
+### Alien Medicine, Human Resilience  
 
 The trauma bay of the **Ivai’Shan Medical Complex** was a gleaming cathedral of **pristine biotech and antiseptic sterility**. Rows of **suspension platforms** hovered above the floor, their occupants bathed in softly pulsing **diagnostic fields**.  
 
@@ -366,7 +370,7 @@ And yet, despite the overwhelming expertise of the attending doctors, there was 
 
 **No one could comprehend what they were looking at.**  
 
-### **The Readings**  
+### The Readings  
 
 Vireen **Taa’Sho-Vel** stood among a cluster of physicians, her bioluminescent markings **flaring wildly** in confusion. She wasn’t alone—**Seraphyn, Kryllian, and Xenari doctors** huddled around the floating holoscreens, peering at the streams of data with **something bordering on disbelief**.  
 
@@ -390,7 +394,7 @@ The Seraphyn doctor **sighed, rubbing the bridge of their nose**. “**And yet. 
 
 They **all turned** toward the treatment platforms.  
 
-### **Treatment and Perseverance**  
+### Treatment and Perseverance  
 
 Staff Sergeant Logan Carter, **propped up on one of the diagnostic tables**, was **grinning through the pain** as a Xenari medic used a **microsurgical tool** to **close the deep claw wound in his thigh**.  
 
@@ -450,7 +454,7 @@ Vireen, **staring at him as if he had just whispered the meaning of existence it
 
 “**…Explain.**”  
 
-## **Chapter 2: The Adrenaline Revelation**  
+## The Adrenaline Revelation  
 
 Silence lingered in the trauma bay.  
 
@@ -464,7 +468,7 @@ Vireen **Taa’Sho-Vel’s bioluminescent markings flared wildly**, flickering t
 
 “**Explain.**”  
 
-### **Filling in the Gaps**  
+### Filling in the Gaps  
 
 Dr. Patel sighed, sitting up slightly. “**Alright, let’s break it down.**”  
 
@@ -528,7 +532,7 @@ Then he grinned wider.
 
 “**Earth is not a nice place.**”  
 
-### **Anecdotes of Strength**  
+### Anecdotes of Strength  
 
 Dr. Patel, rubbing his bruised knee, chuckled. “**I think what he means is, Earth is… uniquely hostile.**”  
 
@@ -568,7 +572,7 @@ She gestured toward her own **stiff, aching body**, then at the others.
 
 “**With compound interest…**”  
 
-### **The Weight of the Revelation**  
+### The Weight of the Revelation  
 
 Vireen took a **shaky step backward**, **trying to absorb the weight of what she had learned**.  
 

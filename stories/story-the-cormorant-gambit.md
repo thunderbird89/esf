@@ -1,5 +1,9 @@
-# The Cormorant Gambit
-
+---
+layout: story
+type: story
+title: The Cormorant Gambit
+permalink: /stories/the-cormorant-gambit
+---
 ## In the Void
 
 Darkness and silence blanketed the bridge of the ESF *Cormorant*, broken only by the dim glow of emergency lighting and the steady, faint beeps of the ship's life-support system. The vessel tumbled slowly through the asteroid field, her hull riddled with impact craters and deep scoring from energy burns. To any outside observer—especially the trio of Ryzak frigates circling like predators—the *Cormorant* was dead in space.  
@@ -213,7 +217,7 @@ Vrak's eyes widened in disbelief.
 
 Before he could bark a command, the *Cormorant* moved.  
 
-#### **The Ambush**  
+#### The Ambush  
 
 "Shields up! Weapons hot! NOW!"
 
@@ -289,7 +293,7 @@ They weren't **chasing.**
 
 They were **charging.**  
 
-#### **The End**  
+#### The End  
 
 The human destroyer's railgun fired.  
 

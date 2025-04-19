@@ -1,4 +1,9 @@
-# Covert Operations
+---
+layout: page
+type: codex
+title: Covert Operations
+permalink: /foundations/covops
+---
 ## Operational security
 The exact engineering details and capabilities of covert operations assets are a closely guarded secret for the Federation, with not even allies having access to the specifications of these units. Any other entities only rely on observations and do not have confirmed knowledge of the capabilities.
 
@@ -48,9 +53,9 @@ Covert-ops vehicles named after the famed Q-ships of WWII, platforms modeled to 
 Offensively, the cars feature concealed plasma weaponry mounted in the headlights, miniaturized forward-firing railguns in the door skirts, and magnetically-accelerated monomolecular blade launchers in the taillights.
 Vans are also equipped with foldaway panels to allow operatives to emerge and return fire on pursuers with handheld weapons.
 
-### **Core Design Features**
+### Core Design Features
 
-#### **1. Stealth and Disguise**
+#### Stealth and Disguise
 - **Civilian Appearance**:
   - Q-Cars are modeled to mimic ordinary civilian sedans, SUVs, or vans, depending on mission requirements.
   - External features such as paint, body panels, and accessories are interchangeable for quick reconfiguration and enhanced disguise capabilities.
@@ -59,7 +64,7 @@ Vans are also equipped with foldaway panels to allow operatives to emerge and re
 - **License Plate and ID Spoofing**:
   - Built-in systems dynamically spoof vehicle registration and appearance to blend with local traffic patterns and evade automated surveillance.
 
-#### **2. Propulsion Systems**
+#### Propulsion Systems
 - **Advanced Engines**:
   - High-torque, low-emission engines ensure superior acceleration and maneuverability while maintaining a civilian profile.
   - Silent operation mode allows for stealthy movement in high-risk zones.
@@ -70,9 +75,9 @@ Vans are also equipped with foldaway panels to allow operatives to emerge and re
 
 ---
 
-### **Onboard Systems**
+### Onboard Systems
 
-#### **1. Concealed Weaponry**
+#### Concealed Weaponry
 - **Plasma Weaponry**:
   - Plasma emitters concealed in the headlights, capable of precision strikes against lightly armored targets.
 - **Miniaturized Railguns**:
@@ -80,7 +85,7 @@ Vans are also equipped with foldaway panels to allow operatives to emerge and re
 - **Blade Launchers**:
   - Magnetically-accelerated monomolecular blade launchers hidden in the taillights for rear defense or disabling pursuers.
   
-#### **2. Countermeasures**
+#### Countermeasures
 - **Active Defense**:
   - Deployable chaff, flares, and smoke screens to disrupt guided munitions and line-of-sight targeting.
   - EMP bursts for neutralizing nearby electronic threats, such as drones or pursuing vehicles.
@@ -88,7 +93,7 @@ Vans are also equipped with foldaway panels to allow operatives to emerge and re
   - Light energy shields protect against small arms fire and shrapnel.
   - Reinforced chassis provides resistance to collisions and projectile impacts.
 
-#### **3. Tactical Support**
+#### Tactical Support
 - **AI Integration**:
   - The onboard AI assists with navigation, threat detection, and real-time tactical recommendations.
   - Supports autonomous driving for high-speed evasions or remote control by operatives.
@@ -100,43 +105,43 @@ Vans are also equipped with foldaway panels to allow operatives to emerge and re
 
 ---
 
-### **Operational Roles**
+### Operational Roles
 
-#### **1. Urban Covert Missions**
+#### Urban Covert Missions
 - Blends seamlessly with civilian vehicles in urban environments.
 - Ideal for stakeouts, discreet surveillance, and unmarked transport of personnel or equipment.
 
-#### **2. Mobile Combat**
+#### Mobile Combat
 - Provides concealed firepower to counter threats in urban or rural settings.
 - Supports operatives during missions with offensive and defensive capabilities.
 
-#### **3. Rapid Response and Extraction**
+#### Rapid Response and Extraction
 - High-speed maneuverability ensures safe extraction of operatives under duress.
 - Equipped to navigate dense traffic or rough terrain to reach or evacuate from high-risk areas.
 
-#### **4. Autonomous Operations**
+#### Autonomous Operations
 - Can operate independently as a decoy, support vehicle, or reconnaissance asset.
 - AI-driven evasion tactics reduce the burden on human operatives in critical situations.
 
 ---
 
-### **Engineering Challenges and Solutions**
+### Engineering Challenges and Solutions
 
-#### **1. Maintaining Stealth While Armed**
+#### Maintaining Stealth While Armed
 - **Challenge**: Integrating weapon systems without compromising civilian appearance.
 - **Solution**: Concealed weapon mounts and collapsible panels ensure no visible combat features unless deployed.
 
-#### **2. Balancing Armor and Mobility**
+#### Balancing Armor and Mobility
 - **Challenge**: Providing adequate protection without hindering vehicle performance.
 - **Solution**: Lightweight composite materials and modular shields maintain agility while enhancing durability.
 
-#### **3. Energy Management**
+#### Energy Management
 - **Challenge**: Ensuring operational endurance for combat systems and propulsion.
 - **Solution**: Hybrid power sources combining advanced batteries with micro-fusion cores for sustained performance.
 
 ---
 
-### **Variants**
+### Variants
 
 1. **Sedan-Type Q-Cars**:
    - Optimized for urban missions with minimal payloads.
@@ -152,7 +157,7 @@ Vans are also equipped with foldaway panels to allow operatives to emerge and re
 
 ---
 
-### **Strategic Implications**
+### Strategic Implications
 Q-Cars provide EarthSpace Federation covert operatives with unparalleled versatility, blending the functionality of advanced combat vehicles with the subtlety required for clandestine operations. Their integration into covert missions enhances operational security, reduces exposure, and ensures the success of high-stakes objectives.
 
 ## Wraith
@@ -165,21 +170,21 @@ Its onboard AI and powerful communications suite allows it to tap even encrypted
 Offensively, the Wraith is equipped with a chin-mounted turreted plasma cannon and two banks of internal canted missile launchers mounted dorsally. Additionally, its EWAR suite can be used offensively to disrupt or shut down enemy units, as long as they have *some* sort of electronics, via targeted or broad-area EMPs.
 Defensively, the Wraith relies mainly on its stealth capabilities, but its shield generator can withstand extended anti-air fire. However, it is considered weak against interceptors and hostile fixed-wing aircraft, relying on its stealth and EWAR capabilities to evade or neutralize them.
 
-### **Core Design Features**
+### Core Design Features
 
-#### **1. Stealth Systems**
+#### Stealth Systems
 - **Passive Stealth**: Stealth composites and coatings absorb and diffuse radar waves and thermal signatures, minimizing detectability.
 - **Active Stealth**:
   - **Radar Cancellation**: Uses counter-radar signals to mask its presence.
   - **Optical Cloaking**: Advanced cloaking systems bend light to render the Wraith visually undetectable under most conditions.
 - **Low-Emission Engines**: Designed to reduce thermal and acoustic footprints, ensuring minimal detectability during approach and operational periods.
 
-#### **2. Propulsion and Mobility**
+#### Propulsion and Mobility
 - **Engine Design**: Advanced low-emission engines provide high thrust and maneuverability while maintaining stealth characteristics.
 - **Operational Range**: Capable of sustained flight over intercontinental distances, including prolonged loitering near target zones.
 - **Autonomous Capability**: AI-assisted navigation and control allow for precision insertion, extraction, and in-mission mobility, even in contested airspace.
 
-#### **3. Onboard Systems**
+#### Onboard Systems
 - **Communications Suite**:
   - Secure, multi-band capabilities for encrypted communications with operatives and command centers.
   - Intelligence-gathering systems capable of intercepting and decrypting hostile communications.
@@ -192,9 +197,9 @@ Defensively, the Wraith relies mainly on its stealth capabilities, but its shiel
 
 ---
 
-### **Operational Capabilities**
+### Operational Capabilities
 
-#### **1. Deployment and Extraction**
+#### Deployment and Extraction
 - **Payload Capacity**:
   - Carries up to two Q-cars for urban or field mobility.
   - Supports transport of mission-critical equipment, crew quarters, and up to 10 operatives.
@@ -203,7 +208,7 @@ Defensively, the Wraith relies mainly on its stealth capabilities, but its shiel
   - Ability to remain stationary in hidden locations for prolonged periods.
 - **Emergency Extraction**: Rapid retrieval of operatives under fire, with onboard defensive measures activated for cover.
 
-#### **2. Mobile Base Functions**
+#### Mobile Base Functions
 - **Fallback Base**:
   - Equipped with facilities for interrogation and holding of captives.
   - Contains crew quarters and operational planning stations.
@@ -213,16 +218,16 @@ Defensively, the Wraith relies mainly on its stealth capabilities, but its shiel
 
 ---
 
-### **Offensive and Defensive Systems**
+### Offensive and Defensive Systems
 
-#### **1. Offensive Systems**
+#### Offensive Systems
 - **Chin-Mounted Turret**: Rapid-fire plasma cannon for precision strikes.
 - **Missile Banks**: Two dorsal internal launchers capable of deploying guided missiles for area suppression or anti-air defense.
 - **Electronic Warfare**:
   - EMP blasts for disabling enemy vehicles and electronics.
   - Active jamming to suppress hostile communication and radar systems.
 
-#### **2. Defensive Systems**
+#### Defensive Systems
 - **Shields**:
   - Mid-grade energy shields capable of withstanding sustained anti-aircraft fire.
   - Adaptive layering focuses shielding to critical zones during intense engagements.
@@ -233,21 +238,21 @@ Defensively, the Wraith relies mainly on its stealth capabilities, but its shiel
 
 ---
 
-### **Engineering Challenges and Solutions**
+### Engineering Challenges and Solutions
 
-#### **1. Balancing Stealth and Capability**
+#### Balancing Stealth and Capability
 - **Challenge**: Maintaining stealth while carrying significant payloads.
 - **Solution**: Modular design allows equipment to be added or removed based on mission profile, minimizing unnecessary bulk.
 
-#### **2. Survivability in Hostile Environments**
+#### Survivability in Hostile Environments
 - **Challenge**: Limited defensive systems compared to dedicated combat craft.
 - **Solution**: Emphasis on evasion and disruption over direct engagement, supported by robust shielding and EWAR systems.
 
-#### **3. Autonomous Functionality**
+#### Autonomous Functionality
 - **Challenge**: Ensuring reliable AI performance under dynamic mission parameters.
 - **Solution**: Integrated AI combines advanced predictive algorithms with real-time data processing for adaptive mission support.
 
 ---
 
-### **Strategic Implications**
+### Strategic Implications
 The Wraith Covert Operations Platform enhances the EarthSpace Federation's ability to project power without overt engagement. Its stealth capabilities and multi-role functionality make it indispensable for high-stakes missions, including intelligence gathering, sabotage, and asset retrieval. By providing a secure and flexible operational hub, the Wraith ensures the Federation's edge in covert operations and asymmetric warfare.

@@ -1,6 +1,10 @@
-# Silent Watchers
-
-## Chapter 1: Whisper of Shadows
+---
+layout: story
+type: story
+title: Silent Watchers
+permalink: /stories/the-japanese-wraith
+---
+## Whisper of Shadows
 
 **Tokyo, Japan - Defense Intelligence Agency Headquarters**
 
@@ -277,7 +281,7 @@ And she had just stepped into the heart of it.
 
 ---
 
-## Chapter 2: The Offer
+## The Offer
 
 The Wraith’s cabin was enveloped in a serene, muted glow, its panels humming faintly with a mechanical cadence that was almost soothing. Lieutenant Ayako Nishi stood in the middle of the cabin, her eyes darting from one holographic display to the next as information flowed like a torrent around her. Schematics, tactical maps, and intelligence overlays projected in midair, each more complex than the last.
 
@@ -427,7 +431,7 @@ The cabin filled with a faint hum as the Wraith’s systems powered up, its holo
 
 ---
 
-## Chapter 3: Ripples of the Unknown
+## Ripples of the Unknown
 
 The Wraith’s sleek, angular form loomed over the Hokkaido facility’s parking lot, its matte-black surface glistening faintly in the morning sun. It was impossible to ignore. Personnel who passed by stopped in their tracks, their eyes widening at the sight of the mysterious craft. 
 
@@ -899,7 +903,7 @@ Nishi sighed deeply, stabbing her fork into her rice. This was going to be a ver
 
 ---
 
-## Chapter 4: Into the Field
+## Into the Field
 
 The morning sun glinted off the frost-covered buildings of the Hokkaido facility as the Wraith team gathered near the edge of a sprawling, urban-style training ground. The simulated town was a maze of alleys, mock buildings, and strategically placed obstacles, designed to mimic a densely populated area. High above, drones hovered silently, recording every move for later review.
 
@@ -1360,7 +1364,7 @@ But for now, there was peace—and for the people of the Hokkaido facility, a re
 
 ---
 
-## Chapter 5: Into the Lion’s Den
+## Into the Lion’s Den
 
 The briefing room at the Hokkaido facility was dimly lit, the only illumination coming from the holographic map projected over the central table. General Saito stood at the head of the room, his posture stiff, his gaze intense. Around the table, Ishikawa, Okabe, Tanaka, and Kuroda sat in silence, their attention fixed on the detailed layout of a sprawling North Korean missile development facility.
 

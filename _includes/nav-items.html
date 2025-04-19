@@ -1,0 +1,26 @@
+<div class="nav-items">
+  {%- assign story_pages = site.pages | where: "type", "story" | sort: "order" -%}
+  {%- assign codex_pages = site.pages | where: "type", "codex" | sort: "order" -%}
+
+  {%- if story_pages.size > 0 -%}
+  <div class="nav-section">
+    <h3 class="nav-section-title">Stories</h3>
+    {%- for page in story_pages -%}
+      {%- if page.title -%}
+        <a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+
+  {%- if codex_pages.size > 0 -%}
+  <div class="nav-section">
+    <h3 class="nav-section-title">Codex</h3>
+    {%- for page in codex_pages -%}
+      {%- if page.title -%}
+        <a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+</div>

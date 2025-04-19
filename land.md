@@ -1,4 +1,10 @@
-# Land units
+---
+layout: page
+type: codex
+title: Land Units
+permalink: /foundations/land
+---
+## Overview
 On land, the Federation relies heavily on robotics to maintain its edge, utilizing both humanoid and non-humanoid platforms, as well as autonomous and piloted variants. Most piloted units are still equipped with autonomous AIs, so that the unit can continue operating in the event of a pilot incapacitation, or allow the pilot to leave the unit and operate in areas where the unit cannot enter or to operate as a two-man team with the unit.
 
 ## Landmate
@@ -10,7 +16,7 @@ The Landmate features a similar modular frame as the Talon, allowing it to custo
 
 Defensively, the Landmate is equipped with shields, as well as a modular armor system that can eject damaged plates and "shift" surrounding plates to cover the area. This is aided by its human-like agility despite its stature, as well as burstable "jump jets" that allow it to leap and hover for short periods (up to 15 seconds at a time).
 
-#### **Core Design Features**
+#### Core Design Features
 
 1. **Humanoid Framework**:
    - The Landmate adopts a humanoid design, with the pilot housed within its chest cavity. 
@@ -24,7 +30,7 @@ Defensively, the Landmate is equipped with shields, as well as a modular armor s
 
 ---
 
-#### **Offensive Capabilities**
+#### Offensive Capabilities
 The Landmate is equipped for various combat roles, featuring:
    - **Primary Armament**: Scaled-up energy or ballistic rifles, optimized for high-powered engagements.
    - **Secondary Weapons**: Shoulder-mounted options such as autocannons or guided missile pods.
@@ -32,7 +38,7 @@ The Landmate is equipped for various combat roles, featuring:
 
 ---
 
-#### **Defensive and Mobility Features**
+#### Defensive and Mobility Features
 
 1. **Armor and Shields**:
    - **Modular Armor System**: Damaged plates can be ejected, and surrounding plates shift to reinforce compromised areas.
@@ -44,7 +50,7 @@ The Landmate is equipped for various combat roles, featuring:
 
 ---
 
-#### **Operational Versatility**
+#### Operational Versatility
 The Landmate’s adaptability makes it suitable for a wide range of missions:
    - **Urban Combat**: Excels in confined spaces and complex terrain due to its agility and compact form factor.
    - **Defensive Operations**: Capable of autonomous perimeter defense when the pilot is unavailable.
@@ -52,14 +58,14 @@ The Landmate’s adaptability makes it suitable for a wide range of missions:
 
 ---
 
-#### **AI Integration and Autonomy**
+#### AI Integration and Autonomy
    - Onboard AI enables independent decision-making during pilot absence or incapacitation.
    - Accepts simple voice commands for real-time tactical responses, enhancing operational flexibility.
    - Advanced AI cores can provide remote control capabilities for high-priority missions.
 
 ---
 
-#### **Strategic Advantages**
+#### Strategic Advantages
    - **Force Multiplier**: Combines the versatility of infantry with the firepower and protection of armored units.
    - **Survivability**: Modular design and advanced mobility reduce downtime and increase combat longevity.
    - **Tactical Flexibility**: Can perform reconnaissance, assault, and support roles within a single deployment.
@@ -71,32 +77,32 @@ It has two integrated rapid-fire plasma cannons in its arms, and the flat-topped
 
 Protection-wise, the Goliath is fitted with heavy armor and shield generators (compared to the Landmate), the latter of which can be configured to focus the shields forward to create an almost-impenetrable defense field, that can link up with adjacent Goliaths to extend itself to create bulwarks as long as the composing units don't move out of alignment. 
 
-### **Core Design Features**
+### Core Design Features
 
-#### **Structure and Framework:**
+#### Structure and Framework:
 - **Non-Humanoid Bipedal Design**: Back-bent legs optimize stability and load distribution, allowing the Goliath to navigate uneven terrain and sustain heavy recoil from weapon systems.
 - **Cockpit Placement**: A flat-topped, heavily armored cockpit ensures pilot safety and provides mounting points for additional weapons or sensors.
 - **Size and Proportions**: At 5 meters tall, the Goliath balances size for intimidation and modularity without sacrificing deployability in various environments.
 
-#### **Power Systems:**
+#### Power Systems:
 - **Fusion Core Integration**: A micro-fusion reactor provides energy to power weapons, shields, and mobility systems, ensuring sustained operation in high-energy-demand environments.
 - **AI Integration**: Equipped with a shackled AI capable of autonomous operation within predefined mission parameters. This ensures continued functionality if the pilot is incapacitated or absent.
 
-#### **Modularity:**
+#### Modularity:
 - **Hardpoints**: Multiple mounting points, primarily atop the cockpit, allow for the attachment of heavy weaponry such as guided missile pods or advanced sensor arrays.
 - **Mission-Specific Adaptability**: Weapon configurations can be tailored for anti-armor, suppression, or siege roles.
 
 ---
 
-### **Armaments and Offensive Capabilities**
+### Armaments and Offensive Capabilities
 
-#### **Primary Weapons:**
+#### Primary Weapons:
 - **Integrated Plasma Cannons** (Arm-Mounted):
   - High rate of fire.
   - Effective against armored vehicles, structures, and airborne threats.
   - Plasma discharge ionizes surrounding air, adding a psychological component to its attacks.
 
-#### **Secondary Weapons:**
+#### Secondary Weapons:
 - **Heavy Weapon Mounts**:
   - Most commonly fitted with guided missile pods for precision strikes or area saturation.
   - Compatible with energy or kinetic payloads for versatility against different targets.
@@ -106,9 +112,9 @@ Protection-wise, the Goliath is fitted with heavy armor and shield generators (c
 
 ---
 
-### **Defensive Systems**
+### Defensive Systems
 
-#### **Armor and Shields:**
+#### Armor and Shields:
 - **Heavy Armor Plating**:
   - Composed of advanced metamaterials designed to resist kinetic impacts and energy weapons.
 - **Shield Generators**:
@@ -117,7 +123,7 @@ Protection-wise, the Goliath is fitted with heavy armor and shield generators (c
 
 ---
 
-### **Mobility**
+### Mobility
 
 - **Back-Bent Leg Design**: Optimized for stability during movement and recoil-heavy operations.
 - **Jump Jets**:
@@ -126,7 +132,7 @@ Protection-wise, the Goliath is fitted with heavy armor and shield generators (c
 
 ---
 
-### **Operational Roles and Tactical Applications**
+### Operational Roles and Tactical Applications
 
 1. **Anti-Armor Combat**:
    - Primary role involving the destruction of tanks, mechs, and hardened installations.
@@ -139,7 +145,7 @@ Protection-wise, the Goliath is fitted with heavy armor and shield generators (c
 
 ---
 
-### **Strategic Implications**
+### Strategic Implications
 
 The Goliath’s robust design and heavy firepower make it an indispensable asset for EarthSpace Federation forces. Its ability to engage multiple target types and endure sustained combat positions it as a critical tool for maintaining superiority in conventional and extraterrestrial conflicts.
 
@@ -152,16 +158,16 @@ Its defining feature is its integrated *Banshee memetic emitter*.
 The device projects memetic information directly into the brains of surrounding people over a configurable area (up to 500 meters away) to achieve a variety of effects. M
 ost often during combat, it is configured to radiate "fear", creating abject terror in people not memetically inoculated against its effects (but can also radiate "desire" for crowd control purposes, to draw people away from a hazardous area and to a safe location, as well as other emotions and concepts).
 
-### **Core Features**
+### Core Features
 
-#### **1. Physical Characteristics**
+#### Physical Characteristics
 - **Height and Frame**: Standing at approximately 3.75 meters tall, the *Knightmare* is larger and more imposing than the *Landmate*, offering enhanced physical presence for intimidation and combat effectiveness.
 - **Humanoid Design**: Retains the anthropomorphic framework of the *Landmate*, ensuring familiarity for pilots and agility in diverse combat scenarios.
 - **Weight Capacity**: Reinforced structural supports allow for heavier weaponry and auxiliary systems compared to the *Landmate*.
 
 ---
 
-#### **2. Offensive Systems**
+#### Offensive Systems
 - **Primary Weapons**:
   - Scaled-up energy rifles or plasma cannons optimized for mid-to-long-range engagements.
   - Modular hardpoints for heavy ballistic or energy-based weaponry.
@@ -169,7 +175,7 @@ ost often during combat, it is configured to radiate "fear", creating abject ter
   - Shoulder-mounted missile pods or gimbaled autocannons.
   - Configurable attachments for anti-armor or area denial roles.
   
-#### **3. Memetic Warfare**
+#### Memetic Warfare
 - **Banshee Memetic Emitter**:
   - Integrated directly into the *Knightmare’s* chassis, this system projects memetic information over a configurable radius (up to 500 meters).
   - Typical configurations include:
@@ -180,7 +186,7 @@ ost often during combat, it is configured to radiate "fear", creating abject ter
 
 ---
 
-#### **4. Defensive Systems**
+#### Defensive Systems
 - **Armor and Shields**:
   - **Modular Armor System**: Allows for quick replacement or adaptation to mission-specific threats.
   - **Shield Generators**: Enhanced energy and kinetic barriers provide exceptional resilience against both terrestrial and extraterrestrial weapons.
@@ -191,7 +197,7 @@ ost often during combat, it is configured to radiate "fear", creating abject ter
 
 ---
 
-#### **5. Mobility**
+#### Mobility
 - **Enhanced Agility**: Despite its larger size, the *Knightmare* maintains human-like agility, capable of navigating urban or rugged terrain efficiently.
 - **Jump Jets**:
   - Burst-capable propulsion for leaping, rapid repositioning, or evading threats.
@@ -199,7 +205,7 @@ ost often during combat, it is configured to radiate "fear", creating abject ter
 
 ---
 
-#### **6. AI and Pilot Support**
+#### AI and Pilot Support
 - **Shackled AI**:
   - Operates autonomously within preset mission parameters, allowing for continued operation if the pilot is incapacitated.
   - Accepts simple commands for seamless integration into coordinated tactics.
@@ -209,25 +215,25 @@ ost often during combat, it is configured to radiate "fear", creating abject ter
 
 ---
 
-### **Operational Capabilities**
+### Operational Capabilities
 
-#### **1. Psychological Warfare**
+#### Psychological Warfare
 The *Knightmare*’s Banshee emitter allows it to destabilize enemy morale and cohesion, effectively functioning as a terror weapon. Proper deployment can neutralize enemy resistance before combat begins, conserving resources and reducing casualties.
 
-#### **2. Combat Versatility**
+#### Combat Versatility
 - Capable of fulfilling assault, reconnaissance, and crowd control roles within a single deployment.
 - Modular weapon loadouts ensure adaptability to mission-specific objectives.
 
-#### **3. Urban and Asymmetric Warfare**
+#### Urban and Asymmetric Warfare
 - Superior mobility and size make it ideal for operations in complex environments.
 - Its agility and vertical maneuverability allow it to scale obstacles and engage threats from unexpected angles.
 
-#### **4. Force Projection**
+#### Force Projection
 The *Knightmare’s* imposing presence and memetic capabilities enable it to act as a tactical fulcrum, reshaping engagements to favor EarthSpace Federation forces.
 
 ---
 
-### **Strategic Implications**
+### Strategic Implications
 The *Knightmare* epitomizes the EarthSpace Federation’s commitment to dominance through superior technology and psychological superiority. Its blend of raw firepower, agility, and memetic capabilities ensures battlefield superiority while mitigating risks to personnel. By undermining enemy morale and leveraging its adaptability, the *Knightmare* establishes itself as an unparalleled tool for modern warfare.
 
 ## Marauder
@@ -239,7 +245,7 @@ The vehicle is not equipped with shields, but its module rack can accommodate mi
 
 During normal operation, the Marauder stops at the preset strike location, deploys its stabilizers, fine-tunes firing solutions using its high-precision positioning system, fires the pre-determined rounds from the cannon's rotary magazine, then resumes its travel before the enemy can react - the entire strike is over in less than a minute from stop to start. The cannon's magazine is reloaded automatically from on-board ammo stores en route to the next location using an automatic feeder.
 
-### **Core Design Features**
+### Core Design Features
 
 1. **Platform and Mobility**:
    - **Base Structure**: Built on a heavy-duty, high-speed truck chassis capable of traversing rough terrain.
@@ -258,7 +264,7 @@ During normal operation, the Marauder stops at the preset strike location, deplo
 
 ---
 
-### **Defensive and Countermeasure Systems**
+### Defensive and Countermeasure Systems
 
 1. **Armor and Shields**:
    - The platform does not feature energy shields, relying instead on its mobility to evade direct engagements.
@@ -270,7 +276,7 @@ During normal operation, the Marauder stops at the preset strike location, deplo
 
 ---
 
-### **Strategic Role and Tactical Applications**
+### Strategic Role and Tactical Applications
 
 1. **Primary Role**: 
    - Precision, high-mobility artillery strikes in contested zones.
@@ -287,7 +293,7 @@ During normal operation, the Marauder stops at the preset strike location, deplo
 
 ---
 
-### **Key Technologies**
+### Key Technologies
 
 1. **High-Precision Positioning System**:
    - Combines satellite guidance with advanced inertial navigation for real-time trajectory adjustments.
@@ -300,7 +306,7 @@ During normal operation, the Marauder stops at the preset strike location, deplo
 
 ---
 
-### **Engineering Challenges and Solutions**
+### Engineering Challenges and Solutions
 
 1. **Stabilization**:
    - **Challenge**: Ensuring accuracy while firing on uneven terrain.
@@ -316,7 +322,7 @@ During normal operation, the Marauder stops at the preset strike location, deplo
 
 ---
 
-### **Strategic Implications**
+### Strategic Implications
 The *Marauder Rapid Artillery Platform* represents a pivotal asset in asymmetric warfare scenarios. By combining speed, adaptability, and precision, it disrupts enemy operations while minimizing the risk to Federation forces. Its mobility and stealth capabilities ensure survivability, making it a vital tool for the EarthSpace Federation's commitment to technological and tactical superiority.
 
 ## Guardian
@@ -335,13 +341,13 @@ When networked to a controlling node, each Guardian reports incoming targets and
 ### Jaegers
 The _Jaegers_ are a critical element of the EarthSpace Federation's special operations forces, functioning as precision-strike units for high-risk missions. Structured into compact, four-person squads, the _Jaegers_ excel in long-range elimination of high-value targets and disruption of enemy infrastructure. They are distinct from the covert ops teams, serving as the Federation's overt, high-profile instruments of deterrence and enforcement.
 
-#### **Operational Focus**
+#### Operational Focus
 The _Jaegers_ are primarily deployed for missions requiring:
 1. **Elimination of High-Value Targets**: Leveraging their sniper expertise to neutralize heavily defended adversaries with surgical precision.
 2. **Infrastructure Disruption**: Utilizing demolitions to incapacitate critical enemy assets.
 3. **Overt Strategic Impact**: Unlike the subtlety of covert teams, _Jaegers_ deliver high-profile results, ensuring their actions are felt and recognized.
 
-#### **Equipment and Capabilities**
+#### Equipment and Capabilities
 1. **Long-Range Magnetic Accelerator Rifles (LMARs)**:
    - Core to their operations, these rifles fire hypervelocity rounds capable of penetrating advanced armor systems and hardened structures.
    - The LMARs integrate adaptive targeting systems, ensuring effectiveness in diverse operational scenarios.
@@ -357,7 +363,7 @@ The _Jaegers_ are primarily deployed for missions requiring:
 4. **Squad AI Assistance**:
    - Embedded squad-level tactical AIs support operational coordination, providing real-time intelligence and countermeasure solutions.
 
-#### **Tactical Doctrine**
+#### Tactical Doctrine
 Operating in teams of four, the _Jaegers_ adopt a disciplined approach:
 1. **Role Specialization**:
    - **Marksman**: Primary sniper focusing on long-range target elimination.
@@ -372,7 +378,7 @@ Operating in teams of four, the _Jaegers_ adopt a disciplined approach:
 3. **High Mobility**:
    - Equipped with lightweight gear, _Jaegers_ maintain the ability to exfiltrate rapidly after completing objectives.
 
-#### **Strategic Role**
+#### Strategic Role
 The _Jaegers_ embody the Federation's ability to project power decisively. They act as a visible deterrent, demonstrating advanced military capabilities to Earth and extraterrestrial observers alike. Their presence and operations send a clear message: the Federation’s reach is long, and its resolve is unyielding.
 
 These squads complement the covert ops teams by taking on missions that require a bold statement, often serving as the hammer to covert teams' scalpel.

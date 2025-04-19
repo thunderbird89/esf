@@ -1,5 +1,9 @@
-# Torchlight
-
+---
+layout: story
+type: story
+title: Torchlight
+permalink: /stories/torchlight
+---
 ## The Ambush
 
 The *Galara's Hope* was a freighter designed for peaceful purposes—long-haul logistics, carrying high-value, low-volume cargo across systems, and never built for a fight. Kryllian efficiency meshed with Xenari elegance to create a vessel that was sleek, functional, and, most importantly, unarmed. It had neither shields nor point defenses—because it was never meant to need them.
@@ -252,7 +256,7 @@ But, in a crisis?
 
 He was glad they were on *his* ship.
 
-## **Encore: The Last Breath of the *Red Fang***  
+## Encore: The Last Breath of the *Red Fang*  
 
 Tarkin Voss had been a pirate for nearly fifteen years. He’d seen ships panic at the sight of a cruiser, watched captains crumble under the pressure of a boarding action. The *Red Fang* was no mere raider; it was the kind of ship that made freighters cut their drives and beg for mercy.  
 

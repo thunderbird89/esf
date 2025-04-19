@@ -1,46 +1,61 @@
-# Foundations
+---
+layout: page
+type: codex
+title: Foundations
+permalink: /foundations/foundations
+---
 ## Naming conventions
 The Federation employs a unified designation system for its assets. Designations consist of one or more letters designating the type, purpose, and operation, followed by a dash, a number signifying iteration count, then a code name for the design.
 
-### **Unified Designation Framework**
+### Unified Designation Framework
 The Federation employs a standardized system to designate and categorize its diverse arsenal of platforms and equipment. This system enables quick identification, classification, and deployment of assets across various mission profiles.
 
 **Format**:  
 `[Type]-[Purpose]-[Operation/Modality](-[Iteration Number]/[Variant]) [Code Name]`
 
-#### **Designation Components**
+#### Designation Components
 1. **Type**: The general classification of the asset.
    - **R**: Rifle
-   - **T**: Transport
    - **V**: Vehicle
-   - **S**: Spacecraft
    - **D**: Drone
    - **M**: Mech
    - **P**: Pistol or sidearm
    - **A**: Artillery
 
-2. **Purpose**: The primary mission role of the asset.
-   - **G**: General Purpose
-   - **S**: Sniper
-   - **A**: Assault
-   - **T**: Tactical
-   - **C**: Covert
-   - **PD**: Point Defense
-   - **H**: Heavy
+2. **Purpose**: The primary mission role of the asset. Available purposes differ based on type.
+   1. Weapons
+      - **G**: General Purpose
+      - **S**: Sniper
+      - **A**: Assault
+      - **C**: Covert
+      - **H**: Heavy
+      - **T**: Tactical
+      - **D**: Defense
+   2. Vehicles, drones, and mechs
+      - **A**: Assault
+      - **G**: Gunship
+      - **S**: Superiority
+      - **D**: Defense
+   3. Artillery
+      - **S**: Tactical
+      - **T**: Tactical
 
 3. **Operation/Modality**: Technology or specific operational focus.
-   - **M**: Magnetic (e.g., railgun or magnetic accelerator)
-   - **P**: Plasma
-   - **L**: Laser
-   - **E**: Directed energy
-   - **K**: Kinetic
-   - **C**: Covert
-   - **A**: Aerial
+   1. Weapons
+      - **P**: Plasma
+      - **L**: Laser
+      - **E**: Directed energy
+      - **K**: Kinetic
+      - **C**: Covert
+   2. Vehicles
+      - **A**: Aerial
+      - **S**: Space
+      - **T**: Terrestrial
 
 4. **Iteration Number**: Specifies the design version or iteration. 
    - Represents technological evolution or upgrades in the platform.
 
-5. **Variant Letter**: Single letter identifying mission-specific variants, appended to the iteration number after a `/`.
+5. **Variant Letter**: One or more letters identifying mission-specific design variants, appended to the iteration number after a `/`.
    - **A**: Assault  
    - **D**: Defense  
    - **R**: Recon  
@@ -49,6 +64,11 @@ The Federation employs a standardized system to designate and categorize its div
    - (Additional letters are reserved for other specialized roles.)
 
 6. **Code Name** *(Optional)*: Descriptive name for unique identification.
+
+#### Examples
+- VGA-6 Dragon: Vehicle, gunship, aerial, design iteration #6, code name _Dragon_, a heavy attack gunship built to prioritize firepower and survival in open combat.
+- RSK-4/CM Whisperglass: Rifle, sniper, kinetic, design iteration #4, magnetic accelerator variant, covert, code name _Whisperglass_, commonly-used sniper rifle in covert operations.
+- PGP-8 Scorch: Pistol, general purpose, plasma-based, code name _Scorch_, the Federation's general issue infantry sidearm.
 
 ## Foundational technologies
 The Federation, thanks to its extraterrestrial benefactors, has access to several technologies and materials beyond the reach of current terrestrial nation. These include high-performance engines and power plants, energy weapons and shields, advanced AI systems, and many others. 
@@ -77,6 +97,7 @@ There are also a number of specialized AIs with distinct personalities, geared t
 - `CIPHER`: specialized for cryptographics and codebreaking operations, as well as hacking and electronic intrusion.
 - `SUNTZU`: optimized for large-scale strategic planning and execution control.
 - `ARCHIMEDES`: specializing in scientific research and creation of new technologies, as well as phyiscal data analysis.
+
 The names of these named AIs are always written in all-uppercase to distinguish them from the lesser AIs who do not enjoy the degree of freedom and ability afforded to these by their exceptional hardware.
 
 ### Modularity
@@ -92,7 +113,7 @@ Overall, the galaxy has three main methods of FTL travel available to them:
 
 #### Warp drives
 The primary mode of FTL travel available (both for the Federation and for aliens) is the _warp drive_. This is based on the concept of the _Alcubierre drive_, as the benefactors have solved the mathematical/physical challenge of reconciling warped space with the theory of relativity, without the use of negative matter.
-Short-range warp drives are installed on larger space-faring vessels (usually transports or freighters) capable of up to 8 AU/s, while the Talon multi-mode fighter boasts an impressive warp drive capable of 20 AU/s displacement.
+Short-range warp drives installed on larger space-faring vessels (usually transports or freighters) are capable of up to 8 AU/s, while the _Talon_ multi-mode fighter boasts an impressive warp drive capable of 20 AU/s displacement.
 
 Warp drives operate by locking onto remote gravimetric signatures, then forming a tunnel of warped space through which the ship can travel. While the method is fast and simple to start (provided sufficient power is available, all that is required is for the ship's velocity vector to be within 5º of its target *and* for the ship to be travelling at least 25 m/s), it suffers from the fact that once the tunnel forms, the ship has no control over it, and is restricted to moving in straight lines towards its target. However, since the ship travels in a tunnel of warped space, it can "pass through" solid objects while en route (since they don't actually occupy the same 3-space), and is only affected by gravitational disturbances.
 
@@ -116,7 +137,7 @@ Regular infantry is usually assigned magnetic accelerator rifles using 2 mm tung
 Magnetic rifles can launch a variety of rounds, from simple kinetic penetrators through explosive rounds to specialty rounds with various exotic effects.
 
 #### RSM-5 Sniper rifle
-Although the speed of the round means even the regular magnetic rifle is longer-range than almost all conventional rifles (much less assault and battle rifles), the Federation also employs a designated sniper rifle, the `RSM-5`.
+Although the speed of the round means even the regular magnetic rifle is longer-range than almost all conventional rifles (much less assault and battle rifles), the Federation also employs a designated sniper rifle, the `RSK-5/M`.
 
 This rifle is a compact railgun design comparable to most designated marksmans rifles, utilizing magnetic repulsors along the upper receiver and the barrel, so that when the trigger is squeezed to the first stage, the targeting scope locks the target under the reticle, and levitates the barrel to decouple it physically from the receiver, preventing small movements from throwing off aim. As long as the trigger is held, the rifle automatically tracks the target within a 5º cone, but only on squeezing the trigger further is the round actually fired.
 
@@ -125,5 +146,5 @@ Range is stated to be in excess of 5,000 meters, with lethal range all the way o
 The builtin scope can switch between visible-light, night vision, and thermal imaging modes, with up to 5x optical zoom. It automatically establishes range to target using a laser rangefinder, and calculates ballistics accordingly, tracking a variety of factors (range, crosswind, Coriolis force, potential ricochets, target movement, etc.), providing an overlaid aimpoint for the shooter once a target is acquired.
 
 #### Thermal clips
-Nearly all Federation firearms use _Thermal clips_, machined blocks of a proprietary lithium-beryllium alloy of large heat capacity, to store waste heat of their operation. Most weapons can cool down naturally over a few minutes if the rate of fire is kept low enough, but can also be ejected from the gun and replaced with a fresh clip to keep firing immediately.
+Nearly all Federation firearms use _thermal clips_, machined blocks of a proprietary lithium-beryllium alloy of large heat capacity, to store waste heat of their operation. Most weapons can cool down naturally over a few minutes if the rate of fire is kept low enough, but can also be ejected from the gun and replaced with a fresh clip to keep firing immediately.
 

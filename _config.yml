@@ -1,7 +1,14 @@
 title: EarthSpace Federation Archive
 description: Story and universe archive of the ESF stories
 
-remote_theme: "jekyll/minima@1e8a445"
+# Build settings
+markdown: kramdown
+baseurl: "/esf"
+permalink: pretty
+
+include:
+  - "*.html"
+  - "*.md"
 
 exclude_files:
   - esf.code-workspace
