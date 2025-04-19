@@ -1,4 +1,9 @@
-# Land units
+---
+layout: page
+title: Land Units
+permalink: /foundations/land
+---
+## Overview
 On land, the Federation relies heavily on robotics to maintain its edge, utilizing both humanoid and non-humanoid platforms, as well as autonomous and piloted variants. Most piloted units are still equipped with autonomous AIs, so that the unit can continue operating in the event of a pilot incapacitation, or allow the pilot to leave the unit and operate in areas where the unit cannot enter or to operate as a two-man team with the unit.
 
 ## Landmate

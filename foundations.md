@@ -1,4 +1,8 @@
-# Foundations
+---
+layout: page
+title: Foundations
+permalink: /foundations/foundations
+---
 ## Naming conventions
 The Federation employs a unified designation system for its assets. Designations consist of one or more letters designating the type, purpose, and operation, followed by a dash, a number signifying iteration count, then a code name for the design.
 

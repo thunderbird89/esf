@@ -16,6 +16,8 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
+  {% include toc.html html=content %}
+
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}

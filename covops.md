@@ -1,4 +1,8 @@
-# Covert Operations
+---
+layout: page
+title: Covert Operations
+permalink: /foundations/covops
+---
 ## Operational security
 The exact engineering details and capabilities of covert operations assets are a closely guarded secret for the Federation, with not even allies having access to the specifications of these units. Any other entities only rely on observations and do not have confirmed knowledge of the capabilities.
 

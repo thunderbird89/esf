@@ -7,8 +7,12 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+    <main class="page-content" data-squawk="base" aria-label="Content">
       <div class="wrapper">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+
+        {% include toc.html html=content h_min=2 h_max=4 ordered=true %}
+
         {{ content }}
       </div>
     </main>

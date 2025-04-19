@@ -1,4 +1,8 @@
-# The galaxy
+---
+layout: page
+title: The Galaxy
+permalink: /foundations/galaxy
+---
 ## Aliens
 Much of the galaxy is in the sphere of influence of one of the four great races:
 - The (mostly) benevolent _Xenari_ who delight in guiding younger races

@@ -1,4 +1,9 @@
-# Space capabilities
+---
+layout: page
+title: Space Units
+permalink: /foundations/space
+---
+## Overview
 The Federation, through technology provisioned by their extraterrestrial backers, has established extensive presence throughout the Solar System, mostly hidden from humanity's eyes by concealment of planetary bases and thermal masking of deep space assets.
 
 ## Space travel
