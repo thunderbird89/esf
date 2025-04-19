@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: story
+type: story
 title: Torchlight
 permalink: /stories/torchlight
 ---

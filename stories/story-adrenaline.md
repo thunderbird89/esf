@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: story
+type: story
 title: Adrenaline
 permalink: /stories/adrenaline
 ---
-## Chapter 1: The Arrival
+## The Arrival
 
 ### Vireen's Observations
 
@@ -88,7 +89,7 @@ Something the aliens present **had never seen before**.
 
 And when it happened, **the galaxy would never forget it**.
 
-## Chapter 1: Adrenaline (Part II)  
+## Adrenaline (Part II)  
 ### Unleashing the Beast  
 
 The room held its breath.  
@@ -261,7 +262,7 @@ Greaves stretched his **bruised knuckles** and let out a slow exhale.
 
 Henshaw **shook off her bloodied hands** like she had just finished **washing up in a sink.**  
 
-# Chapter 2: Aftermath
+# Aftermath
 
 The fight was over.  
 
@@ -358,7 +359,7 @@ Even **in pain, even wounded**, they were **different**.
 
 And she was **going to find out why**.  
 
-## Chapter 2: Aftermath (Part II)  
+## Aftermath (Part II)  
 ### Alien Medicine, Human Resilience  
 
 The trauma bay of the **Ivai’Shan Medical Complex** was a gleaming cathedral of **pristine biotech and antiseptic sterility**. Rows of **suspension platforms** hovered above the floor, their occupants bathed in softly pulsing **diagnostic fields**.  
@@ -453,7 +454,7 @@ Vireen, **staring at him as if he had just whispered the meaning of existence it
 
 “**…Explain.**”  
 
-## Chapter 2: The Adrenaline Revelation  
+## The Adrenaline Revelation  
 
 Silence lingered in the trauma bay.  
 

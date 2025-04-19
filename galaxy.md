@@ -1,5 +1,6 @@
 ---
 layout: page
+type: codex
 title: The Galaxy
 permalink: /foundations/galaxy
 ---

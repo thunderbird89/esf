@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: story
+type: story
 title: Shadows in Tel Aviv
 permalink: /stories/the-israeli-wraith
 ---
-## Chapter 1: Diplomatic Tensions
+## Diplomatic Tensions
 
-### Scene 1: The Pressure Mounts
+### The Pressure Mounts
 
 The conference room at the U.S. State Department was uncomfortably warm, despite the best efforts of the climate control system. Secretary of State Deborah Vance dabbed at her temple with a tissue, glancing at the growing pile of reports spread across the polished oak table. Around her, senior officials from the CIA, Pentagon, and National Security Council exchanged uneasy glances.
 
@@ -21,7 +22,7 @@ Harris hesitated, then sighed. “Correct. They contact us when they deem it nec
 
 Across the table, National Security Advisor Katherine Chen spoke up, her tone measured. “We need to balance this. Israel’s political leverage is formidable. If they press Congress, we could be looking at subpoenas, hearings, and the exposure of our reliance on the Federation’s assets. That cannot happen.”
 
-### Scene 2: A Whisper of the Federation
+### A Whisper of the Federation
 
 As the meeting adjourned, Vance lingered, staring at the Federation’s insignia—etched into the corner of an encrypted dossier. A wireframe globe encircled by laurels, crossed by two broken swords. Below it, the phrase, stark in its simplicity: **We Are Watching.**
 
@@ -37,7 +38,7 @@ Here’s the continuation of Chapter 1:
 
 ---
 
-### Scene 3: The Bluff
+### The Bluff
 
 The office’s muted lighting reflected off the polished glass desk as Secretary Vance gestured for Ambassador Levi to sit. The Israeli diplomat adjusted his tie, his expression inscrutable as he settled into the chair across from her. A faint tension filled the air, carried by unspoken stakes.
 
@@ -61,7 +62,7 @@ Levi regarded her in silence, his dark eyes searching hers for cracks in the fa�
 
 Vance offered a conciliatory smile. “Of course. I will personally ensure you are kept updated as we finalize the terms of collaboration.”
 
-### Scene 4: Cracks Beneath the Surface
+### Cracks Beneath the Surface
 
 Levi rose, adjusting his suit as he prepared to leave. “Thank you for your candor, Madam Secretary. I will inform my government of our conversation. I trust you will not keep us waiting long.”
 
@@ -75,7 +76,7 @@ Vance’s jaw tightened. The CIA. No doubt Harris had already heard about her sl
 
 “Secretary Vance,” Harris’s voice was terse, almost accusatory. “Do you have any idea what you’ve done?”
 
-### Scene 5: A Fractured Front
+### A Fractured Front
 
 Vance leaned back in her chair, her grip tightening on the receiver as Director Harris’s voice crackled with barely contained fury.
 
@@ -99,7 +100,7 @@ Harris sighed audibly, his frustration palpable even through the line. “We nee
 
 “We can’t count on them to intervene,” Harris growled. “They keep their own counsel. We’re on our own, and you better hope that name doesn’t surface in some Mossad analyst’s keyword report.”
 
-### Scene 6: The Ghosts in the System
+### The Ghosts in the System
 
 After the call ended, Vance remained seated, her mind racing. Harris’s paranoia was justified; she had seen firsthand the lengths Israel could go to when pursuing leads. And the Federation—so enigmatic and aloof—provided little reassurance. Their technology might be unbreachable, their operations untraceable, but the Americans themselves were the weak link. 
 
@@ -113,7 +114,7 @@ Would the Federation step in if things spiraled? Or would their shadowy benefact
 
 The ticking clock in the corner seemed to grow louder as Vance rose and squared her shoulders. Damage control would only delay the inevitable. If Harris was right, the Israelis wouldn’t stop until they found something—or until the Federation decided they’d gone too far.
 
-### Scene 7: In the Shadow of the Wraith
+### In the Shadow of the Wraith
 
 The hangar lights buzzed faintly overhead, casting long shadows across the sleek, matte-black frame of the Wraith. The covert operations platform sat like a predatory bird in its cradle, its angular design and dark contours radiating menace even at rest. Harris’s boots clicked against the polished concrete as he approached, the air heavy with the hum of latent power emanating from the craft.
 
@@ -155,9 +156,9 @@ Harris stepped back, his pulse pounding. “Handled? How? By who?”
 
 But the Wraith offered no answer. Its silence was absolute, and Harris was left staring at the enigmatic platform, the cold metal reflecting his own unease.
 
-## Chapter 2: A Message Delivered
+## A Message Delivered
 
-### Scene 1: A Dossier at Dawn
+### A Dossier at Dawn
 
 The Israeli prime minister’s office was silent in the early morning light, the usual hum of activity subdued by the hour. The prime minister himself, David Abramov, arrived at his desk with his usual precision, his coffee steaming in one hand and a neatly folded newspaper in the other. But it was neither the headlines nor his calendar that caught his attention—it was the thick, unmarked dossier placed squarely in the center of his desk.
 
@@ -169,7 +170,7 @@ Abramov’s breath hitched. The Federation.
 
 He glanced at his office door, ensuring it was shut, before taking a seat. With deliberate care, he opened the dossier, the faint scent of fresh ink wafting up. Inside, neatly arranged in plastic sleeves, were satellite images, drone footage, and printed documents. He pulled out the first set of images, his fingers trembling slightly.
 
-### Scene 2: A Mirror Held Up
+### A Mirror Held Up
 
 The photographs were high-resolution, showing scenes from the Gaza Strip in 2024. Abramov recognized them immediately: IDF soldiers in full combat gear, surrounding groups of unarmed civilians. Refugees crowded into makeshift camps under the harsh desert sun. Aid workers pleading with armed personnel, their faces etched with frustration and fear.
 
@@ -187,7 +188,7 @@ Then came the testimonials. Refugee accounts of forced evacuations, of livelihoo
 
 > *“They came in like angels, these giants in armor. They didn’t hurt anyone, only told the soldiers to leave us be. We felt safe for the first time in years.”*
 
-### Scene 3: The Final Verdict
+### The Final Verdict
 
 Abramov’s hands shook as he reached the final section. A meticulously detailed analysis of every opportunity Israel had missed to normalize relations with its neighbors over the past thirty years. Peace initiatives rejected, overtures rebuffed, and political grandstanding that deepened divides. The weight of history pressed down on him, starkly presented in a series of charts, timelines, and cold, unflinching assessments.
 
@@ -201,7 +202,7 @@ The dossier snapped shut in his hands. Abramov leaned back in his chair, his min
 
 Outside his office, the first stirrings of activity began as his aides and ministers arrived to start the day. But inside, the weight of the Federation’s words loomed heavy over the prime minister, a reminder that they were indeed watching—and waiting for Israel to do better.
 
-### Scene 4: An Emergency Session
+### An Emergency Session
 
 The chamber of the Knesset buzzed with an unusual energy. Emergency sessions were rare, called only for matters of utmost importance. Prime Minister David Abramov’s summons had come without explanation, but the urgency of his tone in private conversations with party leaders had ensured every seat in the chamber was filled.
 
@@ -217,7 +218,7 @@ The murmurs grew louder. Abramov waited, his gaze steely, before continuing. “
 
 He paused, gripping the edges of the podium. “And this”—he opened the dossier to its first page, the Federation’s insignia emblazoned above its message—“is the response we received.”
 
-### Scene 5: A Nation’s Reflection
+### A Nation’s Reflection
 
 The prime minister’s voice grew heavier as he recounted the contents of the dossier. He spoke of the Federation’s detailed documentation of the IDF’s actions in the Gaza Strip in 2024, of the Landmate peacekeeping forces, and the harrowing refugee testimonials. Gasps echoed through the chamber as he read one account after another, the brutality of their reality stark against the chamber’s polished surroundings.
 
@@ -227,7 +228,7 @@ He turned to the final page, his voice steady but laced with gravity. “Their m
 
 The room erupted. Some members stood, shouting in outrage, their words lost in the cacophony. Others remained seated, their faces pale as the weight of the words settled over them. Abramov waited, his hands gripping the podium, until the Speaker of the Knesset restored order with a sharp rap of his gavel.
 
-### Scene 6: A Call to Action
+### A Call to Action
 
 Abramov continued, his voice cutting through the lingering unease. “This message is not just a denial; it is a challenge. The Federation has held a mirror to us, and what we see reflected is not what we wish to be.”
 
@@ -241,13 +242,13 @@ He finished with a final, resolute statement: “The Federation has spoken, and 
 
 As he stepped away from the podium, the chamber erupted once more, debates sparking across the floor. Abramov returned to his seat, his expression unreadable, as the weight of his decision settled over the room like a storm cloud.
 
-### Scene 7: The Long View
+### The Long View
 
 The days following the emergency session of the Knesset were fraught with tension, debate, and no small measure of resistance. Prime Minister Abramov had thrown down the gauntlet, challenging the legislative body to undertake the kind of introspection and reform that many had dismissed as impractical, if not outright impossible. The Federation’s dossier remained a stark presence in the debate, a silent reminder of the price of inaction.
 
 Abramov knew the Federation would not reach out. They had made their expectations clear in the single, damning phrase that closed their message: *You need to do better.* He could only hope that their actions—however small they seemed—would not go unnoticed.
 
-### Scene 8: A Nation's Struggle to Change
+### A Nation's Struggle to Change
 
 #### Policy Overhaul
 
@@ -265,7 +266,7 @@ Perhaps the boldest move was a renewed push for regional diplomacy. Abramov’s 
 
 The efforts were met with skepticism, even outright hostility, in some quarters. Opposition leaders lambasted Abramov for compromising national security, while hardliners in the IDF grumbled about perceived weaknesses. But Abramov pressed on, spurred by the nagging hope that these efforts might, one day, catch the attention of the Federation.
 
-### Scene 9: The Waiting Game
+### The Waiting Game
 
 Months turned into a year, and the Federation remained silent. No cryptic messages, no unexpected visits, no signs of approval—or disapproval. For Abramov, the lack of feedback was maddening. Were they watching? Did their actions matter, or were they being dismissed as inadequate?
 
@@ -275,7 +276,7 @@ Even abroad, perceptions of Israel began to soften. Western allies cautiously we
 
 Abramov remained resolute. Whether the Federation acknowledged their actions or not, he saw the value in continuing. “We must prove it to ourselves,” he told his cabinet during one particularly grueling session. “Even if they never respond, we must show that we are capable of doing better.”
 
-### Scene 10: Hope Against Silence
+### Hope Against Silence
 
 As the second year of reforms began, Abramov stood on the balcony of his office, gazing out at the skyline of Jerusalem. The silence from the Federation still hung over him, a constant reminder of how far they had to go.
 
@@ -283,9 +284,9 @@ But the city below was quieter, more at peace than it had been in years. He coul
 
 Abramov didn’t know if the Federation was watching at that moment. But he knew he was doing the right thing, even if the only audience was his own conscience.
 
-## Chapter 3: **The Shadow Arrives**
+##  
 
-### Scene 1: A Visitor at Dawn
+### A Visitor at Dawn
 
 The airfield was quiet in the early hours of the summer morning, its operations deliberately subdued to avoid prying eyes. Located deep in the Negev Desert, the covert Mossad facility blended seamlessly into the barren landscape, its runways barely visible from above and shielded from satellite surveillance by advanced camouflage systems.
 
@@ -301,7 +302,7 @@ Before anyone could react, a voice boomed across the airfield’s PA system, cri
 
 The voice echoed across the airfield, reverberating against the surrounding buildings. The personnel exchanged wary glances, some frozen mid-task, unsure of how to proceed. The Wraith’s ramp lowered with a hydraulic hiss, a faint mist of cool air spilling out into the sweltering desert heat.
 
-### Scene 2: Meeting the Shadow
+### Meeting the Shadow
 
 Colonel Noam Feld, the commanding officer of the facility, stepped forward. Dressed in a crisp flight suit, his face betrayed neither awe nor fear, only a practiced professionalism. As he approached the Wraith, his sharp eyes scanned its contours, noting its immaculate design and the absence of markings beyond the Federation’s insignia.
 
@@ -325,7 +326,7 @@ Feld moved to the cockpit next, where a single chair faced an array of holograph
 
 “*Autonomous in all flight, navigation, and mission support functions,*” Tsel responded. “*However, command authority remains yours, subject to standard Federation terms of use. I will provide tactical advice and operational support but will defer to your orders unless they conflict with the Federation’s overriding protocols.*”
 
-### Scene 3: The Federation’s Conditions
+### The Federation’s Conditions
 
 As Feld completed the tour, he found himself in a conference-style briefing room near the rear of the craft. A holographic display activated as he entered, projecting a concise list of the Federation’s conditions for the Wraith’s deployment:
 
@@ -341,7 +342,7 @@ Feld nodded, stepping back down the ramp into the heat of the day. Behind him, t
 
 As he returned to his staff, Feld’s mind churned with possibilities and concerns. The Shadow had arrived, and with it, the weight of the Federation’s expectations.
 
-### Scene 2: **First Impressions**
+###  
 
 A week after the Wraith’s sudden arrival, a select team of Mossad operatives stood on the tarmac, shielding their eyes against the sun as they stared up at the enigmatic craft. Known informally as Shadow, the Wraith sat silent and imposing, its angular frame gleaming faintly under the desert sky. The operatives exchanged skeptical glances, their disbelief as palpable as the heat shimmering off the airfield.
 
@@ -423,7 +424,7 @@ Ziv remained silent, his eyes lingering on the craft. For all his doubts, one th
 
 From the shadows of the Wraith’s interior, Tsel observed them silently. The operatives might not trust it yet, but trust was not its goal. Results were.
 
-### Scene 3: **A Daring Demonstration**
+###  
 
 The operatives were still clustered near the ramp, their discussion a mix of lingering doubt and reluctant curiosity, when the Wraith’s calm voice interrupted.
 

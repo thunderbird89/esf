@@ -1,5 +1,6 @@
 ---
 layout: page
+type: codex
 title: Space Units
 permalink: /foundations/space
 ---

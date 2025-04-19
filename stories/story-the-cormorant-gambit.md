@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: story
+type: story
 title: The Cormorant Gambit
 permalink: /stories/the-cormorant-gambit
 ---

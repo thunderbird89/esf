@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: story
+type: story
 title: The Wraith
 permalink: /stories/the-american-wraith
 ---
-# The Wraith
-
-## Chapter 1: Shadows in the Kremlin
+## Shadows in the Kremlin
 
 The CIA's headquarters buzzed with its usual activity—flashing monitors, agents on calls, and the low hum of an endless war of information. Amid this orchestrated chaos sat Alicia Monroe, a senior field agent handler in the agency's Russia division. Her desk was littered with decoded intercepts, a stack of coffee-stained briefing folders, and a blinking alert on her secure terminal.
 
@@ -73,7 +72,7 @@ She reached for her coffee, barely noticing the slight tremor in her fingers. Tw
 
 ---
 
-## Chapter 2: The Edge of the Knife
+## The Edge of the Knife
 
 The safe house reeked of damp concrete and stale cigarettes. Marcus Adams—codenamed *Nightingale*—sat on the edge of a creaking cot, one hand gripping his sidearm and the other cradling his head. The dim light from a single bare bulb above cast long, restless shadows across the room, amplifying the oppressive silence. 
 
@@ -1161,7 +1160,7 @@ Before Marcus could respond, she disappeared into the shadows of the park, leavi
 
 ---
 
-## Chapter 3: The Invisible Arrival
+## The Invisible Arrival
 
 The air traffic control tower at Pinewood Airfield, a small but secure military installation near Langley, was abuzz with routine activity. Controllers monitored the radar screens, guiding a handful of scheduled flights, mostly unmarked military transports and government aircraft, through their final approaches.
 
@@ -1305,7 +1304,7 @@ As Whitaker stepped off the ramp and back onto the tarmac, he glanced back at th
 
 And it was his responsibility to make sure they didn’t wreck it.
 
-## Chapter 4: Shadows of the Machine
+## Shadows of the Machine
 
 The hangar buzzed faintly with the hum of active equipment, its high ceilings illuminated by harsh overhead lights that created sharp reflections on the pristine black surface of the Wraith. The craft loomed in the center of the space like a coiled predator, its angular, matte exterior swallowing the light rather than reflecting it. Captain James Westin stepped through the massive hangar doors, his boots echoing faintly against the polished concrete floor. Behind him, Lieutenant Rena Carter, Sergeant Tomas Finch, and Specialist Olivia Park followed, each carrying a mix of anticipation and wariness.
 
@@ -1519,9 +1518,9 @@ James glanced back at the Wraith, its shadowed form looming silently behind them
 
 With that, the team pushed open the hangar doors, stepping out into the night. Behind them, the Wraith waited, its AI vigilant and its systems ready, a silent guardian poised for the challenges to come.
 
-## Chapter 5: Into the Shadows  
+## Into the Shadows  
 
-### Scene 1: The Planning Room  
+### The Planning Room  
 
 The CIA’s Strategic Operations Center buzzed with low conversation and the soft hum of projectors, their blue glow casting flickering light across the room. A satellite map of Northern Iran dominated the central screen, its terrain marked with red circles and lines indicating known checkpoints, suspected compounds, and logistical routes. Around the long table sat a cadre of senior analysts, operatives, and logistics officers, their expressions grim as they debated the details of the operation.  
 
@@ -1573,7 +1572,7 @@ Alicia nodded, a small flicker of relief crossing her face. “Understood. I’l
 
 As the meeting adjourned and the room emptied, Alicia lingered for a moment, staring at the map. This was the kind of operation that could cement her reputation—or destroy it. She had placed her trust in Westin and the Wraith, and now, all she could do was hope that the Federation’s shadowy technology was as capable as it claimed to be.  
 
-### Scene 2: Mission Briefing  
+### Mission Briefing  
 
 The operations center aboard the Wraith felt smaller with the entire team present. Captain James Westin, Lieutenant Rena Carter, Sergeant Tomas Finch, and Specialist Olivia Park stood around the central holographic table, its surface glowing with a detailed topographic map of Northern Iran. Markers denoting checkpoints, known narcotics routes, and suspected production facilities flickered in muted red and yellow.
 
@@ -1637,7 +1636,7 @@ As the Wraith climbed higher, its exterior shimmered briefly before fading into 
 
 The Wraith cut through the atmosphere, a silent ghost on a mission that demanded nothing less than perfection.  
 
-### Scene 3: In Transit  
+### In Transit  
 
 The Wraith cruised silently through the upper atmosphere, its stealth systems rendering it invisible to prying eyes and sensors alike. Inside, the operations center was bathed in soft blue light, the holographic map of Northern Iran glowing faintly on the central table. The terrain was overlaid with suspected IRGC narcotics facilities, checkpoints, and supply routes.  
 
@@ -1701,7 +1700,7 @@ Rena smirked, adjusting the yoke. “Not a chance. I’ve got this.”
 
 The Wraith’s engines thrummed faintly as it carried them closer to their objective, a sleek shadow poised to strike.  
 
-### Scene 4: Insertion  
+### Insertion  
 
 The Wraith descended silently through the cold night air, its stealth systems rendering it a faint shadow against the star-strewn sky. Below, the jagged terrain of Northern Iran stretched out like a sleeping beast—forested hills rising into rocky crags and snow-dusted peaks. In the operations center, the team sat in tense silence, the faint hum of the craft’s systems a constant reminder of their mission’s precarious nature.
 
@@ -1769,7 +1768,7 @@ James nodded. “We’ll start with the nearest points and work outward. Rena, k
 
 The team exchanged brief nods, their expressions resolute. Outside, the Wraith sat cloaked in shadow, its drones circling overhead like silent sentinels. The operation had begun.  
 
-### Scene 5: Scouting the Distribution Hubs  
+### Scouting the Distribution Hubs  
 
 The Wraith hummed faintly as it lifted off from the clearing, its engines operating at barely a whisper under Hermes’s control. Inside, the team prepared for their first foray into enemy territory, checking their gear and reviewing the latest drone feeds.
 
@@ -1871,7 +1870,7 @@ James turned to the team, his expression serious but satisfied. “We’ve got a
 
 The Wraith soared into the darkness, leaving the compound below untouched—for now.  
 
-### Scene 6: Planning Phase Two  
+### Planning Phase Two  
 
 The Wraith rested silently in a secluded hollow, its matte-black hull blending seamlessly with the rugged terrain. Inside, the team had gathered around the holographic table in the operations center, the glow of the terrain map illuminating their faces. Hermes’s calm, precise voice filled the room, breaking down the intel they had gathered during their recon.
 
@@ -1945,7 +1944,7 @@ James glanced at the holographic map one last time, then at his team. “Gear up
 
 The team dispersed to ready their equipment, the faint hum of the Wraith’s systems underscoring the tension in the air. Outside, the rugged terrain lay cloaked in darkness, waiting for the coming storm.
 
-### Scene 7: Dual Assault  
+### Dual Assault  
 
 The Wraith hovered in complete silence above a dense stretch of forest, cloaked from sight and sensors. Inside, the team split into their respective roles. Captain James Westin, Sergeant Tomas Finch, and Specialist Olivia Park exited the craft, their boots crunching faintly against the frost-dusted forest floor. Meanwhile, Lieutenant Rena Carter remained aboard, her hands deftly manipulating the drone controls. The plan was in motion.
 
@@ -2045,7 +2044,7 @@ Back at the Wraith, the team regrouped, their prisoner restrained and seated in 
 
 The Wraith ascended into the night, leaving behind flames, confusion, and a broken convoy. The IRGC had no idea what hit them.  
 
-### Scene 8: The Interrogation  
+### The Interrogation  
 
 The Wraith settled into a new secluded location, this time a shallow ravine bordered by steep cliffs and dense vegetation. Its engines powered down to a whisper, and its exterior cloaking engaged, leaving it virtually indistinguishable from the surrounding terrain. Inside, the atmosphere was tense.  
 
@@ -2135,7 +2134,7 @@ James didn’t answer immediately. He turned to Tomas and Olivia. “Secure him.
 
 The Wraith’s systems hummed faintly as the team prepared for their next move, the intel they had extracted from Karami setting the stage for the next phase of their mission. Outside, the night remained quiet, the craft’s cloaking keeping it hidden from prying eyes.  
 
-### Scene 9: Analysis and Opportunity  
+### Analysis and Opportunity  
 
 The Wraith hummed quietly in the ravine, a bastion of calm amidst the tension of the operation. Inside, the team gathered in the operations center, their expressions serious as they pored over the data extracted from Davood Karami. The man himself remained in the holding cell, subdued and silent after his interrogation.  
 
@@ -2205,7 +2204,7 @@ James looked around the table, meeting each team member’s gaze. “This is our
 
 The team nodded, their resolve clear. Outside, the Wraith’s cloaked hull remained a silent guardian in the night, poised for the next phase of their mission.  
 
-### Scene 10: Ambush in the Forest  
+### Ambush in the Forest  
 
 The night air was still, the dense forest along the narrow road shrouded in silence. The Wraith hovered in stealth mode a few kilometers away, concealed by its cloaking systems and dense terrain. In the shadows near the road, Captain James Westin, Sergeant Tomas Finch, and Specialist Olivia Park crouched, weapons at the ready.  
 
@@ -2287,7 +2286,7 @@ The Colonel’s face twitched, uncertainty flashing in his eyes for the first ti
 
 The Wraith powered through the night, its cloaked hull blending seamlessly into the darkness. Inside, the team prepared for the next phase of their operation, their most valuable prisoner now in their hands.  
 
-### Scene 11: Breaking the Colonel  
+### Breaking the Colonel  
 
 The Wraith hummed softly in the background as it hovered in its secluded hold position, cloaked against detection. Inside, the operations center was quiet except for the faint, rhythmic tapping of Olivia’s fingers on her console and the Colonel’s steady breathing. 
 
@@ -2369,7 +2368,7 @@ As Tomas guided the Colonel back to his restraints, James addressed the team. �
 
 The Wraith’s hum deepened as it adjusted position, preparing for the next phase of the mission. The Colonel’s information had given them their next step—but the most dangerous part of the operation was still to come.  
 
-### Scene 12: Planning the Factory Strike  
+### Planning the Factory Strike  
 
 The Wraith hovered silently in the rugged hills above Rudbar, cloaked against detection. Inside, the operations center buzzed with tension as the team gathered around the holographic table. The terrain around the target factory—marked in red—was displayed in intricate detail, overlaid with potential entry points, guard patrol routes, and key infrastructure nodes.
 
@@ -2439,7 +2438,7 @@ The team nodded, their resolve clear.
 
 The Wraith shifted position, moving into its designated holding pattern as the team began gearing up for the assault. The clock was ticking, and the fate of the operation hung on their ability to execute with precision and speed.
 
-### Scene 13: The Assault Begins  
+### The Assault Begins  
 
 The Wraith hovered silently above the rugged terrain, cloaked and invisible against the night sky. Below, the factory loomed in the valley—a cluster of boxy, dimly lit structures surrounded by a tall chain-link fence topped with razor wire. The faint glow of security lights illuminated guard towers and patrolling figures, their movements methodical but relaxed.  
 
@@ -2531,7 +2530,7 @@ James and Tomas moved swiftly to the enclosure. Tomas knelt near the keypad, pul
 
 “Understood, Captain,” Hermes replied. “You have approximately ninety seconds before the next patrol circles back.”  
 
-### Scene 13: Planting the Charges  
+### Planting the Charges  
 
 #### Rena and Olivia: Inside the Storage Bunker  
 
@@ -2655,7 +2654,7 @@ James bit his lip, his mind racing. Finally, he nodded. “Okay, you’re right.
 
 Hermes responded instantly, his voice steady and assured. “Affirmative. Stand by, ETA 30 seconds.”  
 
-### Scene 14: The Wraith Unleashed  
+### The Wraith Unleashed  
 
 The thudding against the power hub’s door grew louder, the shouting of guards outside blending with the clatter of approaching reinforcements. Inside, the team prepared for a last stand, their weapons trained on the barricade.  
 
@@ -2731,7 +2730,7 @@ James crossed his arms, his expression grim but satisfied. “Let’s get out of
 
 The Wraith rose higher, its engines humming as it disappeared into the night, leaving nothing behind but smoke, fire, and the shattered remains of the IRGC’s narcotics operation.  
 
-### Scene 15: Return to Langley  
+### Return to Langley  
 
 The Wraith cut through the upper atmosphere on its way back to the United States, the faint hum of its engines a constant backdrop to the subdued operations center. The team sat around the holographic table, its display showing a live feed of their flight path. Colonel Rezaei and Karami were secured in their respective holding cells, their defiant glares replaced by silence during the long journey.
 
@@ -2785,7 +2784,7 @@ The team disembarked as the CIA agents moved in, efficiently transferring the pr
 
 The team walked away from the craft, their steps heavy with exhaustion but their spirits buoyed by success. Behind them, the sleek shadow of the Wraith loomed silently, a reminder of the precision and power they now carried into the shadows.  
 
-### Scene 16: Debriefing, Part I  
+### Debriefing, Part I  
 
 The conference room in Langley’s secure operations wing was stark and utilitarian, its walls lined with monitors displaying maps, tactical data, and key images from the mission. Captain James Westin and his team sat at the table’s center, their expressions a mix of professionalism and fatigue. Across from them was the operations commander, a sharp-eyed woman in her late fifties with graying hair tied neatly back. Next to her sat Alicia Monroe, her presence quiet but observant as she sipped from a cup of coffee.  
 

@@ -1,5 +1,6 @@
 ---
 layout: page
+type: codex
 title: Land Units
 permalink: /foundations/land
 ---

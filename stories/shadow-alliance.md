@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: story
+type: story
 title: The Shadow Alliance
 permalink: /stories/shadow-alliance
 ---
-## Chapter 1: **The Adjacent Alliance**
+##  
 
 ### NATO Headquarters, Brussels, Belgium  
 **0930 Hours CET**
@@ -243,7 +244,7 @@ Wallace nodded, the faintest glimmer of amusement in his eyes. "It’s not a thr
 
 And with that, Wallace stepped away to join his team, leaving Stoltenberg with the uneasy sense that the Federation’s presence in NATO would be far from simple.
 
-## Chapter 2: **Forging the Edge**
+##  
 
 #### NATO Proving Grounds, Classified Location  
 **0930 Hours Local Time**

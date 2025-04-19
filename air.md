@@ -1,14 +1,15 @@
 ---
 layout: page
+type: codex
 title: Aerial Units
 permalink: /foundations/air
 ---
 ## Talon
-The *Talon* is the latest addition to the Federation air force. It's a multi-role, *Multi-Mode* aircraft, capable of operating in air, space, and underwater without reconfiguration (i.e. it can transition between all three within the same mission). The airframe is a variable wing geometry design ("swing-wing") capable of moving from back-swept wings through minimum-sweep all the way to locking the wings into the forward canards for a high-speed delta wing configuration
+The *Talon* is the latest addition to the Federation air force. It's a multi-role, *multi-mode* aircraft, capable of operating in air, space, and underwater without reconfiguration (i.e. it can transition between all three within the same mission). The airframe is a variable wing geometry design ("swing-wing") capable of moving from back-swept wings through minimum-sweep all the way to locking the wings into the forward canards for a high-speed delta wing configuration
 
 Its modular framework allows customization to a wide range of potential missions by varying its armaments and various support modules before the mission. The framework is centered around a core engineering system that integrates the air-breathing and plasma engines and the pilot life-support system with the power and computing systems, to be augmented by various modules installed on hardpoints and internal module racks.
 
-One of its most spectacular capabilities is the *Sub-orbital boost*, where the pilot can select a pre-programmed destination, and the fighter will automatically pitch up, accelerate to just shy of escape velocity, execute the gravity turn, and put itself on a re-entry course towards the selected destination. This is intended as an escape manoeuvre (by out-climbing and outrunning any pursuers), and the acceleration almost invariably results in the pilot's blackout while the craft flies itself to the destination.
+One of its most spectacular capabilities is the *sub-orbital boost*, where the pilot can select a pre-programmed destination, and the fighter will automatically pitch up, accelerate to just shy of escape velocity, execute the gravity turn, and put itself on a re-entry course towards the selected destination. This is intended as an escape manoeuvre (by out-climbing and outrunning any pursuers), and the acceleration almost invariably results in the pilot's blackout while the craft flies itself to the destination.
 
 ### Technical Specifications
 
@@ -232,9 +233,9 @@ In terms of armaments, the main offensive capability is a chin-mounted turreted 
 
 ## Aurora
 The Aurora high-speed attack drone is made to be invulnerable to anti-air defenses by virtue of its astonishing speed. Four high-performance plasma engines can accelerate the "flying wing" drone to speeds where the compression heating of the air alone creates a plasma sheath around the unit, and its dedicated high-performance AI allows it to avoid any incoming attacks.
-Notably, the Aurora is not built for stealth - considering the plasma sheath created by atmospheric heating renders stealth moot - nor does it feature the modular architecture common to Federation units, being focused solely on overwhelmingly fast and precise strikes.
+Notably, the Aurora is *not* stealthy - considering the plasma sheath created by atmospheric heating renders stealth moot - nor does it feature the modular architecture common to Federation units, being focused solely on overwhelmingly fast and precise strikes. When in flight, the Aurora's path is marked by a faintly luminous trail of cooling plasma, often visible in the night sky.
 
-The Aurora utilizes the _Stiletto fast missile_ as its only armament. The Stiletto uses another plasma engine to accelerate rapidly to Mach 15 on launch, covering the distance to its target almost immediately. Its armored tip allows it to penetrate reinforced structures by virtue of its sheer speed and detonate its warhead inside for maximum destruction.
+The Aurora utilizes the _Stiletto fast missile_ as its *only* armament. The Stiletto uses another plasma engine to accelerate rapidly to Mach 15 on launch, covering the distance to its target almost immediately. Its armored tip allows it to penetrate reinforced structures by virtue of its sheer speed and detonate its warhead inside for maximum destruction.
 
 During its missions, the Aurora travels at post-hypersonic speeds to its target area, where it deploys air brakes to momentarily slow down to app. Mach 5. It opens its five missile bays, each with a dedicated high-resolution targeting radar; finds and lights it targets, and fires the five Stiletto missiles. Once the missiles impact and detonate, the Aurora scans the target areas to verify damage or destruction of its targtes before retracting its air brakes and accelerating back to high-speed egress. The actual strikes usually occur in under 30 seconds, from deployment of the air brakes to their retraction.
 
@@ -342,7 +343,7 @@ During its missions, the Aurora travels at post-hypersonic speeds to its target 
 ### Strategic Implications
 The Aurora’s unparalleled speed and precision represent a critical asset in EarthSpace Federation’s arsenal. Its ability to perform near-invulnerable strikes allows for strategic dismantling of enemy infrastructure and key assets with minimal risk, solidifying Federation dominance in both terrestrial and extraterrestrial theaters.
 
-## VAA-6 Dragon Heavy Attack Gunship
+## VGA-6 Dragon Heavy Attack Gunship
 ### Overview
 
 The *VAA-6 Dragon* is a heavy gunship aerodyne designed by EarthSpace Federation Aerospace Command in response to sustained combat operations on Xenari client worlds, particularly against Ryzak-backed surface militias. Where the *Scorpion* excels in surgical fire support, the *Dragon* represents the next echelon: brute-force aerial dominance. It is optimized for close air support, battlefield suppression, and combat insertion in high-threat environments. Its structural silhouette, firepower, and survivability place it among the most formidable rotary-winged aerodynes in the Federation’s arsenal.

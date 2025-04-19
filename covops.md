@@ -1,5 +1,6 @@
 ---
 layout: page
+type: codex
 title: Covert Operations
 permalink: /foundations/covops
 ---
