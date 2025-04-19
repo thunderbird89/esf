@@ -6,13 +6,13 @@ permalink: /foundations/foundations
 ## Naming conventions
 The Federation employs a unified designation system for its assets. Designations consist of one or more letters designating the type, purpose, and operation, followed by a dash, a number signifying iteration count, then a code name for the design.
 
-### **Unified Designation Framework**
+### Unified Designation Framework
 The Federation employs a standardized system to designate and categorize its diverse arsenal of platforms and equipment. This system enables quick identification, classification, and deployment of assets across various mission profiles.
 
 **Format**:  
 `[Type]-[Purpose]-[Operation/Modality](-[Iteration Number]/[Variant]) [Code Name]`
 
-#### **Designation Components**
+#### Designation Components
 1. **Type**: The general classification of the asset.
    - **R**: Rifle
    - **T**: Transport

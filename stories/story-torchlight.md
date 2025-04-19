@@ -252,7 +252,7 @@ But, in a crisis?
 
 He was glad they were on *his* ship.
 
-## **Encore: The Last Breath of the *Red Fang***  
+## Encore: The Last Breath of the *Red Fang*  
 
 Tarkin Voss had been a pirate for nearly fifteen years. He’d seen ships panic at the sight of a cruiser, watched captains crumble under the pressure of a boarding action. The *Red Fang* was no mere raider; it was the kind of ship that made freighters cut their drives and beg for mercy.  
 

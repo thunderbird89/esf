@@ -213,7 +213,7 @@ Vrak's eyes widened in disbelief.
 
 Before he could bark a command, the *Cormorant* moved.  
 
-#### **The Ambush**  
+#### The Ambush  
 
 "Shields up! Weapons hot! NOW!"
 
@@ -289,7 +289,7 @@ They weren't **chasing.**
 
 They were **charging.**  
 
-#### **The End**  
+#### The End  
 
 The human destroyer's railgun fired.  
 

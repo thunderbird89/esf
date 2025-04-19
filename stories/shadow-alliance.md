@@ -170,7 +170,7 @@ As the session adjourned, the hall buzzed with speculation. What had just happen
 
 The NATO delegates left the assembly, their minds awhirl with questions. Whatever their thoughts on the vote, one thing was certain: the Federation had made their presence known. And in their own, unsettling way, they had left an indelible mark on NATO’s most historic day.
 
-### **The Arrival**
+### The Arrival
 
 #### NATO Headquarters, Brussels, Belgium  
 **0900 Hours CET, Three Weeks Later**
@@ -312,7 +312,7 @@ Grayson glanced back at the firing line, where another plasma bolt scorched thro
 
 Wallace nodded, though his gaze remained on the NATO troops. Trust, he knew, was a two-way street—and the Federation still had much to prove.
 
-### **Landmates: Steel and Muscle**  
+### Landmates: Steel and Muscle  
 
 #### NATO Proving Grounds – Mech Training Area  
 **1030 Hours Local Time**  
@@ -379,7 +379,7 @@ Wallace nodded, watching as another Landmate leapt into the air, its jump jets g
 
 Grayson smirked. "Good. Let’s see what they can really do."
 
-### **Heavy Firepower: The Landmate’s Arsenal**  
+### Heavy Firepower: The Landmate’s Arsenal  
 
 #### NATO Proving Grounds – Mech Training Area  
 **1100 Hours Local Time**  

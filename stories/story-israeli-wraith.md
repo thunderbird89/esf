@@ -248,17 +248,17 @@ Abramov knew the Federation would not reach out. They had made their expectation
 
 ### Scene 8: A Nation's Struggle to Change
 
-#### **Policy Overhaul**
+#### Policy Overhaul
 
 The first steps were bureaucratic and slow, but they marked a significant departure from the status quo. The Knesset passed a series of sweeping reforms aimed at addressing systemic issues in the occupied territories. Laws were enacted to limit military overreach, with stricter guidelines for engagement and oversight by independent watchdog organizations. A dedicated commission was established to investigate allegations of IDF misconduct, staffed with civilians and representatives from international humanitarian organizations.
 
-#### **Humanitarian Efforts**
+#### Humanitarian Efforts
 
 Under pressure from Abramov’s office, Israel began a concerted push to improve conditions in the Gaza Strip and the West Bank. Checkpoints were restructured to prioritize humanitarian concerns, with expedited lanes for aid workers and medical supplies. Infrastructure projects—long stalled by political gridlock—were restarted, focusing on rebuilding schools, hospitals, and housing.
 
 The Federation’s reference to their Landmate peacekeeping forces also struck a nerve. While Israel had no equivalent to the advanced exoskeletons, Abramov quietly directed the Ministry of Defense to reassign IDF units to humanitarian protection roles, ensuring aid convoys were shielded from interference.
 
-#### **Diplomatic Outreach**
+#### Diplomatic Outreach
 
 Perhaps the boldest move was a renewed push for regional diplomacy. Abramov’s government reached out to neighboring countries with a sincerity that surprised even seasoned diplomats. Offers of economic cooperation and shared infrastructure projects were extended to Egypt and Jordan, while backchannel talks with Palestinian leadership sought to restart long-dormant peace negotiations.
 
@@ -360,7 +360,7 @@ A faint line of light appeared on the floor, leading them deeper into the craft.
 
 Feld silenced him with a glance. “Pay attention.”
 
-### **The Armory**
+### The Armory
 
 Their first stop was the armory, its walls lined with modular racks and compartments. Most were empty, awaiting the team’s equipment.
 
@@ -376,7 +376,7 @@ Ari chuckled, his disbelief evident. “A fancy, empty toolbox. Got it.”
 
 The operatives exchanged glances, caught off guard by the AI’s retort.
 
-### **The Operations Room**
+### The Operations Room
 
 The next stop was the operations room, a spacious chamber dominated by holographic displays that flickered to life as the team entered. Tactical maps, schematics, and live surveillance feeds filled the air, suspended in shimmering blue light.
 
@@ -392,7 +392,7 @@ Yael crossed her arms. “And how do we know you won’t conveniently decide to 
 
 The room fell quiet as the team absorbed the AI’s response. For all their skepticism, there was no denying the craft’s capabilities.
 
-### **The Cockpit**
+### The Cockpit
 
 Finally, the tour ended in the cockpit, a single seat surrounded by a dizzying array of holographic interfaces. The displays pulsed faintly, waiting for input.
 
@@ -410,7 +410,7 @@ Feld met his gaze. “It *is* alien, Ziv. That’s why it’s here. The Federati
 
 “*Your commander is correct,*” Tsel added. “*I am here to augment your capabilities. Whether you trust me is secondary to how effectively you utilize me.*”
 
-### **First Impressions**
+### First Impressions
 
 As the operatives exited the Wraith and stepped back into the desert heat, the group was quiet, their earlier skepticism tempered by the overwhelming sense of possibility.
 

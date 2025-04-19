@@ -1,6 +1,6 @@
 # The Wraith
 
-## **Chapter 1: Shadows in the Kremlin**
+## Chapter 1: Shadows in the Kremlin
 
 The CIA's headquarters buzzed with its usual activity—flashing monitors, agents on calls, and the low hum of an endless war of information. Amid this orchestrated chaos sat Alicia Monroe, a senior field agent handler in the agency's Russia division. Her desk was littered with decoded intercepts, a stack of coffee-stained briefing folders, and a blinking alert on her secure terminal.
 
@@ -68,7 +68,7 @@ She reached for her coffee, barely noticing the slight tremor in her fingers. Tw
 
 ---
 
-## **Chapter 2: The Edge of the Knife**
+## Chapter 2: The Edge of the Knife
 
 The safe house reeked of damp concrete and stale cigarettes. Marcus Adams—codenamed *Nightingale*—sat on the edge of a creaking cot, one hand gripping his sidearm and the other cradling his head. The dim light from a single bare bulb above cast long, restless shadows across the room, amplifying the oppressive silence. 
 
@@ -3336,7 +3336,7 @@ And Colonel Farhad Khani had no choice but to deliver it to his superiors.
 
 ### Epilogue, Part I (Continued): Iran  
 
-#### **The Report Escalates**  
+#### The Report Escalates  
 
 Colonel Khani’s report made its way swiftly through the labyrinthine hierarchy of the IRGC. Initial assessments from his subordinates, combined with satellite imagery and the fragments collected on-site, painted a bleak picture. The production facility near Rudbar—one of the linchpins of the narcotics network—had not just been destroyed but obliterated with surgical precision.  
 
@@ -3351,7 +3351,7 @@ General Hosseini read the report in silence, his face expressionless. Finally, h
 
 ---
 
-#### **The Supreme Council Meets**  
+#### The Supreme Council Meets  
 
 Hours later, in a secure underground chamber in Tehran, the Supreme Council of National Security convened. The meeting included high-ranking members of the IRGC, the Ministry of Defense, and the Ministry of Intelligence. The Supreme Leader’s representative, a stoic cleric with an impassive demeanor, sat at the head of the table, listening intently as General Hosseini presented his findings.  
 
@@ -3365,7 +3365,7 @@ Hosseini hesitated. “I am suggesting that we cannot rule it out. There were no
 
 ---
 
-#### **Speculation and Debate**  
+#### Speculation and Debate  
 
 The room erupted into discussion.  
 
@@ -3379,7 +3379,7 @@ The Defense Minister scoffed. “If the Americans had such weapons, why use them
 
 ---
 
-#### **The Leadership Decides**  
+#### The Leadership Decides  
 
 General Hosseini raised a hand to regain the floor. “Whoever was responsible, we cannot allow this attack to go unanswered. Our networks are compromised, and our position in the region is weakened. If this is a prelude to further actions, we must be prepared.”  
 
@@ -3393,7 +3393,7 @@ And they had no idea what it truly meant.
 
 ### Epilogue, Part II: The Americans  
 
-#### **The Langley War Room**  
+#### The Langley War Room  
 
 Deep within CIA headquarters in Langley, Virginia, a small group of senior strategists gathered in a secure conference room. The mood was a mix of satisfaction and apprehension, with the successful operation in Iran dominating the agenda. The Wraith, and its AI Hermes, had proved a decisive force, but the implications of deploying such advanced technology were far-reaching.
 
@@ -3405,7 +3405,7 @@ She paused, letting the weight of her next words hang in the air. “But the mea
 
 ---
 
-#### **The Strategists Weigh In**  
+#### The Strategists Weigh In  
 
 Matthew Lyle, a middle-aged operations planner with a habit of chewing his pen, was the first to speak. “The Wraith didn’t just change the game—it rewrote the rulebook. Hermes’s ability to analyze real-time data, neutralize threats with pinpoint precision, and even assist with interrogations made this mission something we could never have pulled off with conventional assets.”  
 
@@ -3415,7 +3415,7 @@ Lyle hesitated. “It’s a fair point, but this kind of dominance has its own d
 
 ---
 
-#### **Rezaei’s Value**  
+#### Rezaei’s Value  
 
 “Speaking of deterrence,” interjected Maria Vasquez, a senior analyst specializing in Middle Eastern affairs, “let’s not forget that we’ve got Rezaei in custody. He’s not just a figurehead—he’s a critical cog in their logistics and narcotics network. Extracting actionable intel from him could cripple their entire operation.”  
 
@@ -3423,7 +3423,7 @@ Harper nodded. “Agreed. But let’s not get ahead of ourselves. Rezaei’s loy
 
 ---
 
-#### **The Risks of Deployment**  
+#### The Risks of Deployment  
 
 Vasquez turned the conversation back to the Wraith. “Let’s address the elephant in the room: the risk of exposure. The Wraith’s capabilities—especially Hermes’s level of autonomy—make it a double-edged sword. If the Iranians even suspect what kind of tech was used against them, it’ll spark an arms race. They’ll escalate, and so will everyone else.”  
 
@@ -3433,7 +3433,7 @@ Harper leaned back in her chair, her fingers steepled. “You’re both right. T
 
 ---
 
-#### **Framing the Mission’s Success**  
+#### Framing the Mission’s Success  
 
 John Michaels, the Director of Covert Operations, cleared his throat. “Still, we can’t ignore the success of the operation. Rezaei’s capture and the destruction of the factory sent a clear message to the IRGC. They’ll know someone hit them with technology they can’t counter, and that uncertainty alone will keep them on the back foot. For now, that’s a win.”  
 
@@ -3441,7 +3441,7 @@ John Michaels, the Director of Covert Operations, cleared his throat. “Still, 
 
 ---
 
-#### **Looking Forward**  
+#### Looking Forward  
 
 Harper glanced around the room. “So, where does this leave us? The Wraith was loaned to us by the Federation to handle impossible missions. And this mission proved its value. But it also showed us how dependent we are on technology we can’t fully control or replicate.”  
 
@@ -3453,7 +3453,7 @@ As the group began filing out, Harper lingered by the table, staring at the now-
 
 ### Epilogue, Part II (Continued): The Congressional Hearing  
 
-#### **The Hearing Room**  
+#### The Hearing Room  
 
 The chamber was a stark contrast to the dark, covert world of Langley. Bright lights illuminated rows of polished wood benches and the raised dais where members of the Congressional Intelligence Oversight Committee sat in a semi-circle. Reporters filled the public gallery behind them, pens poised and cameras ready to capture the proceedings.  
 
@@ -3465,7 +3465,7 @@ Alicia gave a measured nod. “I’m happy to provide whatever information I can
 
 ---
 
-#### **The Questions Begin**  
+#### The Questions Begin  
 
 Kellerman adjusted her glasses and glanced at the documents in front of her. “Let’s start with the recent disruption of IRGC narcotics operations in Northern Iran. Our intelligence indicates that a high-value target, Colonel Abbas Rezaei, is now in CIA custody, and a significant production facility has been destroyed. Can you confirm these reports?”  
 
@@ -3479,7 +3479,7 @@ Decker leaned back, crossing his arms. “Not at liberty, or unwilling?”
 
 ---
 
-#### **Alicia Pleads the Fifth**  
+#### Alicia Pleads the Fifth  
 
 Kellerman raised a hand, cutting off the brewing tension. “Let’s rephrase. Ms. Monroe, did this operation involve any external assistance or unconventional technologies beyond standard CIA assets?”  
 
@@ -3495,7 +3495,7 @@ Alicia’s composure didn’t falter. “Yes, Senator. The details of this opera
 
 ---
 
-#### **Mounting Pressure**  
+#### Mounting Pressure  
 
 Senator Decker pressed further, his frustration mounting. “Ms. Monroe, let me ask you directly: did the CIA use technology not developed or controlled by the United States to carry out this mission? Yes or no?”  
 
@@ -3507,7 +3507,7 @@ Alicia’s voice remained calm, almost cold. “I understand your concern, Senat
 
 ---
 
-#### **The Chair Steps In**  
+#### The Chair Steps In  
 
 Kellerman rapped her gavel lightly, her tone firm but diplomatic. “That’s enough for now, Senator Decker. Ms. Monroe has made her position clear. We will pursue further clarification in a classified session.”  
 
@@ -3517,7 +3517,7 @@ Alicia nodded slightly. “Understood, Senator.”
 
 ---
 
-#### **The Session Adjourns**  
+#### The Session Adjourns  
 
 The hearing concluded shortly after, the tension in the room palpable as Alicia gathered her documents and prepared to leave. The reporters in the gallery whispered among themselves, sensing that something significant was being hidden.  
 
@@ -3527,7 +3527,7 @@ But for now, the Wraith remained a shadow, and Hermes remained a secret.
 
 ### Epilogue, Part III: The Israelis  
 
-#### **The Mossad’s Discovery**  
+#### The Mossad’s Discovery  
 
 In a secure briefing room at Mossad headquarters in Tel Aviv, Director Yitzhak Ben-Ari stood before a digital map of Northern Iran. The map displayed the ruins of the destroyed narcotics facility, annotated with intelligence gathered from satellite images, regional assets, and intercepted communications.  
 
@@ -3543,7 +3543,7 @@ Ben-Ari’s expression darkened. “Then it’s time we find out.”
 
 ---
 
-#### **Diplomatic Pressure**  
+#### Diplomatic Pressure  
 
 The next morning, at the Israeli embassy in Washington, the Israeli Ambassador to the United States, Miriam Katz, sat across from Deputy Secretary of State William Carter in a private meeting room. The atmosphere was polite but tense.  
 
@@ -3561,7 +3561,7 @@ The ambassador’s smile faded. “This isn’t just about partnership, Bill. Th
 
 ---
 
-#### **Persistent Pressure**  
+#### Persistent Pressure  
 
 As the weeks passed, Israeli diplomatic channels ramped up their efforts. Letters were sent, meetings were requested, and backchannel discussions became increasingly frequent. The message was clear: Israel wanted answers, and it wasn’t going to stop asking.  
 
@@ -3573,7 +3573,7 @@ Ben-Ari frowned, his jaw tight. “Invisible or not, someone left their mark. If
 
 ---
 
-#### **Covert Leverage**  
+#### Covert Leverage  
 
 Back in Washington, Miriam Katz sat in a late-night meeting with her staff. A classified Mossad dossier lay open on the table, filled with speculative analyses of the Rudbar operation.  
 
@@ -3589,7 +3589,7 @@ Katz sighed, rubbing her temples. “I’ll escalate through diplomatic channels
 
 ---
 
-#### **The Growing Rift**  
+#### The Growing Rift  
 
 The persistence of Israeli pressure did not go unnoticed in Washington. Reports of the escalating demands made their way back to the CIA and State Department, adding another layer of complexity to an already delicate situation.  
 
