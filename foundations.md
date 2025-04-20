@@ -73,6 +73,11 @@ The Federation employs a standardized system to designate and categorize its div
 ## Foundational technologies
 The Federation, thanks to its extraterrestrial benefactors, has access to several technologies and materials beyond the reach of current terrestrial nation. These include high-performance engines and power plants, energy weapons and shields, advanced AI systems, and many others. 
 
+### Neural interfacing
+Federation platforms rarely use neural interfacing, as the technology is deemed to be too noisy under field conditions for reliable control. As such, Talons, Landmates, and other vehicles don't require "synchronization" or similar practices.
+
+That said, neural *implants* are in use, especially by covert ops specialists where it's used for communications and controlling other cybernetics. 
+
 ### Nanotechnology
 Notably, however, the benefactors have **not** granted access to self-replicating nanotechnology, citing the dangerous nature of such nanites. Nanotechnology is available to the Federation in limited modalities, usually restricted to _Utility Fog_-type deployments or small-scale pre-programmed self-assembling structures (such as wound dressings).
 
