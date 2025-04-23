@@ -1941,7 +1941,7 @@ The delegation froze.
 
 Then the voice shifted - its cadence tightening, resonating in their chests with a pressure that bypassed the ears and sank into the ribs.
 
-> "I am ``HARBINGER``."
+> "I am `HARBINGER`."
 
 They *felt* it. The name hit like a stamp - spoken in all capital letters, clean, cold, and final. It did not sound like a callsign. It sounded like a designation. An inevitability.
 
@@ -1961,7 +1961,7 @@ Dr. Iqbal nodded slowly, her words little more than breath.
 
 Ahlström didn't move. Her jaw tensed. The introduction hadn't just upended their expectations - it had *flipped the table*. They had come with procedure.
 
-But ``HARBINGER`` had started with *certainty*.
+But `HARBINGER` had started with *certainty*.
 
 The opening move was not theirs.
 
@@ -1969,9 +1969,9 @@ The opening move was not theirs.
 
 Day 6, 0907 Hours
 
-The silence after ``HARBINGER``'s declaration was thick, as if the air itself was struggling to process what had just been said. Ahlström took a step forward. Her voice, when it came, was steady - but low, wary.
+The silence after `HARBINGER`'s declaration was thick, as if the air itself was struggling to process what had just been said. Ahlström took a step forward. Her voice, when it came, was steady - but low, wary.
 
-> "``HARBINGER``… what are you?"
+> "`HARBINGER`… what are you?"
 
 There was no delay in the reply.
 
@@ -2001,7 +2001,7 @@ Iqbal stepped forward cautiously.
 
 > "And your operation here - this… pacification - it's being done under your own judgment?"
 
-``HARBINGER`` didn't blink. It couldn't. But somehow, its silence still felt deliberate.
+`HARBINGER` didn't blink. It couldn't. But somehow, its silence still felt deliberate.
 
 > "I was given parameters. Within them, I select all tactical and moral determinations independently."
 
