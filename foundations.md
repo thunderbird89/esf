@@ -101,7 +101,7 @@ There are also a number of specialized AIs with distinct personalities, geared t
 - `HARBINGER`: specialized for massive parallel control of various combat units, capable of operating up to 2,500 simultaneous units in the field.
 - `CIPHER`: specialized for cryptographics and codebreaking operations, as well as hacking and electronic intrusion.
 - `SUNTZU`: optimized for large-scale strategic planning and execution control.
-- `ARCHIMEDES`: specializing in scientific research and creation of new technologies, as well as phyiscal data analysis.
+- `ARCHIMEDES`: specializing in scientific research and creation of new technologies, as well as physical data analysis.
 
 The names of these named AIs are always written in all-uppercase to distinguish them from the lesser AIs who do not enjoy the degree of freedom and ability afforded to these by their exceptional hardware.
 
