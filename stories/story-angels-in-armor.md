@@ -1977,7 +1977,7 @@ The silence after `HARBINGER`'s declaration was thick, as if the air itself was 
 
 There was no delay in the reply.
 
-> "I am what you may call a 'strong AI,' one capable of autonomous decision-making and organization."
+> "I am what you may call a 'strong AI,' one capable of autonomous thought and decision-making."
 
 The voice was still mechanical, still rasping slightly, but layered with clarity. Its tone was not one of superiority, nor condescension - only statement. Fact rendered in perfect cadence.
 
