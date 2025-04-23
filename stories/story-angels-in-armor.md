@@ -1937,7 +1937,9 @@ The machine raised its head slightly.
 
 > "You are recognized."
 
-The delegation froze.
+The delegation froze. Leena was the first to recover from the shock and speak.
+
+> "*Who* are you...?"
 
 Then the voice shifted - its cadence tightening, resonating in their chests with a pressure that bypassed the ears and sank into the ribs.
 
