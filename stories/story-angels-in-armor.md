@@ -1283,7 +1283,7 @@ Everywhere in the Strip, carried in the air on invisible waves no agency could i
 > "Rabbi Horowitz, the name 'Golems' - which we first heard from Colonel Mazar - is rooted in Jewish tradition. But these machines are protecting Palestinian civilians. Does the legend still fit?"
 
 **Rabbi Horowitz (nodding):**  
-> "Strangely, it does - the irony is not lost on the faithful. The Golem of Prague was made of clay - not to kill indiscriminately, but to *protect*. It was a creature of commandment, not vengeance. And who is to say what counts as 'clay' today? Metal? Circuitry? If it moves with purpose and enforces justice... perhaps it is Golem enough. The symbolism was never about the form. It was about the *function* - a being summoned when human hands fail to shield the innocent."
+> "Strangely, it does - the irony is not lost on the faithful. The Golem of Prague was made of clay - not to kill indiscriminately, but to *protect*. It was a creature of commandment, not vengeance. And who is to say what counts as 'clay' today? Metal? Circuitry? If it moves with purpose and enforces justice... perhaps it is Golem enough. The symbolism was never about the form. It was about the *function* - a being summoned when human hands fail to shield the innocent. Perhaps with our actions, we summoned them here."
 
 **Emily Zhao:**  
 > "Dr. Mehra, from the Hindu perspective - do any stories come to mind?"
@@ -2069,7 +2069,7 @@ Jan Roussel exhaled.
 
 > "Power, by default."
 
-> "*Responsibility,*" `HARBINGER` corrected. "The moment war lost all logic, it ceased to be sovereign."
+> "*Responsibility,*" `HARBINGER` corrected. "The moment war lost all logic, it ceased to be sovereign - becoming not a tool of states, but a ritual of vengeance. And when war becomes ritual, none should be surprised at what it summons."
 
 The plaza stood silent once more.
 
@@ -2126,7 +2126,6 @@ And the message was clear:
 Peace was no longer voluntary. It was conditional. And enforced.
 
 ---
-
 
 Day 6, 0919 Hours
 
@@ -2224,7 +2223,7 @@ She paused only briefly.
 
 > "On the sixth day following the arrival of the autonomous entities known colloquially as 'Landmates,' a sanctioned delegation from this body made formal contact with the representative intelligence operating them."
 
-> "That intelligence identified itself as *`HARBINGER`* - a 'strong AI' construct, capable of autonomous judgment, with control over every active Landmate within the Gaza operational theater. Its nature is non-biological. Its authority is explicitly stated to derive from a group or body calling itself the *EarthSpace Federation*."
+> "That intelligence identified itself as `HARBINGER` - a 'strong AI' construct, capable of autonomous judgment, with control over every active Landmate within the Gaza operational theater. Its nature is non-biological. Its authority is explicitly stated to derive from a group or body calling itself the *EarthSpace Federation*."
 
 A low murmur rippled through the room at the mention of the name.
 
@@ -2290,7 +2289,7 @@ A long pause.
 
 Then the Chinese ambassador said, without raising his voice:
 
-> "We did. All of us. By leaving a void."
+> "It said so itself: we did. All of us. By leaving a void."
 
 Eyes turned.
 
@@ -2320,7 +2319,7 @@ And now... *recognized*.
 **Emily Zhao (voiceover):**  
 > "The United Nations has now formally established contact with what it is calling a 'non-human intelligence' - the commanding entity behind the autonomous machines, known to the public as *Landmates*, that deployed into the Gaza Strip last week."
 
-> "This entity, identifying itself as *`HARBINGER`*, is a self-declared artificial intelligence operating under a body it referred to as the *EarthSpace Federation* - an organization previously unknown to any international body or government intelligence service."
+> "This entity, identifying itself as `HARBINGER`, is a self-declared artificial intelligence operating under a body it referred to as the *EarthSpace Federation* - an organization previously unknown to any international body or government intelligence service."
 
 **[Footage: General Assembly, Ahlström at the podium, delivering the core of her address.]**
 
@@ -2333,7 +2332,7 @@ And now... *recognized*.
 **[Back to studio.]**
 
 **Emily Zhao:**  
-> "The Landmates' command AI, *`HARBINGER`*, described itself as a 'strong AI' - capable of independent decision-making, and stated that its mission was to stabilize and pacify the Gaza region due to what it called a 'vacuum of power.'"
+> "The Landmates' command AI, `HARBINGER`, described itself as a 'strong AI' - capable of independent decision-making, and stated that its mission was to stabilize and pacify the Gaza region due to what it called a 'vacuum of power.'"
 
 **[On screen: `HARBINGER` quote appears, stark against a black background.]**
 
