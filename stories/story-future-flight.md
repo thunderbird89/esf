@@ -270,10 +270,6 @@ Four jets descended. Three born of nation and budget. One born of something else
 
 ---
 
-Continuing *Future Flight* with the beginning of Chapter 2:
-
----
-
 ## Data Doesn't Lie
 
 The debrief room was a muted theater of brushed steel and recycled air. Rows of NATO officers, analysts, and observers filled the amphitheater, the kind usually reserved for aerospace incident reviews or weapons trials gone wrong. But today, the mood wasn't grim—it was *measured*.
@@ -2192,8 +2188,6 @@ Then he walked to the screen and tapped the blurred silhouette, frozen mid-frame
 > “Yes, sir,” Liu said.
 
 But they all knew the truth: they weren’t going to find anything.
-
-Continuing *Chapter 6: Sci-Fi is Real*:
 
 ---
 
