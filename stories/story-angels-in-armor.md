@@ -1714,10 +1714,6 @@ Across the cities, unseen to men, unheard by listening ears, known only to the s
 
 ---
 
-Certainly.
-
----
-
 ## Chapter 5: Contact
 
 ### United Nations Office at Geneva  
