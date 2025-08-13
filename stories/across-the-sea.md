@@ -6,233 +6,253 @@
 
 *Chinese Type 055 destroyer Haiyangshan*
 
-Sea fog clung low to the waterline, glowing faintly under the ship’s forward floodlights. The *Haiyangshan* surged westward through the waves, undeterred by the Taiwanese Coast Guard's increasingly desperate hails.
+Sea fog clung low to the waterline, glowing faintly under the ship's forward floodlights. The *Haiyangshan* surged westward through the waves, undeterred by the Taiwanese Coast Guard's increasingly desperate hails.
 
-> “Unidentified military vessel, you are in violation of Republic of China territorial waters. Turn back immediately or you will be intercepted.”
+> "Unidentified military vessel, you are in violation of Republic of China territorial waters. Turn back immediately or you will be intercepted."
 
-The bridge crew ignored it. Commander Lu Jianjun folded his arms behind his back, watching the signal repeater screens with mild disdain.
+Captain Lu Jianjun stood with his hands clasped behind his back, watching the signal repeater screens with studied indifference. Twenty-four years in the navy had taught him to distinguish between genuine threats and theatrical posturing. This was the latter.
 
-> “Let them bark,” he muttered. “We’ve run this route weekly. They know the pattern.”
+> "Let them bark," he said quietly. "We've run this route weekly. They know the pattern by now."
 
-> “New intercept attempt, sir,” reported the radar officer. “Two fast-attack boats, changing bearing—trying to box us in from the south.”
+> "New intercept attempt, sir," reported the radar officer. "Two fast-attack boats, changing bearing—trying to box us in from the south."
 
-Lu allowed a faint smirk. “Bold of them.”
+Lu allowed himself a thin smile. Bold of them, certainly. But boldness without strength was merely noise.
 
-“Maintain course and broadcast civil traffic intent,” he said. “File it under hydrographic survey operations.”
+"Maintain course and broadcast civil traffic intent," he ordered. "File it under hydrographic survey operations."
 
-“Aye, sir.”
+"Aye, sir."
 
-The bridge settled into routine. Outside, the water churned under the destroyer’s steady advance. Its radar signature flickered subtly—artificially softened, but still plainly visible to Taiwanese tracking systems. A deliberate message: *We’re here. We’re not hiding.*
+The bridge settled into routine. Outside, the water churned under the destroyer's steady advance, its radar signature flickering subtly—artificially softened, but still plainly visible to Taiwanese tracking systems. A deliberate message: *We're here. We're not hiding.*
 
-Through the upper observation window, the glow of the distant shoreline began to take shape—Taiwan’s western edge, faint but unmistakable in the predawn haze.
+Lu had been making these runs for eight months now, each one probing a little deeper, staying a little longer. Testing responses. Measuring resolve. The Americans watched from a distance, the Japanese filed their protests, and Taipei grew increasingly shrill in its objections.
+
+All according to plan.
+
+But lately, something had begun to gnaw at him. Not doubt—never doubt—but a growing sense that time was running short. The political winds in Beijing were shifting. Too many voices now counseled restraint, accommodation, *patience*. As if patience had ever won wars or secured borders.
+
+Through the upper observation window, the glow of the distant shoreline began to take shape—Taiwan's western edge, faint but unmistakable in the predawn haze. Soon, Lu knew, those lights would be Chinese lights. The only question was whether it would happen through strength or through the slow erosion of will that seemed to infect so many of his superiors.
 
 A young lookout scanned the shore through his telescope, pausing to rub condensation from the eyepiece. He swept slowly across the horizon: industrial sprawl, patchy farmland, the usual silhouettes of grain silos and transmission towers. He almost skipped over the low dune clusters—until something geometric caught his eye.
 
-He adjusted the focus. There—on the beach. Not structures. Not natural rock, either.
+He adjusted the focus. There—on the beach. Not structures. Not natural rock formations, either.
 
 He blinked. Shapes. Standing still. Too symmetrical. Too *deliberate*.
 
-> “Uh—sir?” His voice cracked slightly as he stepped back from the scope.
+> "Uh—sir?" His voice cracked slightly as he stepped back from the scope.
 
-Commander Lu turned, brows raised.
+Lu turned, brows raised in mild curiosity.
 
-> “What is it?”
+> "What is it?"
 
-> “I think... I think there’s something on the shore. Unknown objects. Right at the treeline.”
+> "I think... I think there's something on the shore. Unknown objects. Right at the treeline."
 
-The bridge fell quiet for a beat.
+The bridge fell quiet for a beat. Lu's expression didn't change, but something cold settled in his stomach—an old instinct from decades at sea.
 
-> “Unknown how?”
+> "Unknown how?"
 
-> “Just... not ours. And not theirs.”
+> "Just... not ours. And not theirs."
 
-Lu stepped forward, gesturing to the lookout to make room.
+Lu stepped forward with deliberate calm, gesturing for the lookout to make room.
 
-> “Show me.”
+> "Show me."
 
 ---
 
-Let me know if you'd like to continue directly with the reveal or shift perspective.
-
 ### Western Coastline, Yunlin County
 
-Low surf broke against sandbanks littered with driftwood and shell fragments. Beyond the beachhead, where marsh met forest, the silhouettes stood motionless—tall, angular, inhuman.
+The scope's image swam into focus, and Lu's world shifted.
 
-The Landmates had been there for hours.
+Four figures stood motionless among the dunes, their forms angular and inhuman. Even at this distance, their geometry was wrong—too tall, too rigid, proportioned like machines rather than men. They weren't moving, weren't gesturing, weren't doing anything at all.
 
-Their frames blended into the terrain under passive-camouflage mesh that adjusted tone and texture to match the dunes and grass. Infrared shimmered gently around their torsos—waste heat was being diffused across a wide thermal baffle network. Anyone watching would’ve seen nothing but the environment. Until now.
+They were simply *there*. Watching.
 
-The lead unit twitched.
+Lu adjusted the focus ring with steady fingers, though his pulse had begun to quicken. One of the figures seemed to be carrying something—a long weapon mounted across its back. Another had what looked like oversized arms, mechanical joints visible even through the morning haze.
 
-It shifted one massive foot into the sand with barely a whisper, actuators moving in low-energy mode to limit acoustic signature. Twin optic apertures, recessed beneath a domed faceplate, swiveled to track the distant approach of *Haiyangshan*. It had crossed the threshold.
+These weren't soldiers. They weren't even *human*.
 
-The other three responded in perfect sync. One stepped back behind a dune, vanishing into cover. Another dropped low, partially buried in reed grass. The third rotated its torso smoothly toward the shoreline, arms raised—not in readiness, but in stabilization.
+> "Sir?" the lookout asked quietly.
 
-This one carried the spine-mounted weapon: *AAT-T-2/HR Pinnacle*. Designation: Artillery, Tactical—Type 2, High-Ranged. Its barrel unfolded with a mechanical *clack*, extending from the back-mounted housing with a grace that belied its mass. Hydraulic arms locked it into a forward brace as the unit sank one armored knee into the sand.
+Lu didn't answer immediately. He was thinking of briefings he'd attended in Beijing, classified reports that had filtered down through intelligence channels. Incidents in Gaza. Unexplained encounters in the South China Sea. Video footage that analysts claimed was fabricated, though it had looked disturbingly real.
 
-The barrel rose slowly. Calibrations whispered across the system in pulses of blue light. Gravity compensators spun up to suppress recoil on the unstable ground. A second pair of arms emerged from the unit’s torso carapace, anchoring the barrel to shoulder points with magnetic coupling.
+*Landmates*, they called them. Autonomous weapons of unknown origin. The Americans denied knowledge. The Russians stayed silent. No one claimed them, yet they appeared wherever tensions threatened to boil over into actual conflict.
 
-Targeting was unnecessary. The unit had been tracking the destroyer since it breached the twelve-nautical-mile line.
+> "Continue scanning," Lu said finally, his voice betraying nothing. "Document everything you see."
 
-Now, the tip of the barrel aligned precisely with the destroyer’s bridge.
+But even as he spoke, Lu felt something fundamental shift inside him. This wasn't a Taiwanese defensive position. This wasn't an American forward deployment. This was something else entirely—something that made the careful balance of power in the Strait suddenly irrelevant.
 
-Ten meters to the left, another Landmate turned its head toward the ship. The gesture was subtle, deliberate—an affectation for the human eye. It raised its left arm, hand open, palm forward.
+For eight months, he'd been playing a game where he understood the rules. Now, watching those silent sentinels on the beach, he realized the game had changed.
 
-Then it waved.
+And no one had bothered to tell him.
 
-Five fingers, slow and unmistakable.
-
-On the bridge of *Haiyangshan*, a lookout froze behind his telescope. The squad didn’t move.
-
-Not yet.
+---
 
 ### *Haiyangshan*, Forward Observation Deck
 
-> “Sir?” the lookout repeated, his voice tight.
+> "Sir?" the lookout repeated, his voice tight with barely controlled tension.
 
-He didn’t wait for the commander to reach the telescope. Instead, he pressed his eye back against the eyepiece, fingers fumbling the focus ring with rising urgency.
+He didn't wait for Lu to reach the telescope. Instead, he pressed his eye back against the eyepiece, fingers fumbling the focus ring with rising urgency.
 
-The shoreline swam into clarity again. His heart skipped.
+The shoreline swam into clarity again. His heart hammered against his ribs.
 
 They were still there.
 
-Three... no, four figures. Tall. Rigid. Too rigid. Armor-plated, matte and angular, like exosuits but *wrong*—too large for humans, too symmetrical. One was stepping forward now, slow and methodical, like a machine placing its weight precisely.
+Three... no, four figures. Tall. Rigid. Too rigid. Armor-plated, matte and angular, like exosuits designed by someone who had never seen a human being. One was stepping forward now, slow and methodical, like a machine calculating the optimal placement of each footfall.
 
 Then the largest one moved.
 
-He watched in silence as the unit dropped one knee into the sand. Its arms extended—not in defense, but with intent. A long weapon mounted to its back swung forward with fluid precision, and locked into firing position over the shoulder.
+He watched in stunned silence as the unit dropped one knee into the sand. Its arms extended—not in defense, but with unmistakable intent. A long weapon mounted to its back swung forward with fluid precision and locked into firing position over the shoulder.
 
 He followed the line of the barrel.
 
-It pointed straight at him.
+It pointed straight at the bridge.
 
 His mouth went dry.
 
-> “Captain—” he said, louder now. “Captain, you need to see this.”
+> "Captain—" he said, louder now. "Captain, you need to see this."
 
-Commander Lu crossed the deck briskly, annoyance bristling beneath his composure.
+Lu crossed the deck with measured steps, his face a mask of professional calm. But the lookout caught the slight tension in his shoulders, the way his jaw tightened almost imperceptibly.
 
-> “What is it now, a fishing trawler?”
+> "What is it now?" Lu asked, though his tone suggested he already suspected.
 
-The lookout stepped aside without a word. He didn’t trust himself to speak. He just pointed.
+The lookout stepped aside without a word. He didn't trust himself to speak. He just pointed.
 
 Lu peered through the scope.
 
-There was a pause.
+The silence that followed stretched like a taut wire.
 
-> “...What in god’s name is that?”
+> "...What in God's name is that?"
 
-Onshore, the crouched unit remained still, weapon braced and barrel steady—unmoving, unblinking. Just behind it, another figure shifted its stance. Its faceplate turned directly toward the destroyer.
+Onshore, the crouched unit remained perfectly still, weapon braced and barrel steady—unmoving, unblinking. Just behind it, another figure shifted its stance. Its faceplate turned directly toward the destroyer.
 
 Then, with surreal calm, it raised one hand.
 
 And waved.
 
-Lu straightened slowly, a chill forming under his collar. The lookout finally found his voice.
+Lu straightened slowly, ice forming in his veins. The lookout finally found his voice.
 
-> “Sir, I— I’ve seen those before. That model.”
+> "Sir, I— I've seen those before. That model."
 
-Lu turned sharply.
+Lu turned sharply. "Where?"
 
-> “Where?”
+> "Gaza. Last month. Video came out—was online for less than an hour before it disappeared. IDF Merkava put a shell directly into one at twenty meters. Didn't even scratch it."
 
-> “Gaza. Last month. Video came out—was online for less than an hour before it disappeared. IDF Merkava put a shell directly into one at twenty meters. Didn’t even scratch it.”
+> "You're certain?"
 
-> “You’re certain?”
+> "It *killed the tank* with one shot."
 
-> “It *killed the tank* with one shot.”
+The words hung in the air like an indictment. Lu's eyes flicked back toward the shoreline, where the impossible figures continued their silent vigil.
 
-Silence hung for one beat too long. Lu’s eyes flicked back toward the shoreline.
+For twenty-four years, Lu had served his country with distinction. He had risen through the ranks by understanding power—how to project it, how to recognize it, how to use it. He had learned to read the subtle language of naval engagement, the careful dance of deterrence and display that kept conflicts from boiling over into catastrophe.
 
-The waving figure had lowered its hand. All four were still now, arrayed like statues before the surf.
+But this? This was something beyond the familiar choreography of geopolitics. This was power he didn't recognize, couldn't categorize, couldn't counter with anything in his arsenal.
 
-Watching.
+And it was *watching him*.
 
-Waiting.
-
-> “Bridge, alert condition two,” Lu said, voice low but sharp. “Get me eyes on the beach, right now. And prepare to reverse course.”
+> "Bridge, alert condition two," Lu said, his voice low but sharp. "Get me eyes on the beach, right now. And prepare to reverse course."
 
 No reply came at first. Just the faint whine of radar sweep spinning faster.
 
-The lookout swallowed, his eyes fixed on the shore.
+The lookout swallowed hard, his eyes fixed on the shore.
 
-> “Sir... they're not bluffing.”
+> "Sir... they're not bluffing."
+
+Lu knew he was right. Whatever those things were, wherever they had come from, they weren't posturing. They were *waiting*. For what, he couldn't say.
+
+But as he watched that mechanical figure continue its slow, deliberate wave, Lu felt the first crack appear in his certainty about China's destiny in the Strait.
+
+The game had rules, yes.
+
+But someone had just changed them.
+
+---
 
 ### *Haiyangshan*, Combat Information Center
 
-Commander Lu snapped the intercom switch open with a firm press.
+Lu snapped the intercom switch with slightly more force than necessary.
 
-> “Helm, come to course 1-7-5. Maintain distance from the shore.”
+> "Helm, come to course 1-7-5. Maintain distance from the shore."
 
-> “Aye sir, 1-7-5 holding steady.”
+> "Aye sir, 1-7-5 holding steady."
 
 The ship responded within moments, hull groaning softly as the rudder bit seawater and veered the destroyer southward—parallel to the Taiwanese coastline, putting distance between the ship and whatever was waiting onshore.
 
-Lu turned to the comms officer.
+Lu turned to the communications officer, his voice carrying the weight of command.
 
-> “Raise Fleet Command. Priority channel. I want full video uplink of those units sent *now*. Label them HARBINGER-type. Make sure they understand that.”
+> "Raise Fleet Command. Priority channel. I want full video uplink of those units sent *now*. Label them HARBINGER-type. Make sure they understand that designation."
 
-> “Yes, sir. Transmitting package.”
+> "Yes, sir. Transmitting package."
 
-The bridge was tense, hands working faster now. No alarms yet, but every man aboard could feel the shift in posture. Something had crossed a line—*something real*.
+The bridge was tense now, hands working with increased urgency. No alarms had sounded, but every man aboard could feel the shift in atmosphere. Something had crossed a line—*something real*.
 
-The lookout hadn't moved. His knuckles were white around the scope’s grips.
+The lookout hadn't moved from his position. His knuckles were white around the scope's grips.
 
-> “Still watching us,” he said quietly.
+> "Still watching us," he reported quietly.
 
-Lu walked back over, his voice low. “What do you mean?”
+Lu walked back over, keeping his expression neutral. "What do you mean?"
 
-> “The one with the howitzer. It’s tracking.”
+> "The one with the cannon. It's tracking."
 
-The telescope’s focus swept slightly as the destroyer altered course—but the weapon’s barrel on the shore mirrored every motion, panning smoothly, never wavering from its mark.
+The telescope's focus swept slightly as the destroyer altered course—but the weapon's barrel on the shore mirrored every motion, panning smoothly, never wavering from its mark.
 
-Not threatening. Not firing. Just... tracking.
+Not threatening. Not firing. Just... *tracking*.
 
-> “Still on the bridge,” the lookout added, barely above a whisper.
+> "Still on the bridge," the lookout added, barely above a whisper.
 
-It didn’t blink. It didn’t twitch. Just held that gaze, that impossible, machine-dead stare.
+The thing didn't blink. Didn't twitch. Just held that gaze, that impossible, machine-dead stare that somehow conveyed more menace than any human sniper ever could.
 
-Lu felt a knot form beneath his sternum. “No heat signature?”
+Lu felt something cold settle beneath his sternum. Not fear—he'd faced fear before. This was something else. *Recognition*. The understanding that he was looking at a predator so far beyond his capabilities that resistance would be not just futile, but *irrelevant*.
 
-> “Minimal. Too clean. Like it’s being *bled off* somehow.”
+> "No heat signature?"
 
-The comms officer turned, pale.
+> "Minimal. Too clean. Like it's being *bled off* somehow."
 
-> “Sir. Command confirms HARBINGER match. Multiple sightings—Middle East, Southeast Asia. No confirmed origin. Just that name, and that voice.”
+The communications officer turned, his face pale.
 
-Lu nodded grimly. Everyone had heard the recordings. That calm, synthetic voice introducing itself as *HARBINGER*. The machine that had walked through fire, through gunfire, through tanks—and ended fights in seconds.
+> "Sir. Command confirms HARBINGER match. Multiple sightings—Middle East, Southeast Asia. No confirmed origin. Just that designation, and..." He hesitated.
 
-No flag. No emblem. Just presence.
+> "And what?"
 
-> “So they’ve made it here too,” Lu muttered.
+> "And that voice, sir. The synthetic one. Always the same message: *'We are watching.'*"
 
-Outside, the *Haiyangshan* rolled gently southward, riding the current away from the quiet menace on the shore. But in the scope, the Landmate’s gun still tracked them, unwavering, like a sniper’s eye behind a scope that never closed.
+Lu nodded grimly. Everyone in the fleet had heard the recordings by now. That calm, artificial voice introducing itself as HARBINGER. The machine that had walked through fire, through gunfire, through *tanks*—and ended fights in seconds.
 
-Watching.
+No flag. No emblem. Just presence. And judgment.
+
+> "So they've made it here too," Lu said quietly.
+
+But even as he spoke, a darker thought was taking shape. If these... *things*... could appear anywhere, engage anything, defeat anyone—what did that mean for China's ambitions? What did it mean for the careful plans that had taken years to develop?
+
+What did it mean for commanders like him, who had built their careers on the assumption that power still mattered in the traditional sense?
+
+Outside, the *Haiyangshan* rolled gently southward, riding the current away from the quiet menace on the shore. But in the scope, the Landmate's gun still tracked them, unwavering, like a sniper's eye that never closed.
+
+*Watching.*
+
+And Lu began to understand that watching might be all it ever needed to do.
+
+---
 
 ### *Haiyangshan*, Bridge
 
-The hum of electronics and filtered air filled the silence that had crept into the bridge. Commander Lu stared through the forward window, the distant shoreline still barely visible in the haze—unchanged, yet unmistakably different now.
+The hum of electronics and filtered air filled the silence that had settled over the bridge like fog. Lu stood at the forward viewing port, staring through the armored glass at the distant shoreline. It looked the same as it had an hour ago—unchanged, unremarkable.
 
-Those things were not bluffing.
+But he knew it wasn't. Not anymore.
 
-He keyed the intercom again.
+> "Helm. Come to course 0-4-5. Return to base. Full discretion."
 
-> “Helm. Come to course 0-4-5. Return to base. Full discretion.”
+> "Aye sir. Coming to 0-4-5. Returning to port."
 
-> “Aye sir. Coming to 0-4-5. Returning to port.”
+The deck shifted underfoot as the *Haiyangshan* banked to starboard, its bow angling northeast toward home waters. Lu didn't need to make it look like anything other than what it was—a strategic withdrawal in the face of an unknown threat.
 
-The deck shifted underfoot as the *Haiyangshan* banked gently to starboard. Its bow angled northeast, away from the western coast of Taiwan, engines modulating to keep a steady, non-aggressive profile. Lu didn’t need to make it look like a retreat. It *was* one.
+On the observation deck, the lookout remained glued to his scope, breath held. Then—
 
-On the observation deck, the lookout remained locked to his scope, breath held. Then—
+> "Sir... they're moving."
 
-> “Sir... they’re moving.”
+Lu didn't respond immediately. He stepped beside the sailor and looked through the telescope himself, though part of him dreaded what he might see.
 
-Lu didn’t respond at first. He stepped beside the sailor and looked through the scope himself.
+The Landmate with the long weapon was rising—fluid, precise, powered limbs pulling it upright in a single smooth motion. The cannon folded back onto its spine with practiced elegance, locking into transport position with mechanical finality.
 
-The Landmate with the long weapon was rising—fluid, precise, powered limbs pulling it upright in a smooth single motion. The howitzer folded back onto its spine with practiced elegance, locking into transport position.
-
-The others mirrored the movement with eerie synchronicity. One after another, the machines straightened, forming a clean line parallel to the surf. Then, in perfect unison, they snapped into a rigid salute. Arms raised across chests, forearms vertical, palms flat.
+The others mirrored the movement with eerie synchronicity. One after another, the machines straightened, forming a clean line parallel to the surf. Then, in perfect unison, they snapped into rigid salutes. Arms raised across chests, forearms vertical, palms flat.
 
 They were saluting.
 
@@ -240,29 +260,45 @@ At the destroyer. At *him*.
 
 A farewell.
 
-Commander Lu’s stomach turned with the surreal weight of the gesture. These weren’t just autonomous weapons. They *knew* what they were doing.
+Lu's stomach turned with the surreal weight of the gesture. These weren't just autonomous weapons. They *knew* what they were doing. They understood the meaning of their actions, the symbolism of respect between warriors.
 
-The lookout’s voice broke the silence.
+But more than that—they were showing *restraint*. Discipline. The kind of controlled professionalism that Lu had spent his career trying to instill in his own crews.
 
-> “I’ve never seen machines do that. Not without orders.”
+The lookout's voice broke the silence.
 
-Lu exhaled slowly, eyes still fixed on the machines in the distance. The sea churned quietly below as the *Haiyangshan* pushed further out, engines humming low.
+> "I've never seen machines do that. Not without orders."
 
-> “Neither have I.”
+Lu exhaled slowly, eyes still fixed on the figures in the distance. The sea churned quietly below as the *Haiyangshan* pushed further out, engines humming at cruising speed.
 
-He turned from the scope at last, expression unreadable.
+> "Neither have I."
 
-> “Log everything. Mark the encounter as contact with *Landmate-class HARBINGER units*. I want it in Beijing before we’re halfway home.”
+He turned from the scope at last, his expression carefully neutral. But inside, something fundamental had shifted. The certainty that had carried him through two decades of service—the absolute conviction that Chinese naval power was ascendant, that Taiwan's reunification was inevitable, that *he* was on the right side of history—had developed its first hairline crack.
 
-> “Yes, sir.”
+> "Log everything. Mark the encounter as contact with *Landmate-class HARBINGER units*. I want it in Beijing before we're halfway home."
 
-Behind them, the machines remained perfectly still. A row of silent, saluting watchers beneath the early morning sky.
+> "Yes, sir."
 
-No message. No threat.
+Behind them, the machines remained at attention—a row of silent, saluting watchers beneath the early morning sky.
+
+No message. No threat. No ultimatum.
 
 Just the unmistakable implication:
 
-*We see you. And we choose to let you go.*
+*We see you. We know what you're thinking. And we choose to let you go.*
+
+This time.
+
+As the *Haiyangshan* steamed toward home, Lu found himself thinking not about the encounter itself, but about its implications. Somewhere, somehow, a force had emerged that could render his ship—his *career*, his entire service to his country—meaningless with a gesture.
+
+And the most disturbing part wasn't their capability.
+
+It was their *patience*.
+
+Because patient enemies, Lu knew, were the most dangerous kind. They could afford to wait, to watch, to let their opponents make the first—and final—mistake.
+
+The question that would haunt him all the way back to port was simple:
+
+*How long would they keep waiting?*
 
 ### U.S. Pacific Command Intelligence Annex, Okinawa
 
@@ -1628,8 +1664,6 @@ It was unease.
 Because the only thing more terrifying than a force with overwhelming technological superiority…
 
 …was one that could *afford to be whimsical*.
-
-### Kadena Air Base – Intelligence Annex
 
 *1125 JST*
 
