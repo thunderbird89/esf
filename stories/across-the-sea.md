@@ -2122,9 +2122,11 @@ He didn’t have to.
 
 *2047 CST*
 
-Captain Lu stood alone on the bridge, the decklights dimmed to battle-readiness. Outside, the stars barely glimmered behind high-altitude haze. The water was smooth, black, and complicit.
+Captain Lu Jianjun stood alone on the bridge, the decklights dimmed to battle-readiness. At forty-eight, twenty-four years of naval service had etched lines of command into his weathered face. Outside, the stars barely glimmered behind high-altitude haze. The water was smooth, black, and complicit.
 
-The *Haiyangshan* cut through it like a blade.
+In his left hand, he held a photograph—his grandfather in the uniform of the People's Volunteer Army, taken before crossing the Yalu River in 1950. Three generations of Lu men had served the nation. Tonight, he would be the last.
+
+The *Haiyangshan* cut through the water like a blade.
 
 Below decks, the combat systems were already powered. Missile tubes primed. CIWS on standby. Fire control synced with the rest of the flotilla—*Lakan*, *Feiya*, *Shezen*, and *Baizou*—all of them maintaining EMCON silence except for their tight-beam tactical links.
 
@@ -2132,30 +2134,32 @@ No pings. No beacons. Just ghosts in the dark.
 
 > Ninety-one minutes to Taipei.
 
-They’d slipped the dock at Fuzhou just after dusk, claiming systems testing as cover—routine drills to mask the real operation. They’d known it wouldn’t hold long. Not with the kind of power watching the Strait now. But long enough.
+They'd slipped the dock at Fuzhou just after dusk, claiming systems testing as cover—routine drills to mask the real operation. Lu had signed the falsified orders himself, each stroke of his pen another step toward treason. They'd known it wouldn't hold long. Not with the kind of power watching the Strait now. But long enough.
 
-Long enough to fire.
+Long enough to fire. Long enough to matter.
 
-Lu paced back to the chart table, where a physical map lay splayed beneath transparent overlays of radar ranges, coastal artillery arcs, and urban sprawl. He traced a finger down the western edge of Taiwan, stopping at a pinpoint.
+Lu paced back to the chart table, where a physical map lay splayed beneath transparent overlays of radar ranges, coastal artillery arcs, and urban sprawl. He traced a finger down the western edge of Taiwan, stopping at a pinpoint. His grandfather's photograph lay beside the charts—watching, judging.
 
 **Target Reference: ROCMOD 1A – Taipei Command Nexus**
 **Time to Strike: 00:18 CST**
 
-This was the plan. Months in the making.
+This was the plan. Months in the making. Born not from madness, but from love—love of country twisted by frustration into something unrecognizable.
 
-It hadn’t started with madness. It had started with *certainty*—certainty that unification could not be achieved with speeches or handshakes. That the Americans would never allow it. That deterrence had failed.
+It hadn't started with madness. It had started with *certainty*—certainty that unification was China's destiny, written in blood and sacrifice across generations. That the Americans would never permit it. That Beijing's politicians lacked the will to reclaim what was rightfully theirs.
 
-And now… deterrence had *mutated*.
+And now… the world had changed beyond recognition.
 
-The Landmates. The black aircraft. The grotesque, silent warnings. Superiority beyond comprehension. *Compliance through awe.*
+The Landmates. The black aircraft. The grotesque, silent warnings. Superiority beyond comprehension. *Compliance through awe.* 
 
-Lu had been ready to act before they appeared. He and the others—the cadre of true believers buried like rot in the upper decks of the PLA Navy—had watched in silence as the window narrowed.
+Lu had watched them emerge from the sea that first time, watched his destroyer's weapons systems become toys in comparison. He'd felt his life's work—his grandfather's legacy—rendered obsolete in a single moment. Every naval battle studied, every tactical doctrine mastered, every promotion earned through competence rather than connections—all meaningless before entities that could walk on water and casually threaten the most advanced warship in the PLAN fleet.
 
-Now the curtain was coming down.
+He and the others—the cadre of true believers buried in the upper decks of the PLA Navy—had watched Beijing's response with growing horror. *Accommodation. Negotiation. Delay.* While foreign forces established themselves as arbiters of Chinese sovereignty.
 
-They would strike before the illusion of peace hardened into permanence. Before the strange machines on Taiwan's shores became gatekeepers instead of ghosts. Before *whatever faction* had deployed them clamped its hands around the Strait forever.
+Now the curtain was coming down on China's century of humiliation, not with triumph, but with submission to alien overseers.
 
-This would be a *signal*.
+They would strike before the illusion of peace hardened into permanent subjugation. Before the strange machines on Taiwan's shores became permanent gatekeepers of the Strait. Before *whatever power* controlled them decided China's future for her.
+
+This would be a *signal*—not of madness, but of refusal. China would not kneel. Not while Lu Jianjun still drew breath.
 
 Not to Taipei. Not even to Beijing.
 
@@ -2163,27 +2167,33 @@ But to *them*.
 
 The doors hissed open behind him.
 
-Commander Gao entered, grim-faced.
+Commander Gao entered, grim-faced. Lu tucked the photograph into his uniform pocket.
 
-> “The emergency broadcast was sent. They know we’re rogue.”
+> "The emergency broadcast was sent. They know we're rogue."
 
-> “Good,” Lu said flatly. “Let them scream into the void.”
+> "Good," Lu said flatly, his voice carrying the weight of generations. "Let them understand we act by choice, not cowardice."
 
-> “Yokosuka will have eyes on us within the hour.”
+> "Yokosuka will have eyes on us within the hour."
 
-> “They’ll hesitate,” Lu replied. “They always do when the orders don’t make sense. By the time they react, we’ll be in strike range.”
+> "They'll hesitate," Lu replied. "The Americans always do when the moral calculus isn't clear. By the time their politicians find their spines, we'll be in strike range."
 
-He looked once more toward the forward bridge windows. The darkness ahead was uninterrupted. But he knew—somewhere in it, something was watching.
+He looked once more toward the forward bridge windows. The darkness ahead was uninterrupted. But he knew—somewhere in it, something was watching. Something that had already measured his ship, his weapons, his resolve, and found them... quaint.
 
-> “Maintain speed. Do not break formation. No transmissions. We move like we planned.”
+> "Maintain speed. Do not break formation. No transmissions. We move like we planned."
 
-Gao nodded.
+Gao hesitated. "Captain, do you truly believe this will change anything?"
 
-> “For the Republic?”
+Lu turned, and for a moment the facade of certainty cracked. In his eyes was not madness, but the terrible clarity of a man who had stared into the abyss of his nation's obsolescence.
 
-Lu’s expression didn’t change.
+> "It will show the world that some Chinese still remember what honor means. That we would rather die as patriots than live as vassals."
 
-> “No,” he said. “For the *truth*.”
+Gao nodded slowly.
+
+> "For the Republic?"
+
+Lu's expression hardened again, but there was something almost gentle in his voice—the tone of a teacher explaining a difficult lesson.
+
+> "No, Gao. For the *truth*. The truth that some things are worth dying for, even when dying changes nothing."
 
 And far beneath the hull, rows of vertical launch cells waited silently for the final command.
 
@@ -2624,25 +2634,47 @@ And now, they were gone.
 
 *2133 TST*
 
-Captain Lu never saw it coming.
+Captain Lu saw the intercept display go dark and understood immediately.
 
-One second, he stood hunched over the plotting board, watching the arc of missiles that were no longer on their way to Taipei—reduced, atomized by an intercept that should not have been possible.
+One second, he stood watching the plotting board as his missiles disappeared—not one by one, but all at once, atomized by a precision that defied every tactical doctrine he'd ever studied.
 
 His XO was mid-sentence:
 
-> “They're burning in, I repeat, all incoming munitions have been—”
+> "They're burning in, I repeat, all incoming munitions have been—"
 
-That was as far as he got.
+"Eliminated," Lu finished quietly. "All of them."
 
-A *jolt*, like a train car slamming into a wall, tore through the bridge.
+He straightened slowly, his hands still gripping the edge of the plotting table. Around him, the bridge crew stared at their displays in stunned silence. Twenty-four missiles, fired from maximum range with full saturation protocols. Gone in less than three seconds.
 
-No warning. No streak across the sky. No light. No sound.
+Lu had expected this. Deep down, he'd known from the moment they'd fired that their weapons would never reach Taipei. But watching the confirmation still felt like a blade twisting in his chest.
 
-Just *impact*.
+He pulled his grandfather's photograph from his uniform pocket, studying the young face in faded sepia. Three generations of Lu men, and he would be the one remembered as a traitor. History would not understand. History rarely did.
 
-A shattering explosion from directly above, an impossibly fast hammerblow from some unseen hand. The bridge bulkhead cracked and disappeared in the same moment. Metal twisted inward like paper around a spike. A split-second of vacuum followed as the surrounding hull ruptured, sucking out air, flame, and men.
+"Sir," his sensor operator called out, voice tight with professional alarm. "I'm detecting infrared designators. Five sources. Coastal emitters."
 
-Lu didn’t feel the explosion. He was already gone.
+Lu didn't look up from the photograph. "Range to targets?"
+
+"Fourteen point seven kilometers. Direct bearing on our position."
+
+So close. They'd let his ships come so close before showing their hand. A professional courtesy, perhaps—or simple confidence.
+
+"Time to impact?"
+
+"Sir, I'm not detecting any launch signatures—"
+
+Lu tucked the photograph back into his pocket and turned to face his crew. Young men and women who had followed him into this, trusting in his judgment, his competence, his certainty. They deserved better than to die confused.
+
+"Attention," he announced, his voice carrying the same steady authority that had commanded this bridge for three years. "What comes next is not failure. It is the price of refusing to surrender Chinese sovereignty to foreign powers."
+
+His XO stared at him. "Captain?"
+
+Lu looked once more through the forward windows. Somewhere out there in the darkness, entities beyond his understanding were taking aim. Their weapons would be precise. Professional. He found himself oddly grateful for that.
+
+"Tell the crew," he said quietly. "We served with honor. We chose—"
+
+The impact came from directly ahead - not an explosion, but a *hammer blow* that crushed the bridge superstructure like an eggshell. In his final moment, Lu felt a strange peace. He had stared into the abyss of China's obsolescence and refused to blink.
+
+His grandfather would have understood.
 
 ### Aboard *Lakan* – Combat Information Center
 
