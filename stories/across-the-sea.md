@@ -3115,3 +3115,216 @@ Melissa exhaled softly and shuffled the next page into view.
 The screen faded to a slow pan over burning shipwrecks—taken by a Taiwanese Coast Guard drone still circling the carnage.
 
 And somewhere above, unseen, the sky was watching.
+
+## Chapter 5: Going Viral
+
+### Tamsui Fishing Harbor, Taipei
+
+*0847 TST*
+
+The morning air still carried the faint acrid smell of burnt metal and electrical discharge, but the sirens had finally stopped. Along the harbor, orange cones and yellow tape marked where emergency crews had swept for debris—fragments of concrete and twisted metal that had been blasted loose when the Landmates fired their impossible weapons into the night.
+
+Chen Wei-Ming balanced on a stepladder, adjusting the angle of the CCTV camera mounted above his uncle's bait shop. At seventeen, he was supposed to be in school, but Uncle Chen had called him at dawn with urgent work—half the harbor's security cameras had been knocked offline by the electromagnetic pulse, and the insurance company wanted footage of any damage.
+
+Wei-Ming didn't mind skipping classes. This was more interesting than calculus.
+
+> "Does this one still work?" he called down to his uncle, who was sweeping glass from the shop's front window.
+
+> "Check the timestamp. If it recorded through the night, we're lucky."
+
+Wei-Ming connected his laptop to the camera's storage unit and scrolled through the footage. Most of it was routine—empty docks, the occasional fishing boat, seagulls. Then he hit 21:33:00 and nearly fell off the ladder.
+
+> "Uncle," he said quietly. "Uncle, you need to see this."
+
+The timestamp read 21:33:12 when the water at the end of the pier *moved*. Not waves—something rising from beneath. Wei-Ming held his breath as a dark shape broke the surface, water cascading off angular armor plating. Then another. Then three more.
+
+The Landmates emerged like mechanical gods, each movement precise and deliberate. Wei-Ming had seen the Gaza footage—everyone had—but this was different. This was *here*. This was real.
+
+He watched, transfixed, as they took position with military precision. The spinal weapons rose in perfect synchronization. Then came the moment that made his hands shake on the laptop: five brilliant flashes of light, followed immediately by the violent electrical arcing that had knocked out half the harbor's electronics.
+
+> "Aiya..." his uncle breathed over his shoulder. "They were *here*. Right here."
+
+Wei-Ming was already thinking. This wasn't just amazing—this was *gold*. Better than Gaza, because this showed them in action. Better than any news report, because this was raw, unfiltered, *authentic*.
+
+He scrubbed back to the emergence and started clipping.
+
+### Tamsui Fishing Harbor
+
+*0923 TST*
+
+Wei-Ming's editing setup was nothing fancy—just his gaming laptop and some pirated video software—but he knew what made content viral. He'd been running a tech review channel for two years, small but growing. This was going to change everything.
+
+He trimmed the clip to ninety seconds, starting with the first Landmate breaking the surface. Slow motion for the emergence—that was pure cinema. Real-time for the positioning sequence to show their inhuman coordination. Then slow motion again for the firing, with the electrical effects clearly visible as they arced between metal surfaces.
+
+For the final touch, he overlaid the timestamp and location data. Authenticity was everything.
+
+> "臥槽..." he muttered, watching the preview. Even he was getting chills.
+
+He uploaded to Weibo first—his home turf, 40,000 followers who trusted his tech content. The caption was simple: "LANDMATES IN ACTION - Tamsui Harbor, last night. Real footage, real weapons. #Landmates #Taiwan #你相信嗎"
+
+Then Twitter. Then TikTok. Then YouTube as a backup.
+
+His phone buzzed with the first notification before he'd finished the uploads.
+
+### Weibo - @TechBoyTaiwan
+
+*Posted 41 seconds ago*
+
+**Video views: 847**  
+**Shares: 23**  
+**Comments: 12**
+
+> @Lin_Photographer: 這是真的嗎？(Is this real?)
+> @TechBoyTaiwan: 100% real. Happened last night during the naval incident.
+> @GamerTaipei: Holy shit those electrical effects
+> @NewsHunter99: WHERE DID YOU GET THIS
+> @TechBoyTaiwan: @NewsHunter99 My uncle's security camera
+
+*Refresh*
+
+**Video views: 2,156**  
+**Shares: 89**  
+**Comments: 34**
+
+*Refresh*
+
+**Video views: 8,923**  
+**Shares: 312**  
+**Comments: 127**
+
+Wei-Ming stared at his phone. In ten minutes, his follower count had jumped by three thousand. The notifications were coming so fast they were just a continuous buzz.
+
+Someone had already ripped his video and posted it to international platforms. The watermark was gone, but the footage was spreading like wildfire across Reddit, Twitter, Instagram. News aggregators were picking it up. His 40,000-follower Weibo account had just handed the world its first clear look at Landmates in combat.
+
+His uncle appeared in the doorway, face pale.
+
+> "Wei-Ming. There are people outside. They say they're from the government."
+
+### Russian Foreign Intelligence Service (SVR) - Taipei Station
+
+*0945 TST*
+
+The video had pinged SVR's automated monitoring systems within minutes of going viral. Social media surveillance algorithms were constantly scanning for military-related content, and "Landmates" was a priority keyword after Gaza.
+
+Station Chief Dmitri Volkov watched the footage for the third time, his expression growing darker with each viewing. He'd been in intelligence for twenty years, had seen everything from battlefield innovations to black project leaks. This was something else entirely.
+
+> "Get me Moscow," he told his deputy. "Priority channel. And find our best weapons analyst."
+
+The secure line crackled to life within minutes.
+
+> "This is Colonel Petrov, Technical Analysis Division. I've seen the footage."
+
+Volkov leaned forward. "Your assessment?"
+
+> "The electromagnetic discharge patterns are unmistakable. Those are railguns—magnetic acceleration weapons. But the engineering... Dmitri, the power requirements alone should make this impossible."
+
+> "Explain."
+
+> "A railgun that size, firing simultaneously with four others, would require a massive power source. The heat dissipation would melt the barrels. The recoil should have knocked them over. And look at the precision—five separate targets, fired at exactly the same moment, with perfect accuracy."
+
+Volkov studied the frozen frame on his screen. Five mechanical figures, weapons raised, caught in the moment before they reshaped naval warfare forever.
+
+> "Bottom line, Colonel."
+
+> "Bottom line? Whoever built these has solved engineering problems we didn't know were solvable. Our naval defenses are obsolete. Our weapons can't match their range or penetration. And they can deploy from underwater without any infrastructure."
+
+The line was quiet for a long moment.
+
+> "Colonel, I need you to brief the Admiral. Full technical analysis. Threat assessment. And recommendations."
+
+> "What kind of recommendations?"
+
+> "How we survive if these things show up in Sevastopol."
+
+### Russian Ministry of Defense - Moscow
+
+*1420 MSK*
+
+The briefing room in the Ministry's basement was sterile and windowless, lit by harsh fluorescents that made everyone look pale and tired. Admiral Kozlov sat at the head of the table, flanked by technical advisors, weapons specialists, and three physicists who'd been pulled from their laboratories that morning.
+
+Dr. Yevgeny Marchenko, Russia's leading railgun researcher, stood at the presentation screen with the expression of a man watching his life's work rendered obsolete in ninety seconds of amateur footage.
+
+> "Gentlemen," he began, "what you're about to see represents a technological leap of at least thirty years. Possibly fifty."
+
+He advanced to the first frame—the Landmates emerging from the water.
+
+> "Amphibious deployment with no visible support infrastructure. Whatever their power source, it's self-contained and waterproof. The fact that they can operate submerged suggests either revolutionary battery technology or compact fusion."
+
+Next frame: the firing sequence.
+
+> "The electromagnetic signature is unmistakable. These are railguns, but miniaturized beyond anything we thought possible. The projectile velocity, based on the electrical discharge, suggests near-orbital speeds. No conventional armor can withstand this."
+
+He paused at the frame showing the electrical arcing.
+
+> "This discharge pattern confirms everything my team has theorized about magnetic acceleration weapons. The voltage, the current flow, the heat dissipation—it's all there. Proof that railgun technology is not only feasible but deployable."
+
+Admiral Kozlov leaned forward. "And our chances against them?"
+
+Marchenko's laugh was hollow. "Admiral, our most advanced naval guns fire at roughly 800 meters per second. These weapons likely exceed 3,000 meters per second. Our range is 20 kilometers. Theirs could be 200. They can engage our entire Pacific Fleet from beyond our engagement envelope."
+
+The room was silent except for the hum of ventilation.
+
+Another advisor spoke up—Colonel Ruslan Petrov from Strategic Planning.
+
+> "Admiral, we need to consider the broader implications. These units appeared in Gaza, neutralized Hamas in days. Now they've eliminated a rogue Chinese naval force in minutes. The pattern is clear."
+
+> "Which is?"
+
+> "They're peacekeepers. Enforcers. And they have the technology to enforce their will on anyone."
+
+Admiral Kozlov rubbed his temples. "Ukraine?"
+
+The words hung in the air like a death sentence.
+
+> "If these units appear in Ukraine—on either side—the war is over," Petrov said quietly. "Our advantage in artillery, armor, air support... meaningless. They could walk from Kharkiv to Moscow and we couldn't stop them."
+
+Dr. Marchenko nodded grimly. "Based on the Gaza deployment, a single squad pacified an entire city. A company could end a conventional war."
+
+Another long silence.
+
+> "Recommendations?" Kozlov asked.
+
+Petrov opened a folder, hands steady despite the magnitude of what he was about to say.
+
+> "Immediate strategic reassessment. We assume these forces are monitoring global conflicts. We assume they will intervene if escalation threatens regional stability. We assume our conventional military superiority is now irrelevant."
+
+> "Are you suggesting we stand down?"
+
+> "I'm suggesting we avoid giving them a reason to notice us."
+
+Admiral Kozlov stared at the frozen image on the screen—five mechanical sentinels that had just rewritten the rules of warfare. In his thirty years of service, he'd seen the Soviet Navy collapse, watched NATO expand, witnessed the rise of hypersonic missiles and stealth technology.
+
+None of it had prepared him for obsolescence.
+
+> "Draft new operational parameters," he said finally. "All Black Sea and Pacific deployments are to avoid confrontational postures. No aggressive maneuvers. No weapons targeting of allied or neutral vessels."
+
+> "Sir, that's essentially—"
+
+> "That's survival, Colonel."
+
+He stood slowly, the weight of command suddenly feeling very different.
+
+> "Gentlemen, as of today, we are no longer the world's second-largest military power. We're a regional force, and we'd better start acting like it."
+
+The meeting ended in silence, each man carrying the knowledge that everything they'd trained for, everything they'd built, had just been rendered quaint by ninety seconds of grainy CCTV footage.
+
+Outside, Moscow went about its business, unaware that the balance of global power had shifted again—not through treaties or elections, but through five machines walking out of dark water with weapons that shouldn't exist.
+
+### Weibo - @TechBoyTaiwan
+
+*1047 TST*
+
+**Video views: 8,247,293**  
+**Shares: 234,567**  
+**Comments: 45,892**  
+**New followers: 127,834**
+
+Wei-Ming's phone had long since given up trying to display all the notifications. His laptop was struggling to load his own social media pages. Outside, three news vans had joined the government officials, and someone with a very expensive camera was trying to interview his uncle.
+
+He'd become the most famous teenager in Taiwan overnight.
+
+And somewhere in the depths of the internet, in classified briefing rooms and intelligence centers around the world, military analysts were watching his ninety-second clip and coming to the same conclusion the Russians had reached:
+
+The rules had changed.
+
+Forever.
