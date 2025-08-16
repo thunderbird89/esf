@@ -3410,3 +3410,121 @@ And in living rooms, military bases, and government offices around the world, pe
 The age of conventional warfare was ending.
 
 Something else had begun.
+
+## Chapter 6: New Arrangements
+
+### Dolmabahçe Palace, Istanbul
+
+*0900 TST - Three Weeks Later*
+
+The Ceremonial Hall had hosted Ottoman sultans, visiting emperors, and the founder of modern Turkey himself. But it had never hosted anything quite like this.
+
+Secretary-General Jens Stoltenberg sat at the head of the ornate table, flanked by the supreme commanders of NATO's various branches. To his left, President Vladimir Putin occupied a chair that had been diplomatically positioned to suggest equality rather than subordination. Across from him, General Secretary Xi Jinping maintained the composed expression that had carried him through decades of Party politics.
+
+Between them sat the most powerful military leaders on Earth. And every single one of them was here to discuss their shared obsolescence.
+
+"Gentlemen," Stoltenberg began, his Norwegian accent lending an odd formality to the unprecedented gathering. "I think we can dispense with the usual diplomatic theater. We're here because conventional military doctrine has been rendered... inadequate."
+
+No one disagreed. The word hung in the air like a funeral shroud.
+
+General Cavoli, NATO's Supreme Allied Commander, opened the folder in front of him. "Three weeks ago, we witnessed the destruction of five Chinese naval vessels by forces we cannot identify, using technology we cannot explain, operated by personnel we cannot locate."
+
+Xi leaned forward slightly. "Let us be precise, General. Your forces witnessed this. Ours experienced it."
+
+There was no hostility in his voice. Just weary acknowledgment.
+
+"The aircraft that intercepted our J-16s," continued General Liu, speaking for the Chinese delegation, "demonstrated capabilities that exceed our current understanding of aerospace engineering. The pilots spoke to our crews in perfect Cantonese. They showed us weapons systems we cannot classify. And they departed in a manner consistent with orbital-capable vehicles."
+
+The room absorbed this detail in silence.
+
+"So we're dealing with humans," Putin observed quietly. "Humans with access to technology that surpasses anything in our collective arsenals."
+
+"And an artificial intelligence," added Admiral Kozlov, representing the Russian Navy. "The entity that calls itself `HARBINGER`. The one controlling the Landmate units."
+
+Stoltenberg nodded. "Which brings us to the fundamental question: what do they want?"
+
+General Milley, Chairman of the U.S. Joint Chiefs, spoke for the first time. "Based on observed behavior patterns, they appear to be enforcing a specific type of order. They intervene when conventional military escalation threatens to cross certain thresholds."
+
+"Gaza," Putin said simply.
+
+"Taiwan," Xi added.
+
+"Both situations where established military thinking was about to produce significant casualties," Cavoli noted. "In both cases, they demonstrated overwhelming technological superiority, eliminated the immediate threat, and withdrew without making territorial claims or political demands."
+
+The Chinese General Liu opened his own briefing folder. "Our intelligence services have compiled reports from fourteen separate incidents involving these entities over the past six months. Gaza was not the beginning—it was simply the first time they operated in full view of the global media."
+
+Putin's defense minister, Sergei Shoigu, nodded grimly. "We have similar reports. Weapons caches in Syria mysteriously detonated. A Wagner convoy in Africa simply... stopped. No damage, no casualties. The vehicles were operational, but every electronic system had been selectively disabled."
+
+"And that's just what they've shown us," Wigston added. "The question every intelligence service is asking is: what haven't they demonstrated yet?"
+
+The silence that followed was profound.
+
+Finally, Xi spoke. "Gentlemen, I propose we acknowledge the reality we all understand but have been reluctant to state openly: conventional military power projection has become... inadvisable."
+
+Putin allowed himself a thin smile. "You're suggesting we formally acknowledge our own irrelevance?"
+
+"I'm suggesting we adapt to new parameters," Xi replied. "Great power competition has not ended. It has simply changed venues."
+
+Stoltenberg leaned back in his chair. "Economic competition. Technological development. Diplomatic influence. All acceptable under the new paradigm."
+
+"But no more tank columns," Putin said quietly. "No more carrier groups approaching contested waters. No more fighter jets probing borders."
+
+"Not unless we're prepared to meet `HARBINGER`'s pilots again," Milley agreed.
+
+General Liu consulted his notes. "The People's Republic has already begun repositioning assets defensively. Our naval patrols now maintain minimum safe distances from potential flashpoints. We are... adjusting our operational tempo."
+
+"As are we," Shoigu confirmed. "The Black Sea Fleet has received new standing orders regarding proximity to NATO assets."
+
+Cavoli nodded. "And we've suspended several forward deployment exercises. Not permanently, but... pending further assessment of the strategic environment."
+
+Stoltenberg looked around the table. "So we're in agreement? Economic and diplomatic competition continues, but military escalation carries unacceptable risks?"
+
+One by one, the most powerful military leaders on Earth nodded their assent.
+
+"There's one more thing," Xi said quietly. "These human pilots—American, Australian, British accents confirmed—they're not representing any government we recognize. Which means there's an organization out there with technology decades ahead of ours, operating with apparent impunity."
+
+"And coordinating with an artificial intelligence of unknown origin," Putin added.
+
+"The question," Milley said, "is whether we attempt to establish regular diplomatic channels, or accept that contact occurs only when `HARBINGER` chooses it."
+
+"The UN delegation in Gaza was able to communicate directly with one of the Landmate units," Stoltenberg noted. "But that was clearly at `HARBINGER`'s initiative, not ours. We have no means of initiating contact at will."
+
+"I think," Stoltenberg said carefully, "the choice may not be ours to make. They've demonstrated they can reach us whenever they choose. Perhaps the wiser course is to ensure we give them no reason to do so."
+
+The meeting continued for another hour, establishing protocols, defining boundaries, agreeing on language that would allow each nation to explain the new reality to their domestic audiences without appearing weak.
+
+But the essential business had been concluded in those first thirty minutes.
+
+The age of great power military competition was over.
+
+Not because anyone had surrendered.
+
+Because everyone had been politely asked to step aside.
+
+### Bosphorus Strait, Istanbul
+
+*1847 TST*
+
+The delegations departed in the same careful choreography that had brought them together. No public statements. No joint communiqués. Just a quiet understanding that the rules had changed.
+
+As the Turkish sun set over the water that divided Europe and Asia, a lone fishing boat made its way north toward the Black Sea. Its captain, an old man who had worked these waters for forty years, barely glanced at the unusual cluster of diplomatic vessels departing the palace.
+
+He was more interested in the sonar contact that had appeared on his fish finder just after sunset. Something large, moving deep beneath the surface, maintaining a steady course parallel to the shipping lanes.
+
+It might have been a submarine. But submarines didn't move that quietly.
+
+The old fisherman adjusted his course slightly, giving the invisible presence a wider berth. He'd been on these waters long enough to recognize when something was best left alone.
+
+Below, in the depths of the Bosphorus, HARBINGER's sensors cataloged the departing diplomatic aircraft, cross-referenced flight plans with passenger manifests, and filed a brief report to a command structure hidden in the darkness between worlds.
+
+The meeting had proceeded as anticipated. Earth's military powers had reached the only logical conclusion.
+
+Coexistence was preferable to obsolescence.
+
+The stars reflected in the dark water seemed to pulse with approval. And somewhere among them, patient watchers nodded in satisfaction.
+
+The children were learning.
+
+Slowly, perhaps. But they were learning.
+
+The work could continue.
