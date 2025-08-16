@@ -3260,7 +3260,11 @@ He paused at the frame showing the electrical arcing.
 
 Admiral Kozlov leaned forward. "And our chances against them?"
 
-Marchenko's laugh was hollow. "Admiral, our most advanced naval guns fire at roughly 800 meters per second. These weapons likely exceed 3,000 meters per second. Our range is 20 kilometers. Theirs could be 200. They can engage our entire Pacific Fleet from beyond our engagement envelope."
+Marchenko's laugh was hollow. "Admiral, our most advanced naval guns fire at roughly 800 meters per second. These weapons likely exceed 3,000 meters per second. At those velocities, we're not talking about conventional ballistics anymore—we're talking about *kinetic kill vehicles*. The energy transfer from a tungsten penetrator at orbital speeds... there isn't armor on Earth designed to withstand that kind of impact."
+
+He gestured at the display showing the electrical discharge patterns.
+
+"A conventional 130mm shell carries about 40 megajoules of kinetic energy. These railgun projectiles, at the velocities we're seeing? We're looking at *gigajoule-class* impacts. That's not a shell anymore—that's a meteor strike, delivered with surgical precision."
 
 The room was silent except for the hum of ventilation.
 
@@ -3328,3 +3332,81 @@ And somewhere in the depths of the internet, in classified briefing rooms and in
 The rules had changed.
 
 Forever.
+
+### CNN Breaking News – Atlanta Headquarters
+
+*2147 EST*
+
+The red "BREAKING NEWS" banner dominated the screen as anchor Anderson Cooper leaned forward at his desk, earpiece pressed tight, papers shuffled with practiced urgency.
+
+> "Good evening. We're following breaking developments out of Taiwan tonight, where extraordinary footage has emerged showing what appear to be the same autonomous weapons systems—known as Landmates—that made headlines during the Gaza conflict last month."
+
+Behind him, Wei-Ming's edited footage played in a loop—the emergence from dark water, the synchronized positioning, the brilliant flashes of electromagnetic discharge arcing across metal surfaces.
+
+> "The video, posted by a Taiwanese teenager and now viewed over eight million times, shows these machines emerging from Tamsui Harbor and apparently firing some form of advanced weapon system. The footage has not been independently verified, but initial analysis suggests it was taken during last night's incident involving rogue Chinese naval vessels."
+
+Cooper turned slightly toward the guest panel.
+
+> "Joining us now is retired Marine Colonel James Crawford, former director of the Pentagon's Advanced Weapons Assessment Division. Colonel Crawford, you've had a chance to review this footage. What exactly are we looking at here?"
+
+Colonel Crawford, a grizzled man in his sixties with silver hair and wire-rimmed glasses, leaned forward in his chair. Behind him, a freeze-frame from the video showed the moment of electrical discharge.
+
+> "Anderson, what we're seeing here is a demonstration of weapons technology that frankly shouldn't exist. Those electrical effects—the arcing, the way metal objects in the vicinity are energized—that's the signature of electromagnetic acceleration. Railguns."
+
+> "Now, when you say railguns, help our viewers understand what that means in practical terms."
+
+Crawford gestured toward the screen.
+
+> "Think of it this way: a conventional naval gun fires a shell using chemical explosives. The fastest shells we have might reach 800, maybe 900 meters per second. But a railgun uses electromagnetic fields to accelerate a projectile to speeds we typically only see in space—3,000, 4,000 meters per second or higher."
+
+He paused, letting that sink in.
+
+> "At those velocities, Anderson, you're not just dealing with a bigger bullet. You're dealing with physics that operate on a completely different level. The kinetic energy involved is so massive that no conventional armor can stop it. It's like being hit by a small meteor."
+
+> "And these appear to be man-sized weapons systems?"
+
+> "That's what makes this so extraordinary. The U.S. Navy has been working on railgun technology for decades, but our prototypes require massive power plants—think ship-sized installations. What we're seeing here suggests someone has miniaturized the technology to a degree that was thought impossible."
+
+Cooper shuffled his notes.
+
+> "Colonel, we understand these same machines were involved in the Gaza operation that effectively ended Hamas as a fighting force. Now they're apparently intervening in naval conflicts in the Taiwan Strait. What does this tell us about whoever is operating them?"
+
+Crawford's expression grew grave.
+
+> "Anderson, you'll remember when we covered the Gaza deployment, one of your military analysts said on this very network that the Landmate was 'the most dangerous combatant in any theater today.' What we see in this video underscores just how true that statement is: we're looking at a platform not much bigger than a man, capable of withstanding a point-blank hit by a tank gun, and now apparently incapacitating even a warship singlehandedly."
+
+He gestured toward the screen showing the electrical discharge.
+
+> "But more importantly, it tells us they're choosing their interventions carefully. Gaza, now Taiwan—these are flashpoints where conventional military thinking was about to lead to massive casualties."
+
+> "Are you suggesting these are peacekeeping operations?"
+
+> "I'm suggesting someone with overwhelming technological advantage is using that advantage to enforce a very specific type of order. They're not conquering territory. They're not making demands. They're simply... stopping conflicts before they escalate beyond a certain point."
+
+Cooper leaned back slightly.
+
+> "And the implications for global military balance?"
+
+Crawford was quiet for a moment, choosing his words carefully.
+
+> "Anderson, if this technology is real—and the footage certainly suggests it is—then we're looking at the most significant shift in military power since the development of nuclear weapons. Possibly more significant."
+
+> "Because?"
+
+> "Because nuclear weapons are a deterrent. They're too destructive to actually use in most scenarios. But this? This is precise, deployable, discriminating. It can end conflicts without destroying cities. That makes it infinitely more useful than any weapon system we currently have."
+
+The screen split to show the loop again—five machines rising from dark water with mechanical grace.
+
+> "The question every military planner in the world is asking tonight," Crawford continued, "is not whether they can build something to counter this technology. It's whether they can afford to be on the wrong side of whoever controls it."
+
+Cooper nodded slowly.
+
+> "Colonel James Crawford, thank you for your analysis. We'll be right back after this break with more coverage of what some are already calling the most significant military development of the 21st century."
+
+As the show cut to commercial, the video played one final time—silent, methodical, and absolutely terrifying in its implications.
+
+And in living rooms, military bases, and government offices around the world, people watched and understood that the old certainties were gone.
+
+The age of conventional warfare was ending.
+
+Something else had begun.
