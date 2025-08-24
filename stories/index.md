@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Directory Listing
+title: Stories
 ---
 
-<h1>Files</h1>
+# Stories
+
 <ul>
-  {% for file in site.static_files %}
-    {% unless site.exclude_files contains file.name %}
-      <li><a href="{{ file.path }}">{{ file.name }}</a></li>
-    {% endunless %}
-  {% endfor %}
+{% assign story_pages = site.pages | where: "type", "story" | sort: "timeline" %}
+{% for p in story_pages %}
+  {% if p.timeline and p.title %}
+    <li>{{ p.timeline }}: <a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+  {% endif %}
+{% endfor %}
 </ul>
