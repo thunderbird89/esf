@@ -5,8 +5,6 @@ title: The Shadow Alliance
 permalink: /stories/shadow-alliance
 timeline: 2024-12-07
 ---
-##  
-
 ### NATO Headquarters, Brussels, Belgium  
 **0930 Hours CET**
 
