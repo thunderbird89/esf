@@ -3,6 +3,7 @@ layout: story
 type: story
 title: Angels in Armor
 permalink: /stories/angels-in-armor
+timeline: 2024-06-13
 ---
 ## Chapter 1: Arrival
 

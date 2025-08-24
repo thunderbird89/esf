@@ -3,6 +3,7 @@ layout: story
 type: story
 title: Torchlight
 permalink: /stories/torchlight
+timeline: 2025-08-21
 ---
 ## The Ambush
 

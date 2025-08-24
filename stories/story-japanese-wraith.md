@@ -3,6 +3,7 @@ layout: story
 type: story
 title: Silent Watchers
 permalink: /stories/the-japanese-wraith
+timeline: 2023-02-21
 ---
 ## Whisper of Shadows
 

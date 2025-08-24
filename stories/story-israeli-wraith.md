@@ -3,6 +3,7 @@ layout: story
 type: story
 title: Shadows in Tel Aviv
 permalink: /stories/the-israeli-wraith
+timeline: 2022-07-16
 ---
 ## Diplomatic Tensions
 
