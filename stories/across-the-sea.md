@@ -1,5 +1,10 @@
-# Across the Strait
-
+---
+layout: story
+type: story
+title: Across the Sea
+permalink: /stories/across-the-sea
+timeline: 2025-01-07
+---
 ## Chapter 1: Encroachment
 
 ### Taiwan Strait, 0321 hours local
