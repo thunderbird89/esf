@@ -3,6 +3,7 @@ layout: story
 type: story
 title: The Wraith
 permalink: /stories/the-american-wraith
+timeline: 2021-03-21
 ---
 ## Shadows in the Kremlin
 
