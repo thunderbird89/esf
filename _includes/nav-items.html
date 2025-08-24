@@ -1,5 +1,5 @@
 <div class="nav-items">
-  {%- assign story_pages = site.pages | where: "type", "story" | sort: "order" -%}
+  {%- assign story_pages = site.pages | where: "type", "story" | sort: "timeline" -%}
   {%- assign codex_pages = site.pages | where: "type", "codex" | sort: "order" -%}
 
   {%- if story_pages.size > 0 -%}

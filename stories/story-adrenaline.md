@@ -3,6 +3,7 @@ layout: story
 type: story
 title: Adrenaline
 permalink: /stories/adrenaline
+timeline: 2024-12-06
 ---
 ## The Arrival
 

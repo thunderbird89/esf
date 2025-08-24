@@ -3,6 +3,7 @@ layout: story
 type: story
 title: The Cormorant Gambit
 permalink: /stories/the-cormorant-gambit
+timeline: 2019-05-05
 ---
 ## In the Void
 
