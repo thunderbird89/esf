@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: wraith
 title: The Wraith
 permalink: /stories/the-american-wraith
 timeline: 2021-03-21

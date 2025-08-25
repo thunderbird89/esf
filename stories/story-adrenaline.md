@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: side
 title: Adrenaline
 permalink: /stories/adrenaline
 timeline: 2024-12-06

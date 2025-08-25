@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: main
 title: Angels in Armor
 permalink: /stories/angels-in-armor
 timeline: 2024-06-13

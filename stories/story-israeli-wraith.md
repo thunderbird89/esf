@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: wraith
 title: Shadows in Tel Aviv
 permalink: /stories/the-israeli-wraith
 timeline: 2022-07-16

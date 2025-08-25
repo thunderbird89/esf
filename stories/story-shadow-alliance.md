@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: main
 title: The Shadow Alliance
 permalink: /stories/shadow-alliance
 timeline: 2024-12-07
