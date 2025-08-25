@@ -1,35 +1,46 @@
 <div class="nav-items">
+  {% comment %} Build collections {% endcomment %}
   {%- assign story_pages = site.pages | where: "type", "story" -%}
   {%- assign lines = story_pages | map: "line" | uniq | sort -%}
   {%- assign line_labels = site.data.line_labels -%}
   {%- assign codex_pages = site.pages | where: "type", "codex" | sort: "order" -%}
 
-  {%- if lines.size > 0 -%}
-  <div class="nav-section">
-    <h3 class="nav-section-title">Stories</h3>
-    {%- for ln in lines -%}
-      {%- assign pages_in_line = story_pages | where: "line", ln | sort: "timeline" -%}
-      {%- if pages_in_line.size > 0 -%}
-        {%- assign label = line_labels[ln] | default: ln | capitalize -%}
-        <h4 class="nav-subsection-title">{{ label }}</h4>
-        {%- for page in pages_in_line -%}
-          {%- if page.title -%}
-            <a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+  <ul class="nav-menu">
+    {%- if lines.size > 0 -%}
+    <li class="menu-item has-submenu">
+      <span class="nav-link">Stories</span>
+      <ul class="submenu">
+        {%- for ln in lines -%}
+          {%- assign pages_in_line = story_pages | where: "line", ln | sort: "timeline" -%}
+          {%- if pages_in_line.size > 0 -%}
+            {%- assign label = line_labels[ln] | default: ln | capitalize -%}
+            <li class="submenu-item has-submenu">
+              <span class="nav-link">{{ label }}<span class="chevron">›</span></span>
+              <ul class="subsubmenu">
+                {%- for page in pages_in_line -%}
+                  {%- if page.title -%}
+                    <li><a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+                  {%- endif -%}
+                {%- endfor -%}
+              </ul>
+            </li>
           {%- endif -%}
         {%- endfor -%}
-      {%- endif -%}
-    {%- endfor -%}
-  </div>
-  {%- endif -%}
+      </ul>
+    </li>
+    {%- endif -%}
 
-  {%- if codex_pages.size > 0 -%}
-  <div class="nav-section">
-    <h3 class="nav-section-title">Codex</h3>
-    {%- for page in codex_pages -%}
-      {%- if page.title -%}
-        <a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
-      {%- endif -%}
-    {%- endfor -%}
-  </div>
-  {%- endif -%}
+    {%- if codex_pages.size > 0 -%}
+    <li class="menu-item has-submenu">
+      <span class="nav-link">Codex</span>
+      <ul class="submenu">
+        {%- for page in codex_pages -%}
+          {%- if page.title -%}
+            <li><a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </li>
+    {%- endif -%}
+  </ul>
 </div>
