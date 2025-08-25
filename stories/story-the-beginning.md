@@ -276,9 +276,9 @@ Days later, they were still in talks, discussing organization, plans, next steps
 
 But something remarkable had happened during those days of intense collaboration. The bitter nationalism that had defined global politics for decades had given way to a shared sense of human identity. Soviet General Petrov and American Admiral Nimitz had developed a mutual respect born from facing an incomprehensibly vast universe together. British and German scientists worked side by side, their wartime enmity forgotten in the face of technologies that dwarfed their earthly achievements.
 
-> "One thing is clear, we cannot go public. Not yet, anyway, no society is ready for this kind of shock. The last this we need is another world war." - protested Japanese diplomat Takayama Nakamura.
+> "One thing is clear, we cannot go public. Not yet, anyway, no society is ready for this kind of shock. The last thing we need is another world war." - protested Japanese diplomat Takayama Nakamura.
 
-> "I agree. This will be a long game for sure." - concurred British businessman Hugh Fairfax - "We probably won't live to see it come to fruition, and I suspect our grandchildren won't either. We need a name if we are to exist for that long. I propose ... *Order of the Silent Star*!"
+> "I agree. This will be a long game for sure." - concurred Hugh - "We probably won't live to see it come to fruition, and I suspect our grandchildren won't either. We need a name if we are to exist for that long. I propose ... *Order of the Silent Star*!"
 
 Nakamura appeared to weigh the proposal then shook his head."No. It speaks of secret working, yes, but it doesn't speak of unity." - he thought briefly - "What about *Court of Earth*?"
 
