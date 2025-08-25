@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: side
 title: The Cormorant Gambit
 permalink: /stories/the-cormorant-gambit
 timeline: 2019-05-05

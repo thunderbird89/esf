@@ -1,13 +1,22 @@
 <div class="nav-items">
-  {%- assign story_pages = site.pages | where: "type", "story" | sort: "timeline" -%}
+  {%- assign story_pages = site.pages | where: "type", "story" -%}
+  {%- assign lines = story_pages | map: "line" | uniq | sort -%}
+  {%- assign line_labels = site.data.line_labels -%}
   {%- assign codex_pages = site.pages | where: "type", "codex" | sort: "order" -%}
 
-  {%- if story_pages.size > 0 -%}
+  {%- if lines.size > 0 -%}
   <div class="nav-section">
     <h3 class="nav-section-title">Stories</h3>
-    {%- for page in story_pages -%}
-      {%- if page.title -%}
-        <a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+    {%- for ln in lines -%}
+      {%- assign pages_in_line = story_pages | where: "line", ln | sort: "timeline" -%}
+      {%- if pages_in_line.size > 0 -%}
+        {%- assign label = line_labels[ln] | default: ln | capitalize -%}
+        <h4 class="nav-subsection-title">{{ label }}</h4>
+        {%- for page in pages_in_line -%}
+          {%- if page.title -%}
+            <a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+          {%- endif -%}
+        {%- endfor -%}
       {%- endif -%}
     {%- endfor -%}
   </div>

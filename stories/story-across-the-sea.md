@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: main
 title: Across the Sea
 permalink: /stories/across-the-sea
 timeline: 2025-01-07

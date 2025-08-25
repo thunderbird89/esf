@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: main
 title: The Beginning Is A Delicate Time
 permalink: /stories/the-beginning
 timeline: 1947-07-07

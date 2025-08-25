@@ -1,6 +1,7 @@
 ---
 layout: story
 type: story
+line: side
 title: Torchlight
 permalink: /stories/torchlight
 timeline: 2025-08-21

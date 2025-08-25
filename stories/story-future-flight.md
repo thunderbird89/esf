@@ -1,6 +1,7 @@
 ---
 type: story
 layout: page
+line: main
 title: Future Flight
 permalink: /stories/future-flight
 timeline: 2026-06-15
