@@ -1,2 +1,135 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.nav-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  > .menu-item {
+    position: relative;
+    display: inline-block;
+    &:hover > .submenu { display: block; }
+  }
+}
+
+.nav-link {
+  cursor: pointer;
+  padding: 5px 10px;
+  display: inline-block;
+}
+
+.submenu, .subsubmenu {
+  display: none;
+  position: absolute;
+  background: $background-color;
+  border: 1px solid $border-color-01;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  z-index: 1000;
+  > li { position: relative; }
+}
+
+.submenu {
+  top: 100%;
+  left: 0;
+}
+
+.subsubmenu {
+  top: 0;
+  left: 100%;
+}
+
+.submenu-item:hover > .subsubmenu {
+  display: block;
+}
+
+/* Chevron indicator for nested submenus */
+.submenu-item.has-submenu {
+  position: relative;
+
+  > .nav-link::after {
+    content: "\203A"; /* single right-angle quote › */
+    font-weight: bold;
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+}
+
+/* ---- Navigation layout overrides ---- */
+.site-header .wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.site-title {
+  margin-bottom: 0.5rem;
+}
+
+.site-nav {
+  float: none !important;
+  position: static !important;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-item {
+  position: relative;
+}
+
+.nav-link,
+.nav-item {
+  padding: 8px;
+  display: inline-block;
+}
+
+/* Prevent menu text wrapping and allow auto width */
+.menu-item,
+.submenu-item {
+  flex: 0 0 auto;
+  min-width: max-content;
+}
+
+.nav-link,
+.nav-item {
+  white-space: nowrap;
+}
+
+.submenu,
+.subsubmenu {
+  width: max-content;
+}
+
+/* Use flexbox for nav link content and chevron */
+.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+/* Actual chevron element */
+.chevron {
+  margin-left: auto;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+/* Disable old ::after chevron to avoid overlap */
+.submenu-item.has-submenu > .nav-link::after {
+  content: none;
+}
