@@ -238,17 +238,17 @@ Patel blinked slowly, as if the question was coming from very far away.
 
 > "Good question. Ask me again in an hour."  
 
-> "Pain is just information. I'll process it later."
+Dr. Henshaw stood nearby, looking down at her bloodied hands with clinical detachment.
 
-The Kryllian gawked at him like he had just spoken in tongues.  
+> "Huh. That's not supposed to hurt yet," she said matter-of-factly, flexing her fingers with visible effort. "Give it another few minutes."
 
-Dr. Rebecca Henshaw, still eerily calm, glanced at the nearest Xenari medic. 
+A Seraphyn medic approached her cautiously, its prismatic eyes flickering through confused light spectrums.
 
-> "I assume your emergency care is sterilized for cross-species infection control?"
+> "We should get you medical attention immediately—"
 
-The medic nodded rapidly, still looking shell-shocked.  
+> "I'm fine." Henshaw's voice was flat, professional. "Just need to assess the damage first."
 
-> "Good. Then do whatever you need to. Just don't drug me too hard, I want to stay awake."
+Dr. Greaves, meanwhile, touched his forehead gingerly where alien blood had dried. His voice was distant, almost wondering.
 
 > "I think I might have a concussion. Hard to tell with all the... the noise in my head."
 
@@ -353,27 +353,25 @@ Dr. Park, on the next table, nodded wearily.
 
 The Xenari medic looked between them with growing fascination and concern. Their patients were describing their own biological processes with the detachment of field researchers.  
 
-Further down the line, Dr. Rebecca Henshaw watched impassively as a Seraphyn medic gently applied a regenerative salve to her bloodied hands.  
+Dr. Henshaw sat on another platform, methodically flexing each finger despite the obvious discomfort. Her movements were deliberate, clinical—like she was testing a medical instrument.
 
-> "Your tolerance for pain is remarkable," 
+> "Interesting," she said, her voice perfectly neutral. "Range of motion is approximately sixty percent. Pain is... starting to register now."
 
-the medic murmured, voice carrying a distant, ethereal quality. 
+She paused, studying her hands like they were a patient's rather than her own.
 
-> "Would you like an analgesic block? We can suppress all nociceptive input."
+> "I killed someone with these hands fifteen minutes ago. Cut through his abdominal cavity with a scalpel. Standard surgical technique, really."
 
-Henshaw didn't even look up. 
+Her tone was conversational, almost casual—the way she might discuss a routine procedure with a colleague.
 
-> "No. Keep it minimal. I need my hands steady."
+A Seraphyn medic approached cautiously, applying regenerative salve to the damaged tissue.
 
-The medic's expression was genuinely puzzled. 
+> "The tissue damage is extensive. Several bones are fractured. You should not have been able to maintain fine motor control during combat."
 
-> "But… the pain must be excruciating."
+Henshaw nodded as if this was merely an interesting medical observation.
 
-Henshaw's bloodshot eyes flicked toward him. 
+> "Adrenaline suppresses pain receptors and enhances motor function under stress conditions. Though I'm surprised the fractures didn't compromise precision. That's... noteworthy."
 
-> "Then I'll know I'm still alive."
-
-The Seraphyn, for the first time in his career, did not know what to say.  
+The Seraphyn looked disturbed by her clinical detachment.  
 
 Meanwhile, Dr. Marcus Patel lay on his own treatment platform, one arm shielding his eyes as he listened to the unfolding debate around them.  
 
