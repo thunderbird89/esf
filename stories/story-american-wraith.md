@@ -178,7 +178,7 @@ The woman gave a thin smile, the first sign of humanity in her otherwise mechani
 
 ---
 
-**Chapter 2: Ripples in the Dark**
+### Ripples in the Dark
 
 Alicia Monroe sat at her desk in the CIA’s Russia Division, her eyes fixed on the blinking cursor of her terminal. The sterile hum of the office surrounded her, punctuated by the occasional murmur of agents talking in low voices or the faint ding of an elevator arriving. But none of it registered. Her thoughts were miles away, in the shadowed streets of Moscow, chasing a phantom thread of hope.
 
@@ -222,7 +222,7 @@ She whispered the words under her breath, as though they might will themselves i
 
 ---
 
-**Chapter 2: The Getaway**
+### The Getaway
 
 The battered gray van rattled as it idled in the alleyway behind the safe house. Marcus climbed into the back, sandwiched between a toolbox and a stack of traffic cones. His newly altered face stared back at him from a rearview mirror mounted on the driver’s visor. The effect was disorienting, the sharp features and faint scar belonging to a man he’d never met.
 
@@ -284,7 +284,7 @@ The van picked up speed, weaving into traffic as the GRU’s SUVs began to close
 
 ---
 
-**Chapter 2: The Ghost in the Shadows**
+### The Ghost in the Shadows
 
 The van tore through Moscow’s outskirts, bouncing over potholes and swerving around slower cars. The snow-covered roads narrowed as the cityscape gave way to abandoned industrial zones and crumbling farm complexes, remnants of the Soviet Union’s glory days. Marcus clung to the van’s interior, his stomach lurching with every sharp turn.
 
@@ -346,7 +346,7 @@ The Wraith shot through the night sky, a ghost on the wind, leaving the GRU behi
 
 ---
 
-**Chapter 2: A Message in the Dark**
+### A Message in the Dark
 
 The conference room was as cold and impersonal as the rest of Langley’s labyrinthine halls. Alicia sat at the long oak table, surrounded by her peers and superiors. The wall-mounted monitors displayed maps of Moscow and surrounding regions, dotted with pins marking suspected GRU movements. The room buzzed with low murmurs as analysts discussed the latest intelligence.
 
@@ -386,7 +386,7 @@ She slid the phone back into her pocket, her fingers trembling slightly. The res
 
 ---
 
-**Chapter 2: A Moment to Breathe**
+### A Moment to Breathe
 
 The Wraith hummed softly, the sound soothing in its constancy as it cut through the night sky, cloaked from any prying eyes below. Marcus sat in one of the seats along the wall of the craft, his fingers unconsciously tapping the edge of the armrest. The adrenaline of the escape was starting to wear off, leaving him both exhausted and restless.
 
@@ -432,7 +432,7 @@ For the first time in days, he closed his eyes and let himself breathe.
 
 ---
 
-**Chapter 2: Arrival in Paris**
+### Arrival in Paris
 
 The Wraith descended smoothly through the night, its engines humming so softly it was almost imperceptible. Through a narrow viewport, Marcus could see the faint glow of the Parisian skyline in the distance, a golden haze against the inky backdrop of the night sky. The sprawling city seemed surreal, a world away from the tension and shadows of Moscow.
 
@@ -492,7 +492,7 @@ Marcus closed his eyes, a faint smile tugging at his lips despite everything. �
 
 ---
 
-**Chapter 2: A Call Across the Divide**
+### A Call Across the Divide
 
 Alicia almost didn’t answer the call. The blinking light on her secure line was unusual this late, but she had been conditioned to expect bad news from unknown numbers. Still, something about the timing made her reach for the receiver, her fingers trembling slightly.
 
@@ -554,7 +554,7 @@ She sat back, exhaling slowly. The wheels were already turning for Marcus’s ex
 
 ---
 
-**Chapter 2: Ghosts in the Shadows**
+### Ghosts in the Shadows
 
 The GRU kill team’s convoy screeched to a halt outside the decrepit Soviet-era warehouse. Snow and ice crunched underfoot as heavily armed operatives spilled out of the black SUVs, their boots hitting the ground in practiced unison. The leader of the team, Major Konstantin Orlov, surveyed the scene with sharp, calculating eyes.
 
@@ -612,7 +612,7 @@ Ivanov nodded and began barking orders, but Orlov lingered, staring at the empty
 
 ---
 
-**Chapter 3: Threads Unraveled**
+## Threads Unraveled
 
 The debriefing room at Langley was stark and utilitarian, with bare walls and a rectangular table surrounded by uncomfortable chairs. Marcus sat at the head of the table, his features drawn but his posture steady. He was clean-shaven now, his usual face restored after the removal of the face dancer mask. Across from him sat Alicia Monroe, her pen poised over a notepad, her eyes sharp with curiosity and concern.
 
@@ -762,7 +762,7 @@ Marcus didn’t answer immediately. He leaned back in his chair, his expression 
 
 ---
 
-**Chapter 3: Ghosts Among Us**
+### Ghosts Among Us
 
 The fluorescent lights of the grocery store cast a pale glow over the neatly stocked shelves, the mundane hum of everyday life a stark contrast to the chaos Marcus had left behind in Moscow. He pushed a cart down the aisle, picking out a box of cereal with a faint smile. It was a small luxury to be here, back on American soil, surrounded by people who had no idea how fragile their peace truly was.
 
@@ -800,7 +800,7 @@ Her smile widened just a fraction, a glimmer of amusement in her eyes. “We hav
 
 ---
 
-**Chapter 3: Layers of Shadows**
+### Layers of Shadows
 
 Marcus leaned forward slightly, his coffee untouched as the woman across from him regarded him with the same composed intensity he remembered from Moscow. She seemed completely at ease, her fingers loosely interlocked on the table, but there was an undercurrent to her demeanor—like she was assessing him as much as she was speaking with him.
 
@@ -856,7 +856,7 @@ Marcus sat frozen in his seat, his pulse pounding in his ears. He stared at the 
 
 ---
 
-**Chapter 3: Calls for Answers**
+### Calls for Answers
 
 Marcus stood outside the cafe, the crisp evening air biting at his face as he paced along the quiet street. His mind was a storm of questions, none of which he could answer alone. With a sigh, he pulled out his phone and dialed the one person he trusted to help make sense of it all.
 
@@ -942,7 +942,7 @@ The line went dead, leaving Marcus alone with his thoughts. He stared at the pho
 
 ---
 
-**Chapter 3: The Face Behind the Mask**
+### The Face Behind the Mask
 
 Thomas Mercer sat at his desk, the morning sunlight streaming through the window blinds, casting sharp lines across the meticulously organized surface. He’d barely slept, his mind consumed by Marcus’s report. The description of the flickering face gnawed at him. If the Federation’s technology truly allowed for such seamless impersonation, it wasn’t just revolutionary—it was terrifying.
 
@@ -1004,7 +1004,7 @@ For the first time in his career, Thomas Mercer felt like the master of disguise
 
 ---
 
-**Chapter 3: Authorization to Dig**
+### Authorization to Dig
 
 The conference room was smaller and more private than usual, reserved for off-the-record discussions that no one wanted documented. Alicia sat at one end of the table, her arms crossed, her expression carefully neutral but her eyes betraying her unease. Mercer sat across from her, his demeanor calm but his fingers drumming lightly on the polished wood. Marcus stood by the window, gazing out at the gray Virginia sky, his reflection ghostly in the glass.
 
@@ -1062,7 +1062,7 @@ As the meeting broke up, the weight of their decision hung heavy in the air. Mar
 
 ---
 
-**Chapter 3: Whispers in the Dark**
+### Whispers in the Dark
 
 The bar was Marcus’s favorite refuge, a quiet corner of the city where he could unwind without worrying about prying eyes or unwanted attention. The low hum of conversation blended with the soft notes of jazz from the speakers overhead, the lighting dim enough to let patrons sink into anonymity. Marcus sat at the far end of the bar, nursing a whiskey, his thoughts swirling around the Federation, Mercer’s warning, and the strange new path he found himself on.
 
@@ -1108,7 +1108,7 @@ He downed the rest of his whiskey, his resolve hardening. Whatever the nightinga
 
 ---
 
-**Chapter 3: Behind the Curtain**
+### Behind the Curtain
 
 Cedar Park was quiet at night, the usual bustle of joggers and families replaced by the gentle rustle of leaves and the distant hum of city traffic. The air was crisp, and the park’s sparse lighting cast long shadows over the winding paths. Marcus walked slowly, his hands in his jacket pockets, his eyes scanning the surroundings. He had followed the woman from the bar, keeping a discreet distance as she meandered through the park with the unhurried confidence of someone who knew they weren’t being pursued.
 
@@ -1250,7 +1250,7 @@ As Whitaker reached the base of the ramp, Hermes spoke again, its voice echoing 
 
 ---
 
-**Chapter 4: A Conditional Gift**
+### A Conditional Gift
 
 The interior of the Wraith was unlike anything Whitaker had ever seen. The walls were smooth and featureless, their matte black surface absorbing the faint ambient light. The air carried a faint metallic tang, and the only sound was the low hum of the craft’s systems. Despite the lack of visible instrumentation, the space radiated an unsettling sense of intelligence, as though the craft itself were watching.
 
@@ -2592,7 +2592,7 @@ They spotted James and Tomas waiting near the hub’s entrance, their dark silho
 
 James nodded, his focus sharp. “We move now. Time to make some noise.”  
 
-### Scene 13 (Continued): Compromise  
+## Compromised
 
 The team was moving quickly to finish their objectives, slipping through the darkened factory compound with practiced ease. James Westin led the way toward the eastern wall, where the Wraith would be waiting for their extraction once the charges were detonated.  
 
@@ -2786,7 +2786,7 @@ The team disembarked as the CIA agents moved in, efficiently transferring the pr
 
 The team walked away from the craft, their steps heavy with exhaustion but their spirits buoyed by success. Behind them, the sleek shadow of the Wraith loomed silently, a reminder of the precision and power they now carried into the shadows.  
 
-### Debriefing, Part I  
+### Debriefing
 
 The conference room in Langley’s secure operations wing was stark and utilitarian, its walls lined with monitors displaying maps, tactical data, and key images from the mission. Captain James Westin and his team sat at the table’s center, their expressions a mix of professionalism and fatigue. Across from them was the operations commander, a sharp-eyed woman in her late fifties with graying hair tied neatly back. Next to her sat Alicia Monroe, her presence quiet but observant as she sipped from a cup of coffee.  
 
@@ -2847,8 +2847,6 @@ James shook his head. “No, ma’am. This phase went exactly as planned. It set
 The operations commander made a note on her tablet. “Very well. We’ll move to the next phase—disrupting the convoy and capturing Karami—after a short break.”  
 
 The team relaxed slightly, but the weight of the mission’s remaining details hung in the air as they prepared to dissect the more dangerous parts of their operation.  
-
-### Scene 16 (Continued): Debriefing, Part II  
 
 After a brief pause, the team reconvened in the conference room, ready to delve into the next phase of their operation. The holographic display refreshed, now showing images and video feeds from the convoy interception and subsequent interrogation of Davood Karami.  
 
@@ -2911,8 +2909,6 @@ Alicia added, “This kind of precision is what we’ve been missing in operatio
 The operations commander nodded, her expression thoughtful. “Understood. We’ll move on to the Colonel’s capture and the final phase of the mission shortly. Let’s take a five-minute break.”  
 
 The team exchanged glances, the weight of the discussion evident on their faces as they prepared to delve into the next—and most critical—parts of the mission.  
-
-### Scene 16 (Continued): Debriefing, Part III  
 
 The operations commander gestured for the team to continue, her pen poised over her tablet. “Let’s move on to the ambush on Colonel Rezaei’s convoy. Captain Westin, walk us through it.”
 
@@ -3000,8 +2996,6 @@ The commander nodded, satisfied. “Noted. Let’s move on to the final phase: t
 
 The team relaxed slightly, though the tension of recounting their high-stakes operation lingered in the air.  
 
-### Scene 16 (Continued): Debriefing, Part IV  
-
 The operations commander leaned forward as the next segment of the mission came into focus. On the holographic display, the factory compound near Rudbar appeared, overlaid with markers indicating patrol routes, security emplacements, and critical infrastructure. The team’s insertion path, drawn in faint blue, snaked through the compound’s eastern side.  
 
 “Let’s discuss the factory infiltration,” the commander said. “Captain, walk us through the approach.”  
@@ -3070,8 +3064,6 @@ The room fell silent as the feed froze on the moment the guards turned toward th
 
 James exhaled slowly. “We made the only call we could: retreat to a defensible position. That’s when everything started unraveling.”  
 
-### Scene 16 (Continued): Debriefing, Part V  
-
 The holographic display remained frozen on the guards’ flashlights cutting through the darkness. The team sat in silence for a moment, the weight of the next part of their retelling evident in their expressions.  
 
 The operations commander gestured for James to continue. “What happened next, Captain?”  
@@ -3132,8 +3124,6 @@ The feed updated, showing the Wraith powering up from its hold position. James�
 
 Hermes’s response followed immediately. “Affirmative. Stand by, ETA 30 seconds.”  
 
-### Scene 16 (Continued): Debriefing, Part VI  
-
 The room dimmed slightly as the holographic display transitioned to footage recorded from the Wraith’s sensors during its attack on the compound. The first view was a wide-angle perspective from one of the stealth drones, showing the factory compound as guards scrambled to respond to the growing chaos. Flashlights flickered across the darkened grounds, and distant shouts were faintly audible in the recording.
 
 Hermes’s calm voice narrated the sequence. “This footage begins at the moment direct engagement was authorized. The Wraith initiated a rapid deployment from its hold position, targeting hostile reinforcements en route to the compound.”  
@@ -3192,8 +3182,6 @@ The holographic avatar of Hermes remained visible, standing motionless as if wai
 
 The silence stretched on, unbroken, as the room grappled with the sheer scale of destruction they had just witnessed.  
 
-### Scene 16 (Continued): Debriefing, Part VII  
-
 The silence in the room stretched for several moments after the holographic display dimmed. The weight of what they had seen hung in the air, a testament to the sheer power of the Wraith and Hermes’s surgical precision. Finally, it was James Westin who broke the quiet.
 
 “Ma’am, I’ve seen airstrikes before,” he began, his voice firm but tinged with awe. “This was not just an airstrike. This was something else entirely. You know that saying, ‘the cavalry has arrived’? Well, Hermes **is** that proverbial cavalry.”  
@@ -3246,8 +3234,6 @@ Finally, the operations commander stood. “We’ll take a break before discussi
 
 The team nodded, though no one moved immediately. The quiet hum of the holographic display restarting filled the air as they sat in contemplative silence, the enormity of the conversation settling over them like a heavy fog.  
 
-### Scene 16 (Concluded): Closing the Debrief  
-
 The team reconvened after the break, the room quieter than before. The holographic display was dimmed now, its dramatic footage replaced by a simple map of Northern Iran, marking the locations of the destroyed factory and related hubs. The operations commander stood at the head of the table, her sharp gaze sweeping across the team.
 
 “Let’s conclude,” she said briskly. “This mission was a success. The IRGC’s narcotics operation in the region has been dismantled, and the captured intelligence will provide a foundation for future operations. But success comes with questions, and this one has left us with plenty.”  
@@ -3296,7 +3282,9 @@ But for now, they had done what was asked of them.
 
 And the Federation was watching.  
 
-### Epilogue, Part I: Iran  
+## Epilogue
+
+### Iran
 
 The factory ruins still smoldered beneath the pale light of dawn. Blackened steel beams jutted from piles of rubble like skeletal remains, and the air was thick with the acrid stench of charred chemicals and burnt machinery. Colonel Farhad Khani, a seasoned officer of the IRGC, stepped out of his vehicle, his boots crunching on the debris-strewn ground. His expression was a mixture of disbelief and fury as he surveyed the devastation.  
 
@@ -3339,8 +3327,6 @@ The voice on the other end was quiet for a moment. “Do you have leads?”
 He ended the call, slipping the phone back into his coat. As he stood amidst the devastation, his fists clenched at his sides, the sense of helplessness gnawed at him. This wasn’t just an attack on a facility—it was a message.  
 
 And Colonel Farhad Khani had no choice but to deliver it to his superiors.  
-
-### Epilogue, Part I (Continued): Iran  
 
 #### The Report Escalates  
 
@@ -3397,9 +3383,7 @@ But as Colonel Khani returned to his command, overseeing the implementation of t
 
 And they had no idea what it truly meant.  
 
-### Epilogue, Part II: The Americans  
-
-#### The Langley War Room  
+### The Langley War Room  
 
 Deep within CIA headquarters in Langley, Virginia, a small group of senior strategists gathered in a secure conference room. The mood was a mix of satisfaction and apprehension, with the successful operation in Iran dominating the agenda. The Wraith, and its AI Hermes, had proved a decisive force, but the implications of deploying such advanced technology were far-reaching.
 
@@ -3457,7 +3441,7 @@ The room was silent for a moment before she stood. “Let’s move forward with 
 
 As the group began filing out, Harper lingered by the table, staring at the now-dark holographic display. For all the success the Wraith had brought, she couldn’t shake the feeling that they were playing with fire.  
 
-### Epilogue, Part II (Continued): The Congressional Hearing  
+### The Congressional Hearing  
 
 #### The Hearing Room  
 
@@ -3531,7 +3515,7 @@ As she walked out of the hearing room, Alicia’s mind was already on the classi
 
 But for now, the Wraith remained a shadow, and Hermes remained a secret.  
 
-### Epilogue, Part III: The Israelis  
+### The Israelis  
 
 #### The Mossad’s Discovery  
 
