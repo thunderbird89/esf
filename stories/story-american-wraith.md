@@ -612,7 +612,7 @@ Ivanov nodded and began barking orders, but Orlov lingered, staring at the empty
 
 ---
 
-### Threads Unraveled
+## Threads Unraveled
 
 The debriefing room at Langley was stark and utilitarian, with bare walls and a rectangular table surrounded by uncomfortable chairs. Marcus sat at the head of the table, his features drawn but his posture steady. He was clean-shaven now, his usual face restored after the removal of the face dancer mask. Across from him sat Alicia Monroe, her pen poised over a notepad, her eyes sharp with curiosity and concern.
 
@@ -2592,7 +2592,7 @@ They spotted James and Tomas waiting near the hub’s entrance, their dark silho
 
 James nodded, his focus sharp. “We move now. Time to make some noise.”  
 
-### Scene 13 (Continued): Compromise  
+## Compromised
 
 The team was moving quickly to finish their objectives, slipping through the darkened factory compound with practiced ease. James Westin led the way toward the eastern wall, where the Wraith would be waiting for their extraction once the charges were detonated.  
 
@@ -2786,7 +2786,7 @@ The team disembarked as the CIA agents moved in, efficiently transferring the pr
 
 The team walked away from the craft, their steps heavy with exhaustion but their spirits buoyed by success. Behind them, the sleek shadow of the Wraith loomed silently, a reminder of the precision and power they now carried into the shadows.  
 
-### Debriefing, Part I  
+### Debriefing
 
 The conference room in Langley’s secure operations wing was stark and utilitarian, its walls lined with monitors displaying maps, tactical data, and key images from the mission. Captain James Westin and his team sat at the table’s center, their expressions a mix of professionalism and fatigue. Across from them was the operations commander, a sharp-eyed woman in her late fifties with graying hair tied neatly back. Next to her sat Alicia Monroe, her presence quiet but observant as she sipped from a cup of coffee.  
 
@@ -2847,8 +2847,6 @@ James shook his head. “No, ma’am. This phase went exactly as planned. It set
 The operations commander made a note on her tablet. “Very well. We’ll move to the next phase—disrupting the convoy and capturing Karami—after a short break.”  
 
 The team relaxed slightly, but the weight of the mission’s remaining details hung in the air as they prepared to dissect the more dangerous parts of their operation.  
-
-### Scene 16 (Continued): Debriefing, Part II  
 
 After a brief pause, the team reconvened in the conference room, ready to delve into the next phase of their operation. The holographic display refreshed, now showing images and video feeds from the convoy interception and subsequent interrogation of Davood Karami.  
 
@@ -2911,8 +2909,6 @@ Alicia added, “This kind of precision is what we’ve been missing in operatio
 The operations commander nodded, her expression thoughtful. “Understood. We’ll move on to the Colonel’s capture and the final phase of the mission shortly. Let’s take a five-minute break.”  
 
 The team exchanged glances, the weight of the discussion evident on their faces as they prepared to delve into the next—and most critical—parts of the mission.  
-
-### Scene 16 (Continued): Debriefing, Part III  
 
 The operations commander gestured for the team to continue, her pen poised over her tablet. “Let’s move on to the ambush on Colonel Rezaei’s convoy. Captain Westin, walk us through it.”
 
@@ -3000,8 +2996,6 @@ The commander nodded, satisfied. “Noted. Let’s move on to the final phase: t
 
 The team relaxed slightly, though the tension of recounting their high-stakes operation lingered in the air.  
 
-### Scene 16 (Continued): Debriefing, Part IV  
-
 The operations commander leaned forward as the next segment of the mission came into focus. On the holographic display, the factory compound near Rudbar appeared, overlaid with markers indicating patrol routes, security emplacements, and critical infrastructure. The team’s insertion path, drawn in faint blue, snaked through the compound’s eastern side.  
 
 “Let’s discuss the factory infiltration,” the commander said. “Captain, walk us through the approach.”  
@@ -3070,8 +3064,6 @@ The room fell silent as the feed froze on the moment the guards turned toward th
 
 James exhaled slowly. “We made the only call we could: retreat to a defensible position. That’s when everything started unraveling.”  
 
-### Scene 16 (Continued): Debriefing, Part V  
-
 The holographic display remained frozen on the guards’ flashlights cutting through the darkness. The team sat in silence for a moment, the weight of the next part of their retelling evident in their expressions.  
 
 The operations commander gestured for James to continue. “What happened next, Captain?”  
@@ -3132,8 +3124,6 @@ The feed updated, showing the Wraith powering up from its hold position. James�
 
 Hermes’s response followed immediately. “Affirmative. Stand by, ETA 30 seconds.”  
 
-### Scene 16 (Continued): Debriefing, Part VI  
-
 The room dimmed slightly as the holographic display transitioned to footage recorded from the Wraith’s sensors during its attack on the compound. The first view was a wide-angle perspective from one of the stealth drones, showing the factory compound as guards scrambled to respond to the growing chaos. Flashlights flickered across the darkened grounds, and distant shouts were faintly audible in the recording.
 
 Hermes’s calm voice narrated the sequence. “This footage begins at the moment direct engagement was authorized. The Wraith initiated a rapid deployment from its hold position, targeting hostile reinforcements en route to the compound.”  
@@ -3192,8 +3182,6 @@ The holographic avatar of Hermes remained visible, standing motionless as if wai
 
 The silence stretched on, unbroken, as the room grappled with the sheer scale of destruction they had just witnessed.  
 
-### Scene 16 (Continued): Debriefing, Part VII  
-
 The silence in the room stretched for several moments after the holographic display dimmed. The weight of what they had seen hung in the air, a testament to the sheer power of the Wraith and Hermes’s surgical precision. Finally, it was James Westin who broke the quiet.
 
 “Ma’am, I’ve seen airstrikes before,” he began, his voice firm but tinged with awe. “This was not just an airstrike. This was something else entirely. You know that saying, ‘the cavalry has arrived’? Well, Hermes **is** that proverbial cavalry.”  
@@ -3246,8 +3234,6 @@ Finally, the operations commander stood. “We’ll take a break before discussi
 
 The team nodded, though no one moved immediately. The quiet hum of the holographic display restarting filled the air as they sat in contemplative silence, the enormity of the conversation settling over them like a heavy fog.  
 
-### Scene 16 (Concluded): Closing the Debrief  
-
 The team reconvened after the break, the room quieter than before. The holographic display was dimmed now, its dramatic footage replaced by a simple map of Northern Iran, marking the locations of the destroyed factory and related hubs. The operations commander stood at the head of the table, her sharp gaze sweeping across the team.
 
 “Let’s conclude,” she said briskly. “This mission was a success. The IRGC’s narcotics operation in the region has been dismantled, and the captured intelligence will provide a foundation for future operations. But success comes with questions, and this one has left us with plenty.”  
@@ -3296,7 +3282,9 @@ But for now, they had done what was asked of them.
 
 And the Federation was watching.  
 
-### Epilogue, Part I: Iran  
+## Epilogue
+
+### Iran
 
 The factory ruins still smoldered beneath the pale light of dawn. Blackened steel beams jutted from piles of rubble like skeletal remains, and the air was thick with the acrid stench of charred chemicals and burnt machinery. Colonel Farhad Khani, a seasoned officer of the IRGC, stepped out of his vehicle, his boots crunching on the debris-strewn ground. His expression was a mixture of disbelief and fury as he surveyed the devastation.  
 
@@ -3339,8 +3327,6 @@ The voice on the other end was quiet for a moment. “Do you have leads?”
 He ended the call, slipping the phone back into his coat. As he stood amidst the devastation, his fists clenched at his sides, the sense of helplessness gnawed at him. This wasn’t just an attack on a facility—it was a message.  
 
 And Colonel Farhad Khani had no choice but to deliver it to his superiors.  
-
-### Epilogue, Part I (Continued): Iran  
 
 #### The Report Escalates  
 
@@ -3397,9 +3383,7 @@ But as Colonel Khani returned to his command, overseeing the implementation of t
 
 And they had no idea what it truly meant.  
 
-### Epilogue, Part II: The Americans  
-
-#### The Langley War Room  
+### The Langley War Room  
 
 Deep within CIA headquarters in Langley, Virginia, a small group of senior strategists gathered in a secure conference room. The mood was a mix of satisfaction and apprehension, with the successful operation in Iran dominating the agenda. The Wraith, and its AI Hermes, had proved a decisive force, but the implications of deploying such advanced technology were far-reaching.
 
@@ -3457,7 +3441,7 @@ The room was silent for a moment before she stood. “Let’s move forward with 
 
 As the group began filing out, Harper lingered by the table, staring at the now-dark holographic display. For all the success the Wraith had brought, she couldn’t shake the feeling that they were playing with fire.  
 
-### Epilogue, Part II (Continued): The Congressional Hearing  
+### The Congressional Hearing  
 
 #### The Hearing Room  
 
@@ -3531,7 +3515,7 @@ As she walked out of the hearing room, Alicia’s mind was already on the classi
 
 But for now, the Wraith remained a shadow, and Hermes remained a secret.  
 
-### Epilogue, Part III: The Israelis  
+### The Israelis  
 
 #### The Mossad’s Discovery  
 
