@@ -208,35 +208,35 @@ Carter's grin was sharp-edged, adrenaline still coursing.
 
 > "Copy that, Doc. But we need to move—more could be inbound."
 
-### Alien Doctors, Stunned into Action  
+### The Crash
 
-The alien medical teams finally snapped out of their collective stupor. The Xenari, Seraphyn, and Kryllian physicians, once paralyzed by disbelief, now rushed forward with medkits and scanners.  
+The alien medical teams finally snapped out of their collective stupor. Xenari, Seraphyn, and Kryllian physicians rushed forward with medkits and scanners, their movements urgent but uncertain.
 
-Vireen Taa'Sho-Vel led the charge.  
+Vireen Taa'Sho-Vel approached Carter first, her bioluminescent markings flickering erratically—the Xenari equivalent of complete bewilderment. The humans should have been dead, or at least unconscious. Instead, they stood there dripping blood and making conversation, but something was changing. The razor-sharp alertness was fading, replaced by a strange, hollow-eyed exhaustion.  
 
-Her bioluminescent markings pulsed erratically, the Xenari equivalent of complete and utter bewilderment. She had never seen anything like this.  
+> "Medical intervention is required immediately," 
 
-The humans should have been dead.  
+she said, her voice tight with scientific confusion.
 
-By all biological reasoning, they should not have been standing, let alone cracking jokes as they dripped blood onto the floor.  
+Carter nodded absently, still riding the chemical high but starting to feel the crash. 
 
-> "You require immediate medical intervention," 
+> "Yeah... yeah, that tracks. Feeling it now."
 
-she declared, her voice warbling in disbelief as she tried to process what she had just witnessed.  
+He swayed slightly, pupils still dilated but the razor focus dissolving into exhaustion. The adrenaline was abandoning his system like a retreating army.
 
-> "Roger that. We're mobile, just patched with what we had on hand." 
+Dr. Patel limped over, supported by a bewildered Kryllian medic. His knee had swollen to twice its normal size.
 
-Carter assessed his wounds with military efficiency, then winced when the motion sent a jolt up his side. 
+> "Huh. That's... definitely broken something."
 
-> "Scratch that—need some real medical attention. Lead the way, Doc."  
+He sounded almost surprised by his own injuries, like he was discovering them for the first time.
 
-A Kryllian medic, his squat form bustling with urgency, moved to support Dr. Marcus Patel, who was limping—his knee swollen and dark with internal bleeding from when he had used it to snap a terrorist's skull open.  
+The Kryllian's plates clicked nervously. 
 
-> "By the Founders, how are you still mobile?!" 
+> "Your structural integrity should have failed completely. How are you conscious?"
 
-the Kryllian blurted.  
+Patel blinked slowly, as if the question was coming from very far away. 
 
-Patel gritted his teeth. 
+> "Good question. Ask me again in an hour."  
 
 > "Pain is just information. I'll process it later."
 
@@ -250,48 +250,37 @@ The medic nodded rapidly, still looking shell-shocked.
 
 > "Good. Then do whatever you need to. Just don't drug me too hard, I want to stay awake."
 
-Vireen hurried forward. 
+> "I think I might have a concussion. Hard to tell with all the... the noise in my head."
 
-> "You need pain management—"
+Dr. Park pressed a makeshift bandage to her arm, watching the others with professional concern tinged by something else—a kind of shocked recognition.
 
-Henshaw stared at her.  
+> "We're all going to crash hard," she said quietly to Vireen. "This is what happens when the body's emergency systems shut down."  
 
-Not aggressively. Not threateningly. Just flatly, like she was staring through her soul.  
+### Questions in Transit
 
-> "…Fine. I will keep it minimal," 
+As they moved toward the trauma bay, Vireen found herself walking beside Dr. Park, who was pressing her makeshift bandage with mechanical precision.
 
-Vireen relented.  
+> "Dr. Park," Vireen said carefully, "what we witnessed... that level of violence, that speed—is this typical for your species?"
 
-Henshaw gave her a nod.  
+Park's laugh was hollow, tinged with the strange detachment of shock.
 
-### Emergency Care, and More Questions  
+> "Typical? No. But possible?" She gestured weakly at the group. "Obviously."
 
-The med teams rushed them down the corridor into the primary trauma bay, a sleek Xenari-designed facility that gleamed with advanced biotech and zero-contamination measures.  
+She paused, seeming to consider her own words as if hearing them for the first time.
 
-Staff were whispering in hushed tones—not just about the attack, but about the humans.  
+> "Most humans go their whole lives without ever really finding out what they're capable of."
 
-Vireen caught snippets of murmured conversation.  
+Vireen's markings pulsed a troubled blue.
 
-> "They fought without weapons…"  
-> "Did you see how fast they moved? How… violent?"  
-> "They should not have been able to endure those injuries…"  
-> "I thought they lacked an external stimulant system—how do they do this?"  
+> "And you? Had you ever...?"
 
-Vireen's mind raced.  
+> "Killed someone with a scalpel?" Park's voice was matter-of-fact, almost clinical. "First time. But the anatomy knowledge transfers pretty directly."
 
-This wasn't just combat experience.  
+The casual way she said it sent a chill through every alien within earshot. Behind them, Carter had started shaking—barely perceptible tremors as his system began to crash. Patel was leaning heavily on his Kryllian support, mumbling something about metabolic debt.
 
-This wasn't just training.  
+Vireen realized she wasn't just witnessing the aftermath of violence. She was watching an entire biological system systematically shutting down its emergency protocols.
 
-This was something else entirely.  
-
-Something biological.  
-
-As the medical teams got to work, she watched them closely.  
-
-Even in pain, even wounded, they were different.  
-
-And she was going to find out why.  
+And somehow, that was almost more terrifying than the violence itself.  
 
 ## Aftermath (Part II)  
 ### Alien Medicine, Human Resilience  
@@ -346,23 +335,23 @@ They all turned toward the treatment platforms.
 
 ### Treatment and Perseverance  
 
-Staff Sergeant Logan Carter, propped up on one of the diagnostic tables, was grinning through the pain as a Xenari medic used a microsurgical tool to close the deep claw wound in his thigh.  
+Staff Sergeant Logan Carter lay on one of the diagnostic tables, no longer grinning. The adrenaline had fully abandoned him now, leaving behind a hollow-eyed exhaustion and the growing awareness of just how badly he was hurt. A Xenari medic worked on the deep claw wound in his thigh with microsurgical precision.
 
-The medic worked with extreme care, his elongated fingers trembling slightly. He had never treated a patient who had sustained such injuries without screaming.  
+> "How long was the fight?" Carter asked, his voice flat and distant.
 
-Carter, instead, was watching the process with mild amusement.  
+The medic paused. 
 
-> "Doc, that probe's getting awfully personal. You gonna at least tell me your name first?"
+> "Approximately fifteen seconds."
 
-The Xenari medic froze, his large obsidian eyes blinking in confusion. 
+Carter blinked, staring at the ceiling. 
 
-> "I… this is a medical procedure. Names are not typically—"
+> "Jesus. Fifteen seconds." His voice was barely a whisper. "I remember it being almost an hour. For me."
 
-Dr. Evelyn Park groaned from the next table over. 
+Dr. Park, on the next table, nodded wearily. 
 
-> "Ignore him. He deflects with humor when he's in pain."
+> "That's the temporal distortion. Time perception changes when the system floods with adrenaline."
 
-The Xenari looked between them, clearly trying to process human psychology alongside human physiology.  
+The Xenari medic looked between them with growing fascination and concern. Their patients were describing their own biological processes with the detachment of field researchers.  
 
 Further down the line, Dr. Rebecca Henshaw watched impassively as a Seraphyn medic gently applied a regenerative salve to her bloodied hands.  
 
