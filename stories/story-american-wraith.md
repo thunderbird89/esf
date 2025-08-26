@@ -178,7 +178,7 @@ The woman gave a thin smile, the first sign of humanity in her otherwise mechani
 
 ---
 
-**Chapter 2: Ripples in the Dark**
+### Ripples in the Dark
 
 Alicia Monroe sat at her desk in the CIA’s Russia Division, her eyes fixed on the blinking cursor of her terminal. The sterile hum of the office surrounded her, punctuated by the occasional murmur of agents talking in low voices or the faint ding of an elevator arriving. But none of it registered. Her thoughts were miles away, in the shadowed streets of Moscow, chasing a phantom thread of hope.
 
@@ -222,7 +222,7 @@ She whispered the words under her breath, as though they might will themselves i
 
 ---
 
-**Chapter 2: The Getaway**
+### The Getaway
 
 The battered gray van rattled as it idled in the alleyway behind the safe house. Marcus climbed into the back, sandwiched between a toolbox and a stack of traffic cones. His newly altered face stared back at him from a rearview mirror mounted on the driver’s visor. The effect was disorienting, the sharp features and faint scar belonging to a man he’d never met.
 
@@ -284,7 +284,7 @@ The van picked up speed, weaving into traffic as the GRU’s SUVs began to close
 
 ---
 
-**Chapter 2: The Ghost in the Shadows**
+### The Ghost in the Shadows
 
 The van tore through Moscow’s outskirts, bouncing over potholes and swerving around slower cars. The snow-covered roads narrowed as the cityscape gave way to abandoned industrial zones and crumbling farm complexes, remnants of the Soviet Union’s glory days. Marcus clung to the van’s interior, his stomach lurching with every sharp turn.
 
@@ -346,7 +346,7 @@ The Wraith shot through the night sky, a ghost on the wind, leaving the GRU behi
 
 ---
 
-**Chapter 2: A Message in the Dark**
+### A Message in the Dark
 
 The conference room was as cold and impersonal as the rest of Langley’s labyrinthine halls. Alicia sat at the long oak table, surrounded by her peers and superiors. The wall-mounted monitors displayed maps of Moscow and surrounding regions, dotted with pins marking suspected GRU movements. The room buzzed with low murmurs as analysts discussed the latest intelligence.
 
@@ -386,7 +386,7 @@ She slid the phone back into her pocket, her fingers trembling slightly. The res
 
 ---
 
-**Chapter 2: A Moment to Breathe**
+### A Moment to Breathe
 
 The Wraith hummed softly, the sound soothing in its constancy as it cut through the night sky, cloaked from any prying eyes below. Marcus sat in one of the seats along the wall of the craft, his fingers unconsciously tapping the edge of the armrest. The adrenaline of the escape was starting to wear off, leaving him both exhausted and restless.
 
@@ -432,7 +432,7 @@ For the first time in days, he closed his eyes and let himself breathe.
 
 ---
 
-**Chapter 2: Arrival in Paris**
+### Arrival in Paris
 
 The Wraith descended smoothly through the night, its engines humming so softly it was almost imperceptible. Through a narrow viewport, Marcus could see the faint glow of the Parisian skyline in the distance, a golden haze against the inky backdrop of the night sky. The sprawling city seemed surreal, a world away from the tension and shadows of Moscow.
 
@@ -492,7 +492,7 @@ Marcus closed his eyes, a faint smile tugging at his lips despite everything. �
 
 ---
 
-**Chapter 2: A Call Across the Divide**
+### A Call Across the Divide
 
 Alicia almost didn’t answer the call. The blinking light on her secure line was unusual this late, but she had been conditioned to expect bad news from unknown numbers. Still, something about the timing made her reach for the receiver, her fingers trembling slightly.
 
@@ -554,7 +554,7 @@ She sat back, exhaling slowly. The wheels were already turning for Marcus’s ex
 
 ---
 
-**Chapter 2: Ghosts in the Shadows**
+### Ghosts in the Shadows
 
 The GRU kill team’s convoy screeched to a halt outside the decrepit Soviet-era warehouse. Snow and ice crunched underfoot as heavily armed operatives spilled out of the black SUVs, their boots hitting the ground in practiced unison. The leader of the team, Major Konstantin Orlov, surveyed the scene with sharp, calculating eyes.
 
@@ -612,7 +612,7 @@ Ivanov nodded and began barking orders, but Orlov lingered, staring at the empty
 
 ---
 
-**Chapter 3: Threads Unraveled**
+### Threads Unraveled
 
 The debriefing room at Langley was stark and utilitarian, with bare walls and a rectangular table surrounded by uncomfortable chairs. Marcus sat at the head of the table, his features drawn but his posture steady. He was clean-shaven now, his usual face restored after the removal of the face dancer mask. Across from him sat Alicia Monroe, her pen poised over a notepad, her eyes sharp with curiosity and concern.
 
@@ -762,7 +762,7 @@ Marcus didn’t answer immediately. He leaned back in his chair, his expression 
 
 ---
 
-**Chapter 3: Ghosts Among Us**
+### Ghosts Among Us
 
 The fluorescent lights of the grocery store cast a pale glow over the neatly stocked shelves, the mundane hum of everyday life a stark contrast to the chaos Marcus had left behind in Moscow. He pushed a cart down the aisle, picking out a box of cereal with a faint smile. It was a small luxury to be here, back on American soil, surrounded by people who had no idea how fragile their peace truly was.
 
@@ -800,7 +800,7 @@ Her smile widened just a fraction, a glimmer of amusement in her eyes. “We hav
 
 ---
 
-**Chapter 3: Layers of Shadows**
+### Layers of Shadows
 
 Marcus leaned forward slightly, his coffee untouched as the woman across from him regarded him with the same composed intensity he remembered from Moscow. She seemed completely at ease, her fingers loosely interlocked on the table, but there was an undercurrent to her demeanor—like she was assessing him as much as she was speaking with him.
 
@@ -856,7 +856,7 @@ Marcus sat frozen in his seat, his pulse pounding in his ears. He stared at the 
 
 ---
 
-**Chapter 3: Calls for Answers**
+### Calls for Answers
 
 Marcus stood outside the cafe, the crisp evening air biting at his face as he paced along the quiet street. His mind was a storm of questions, none of which he could answer alone. With a sigh, he pulled out his phone and dialed the one person he trusted to help make sense of it all.
 
@@ -942,7 +942,7 @@ The line went dead, leaving Marcus alone with his thoughts. He stared at the pho
 
 ---
 
-**Chapter 3: The Face Behind the Mask**
+### The Face Behind the Mask
 
 Thomas Mercer sat at his desk, the morning sunlight streaming through the window blinds, casting sharp lines across the meticulously organized surface. He’d barely slept, his mind consumed by Marcus’s report. The description of the flickering face gnawed at him. If the Federation’s technology truly allowed for such seamless impersonation, it wasn’t just revolutionary—it was terrifying.
 
@@ -1004,7 +1004,7 @@ For the first time in his career, Thomas Mercer felt like the master of disguise
 
 ---
 
-**Chapter 3: Authorization to Dig**
+### Authorization to Dig
 
 The conference room was smaller and more private than usual, reserved for off-the-record discussions that no one wanted documented. Alicia sat at one end of the table, her arms crossed, her expression carefully neutral but her eyes betraying her unease. Mercer sat across from her, his demeanor calm but his fingers drumming lightly on the polished wood. Marcus stood by the window, gazing out at the gray Virginia sky, his reflection ghostly in the glass.
 
@@ -1062,7 +1062,7 @@ As the meeting broke up, the weight of their decision hung heavy in the air. Mar
 
 ---
 
-**Chapter 3: Whispers in the Dark**
+### Whispers in the Dark
 
 The bar was Marcus’s favorite refuge, a quiet corner of the city where he could unwind without worrying about prying eyes or unwanted attention. The low hum of conversation blended with the soft notes of jazz from the speakers overhead, the lighting dim enough to let patrons sink into anonymity. Marcus sat at the far end of the bar, nursing a whiskey, his thoughts swirling around the Federation, Mercer’s warning, and the strange new path he found himself on.
 
@@ -1108,7 +1108,7 @@ He downed the rest of his whiskey, his resolve hardening. Whatever the nightinga
 
 ---
 
-**Chapter 3: Behind the Curtain**
+### Behind the Curtain
 
 Cedar Park was quiet at night, the usual bustle of joggers and families replaced by the gentle rustle of leaves and the distant hum of city traffic. The air was crisp, and the park’s sparse lighting cast long shadows over the winding paths. Marcus walked slowly, his hands in his jacket pockets, his eyes scanning the surroundings. He had followed the woman from the bar, keeping a discreet distance as she meandered through the park with the unhurried confidence of someone who knew they weren’t being pursued.
 
@@ -1250,7 +1250,7 @@ As Whitaker reached the base of the ramp, Hermes spoke again, its voice echoing 
 
 ---
 
-**Chapter 4: A Conditional Gift**
+### A Conditional Gift
 
 The interior of the Wraith was unlike anything Whitaker had ever seen. The walls were smooth and featureless, their matte black surface absorbing the faint ambient light. The air carried a faint metallic tang, and the only sound was the low hum of the craft’s systems. Despite the lack of visible instrumentation, the space radiated an unsettling sense of intelligence, as though the craft itself were watching.
 
