@@ -116,119 +116,25 @@ They assumed the humans were like every other species in the galaxy.
 
 They assumed *wrong*.  
 
-#### Logan Carter: The Opening Kill  
+#### The Slaughter
 
-Staff Sergeant Logan Carter moved first.  
+Staff Sergeant Logan Carter moved first.
 
-One moment, he was standing in place, hands raised in false surrender. The next, he exploded forward like a missile, his brutal speed defying the weight of his frame.  
+One moment, he was standing in place, hands raised in false surrender. The next, he exploded forward like a missile, his brutal speed defying the weight of his frame. The four-armed terrorist leader barely had time to react before Carter grabbed his rifle barrel, wrenched it aside, and drove a knee into the alien's gut with crushing force. A sickening crack filled the air—something inside snapped—but Carter didn't stop.
 
-The four-armed terrorist leader barely had time to react before Carter grabbed his rifle barrel, wrenched it aside, and drove a knee into the alien's gut with crushing force. A sickening crack filled the air—something inside snapped—but Carter didn't stop.  
+As Carter spun to deliver a full-force elbow strike to a second terrorist's temple, Dr. Evelyn Park was already in motion. She sidestepped a lunging attacker with the jagged plasma dagger, letting his momentum carry him past her, then slammed her palm into his elbow joint. The limb snapped backward with a wet crunch. His shriek barely left his mandibles before she grabbed a discarded surgical scalpel and plunged it into the gap between his neck plates, twisting until the blade severed his spinal column.
 
-He spun.  
+Dr. Marcus Patel, the gentle biologist, drove his fist into another terrorist's throat—not a punch, but a surgical strike. The windpipe crushed instantly. As the alien staggered and choked, Patel grabbed a metal chair and brought it down onto the creature's skull with bone-shattering force. The chair dented inward from the impact.
 
-A second terrorist, reaching for his weapon, was met with a full-force elbow strike to the temple. His exoskeletal plates cracked like brittle ceramic. Before the body hit the ground, Carter was already moving—he ripped the rifle from the leader's grip and, in a single motion, drove the stock straight through the terrorist's throat.  
+Meanwhile, Carter had ripped the rifle from the leader's grip and driven the stock straight through the alien's throat. Chitin and muscle gave way like wet paper as the leader collapsed, clutching at the gaping ruin where his airway had been.
 
-Chitin and muscle gave way like wet paper.  
+Dr. Alan Greaves caught a terrorist's razor-clawed swing, twisted at the wrist, and snapped the arm at the elbow with a brutal jerk. The alien howled, but Greaves yanked him forward and smashed his forehead into the creature's face—once, twice, three times—until his own face was splattered with alien ichor and the terrorist's skull caved in.
 
-The leader collapsed, clutching at the gaping ruin where his airway had been.  
+The last remaining terrorist charged Dr. Rebecca Henshaw with a combat knife raised. She sidestepped with clinical precision, grabbed his wrist, and pressed her thumb into the soft tissue between his carpal plates. He screamed as the pressure point ignited his nerves. Then she twisted his arm backward, forcing the knife toward his own gut. He struggled. She held firm. The blade sank into his abdomen, and with a single, smooth motion, she ripped it upward, gutting him from stomach to sternum.
 
-Logan Carter didn't even glance at the dying, wheezing pile of twitching limbs at his feet.  
+The terrorist fell in two halves.
 
-Because the others were already in motion.  
-
-#### Dr. Evelyn Park: A Surgeon's Precision  
-
-Dr. Evelyn Park was not a fighter.  
-
-But she was a trauma surgeon.  
-
-Which meant she knew exactly where to cut.  
-
-One of the terrorists lunged for her with a jagged plasma dagger.  
-
-She didn't retreat.  
-
-She sidestepped and let his own momentum carry him past her.  
-
-Then, she slammed her palm into his elbow joint—the limb snapped backward with a sickening wet crunch. His shriek of pain barely left his mandibles before she grabbed a discarded surgical scalpel from the floor and plunged it into the gap between his neck plates.  
-
-She twisted.  
-
-The blade severed everything that mattered.  
-
-The terrorist spasmed violently as his spinal column was severed, and he collapsed in a heap.  
-
-Evelyn yanked the scalpel free, flicked the alien blood off with practiced precision, and looked up for the next target.  
-
-#### Dr. Marcus Patel: The Biologist Breaks Bone  
-
-Dr. Marcus Patel had always been a gentle man. A scholar. A scientist.  
-
-But biology had taught him one thing:  
-
-Pressure points are universal.  
-
-As a terrorist turned toward him, weapon raised, Patel drove his fist into the alien's throat—not a punch, but a surgical strike, fingers extended.  
-
-The windpipe crushed instantly.  
-
-The terrorist staggered, choking. Patel grabbed a metal chair, swung it in a wide arc, and brought it down onto the alien's skull with a force that shattered bone.  
-
-The chair dented inward from the impact.  
-
-The terrorist collapsed, limbs twitching in post-mortem spasms.  
-
-Patel let out a breath.  
-
-His knuckles were bleeding.  
-
-He ignored it.  
-
-#### Dr. Alan Greaves: The Geneticist's Fury  
-
-Dr. Alan Greaves didn't think. He just moved.  
-
-A terrorist swung at him with razor-sharp claws.  
-
-Greaves caught the arm, twisted at the wrist, and snapped it at the elbow with a sharp, brutal jerk.  
-
-The alien howled in agony.  
-
-Greaves didn't let go.  
-
-He yanked the terrorist forward and smashed his forehead into the alien's face—once, twice, three times—until his own face was splattered with alien ichor.  
-
-The terrorist's skull caved in.  
-
-Greaves let him drop like garbage.  
-
-His vision swam with adrenaline, but he felt no pain.  
-
-He looked for his next kill.  
-
-#### Dr. Rebecca Henshaw: The Epidemiologist's Execution  
-
-Dr. Rebecca Henshaw was calm.  
-
-Too calm.  
-
-The last remaining terrorist charged at her, combat knife raised—  
-
-She sidestepped with clinical precision and grabbed his wrist.  
-
-She pressed her thumb into the soft tissue between his carpal plates—the pressure point ignited his nerves.  
-
-He screamed.  
-
-Then she twisted his arm backward—not breaking it, but forcing the knife toward his own gut.  
-
-He struggled. She held firm.  
-
-The blade sank into his own abdomen.  
-
-Then, with a single, smooth motion, she ripped the knife upward, gutting him from stomach to sternum.  
-
-He fell in two halves.  
+Six aliens. Fifteen seconds. Done.  
 
 ---
 
@@ -292,15 +198,15 @@ He glanced down. Yup. Still bleeding.
 
 Well.  
 
-> "Shit, guys, that was fun. Who's up for round two?"
+> "Area secure. Six tangos down, no survivors. Docs, sound off—anyone bleeding out?"
 
-Dr. Evelyn Park shot him a glare as she clutched her wounded arm, using her medical coat as a makeshift bandage. 
+Dr. Evelyn Park shot him a look as she pressed her medical coat against her wounded arm. 
 
-> "Carter, if you don't shut up, I will personally anesthetize you with my fist."
+> "Carter, if you don't shut up and let me work, I will personally anesthetize you with my fist."
 
-Carter smirked, despite himself. 
+Carter's grin was sharp-edged, adrenaline still coursing. 
 
-> "Oof, doc, at least buy me a drink first."
+> "Copy that, Doc. But we need to move—more could be inbound."
 
 ### Alien Doctors, Stunned into Action  
 
@@ -318,13 +224,11 @@ By all biological reasoning, they should not have been standing, let alone crack
 
 she declared, her voice warbling in disbelief as she tried to process what she had just witnessed.  
 
-> "Yeah, yeah, we know." 
+> "Roger that. We're mobile, just patched with what we had on hand." 
 
-Carter waved dismissively, then winced when the motion sent a jolt of agony up his side. 
+Carter assessed his wounds with military efficiency, then winced when the motion sent a jolt up his side. 
 
-> "Ow. Okay, yeah, fine. Let's go, Doc Lizard."
-
-Vireen chose to ignore the nickname.  
+> "Scratch that—need some real medical attention. Lead the way, Doc."  
 
 A Kryllian medic, his squat form bustling with urgency, moved to support Dr. Marcus Patel, who was limping—his knee swollen and dark with internal bleeding from when he had used it to snap a terrorist's skull open.  
 
@@ -448,17 +352,17 @@ The medic worked with extreme care, his elongated fingers trembling slightly. He
 
 Carter, instead, was watching the process with mild amusement.  
 
-> "Y'know, Doc, if you're trying to get to third base, at least buy me dinner first."
+> "Doc, that probe's getting awfully personal. You gonna at least tell me your name first?"
 
-The Xenari medic froze. His large, obsidian eyes blinked in confusion. 
+The Xenari medic froze, his large obsidian eyes blinking in confusion. 
 
-> "I… do not understand. What does this have to do with sport?"
+> "I… this is a medical procedure. Names are not typically—"
 
 Dr. Evelyn Park groaned from the next table over. 
 
-> "Ignore him. He makes bad jokes when he's concussed."
+> "Ignore him. He deflects with humor when he's in pain."
 
-The Xenari visibly hesitated, as if unsure whether Carter was actually suffering from brain damage or just a chronic personality disorder.  
+The Xenari looked between them, clearly trying to process human psychology alongside human physiology.  
 
 Further down the line, Dr. Rebecca Henshaw watched impassively as a Seraphyn medic gently applied a regenerative salve to her bloodied hands.  
 
@@ -562,11 +466,11 @@ One of the Kryllian surgeons clicked nervously, his plated fingers tapping again
 
 Staff Sergeant Logan Carter, still grinning despite the dark bruises blooming across his skin, waved a hand lazily.  
 
-> "Oh yeah, it's terrible for you in the long run. Prolonged exposure screws up your organs, can cause heart attacks, weakens the immune system—yada yada. But in the *short term*, in a fight?"
+> "Yeah, it's hell on the body long-term. PTSD, cardiac issues, immune suppression—whole laundry list. But in a combat situation?"
 
 He gestured toward the bloodstained conference hall visible through the trauma bay's transparent partitions.  
 
-> "You saw what it does. It makes us unstoppable monsters."
+> "You just witnessed what happens when five million years of evolution kicks in. We become apex predators."
 
 The alien doctors exchanged looks of muted horror.  
 
@@ -610,15 +514,13 @@ The Kryllian surgeon let out a low, worried chitter.
 
 > "For what purpose could such an extreme response have evolved? Surely the dangers of your world could not warrant such a—"
 
-Carter laughed sharply, cutting him off.  
+Carter's laugh was sharp, cutting him off.  
 
-> "Oh, buddy."
+> "Doc, you have no idea."
 
-He winced as the laugh sent a sharp pain through his ribs.  
+He winced as the motion sent pain through his ribs, but his grin turned predatory.  
 
-Then he grinned wider.  
-
-> "Earth is not a nice place."
+> "Earth didn't make us this way for fun. Our planet's been trying to kill us since day one."
 
 ### Anecdotes of Strength  
 
@@ -656,44 +558,38 @@ Patel shook his head.
 
 Carter, still grinning, flexed his bruised knuckles.  
 
-> "You ever see a human in a fight? Sometimes we move so fast it looks like we're teleporting. Our reaction time gets so sharp we can dodge attacks without thinking about it."
+> "Combat reflexes get so sharp we can react to threats before we consciously process them. Time slows down, pain disappears, strength multiplies."
 
-The Kryllian surgeon, looking distinctly unnerved, turned back toward the holographic displays, scanning the molecular breakdown.  
+The Kryllian surgeon looked distinctly unnerved as he turned back to the holographic displays.  
 
-> "And this happens automatically? Any time your species is in danger?"
+> "And this occurs automatically? Without conscious control?"
 
-Dr. Park sighed, nodding.  
+Dr. Park gestured wearily at her own battered body, then the others.  
 
-> "Of course, we very much pay the price once the danger's passed."
-
-She gestured toward her own stiff, aching body, then at the others.  
-
-> "With compound interest…"
+> "Every time. And afterward? We pay the bill with compound interest."
 
 ### The Weight of the Revelation  
 
-Vireen took a shaky step backward, trying to absorb the weight of what she had learned.  
+Vireen took a shaky step backward, trying to absorb what she had learned.  
 
-A natural, biologically ingrained combat stimulant. A pure survival mechanism, present across an entire planetary ecosystem, that allowed the body to operate beyond its physical limits.  
+A natural, biologically ingrained combat stimulant. A survival mechanism present across an entire planetary ecosystem that allowed bodies to operate beyond their physical limits. No other species in the galaxy had this. *No one.*  
 
-No other species in the galaxy had this.  
+And yet here were the humans—torn, bloodied, bruised but still alive, still functional, still making jokes. Still *dangerous*.  
 
-*No one.*  
+She exchanged glances with the Kryllian surgeon, then the Seraphyn. They were all thinking the same thing. They had known humans were unusual, but this was something else entirely. This was terrifying.  
 
-And yet, here were the humans, torn, bloodied, bruised—but still alive, still functioning, still cracking jokes.  
+Vireen's bioluminescent markings pulsed a deep, troubled blue as she watched Carter flex his bloodied knuckles and grin at the pain.  
 
-Still *dangerous*.  
+> "I need to study this further. Your physiology... your world... there's so much we don't understand."
 
-She exchanged glances with the Kryllian, then the Seraphyn.  
+Dr. Patel met her gaze, exhaustion finally showing through the adrenaline crash.  
 
-They were all thinking the same thing.  
+> "Careful what you wish for, Doc. You've seen what we're like when we're being *polite*."
 
-They had known humans were unusual.  
+And with those words hanging in the antiseptic air, Vireen realized she had stumbled onto something that would change everything the galaxy thought it knew about the strange, violent little world called Earth.
 
-But this?  
+The humans weren't just unusual.
 
-This was something else entirely.  
+They were *apex predators* masquerading as academics.
 
-This was terrifying.  
-
-And they had only scratched the surface.
+And they had only just begun to show what they were capable of.
