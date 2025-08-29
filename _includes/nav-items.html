@@ -8,7 +8,7 @@
   <ul class="nav-menu">
     {%- if lines.size > 0 -%}
     <li class="menu-item has-submenu">
-      <span class="nav-link">Stories</span>
+      <a class="nav-link" href="{{ '/stories/' | relative_url }}">Stories</a>
       <ul class="submenu">
         {%- for ln in lines -%}
           {%- assign pages_in_line = story_pages | where: "line", ln | sort: "timeline" -%}
@@ -33,7 +33,7 @@
 
     {%- if codex_pages.size > 0 -%}
     <li class="menu-item has-submenu">
-      <span class="nav-link">Codex</span>
+      <a class="nav-link" href="{{ '/codex/' | relative_url }}">Codex</a>
       <ul class="submenu">
         {%- for page in codex_pages -%}
           {%- if page.title -%}

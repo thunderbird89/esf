@@ -2,9 +2,6 @@
 layout: default
 title: Stories
 ---
-
-# Stories
-
 <ul>
 {% assign story_pages = site.pages | where: "type", "story" | sort: "timeline" %}
 {% for p in story_pages %}
