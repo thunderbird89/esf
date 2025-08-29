@@ -9,4 +9,5 @@ toc: false
 
 <ul>
   <li><a href="/esf/stories/">Read the Stories</a></li>
+  <li><a href="/esf/codex/">Browse the Codex</a></li>
 </ul>
