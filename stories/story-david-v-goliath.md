@@ -1,6 +1,4 @@
-The Aurora drones were returning from their westward climb, now positioned for their acceleration run. At first, they looked like any other aircraft - distant navigation lights moving in perfect formation across the night sky.
-
-Then the plasma engines engaged.---
+---
 layout: story
 type: story
 line: main
