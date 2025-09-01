@@ -925,3 +925,86 @@ A longer pause this time.
 Volkov acknowledged, but his unease was growing. The five contacts had decelerated to approximately Mach 5 and were now holding position over different areas of the Donbas - all of them corresponding to known military installations.
 
 > "Petrov, this doesn't feel like equipment failure anymore."
+
+### Ilovaisk Rail Junction, Donetsk Oblast
+*March 6th, 2025 - 2208 hours local time*
+
+Private Alexei Markov pulled his wool cap lower over his ears and cursed the Ukrainian winter for the thousandth time since his deployment. The guard post at the northern approach to Ilovaisk rail junction was supposed to be a quiet assignment - watching for infiltrators or saboteurs in an area that hadn't seen active fighting in months. The most dangerous part of his shift was usually staying awake while watching empty fields through his night vision scope.
+
+But tonight felt different.
+
+Alexei shifted his AK-74M to his other shoulder and checked his watch: 2208 hours. Another four hours until relief. The rail yard stretched behind him like a miniature city of steel and concrete - switching towers, fuel storage tanks, ammunition depots, and locomotive repair sheds illuminated by harsh sodium lights that cast long shadows across the industrial landscape.
+
+He raised his night vision scope and scanned the perimeter, looking for movement in the tree line two hundred meters away. Nothing. Just the familiar green-tinted landscape of empty fields and scattered buildings that had been his world for the past six months.
+
+Then he saw the light.
+
+High above the rail yard, perhaps two thousand meters up, a single point of brilliant white light was moving across the sky. Not the steady progression of an aircraft's navigation lights, not the random tumbling of space debris. This was something that moved with purpose, with intelligence, tracing a perfect arc overhead.
+
+The light was getting brighter.
+
+> "What the fuck...?" Alexei muttered, raising his scope again.
+
+Through the night vision, the approaching object was almost too bright to look at directly. It looked like a burning comet, trailing wisps of superheated gas that glowed with their own internal light. But comets didn't slow down, didn't adjust their trajectory, didn't descend in controlled approaches toward specific targets.
+
+This one did.
+
+Alexei grabbed his radio with shaking hands. 
+
+> "Command, this is Post Seven. I've got an unknown aircraft approaching from the northwest. High altitude, single contact, unusual signature."
+
+Static crackled through the handset. 
+
+> "Post Seven, this is Command. Say again? Did you say aircraft?"
+
+> "Affirmative, Command. Single aircraft, approximately... fuck, I don't know the range. It's big, it's bright, and it's coming this way."
+
+The object was close enough now that Alexei could make out its shape through the scope - angular, wedge-like, surrounded by a faint aurora of excited atmospheric particles. The air around it seemed to shimmer with heat distortion, even at altitude.
+
+> "Command, whatever this is, it's not showing up on our air defense radar," came the reply. "Are you certain it's aircraft?"
+
+Alexei watched the object complete its approach and settle into a stable hover approximately one kilometer above the rail yard. The plasma trail faded as its velocity dropped to zero, but the craft itself continued to glow with residual heat, visible even to the naked eye as a bright star that had appeared where no star belonged.
+
+> "Command, it's... it's just hanging there. About a klick up, directly over the switching yard."
+
+> "Hanging? Aircraft don't hang, soldier. Are you sure you're not looking at—"
+
+The transmission cut off as the night sky exploded into light.
+
+Five brilliant flashes erupted from the hovering craft in rapid succession, each one brighter than camera flash, illuminating the entire rail complex in stark white detail. For a split second, Alexei could see everything with perfect clarity - the maze of railway tracks, the fuel tanks, the ammunition bunkers, the command center - all of it frozen in a moment of impossible brightness.
+
+Then the missiles hit.
+
+The first *Stiletto* missile struck the main switching tower with surgical precision, its tungsten-carbide tip punching through the reinforced concrete structure like it was made of cardboard. The warhead detonated inside the building, and the entire four-story structure collapsed in on itself with a roar that shook the ground beneath Alexei's feet.
+
+The second missile found the fuel depot. The explosion was spectacular - a rising fireball that climbed three hundred meters into the night sky, followed by secondary detonations as storage tanks ruptured and ignited in sequence. The heat wave rolled across the rail yard like a physical force, hot enough that Alexei could feel it on his exposed face even from his distant position.
+
+The third missile penetrated the ammunition bunker. What followed wasn't an explosion so much as a prolonged eruption - a sustained chain reaction that sent tracer rounds and artillery shells spinning through the air like deadly fireworks. The bunker's reinforced roof lifted straight up, hung in the air for a moment, then crashed back down onto the twisted wreckage below.
+
+The fourth missile struck the command center, the building where Alexei had reported just moments earlier. The structure simply vanished in a flash of white light and expanding debris. When the smoke cleared, nothing remained but a smoking crater where the two-story communications hub had stood.
+
+The fifth and final missile targeted the locomotive repair facility - a massive hangar containing three freight locomotives undergoing maintenance. The *Stiletto* punched through the hangar's roof and detonated inside, instantly converting the locomotives into expanding clouds of superheated metal fragments that shredded everything within a hundred-meter radius.
+
+The entire sequence took less than five seconds.
+
+Alexei lay flat on the ground, his hands pressed over his ears as the overlapping shock waves rolled across the landscape. His night vision scope had been knocked from his hands by the first explosion, and his radio was somewhere in the frozen mud, crackling with panicked voices trying to make sense of what had just happened.
+
+When the worst of the noise faded, he raised his head and looked back at the rail yard. Where Ilovaisk junction had been one of Russia's most important logistics hubs, there was now a collection of burning ruins. The sodium lights had been shattered by the blast waves, leaving only the orange glow of fires to illuminate the destruction.
+
+Above the devastation, the wedge-shaped craft hung motionless for perhaps ten seconds longer, its sensors undoubtedly conducting damage assessment. Then, without warning, it accelerated away from the target area with the same impossible speed it had demonstrated on approach.
+
+Within moments, it had vanished back into the night sky, leaving behind only a fading plasma contrail and the burning wreckage of what had been one of the most heavily defended installations in occupied Ukraine.
+
+Alexei struggled to his feet, his ears still ringing from the explosions, his mind struggling to process what he had witnessed. Five missiles, five targets, five perfect hits. No warning, no defense, no possibility of intercept or escape.
+
+He found his radio in the mud and tried to raise the command post, but the only response was static. The command center, along with everyone inside it, had been reduced to component atoms.
+
+As he stood in the orange-tinged darkness, watching the fuel depot burn against the night sky, one thought kept cycling through his shell-shocked mind:
+
+This wasn't war as he had been trained to fight it. This was something else entirely - something that made his rifle, his training, his entire understanding of combat obsolete in the span of five seconds.
+
+Somewhere in the distance, he could hear the approaching roar of helicopters - rescue and firefighting equipment responding to the disaster. But Alexei knew that there was nothing left to rescue, nothing left to fight for.
+
+Ilovaisk rail junction was gone, as completely and efficiently as if it had never existed.
+
+And whatever had destroyed it was already moving toward its next target.
