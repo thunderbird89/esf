@@ -733,7 +733,7 @@ But appearances could be deceiving.
 
 Colonel Maksym Petrenko, commander of the 114th Tactical Aviation Brigade, stood in what appeared to be a derelict hangar, watching Federation technicians conduct final pre-flight checks on aircraft that shouldn't have existed. The five Aurora attack drones rested on the hangar floor like sleeping predators - sleek, angular forms that seemed to absorb light rather than reflect it.
 
-Each drone was roughly the size of a small fighter aircraft, but their proportions were all wrong for anything designed by terrestrial engineering. The flying wing configuration was familiar enough, but the materials seemed to shift between metallic and ceramic depending on the viewing angle, and there were no visible engine intakes or exhaust nozzles.
+Each drone was roughly the size of a small fighter aircraft, but their proportions were all wrong for anything designed by terrestrial engineering. The flying wing configuration was familiar enough, but the materials seemed to shift between metallic and ceramic depending on the viewing angle, and there were no visible engine intakes, just four gaping round outlets at the rear of the plane.
 
 Lieutenant Torres approached, his Federation uniform crisp despite the late hour. 
 
@@ -743,7 +743,7 @@ Petrenko nodded, still studying the Aurora drones with professional fascination.
 
 > "Flight profile?"
 
-> "Standard takeoff using conventional runway procedures. The plasma engines won't engage until we're clear of populated areas." Torres gestured toward the hangar's massive doors, which were already beginning to slide open. "We'll head west initially, gain altitude over the Carpathians, then turn east and accelerate to deployment velocity."
+> "Standard takeoff using conventional runway procedures. The plasma engines won't climb to full power until we're clear of populated areas." Torres gestured toward the hangar's massive doors, which were already beginning to slide open. "We'll head west initially, gain altitude over the Carpathians, then turn east and accelerate to deployment velocity."
 
 > "And that velocity is?"
 
@@ -763,13 +763,11 @@ Colonel Petrenko raised an eyebrow.
 
 > "The Aurora drones are fully automated," Torres explained. "No human pilot could survive the acceleration and maneuvering forces involved in post-hypersonic flight. The AI systems are specifically designed for this type of mission profile."
 
-As if responding to some unheard signal, the five Aurora drones began to power up simultaneously. There was no sound of engines starting, no vibration of turbines spinning to life. Instead, the aircraft simply began to glow with a faint internal luminescence, their surfaces taking on an almost organic quality.
+As if responding to some unheard signal, the five Aurora drones began to power up simultaneously. There was barely any sound of engines starting, no vibration of turbines spinning to life, just a low whisper at the edge of hearing. The outlets began to glow with a faint internal luminescence, their surfaces taking on an almost organic quality.
 
-> "Colonel," Torres said, checking his watch, "you might want to step outside for this. And I recommend you bring your phone."
+Outside, a small crowd of Ukrainian ground crew had gathered at what they judged to be a safe distance. The night air was crisp and clear, with no clouds to obscure the star-filled sky above the Carpathian foothills.
 
-Petrenko followed the Federation officer out of the hangar and onto the tarmac, where a small crowd of Ukrainian ground crew had gathered at what they judged to be a safe distance. The night air was crisp and clear, with no clouds to obscure the star-filled sky above the Carpathian foothills.
-
-The first Aurora emerged from the hangar with surprising grace, its landing gear extending as it approached the runway. There was still no engine noise - just the whisper of air moving over its sleek surfaces. It looked, Petrenko thought, like a ghost made manifest.
+The first Aurora emerged from the hangar with surprising grace, turning as it approached the runway. There was still no engine noise - just the whisper of air moving over its sleek surfaces. It looked, Petrenko thought, like a ghost made manifest.
 
 The other four drones followed in single file, their internal glow casting eerie shadows on the cracked concrete. As each aircraft positioned itself for takeoff, status lights blinked in patterns that suggested complex computational processes running through pre-flight checks.
 
@@ -777,25 +775,27 @@ The other four drones followed in single file, their internal glow casting eerie
 
 The lead drone began its takeoff roll with deceptive normalcy. It accelerated down the runway like any conventional aircraft, its landing gear retracting as it achieved lift-off velocity. But there was something unsettling about its movement - too smooth, too precise, like a machine that had never learned the rough compromises of traditional aerodynamics.
 
-The other four Auroras followed at precisely timed intervals, each takeoff identical to the last. Within five minutes, all five drones were airborne, climbing westward toward the mountains in perfect formation.
+The other four Auroras followed at precisely timed intervals, each takeoff identical to the last. Within two minutes, all five drones were airborne, climbing westward toward the mountains in perfect formation.
 
 > "Now what?" Petrenko asked.
 
 Torres consulted his communicator. 
 
-> "Now we wait approximately four minutes for them to clear populated areas and reach operational altitude. They'll swing back around and pass overhead before accelerating to deployment velocity."
+> "Now we wait approximately four minutes for them to clear populated areas and reach operational altitude. They'll swing back around and pass overhead as they accelerate to deployment velocity."
 
 The Aurora formation disappeared into the western sky, their navigation lights fading until they were indistinguishable from stars. For several minutes, the airfield returned to its illusion of abandonment - just another forgotten relic of the Soviet military-industrial complex.
 
-Then Torres checked his watch and looked up at the eastern sky.
+Far away, over the foothills, the AI pilots in the drones were already planning. As the drones approached the border, they began a tight turn back eastwards, vectoring on the line to their target. Then, the engines began climbing to their full power. The four outlets on each drone brightened as the plasma pushed against the surrounding atmosphere and the aircraft began to accelerate rapidly, beyond the limits of human pilots. 
+
+Torres checked his watch and looked at the device in his hand.
 
 > "Colonel," he said, checking his watch, "you might want to step outside for this. And I recommend you bring your phone."
 
 Petrenko followed the Federation officer out of the hangar and onto the tarmac, where a small crowd of Ukrainian ground crew had gathered at what they judged to be a safe distance. The night air was crisp and clear, with no clouds to obscure the star-filled sky above the Carpathian foothills.
 
-> "There," Torres pointed eastward, where five faint points of light were approaching at medium altitude.
+> "There," Torres pointed westward, where five faint points of light were approaching at medium altitude.
 
-High above the Carpathians, five new stars ignited simultaneously. But these weren't the steady points of celestial light - these were moving, accelerating, growing brighter as they traced impossible arcs across the heavens. The Aurora drones had engaged their plasma engines.
+High above the Carpathians, five new stars ignited simultaneously. But these weren't the steady points of celestial light - these were moving, accelerating, growing brighter as they traced impossible arcs across the heavens. The Aurora drones had engaged their plasma engines. Air did not even have time to move aside as they sliced through the night sky - compression and friction heated everything to the point it was glowing bright white around the planes.
 
 Petrenko raised his phone, filming as the five points of light wheeled eastward in perfect formation, leaving trails of luminous plasma in their wake. The drones were accelerating at rates that defied conventional understanding, their speed increasing so rapidly that their light signatures began to streak across the sky like comets.
 
@@ -815,13 +815,13 @@ Colonel Petrenko lowered his phone, his face pale in the aftermath of the displa
 
 Lieutenant Torres checked his communicator again. 
 
-> "Currently accelerating through Mach 15 and climbing. They'll reach deployment velocity in approximately eight minutes. At that speed the Russian air defense systems won't even register them as aircraft. At those speeds, radar signatures become... ambiguous."
+> "Currently accelerating through Mach 15 and climbing. They'll reach deployment velocity in approximately eight minutes. At that speed the Russian air defense systems won't even register them as aircraft. Air around them turns to plasma from friction and compressive heating alone, radar signatures become... ambiguous."
 
 Petrenko stared at the eastern sky, where the last traces of plasma contrail were fading into the darkness. Somewhere out there, five machines that had looked so mundane on the hangar floor were now traveling at speeds that turned them into weapons of physics itself.
 
 > "How long until target impact?"
 
-> "About 13 minutes from launch," Torres replied. "The Auroras will decelerate to engagement speed about two minutes before reaching the target area, deploy their Stiletto missiles, confirm target destruction, and return to base."
+> "About 13 minutes from launch," Torres replied. "The Auroras will decelerate to engagement speed once they reach the target area, deploy their Stiletto missiles, confirm target destruction, and return to base."
 
 > "Total mission time?"
 
