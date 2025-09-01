@@ -854,7 +854,7 @@ Petrenko nodded, but his attention remained fixed on the eastern horizon. Somewh
 
 Senior Lieutenant Maksim Volkov rubbed his eyes and stared at his radar screen again, certain that the equipment was malfunctioning. The 96L6E radar system at Voronezh Air Base was one of Russia's most sophisticated early warning installations, capable of tracking aircraft at ranges exceeding 400 kilometers. But the contacts he was seeing made no sense.
 
-> "Control, this is Sector Seven. I'm showing five high-speed contacts crossing Ukrainian airspace, bearing zero-nine-zero, altitude... approximately fifteen thousand meters."
+> "Control, this is Sector Seven. I'm showing five high-speed contacts crossing Ukrainian airspace, bearing zero-nine-zero, altitude... approximately two thousand meters."
 
 The voice of Captain Boris Fedorov crackled through his headset. 
 
@@ -868,9 +868,19 @@ A long pause.
 
 > "Repeat that, Seven."
 
-> "Mach 18, sir. Five contacts in tight formation, moving east across central Ukraine. But sir, that's impossible. Nothing moves that fast at atmospheric altitude."
+> "Mach 18, sir. Five contacts in tight formation, moving east across central Ukraine. But sir, that's impossible. Nothing moves that fast at that altitude."
 
-> "Run full diagnostics on your equipment, Lieutenant. Report back in ten minutes."
+> "Could be meteorites," Fedorov suggested. "Atmospheric entry, burning up."
+
+> "Negative, sir. Trajectory is too shallow, altitude is constant. And meteorites don't fly in formation."
+
+> "Electronic warfare? Ukrainian jamming?"
+
+Volkov studied his screen more carefully. 
+
+> "Sir, if this is jamming, it's the most sophisticated spoofing I've ever seen. The contacts are maintaining perfect spacing, identical velocities. This looks like actual aircraft."
+
+> "At Mach 18? Lieutenant, run full diagnostics on your equipment. This has to be a systems malfunction."
 
 Volkov initiated the diagnostic sequence, but his eyes remained fixed on the display. The five contacts were still there, still accelerating, now showing velocities that exceeded anything in his threat identification manual. As he watched, the formation crossed from western Ukraine to the Donbas region in less than four minutes.
 
@@ -878,37 +888,65 @@ Volkov initiated the diagnostic sequence, but his eyes remained fixed on the dis
 
 Senior Lieutenant Dmitri Petrov leaned over to examine Volkov's screen. 
 
-> "Your radar's fucked, Maksim. Nothing flies at Mach 20."
+> "Your radar's fucked, Maksim. Nothing flies at Mach 20 at two thousand meters."
 
 > "That's what I thought, but watch this." Volkov highlighted the formation on his screen. "Five contacts, perfect spacing, identical flight characteristics. If it's equipment failure, it's the most systematic malfunction I've ever seen."
 
 Petrov frowned, studying the tracking data. 
 
-> "Range to contacts?"
+> "Could be some kind of test? New hypersonic missiles?"
 
-> "Currently 280 kilometers east-northeast, still accelerating. They'll be over the front lines in... Jesus Christ, in thirty seconds."
+> "From Ukraine? They don't have that technology. Maybe American, but why would they test over a combat zone?"
 
-Both operators watched as the five contacts streaked across their screens at impossible velocities. Then, abruptly, all five contacts began decelerating.
+> "Debris from a satellite breakup?" Petrov suggested. "Sometimes orbital decay creates multiple tracking signatures."
+
+> "At constant altitude? And look at this - they're decelerating now."
+
+Both operators watched as the five contacts began slowing down, their impossible velocities dropping to a merely incredible Mach 5.
 
 > "Control, this is Seven. Contacts are slowing down. Speed now... Mach 5 and decreasing. They're approaching the Ilovaisk area."
 
-Captain Fedorov's voice carried a note of concern. 
+Captain Fedorov's voice carried growing concern. 
 
-> "Ilovaisk? That's a restricted military zone. Are you certain about these readings?"
+> "Ilovaisk? That's a restricted military zone. Are you certain these aren't false returns?"
 
-> "Sir, I've run diagnostics twice. All systems show green. These contacts are real."
+> "Sir, I've run diagnostics three times. All systems show green. Whatever these contacts are, they're real."
+
+> "Atmospheric phenomenon?" Fedorov suggested, grasping for explanations. "Some kind of plasma formation?"
+
+> "At perfect formation spacing, sir? And look - they're not just slowing down, they're maneuvering. Each contact is taking a different heading."
 
 A longer pause this time. 
 
-> "Lieutenant, I'm escalating this to Regional Command. Continue tracking and report any changes immediately."
+> "Lieutenant, I'm escalating this to Regional Command. Continue tracking and report any changes immediately. And Volkov?"
 
-Volkov acknowledged and returned his attention to the screen. The five contacts had decelerated to approximately Mach 5 and were now holding position over different areas of the Donbas. As he watched, smaller signatures appeared on his screen - tiny blips separating from the main contacts.
+> "Yes sir?"
 
-> "Petrov, look at this. They're deploying something."
+> "Whatever you're seeing, do not - repeat, do not - classify this as an attack profile until we have confirmation from multiple sources. The last thing we need is a false alarm triggering escalation protocols."
 
-For the next thirty seconds, both operators watched in fascination as the mysterious aircraft launched what appeared to be missiles at ground targets throughout Russian-controlled territory. The smaller signatures moved too fast to track effectively, but their trajectories were clearly aimed at known military installations.
+Volkov acknowledged, but his unease was growing. The five contacts had decelerated to approximately Mach 5 and were now holding position over different areas of the Donbas - all of them corresponding to known military installations.
 
-Then, as suddenly as they had decelerated, the five main contacts began accelerating again.
+> "Petrov, this doesn't feel like equipment failure anymore."
+
+> "Could be reconnaissance," Petrov offered weakly. "High-speed surveillance drones?"
+
+> "At those velocities? Nothing we know about can decelerate from Mach 20 to Mach 5 that quickly without tearing itself apart."
+
+As both operators watched, smaller signatures began appearing on the screen - tiny blips separating from the main contacts.
+
+> "Control," Volkov's voice was tight now, "the contacts are deploying something. Multiple smaller signatures, very high speed, descending toward ground level."
+
+Captain Fedorov's response was immediate. 
+
+> "Are you tracking inbound missiles?"
+
+Volkov stared at his screen, watching the smaller signatures streak toward the ground at speeds that made tracking almost impossible. 
+
+> "Sir, I... I think so. Multiple impacts detected across the region."
+
+> "Alert status red," Fedorov's voice cut through the static. "All units, we have confirmed hostile action in the Donbas sector. Repeat, hostile action confirmed."
+
+But by then, the five main contacts were already accelerating again, their impossible speeds returning as they headed back toward Ukrainian airspace.
 
 > "Control, contacts are returning to high speed. Current velocity... Mach 8 and climbing rapidly."
 
