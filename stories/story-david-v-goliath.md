@@ -35,7 +35,7 @@ Kovalenko felt his blood turn cold as the *Landmate* turned toward his vehicle. 
 
 The *Landmate* approached his vehicle with measured steps, each footfall creating small tremors in the asphalt that Kovalenko could feel through the Land Cruiser's frame. Its right arm held what appeared to be a scaled-up assault rifle, though the design was unlike any weapon system in his extensive experience. Energy patterns danced along the weapon's surface, providing an eerie blue-green glow in the darkness.
 
-Twenty meters away, the machine stopped. Its head tilted slightly, as if studying the occupants of the stalled convoy with curious interest. The visor band pulsed brighter, scanning across the darkened vehicles with mechanical precision. Then it spoke.
+A few meters away, the machine stopped. Its head tilted slightly, as if studying the occupants of the stalled convoy with curious interest. The visor band pulsed brighter, scanning across the darkened vehicles with mechanical precision. Then it spoke.
 
 The voice was not human. Low, gravelly, filtered through vocal processors that gave each word a rasping, mechanical quality. It spoke in English, but there was something profoundly *other* about the cadence - as if language itself was an imperfectly learned skill.
 
@@ -59,11 +59,12 @@ The words were delivered with clinical detachment, but their implication struck 
 
 > "To that end," the *Landmate* continued, "aid will be provided."
 
-The machine began walking closer, each step deliberate and measured. Its footfalls created small tremors that Kovalenko could feel through the Land Cruiser's frame. Twenty meters became ten, then five. The *Landmate* stopped directly beside the driver's side door, towering over the vehicle.
+The machine began walking closer, each step deliberate and measured. Its footfalls created small tremors that Kovalenko could feel through the Land Cruiser's frame. Twenty paces became ten, then five. The *Landmate* stopped directly beside the driver's side door, towering over the vehicle.
 
 Without warning, it reached down and grasped the door handle. The reinforced steel groaned, then shrieked as the *Landmate* tore the entire door from its hinges with casual ease. The twisted metal fell to the asphalt with a crash that echoed through the canyon.
 
-Kovalenko pressed himself back against his seat, his heart hammering as the machine leaned down toward him. This close, he could see the intricate details of its construction - seamless joints, materials that seemed to shift between metal and ceramic depending on the viewing angle, and that visor band pulsing with hypnotic regularity.
+Kovalenko pressed himself back against his seat, his heart hammering as the machine leaned down toward him. Photos and recordings out of Gaza the year before couldn't prepare him for seeing one of HARBINGER's *Landmates* up close. Briefing after briefing covered the observed and surmised capabilities, but none of them provided any guidance on what to do when one casually dropped in on his convoy and tore the door off its hinges. This close, he could see the intricate details of its construction - seamless joints, materials that seemed to shift between metal and ceramic depending on the viewing angle, and that visor band pulsing with hypnotic regularity.  
+If he hadn't seen the video of one destroying an Israeli Merkava tank after the tank fired on it, he probably wouldn't have been as scared. Right now, all he knew was that the most powerful war machine any military has seen was less than an arm's length away.
 
 The *Landmate* reached behind its back and produced a briefcase-sized metal container, roughly rectangular with heavy latches and what appeared to be a small display screen set into its surface. The device looked both alien and oddly familiar, like military equipment designed by principles he didn't understand.
 
@@ -853,3 +854,146 @@ This wasn't just beyond current aerospace technology - it suggested physics that
 And if the timing correlation with the destruction of the Russian rail facility was accurate, it meant someone had just demonstrated operational weapons that made America's most advanced military systems look like museum pieces.
 
 Elena stared at the thermal imaging one more time, watching the brilliant streak of superheated plasma trace its impossible path across the screen, and wondered if she was looking at humanity's first glimpse of technology from somewhere else entirely.
+
+---
+
+# Chapter 4: Reckoning
+
+### Russian Federation General Staff, Moscow
+*March 7th, 2025 - 0623 hours local time*
+
+General Sergei Rudskoy stood before the main situation display in the General Staff's underground command center, his weathered face illuminated by the harsh glow of tactical screens showing the devastation at Ilovaisk. As Deputy Chief of the General Staff, he had overseen countless military operations across three decades of service, but the reports from the Donbas defied everything he understood about modern warfare.
+
+> "Status report," he said without turning from the display.
+
+Colonel Dmitri Volkov, the staff intelligence officer, approached with a tablet full of damage assessments and eyewitness accounts.
+
+> "Sir, Ilovaisk rail junction is a total loss. Five separate facilities destroyed simultaneously - switching yard, fuel depot, ammunition storage, command post, and vehicle maintenance. No infrastructure remains operational."
+
+> "Casualties?"
+
+> "Forty-three confirmed dead, seventeen wounded. Most casualties occurred in the ammunition bunker secondary explosions. The command post was... vaporized, sir. No survivors."
+
+General Rudskoy finally turned from the display, his expression grim.
+
+> "Weapon system assessment?"
+
+Colonel Volkov consulted his notes, clearly uncomfortable with what he had to report.
+
+> "Unknown, sir. The attack profile doesn't match any known Ukrainian capabilities. No missile launches detected, no aircraft observed until... the incident. Air defense reported a single high-speed contact that appeared over the facility at approximately 2208 hours."
+
+> "Appeared?"
+
+> "Sir, the contact was first detected moving at impossible velocities - our radar operators initially assumed equipment malfunction. By the time they confirmed the track, the attack was complete and the contact was departing at speeds exceeding Mach 18."
+
+General Rudskoy rubbed his temple. In thirty years of military service, he had never encountered a situation where his intelligence officers couldn't identify the weapon system responsible for an attack.
+
+> "Survivors?"
+
+> "One, sir. Private Alexei Markov was manning the northern perimeter guard post. He observed the entire sequence from approximately eight hundred meters."
+
+> "And his report?"
+
+Colonel Volkov pulled up the witness statement on his tablet, then paused.
+
+> "Sir, Private Markov claims he observed a single aircraft approach at extreme altitude. He described it as... 'a bright comet with a tail of fire that moved like it was controlled by God himself.'"
+
+> "Controlled by God?"
+
+> "His exact words, sir. The private states the aircraft fired five projectiles while moving at tremendous speed, then accelerated away and vanished. He's a veteran of three years' combat operations, but he's never seen anything like what he observed."
+
+General Rudskoy walked to the tactical display showing the broader Donbas region. Ilovaisk had been one of their most important logistics hubs, feeding supplies to Russian forces across the southern sector.
+
+> "Strategic impact?"
+
+> "Severe, sir. Ilovaisk handled approximately thirty percent of our rail-transported supplies in the region. Alternative routing will increase logistics timelines by forty-eight to seventy-two hours and strain capacity at remaining hubs."
+
+> "Can we rebuild?"
+
+> "Technically possible, but sir... if this attack capability can be employed again, any reconstruction efforts would be vulnerable to similar strikes."
+
+The implications hung in the air like a physical presence. If Ukraine had somehow acquired precision strike capabilities that could destroy hardened military installations without warning, Russia's entire operational doctrine would need immediate revision.
+
+> "Assessment of Ukrainian capabilities?"
+
+Colonel Volkov was quiet for a moment, clearly struggling with the analysis.
+
+> "Sir, based on known Ukrainian assets, this attack should not have been possible. They lack the technological infrastructure to develop hypersonic weapons, and Western intelligence indicates no transfer of such capabilities from NATO allies."
+
+> "Then who?"
+
+> "Unknown, sir. But General, if this represents new Ukrainian strike capability, we have a significant strategic problem."
+
+General Rudskoy stared at the damage assessment images from Ilovaisk. The precision was extraordinary - each target had been struck with surgical accuracy, while surrounding infrastructure remained largely intact. This wasn't the result of overwhelming firepower; it was the product of technology that operated on principles he couldn't identify.
+
+> "Recommendations?"
+
+> "Immediate dispersal of critical logistics infrastructure. We cannot assume any fixed installation is secure from this type of attack. Additionally, we need to reassess air defense deployment - current systems appear unable to intercept whatever weapon was employed."
+
+> "And if they strike again?"
+
+Colonel Volkov met his superior's gaze steadily.
+
+> "Then we adapt or we lose, sir. Because whatever destroyed Ilovaisk represents a fundamental shift in the strategic balance."
+
+### Ilovaisk Rail Junction, Debris Assessment Team
+*March 7th, 2025 - 1247 hours local time*
+
+Major Pavel Kozlov stood in what had been the central switching yard of Ilovaisk junction, surrounded by twisted metal and concrete debris that defied easy explanation. As the lead investigator for the Russian military's forensic analysis team, he had examined the aftermath of countless attacks over the past decade, but the destruction here followed patterns he had never encountered.
+
+> "Analysis report," he called to Senior Lieutenant Boris Petrov, who was examining the remains of the command post with a radiation detector.
+
+> "No radiological signature, sir. No chemical residue consistent with conventional explosives. The blast patterns suggest extremely high-velocity impact followed by internal detonation."
+
+Major Kozlov walked to the crater where the command post had stood. The hole was perfectly circular, approximately ten meters in diameter, with walls that showed evidence of intense heat but no explosive fragmentation patterns.
+
+> "Impact angle?"
+
+> "Near-vertical, sir. Whatever struck the building came from directly above at tremendous velocity. But Major... there's no projectile fragments, no unexploded ordnance, no physical evidence of the weapon itself."
+
+Major Kozlov studied the crater walls more carefully. The concrete had been melted rather than shattered, suggesting temperatures that exceeded anything produced by conventional munitions.
+
+> "Fuel depot analysis?"
+
+Senior Lieutenant Anna Volkova approached from the burning wreckage of the storage tanks, her protective equipment covered in soot and chemical residue.
+
+> "Sir, the initial impact point shows characteristics similar to the command post - high-velocity penetration followed by internal detonation. But the projectile appears to have punched completely through the storage tank before exploding."
+
+> "Through armor plating?"
+
+> "Yes sir. The fuel tanks were constructed with reinforced steel designed to withstand artillery strikes. Whatever penetrated them went through the armor like it was tissue paper."
+
+Major Kozlov walked between the five impact sites, trying to reconstruct the attack sequence. The simultaneity was what troubled him most - five separate targets struck within seconds of each other, with precision that suggested real-time guidance and coordination.
+
+> "Timing analysis?"
+
+Lieutenant Petrov consulted his tablet, which contained testimony from the surviving personnel who had been in the area during the attack.
+
+> "Based on witness statements and seismic data, all five impacts occurred within a four-second window. The ammunition bunker exploded approximately two seconds after initial impact, suggesting delayed detonation."
+
+> "Weapon system assessment?"
+
+Major Kozlov gathered his team around a debris-covered table that had somehow survived the devastation.
+
+> "Unknown projectile type, unknown guidance system, unknown delivery platform. The only confirmed observation was Private Markov's account of a high-speed aircraft, but his description doesn't match any known system in Ukrainian or NATO inventories."
+
+Lieutenant Volkova pulled up thermal imaging data from a nearby observation post.
+
+> "Sir, we did capture some thermal signatures during the attack. The data shows brief but extremely intense heat sources at each impact point, lasting less than one second each."
+
+> "Temperature readings?"
+
+> "Beyond the capability of our sensors to measure accurately. Whatever struck these targets was hot enough to overwhelm our thermal imaging equipment."
+
+Major Kozlov stared at the devastation surrounding them. Ilovaisk had been one of the most heavily defended logistics hubs in occupied territory, protected by multiple air defense systems and electronic warfare installations. Yet something had penetrated those defenses and destroyed five critical targets with precision that bordered on the impossible.
+
+> "Conclusions?"
+
+> "Sir, this attack was conducted using technology that exceeds any known weapons system. The projectiles moved at velocities and temperatures that should not be achievable with current physics understanding. And the delivery platform operated with movement characteristics that made it essentially invincible - if our equipment is to be believed, it was moving at several times the speed of our hypersonic warheads."
+
+Major Kozlov looked across the ruins of what had been Russia's most important rail junction in the southern Donbas.
+
+> "Recommendation?"
+
+> "All critical infrastructure should be considered vulnerable to similar strikes. Dispersal and hardening may provide some protection, but sir... if this represents operational Ukrainian capability, we're facing a threat unlike anything in our contingency planning."
+
