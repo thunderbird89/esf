@@ -1007,9 +1007,9 @@ General Khorenko raised his hand.
 
 > "Before we proceed, I need to understand something. If this technology is as advanced as it appears, why hasn't it been used to simply end the war entirely? Why provide us with limited capabilities instead of direct intervention?"
 
-Colonel Kovalenko consulted his notes again.
+General Syrskyi spread his hands.
 
-> "The entity emphasized that this aid was meant to 'correct deficiencies' in Ukrainian strategic capabilities. It wasn't offering to fight the war for us - it was providing tools to level the playing field."
+> "We can't explain their reasoning, Viktor. But when you're drowning, you don't question the motives of whoever throws you a rope. Ukraine is grasping for straws - if they're offering us limited capabilities instead of ending this war outright, we'll take what we can get."
 
 > "Tools we don't understand, can't replicate, and may not be able to control," General Moisiuk emphasized.
 
@@ -1045,9 +1045,7 @@ Brigadier General Doroshenko raised his hand.
 
 > "What about secondary effects? Civilian casualties in nearby areas?"
 
-Colonel Kovalenko referred to his encounter report again.
-
-> "The entity was very specific - only legitimate military targets would be accepted, and civilian infrastructure would be automatically denied. The precision demonstrated at Ilovaisk suggests minimal collateral damage."
+> "The precision demonstrated at Ilovaisk suggests minimal collateral damage," General Syrskyi replied. "Five targets, five perfect hits, surrounding infrastructure untouched. Whatever this technology is, it appears designed for surgical strikes."
 
 Major General Marchenko looked around the table.
 
