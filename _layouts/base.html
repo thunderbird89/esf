@@ -11,7 +11,9 @@
       <div class="wrapper">
         <h1 class="post-title">{{ page.title | escape }}</h1>
 
-        {% include toc.html html=content h_min=2 h_max=4 ordered=true %}
+          {% if page.toc != false %}
+          {% include toc.html html=content h_min=2 h_max=4 ordered=true %}
+          {% endif %}
 
         {{ content }}
       </div>
