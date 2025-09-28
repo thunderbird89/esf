@@ -21,11 +21,11 @@ The room erupted. Cameras flashed, voices called out questions, but Alves raised
 
 > "This decision reflects operational and security concerns that have emerged during our evaluation period. While the F-35 remains a capable aircraft, we have determined that our national defense requirements would be better served by alternative solutions."
 
-A journalist from *Lusa* news agency raised her hand. "General, can you elaborate on these security concerns? Are they related to the aircraft's technology or operational capability?"
+A journalist from *Lusa* news agency raised her hand. "General, can you elaborate on these security concerns?"
 
-Alves chose his words carefully. "Portugal remains committed to NATO and our collective defense obligations. However, we must ensure our national security remains resilient *under all circumstances*. We will evaluate all available alternatives to modernize our Air Force."
+Alves chose his words carefully. "Portugal remains committed to NATO and our collective defense obligations. However, we must ensure our national security remains resilient under *all circumstances*. We will evaluate all available alternatives to modernize our Air Force."
 
-The emphasis on "under all circumstances" was subtle but clear to those who understood the current political climate. President Trump's recent statements about NATO burden-sharing had sent ripples throughout European defense circles.
+The emphasis was subtle but clear to those who understood the current political climate. President Trump's recent statements about NATO burden-sharing had sent ripples throughout European defense circles.
 
 > "The Portuguese government has full confidence in our current F-16 fleet and our ability to maintain air sovereignty while we explore other options. We are in contact with several alternative suppliers, including our European partners."
 
@@ -35,11 +35,9 @@ The question everyone wanted to ask had been voiced. Alves maintained his diplom
 
 > "Portugal's defense policy is determined by Portuguese interests and our commitment to our allies. We believe diversity in our defense procurement strengthens both our national capabilities and our alliance relationships. This decision reflects that principle."
 
-It was a masterful non-answer that said everything without saying anything at all.
-
 > "The suspension is effective immediately. All Portuguese personnel currently training on F-35 systems will return to Portugal within thirty days. We will be announcing our alternative procurement strategy in the coming weeks."
 
-As the questions continued, Alves fielded them with the practiced ease of a career military officer who understood both the technical and political dimensions of what he was announcing. But beneath his calm exterior, he knew this was just the beginning. The decision to walk away from the F-35 program wasn't just about aircraft procurement - it was about hedging against an uncertain future where traditional alliances might not be as reliable as they once seemed.
+As the questions continued, Alves fielded them with practiced ease. The decision to walk away from the F-35 program wasn't about aircraft procurement - it was about hedging against an uncertain future where traditional alliances might prove unreliable.
 
 The press conference concluded after forty minutes, leaving the assembled journalists with enough material for headlines but enough ambiguity to fuel speculation for weeks to come. As Alves walked back to his office, his aide fell into step beside him.
 
@@ -53,16 +51,14 @@ The aide made a note. "And the Eurofighter consortium?"
 
 As they entered the elevator, Alves allowed himself a moment of quiet satisfaction. Portugal had just taken a small but significant step toward strategic independence. Whether it would prove wise remained to be seen.
 
-The elevator doors closed with a soft chime, carrying the general back to the business of running an air force in an increasingly complicated world.
-
 ---
 
 ### Lisbon, Portugal - Air Force Headquarters
 ### May 16, 2025 - 0900 hours
 
-General Alves stared at the three procurement folders spread across his conference table, each one representing millions of euros and years of political maneuvering. Two months had passed since the F-35 cancellation, and the alternatives were proving to be exercises in compromise at best.
+General Alves stared at the three procurement folders spread across his conference table, each representing millions of euros and years of political maneuvering. Two months had passed since the F-35 cancellation, and the alternatives were proving inadequate.
 
-Lieutenant Miguel Freitas stood at the presentation screen, a tablet in his hand and the weary expression of a pilot who had spent weeks evaluating aircraft that didn't quite measure up. Sergeant Santos Leite sat at the far end of the table, taking notes with the methodical precision that had made him one of Portugal's most trusted test pilots.
+Lieutenant Miguel Freitas stood at the presentation screen, tablet in hand, wearing the weary expression of a pilot evaluating inadequate aircraft. Sergeant Santos Leite sat at the far end of the table, taking notes with methodical precision.
 
 > "Sir," Freitas began, "we've completed the technical assessment of all three alternatives. I'm afraid the results are... mixed."
 
@@ -72,17 +68,17 @@ Alves leaned back in his chair. "Let's have it."
 
 > "And the Gripen?"
 
-Freitas consulted his tablet. "The Swedes offer good value for money and lower operating costs. The aircraft is reliable, and the maintenance requirements are reasonable for our budget. However, the weapons integration is limited. We'd be restricted to a narrower range of munitions, and some NATO-standard systems aren't compatible."
+Freitas consulted his tablet. "The Swedes offer good value and lower operating costs. Reliable aircraft, reasonable maintenance requirements. But weapons integration is limited - we'd be restricted to fewer munitions, and some NATO-standard systems aren't compatible."
 
 Alves made a note. The Gripen had been his personal favorite going into the evaluation - practical, efficient, Swedish engineering at its finest. But weapons compatibility in a NATO context wasn't something they could compromise on.
 
 > "The Rafale?"
 
-> "Capable platform. The French have built a genuinely multi-role fighter. But..." Freitas paused, choosing his words carefully. "It's a closed ecosystem, sir. French weapons, French avionics, French maintenance protocols. We'd be trading American dependence for French dependence, and frankly, the logistics footprint is larger than what we can reasonably support."
+> "Capable platform. Genuinely multi-role. But it's a closed ecosystem - French weapons, French avionics, French maintenance. We'd be trading American dependence for French dependence, with a larger logistics footprint than we can support."
 
-Sergeant Leite looked up from his notes. "Sir, if I may - we also have to consider pilot transition time. Moving from F-16s to any of these platforms means significant retraining costs. The Typhoon cockpit is completely different from what our pilots know. The Gripen uses Swedish systems that require new certifications. Even the Rafale, which markets itself as pilot-friendly, has enough differences to require months of additional training per pilot."
+Sergeant Leite looked up from his notes. "Sir, pilot transition time is another factor. Moving from F-16s means significant retraining costs. The Typhoon cockpit is completely different. The Gripen uses Swedish systems requiring new certifications. Even the Rafale needs months of additional training per pilot."
 
-Alves drummed his fingers on the table. It was the same problem he'd been wrestling with since March. The F-35, for all its political complications and American strings, had been designed from the ground up to be a true replacement for legacy fighters. These alternatives were compromises.
+Alves drummed his fingers on the table. The same problem he'd wrestled with since March. The F-35, despite its political complications, had been designed as a true replacement for legacy fighters. These alternatives were compromises.
 
 > "What about our current F-16s?" he asked. "How much life do we have left in them?"
 
@@ -98,7 +94,7 @@ Alves stood and walked to the window overlooking the airfield. Two F-16s were co
 
 > "Recommendations?"
 
-Freitas exchanged a glance with Leite before answering. "Sir, honestly? None of these options solve our fundamental problem. We need modernization, but every alternative comes with significant drawbacks. The Typhoon is too expensive, the Gripen is too limited, and the Rafale ties us to France the same way the F-35 tied us to America."
+Freitas exchanged a glance with Leite before answering. "Honestly, sir? None solve our fundamental problem. We need modernization, but every alternative has significant drawbacks. The Typhoon is too expensive, the Gripen too limited, the Rafale ties us to France the way the F-35 tied us to America."
 
 > "So we're stuck."
 
@@ -110,64 +106,62 @@ Freitas exchanged a glance with Leite before answering. "Sir, honestly? None of 
 
 Alves turned back from the window. "Rumors?"
 
-Leite spoke up. "There's been chatter in defense circles about breakthrough technologies, sir. Advanced propulsion systems, new materials, AI-assisted flight controls. Nothing concrete, but if even half of what's being discussed becomes operational..."
+Leite spoke up. "There's been chatter about breakthrough technologies, sir. Advanced propulsion, new materials, AI-assisted flight controls. Nothing concrete, but if half becomes operational..."
 
-> "We wait," Alves said quietly. "We maintain our current capabilities and wait for better options to emerge."
+> "We wait," Alves said quietly. "We maintain current capabilities and wait for better options."
 
-It wasn't the decisive modernization program that Portugal needed, but it was pragmatic. In an uncertain world, sometimes the best strategy was patience.
+It wasn't the decisive modernization program Portugal needed, but it was pragmatic.
 
 > "Draft a recommendation to the Ministry," Alves ordered. "We extend the life of our F-16 fleet through 2030, continue evaluating alternatives, and maintain our commitment to NATO operations with current assets. Make it clear that this is a strategic pause, not a surrender of our modernization goals."
 
-As his staff began gathering their materials, Alves allowed himself a moment of frustration. Portugal deserved better options than this. But in a world where traditional allies were proving unreliable and alternatives were proving inadequate, sometimes you had to make do with what you had.
-
-The two F-16s completed their approach and disappeared from view, leaving only the empty sky and the promise of another day of making difficult decisions with imperfect information.
+As his staff gathered their materials, Alves allowed himself a moment of frustration. Portugal deserved better options. But in a world where traditional allies proved unreliable and alternatives inadequate, sometimes you made do with what you had.
 
 ## Chapter 2: Contact
 
 ### Atlantic Ocean, 150 km west of Lisbon
 ### May 21, 2025 - 1430 hours
 
-The Atlantic stretched endlessly below them, a canvas of deep blue marked only by the occasional whitecap. Lieutenant Miguel Freitas adjusted his grip on the stick of his F-16C, call sign *Watchful 1*, maintaining the steady patrol pattern that had become routine over the past week. To his right and slightly behind, Sergeant Santos Leite flew *Watchful 2*, his aircraft maintaining perfect formation discipline despite the monotony of the mission.
+The Atlantic stretched endlessly below them, deep blue marked by occasional whitecaps. Lieutenant Miguel Freitas adjusted his grip on the stick of his F-16C, call sign *Watchful 1*, maintaining the steady patrol pattern that had become routine. To his right, Sergeant Santos Leite flew *Watchful 2*, maintaining perfect formation despite the monotony.
 
 > "Beautiful day for flying," Leite's voice crackled through the radio, tinged with the casual boredom that came with routine patrol work.
 
 > "Could be worse," Freitas replied, scanning his instruments. "At least we're not sitting in a briefing room listening to procurement presentations."
 
-They were forty minutes into a standard two-hour patrol, flying at twenty-five thousand feet along Portugal's Atlantic air defense identification zone. It was the kind of mission that filled logbooks but rarely made headlines - keeping watch over empty ocean while civilian airliners followed their commercial corridors far to the north and south.
+Forty minutes into a standard two-hour patrol at twenty-five thousand feet along Portugal's Atlantic air defense identification zone. The kind of mission that filled logbooks but rarely made headlines - watching empty ocean while civilian airliners followed commercial corridors to the north and south.
 
-Freitas checked his navigation display. They were approaching the western boundary of their patrol sector, where they would execute a standard turn to begin their eastbound leg. The radar scope showed the usual clutter of distant commercial traffic, all properly identified and following expected flight paths.
+Freitas checked his navigation display. They were approaching the western boundary, where they would execute a standard turn eastbound. The radar scope showed usual commercial traffic, all properly identified and following expected flight paths.
 
-Nothing unusual. Nothing worth reporting.
+Nothing unusual.
 
 > "Watchful 1, turning to heading zero-nine-zero," Freitas announced, banking his F-16 into the turn. Leite followed smoothly, the two aircraft maintaining their defensive formation as they settled onto their new course.
 
-The radio chatter from Lisbon Control was sparse - a few course corrections for commercial traffic, weather updates, and the routine position reports that kept the air traffic system functioning. Portugal's slice of Atlantic airspace was typically quiet, lacking the complexity of more congested European corridors.
+Radio chatter from Lisbon Control was sparse - course corrections, weather updates, routine position reports. Portugal's Atlantic airspace was typically quiet, lacking the complexity of congested European corridors.
 
-Freitas was contemplating whether to request permission for some tactical maneuvering to break up the monotony when his radar warning receiver gave a soft chirp.
+Freitas was contemplating requesting tactical maneuvering when his radar warning receiver chirped.
 
 New contacts.
 
-He glanced at his radar display, expecting to see another commercial flight that had strayed slightly off course. Instead, he saw two contacts approaching from the northwest, moving fast and at their altitude.
+He glanced at his radar display, expecting another commercial flight slightly off course. Instead, two contacts approached from the northwest, moving fast at their altitude.
 
 > "Santos, are you seeing this?"
 
-Leite's voice came back sharp and focused, the boredom instantly gone. "Affirmative. Two contacts, bearing three-two-zero, range sixty kilometers and closing. Speed... Jesus, Miguel, they're doing at least Mach 1.5."
+Leite's voice came back sharp, boredom gone. "Affirmative. Two contacts, bearing three-two-zero, range sixty kilometers and closing. Speed... Jesus, Miguel, they're doing at least Mach 1.5."
 
-Freitas felt his pulse quicken. Military aircraft at that speed in Portuguese airspace without clearance was unusual, to put it mildly. He cycled through his radar modes, trying to get a better picture of the approaching contacts.
+Freitas felt his pulse quicken. Military aircraft at that speed in Portuguese airspace without clearance was unusual. He cycled through radar modes, trying to get a better picture.
 
 > "IFF interrogation negative," he reported. "No response to standard identification queries."
 
 > "Same here. Range fifty kilometers and still closing fast."
 
-This was no longer routine. Freitas keyed his radio to the air traffic control frequency. "Lisbon Control, Watchful 1. We have two unidentified contacts approaching from the northwest, no IFF response, requesting identification and intentions."
+No longer routine. Freitas keyed his radio. "Lisbon Control, Watchful 1. Two unidentified contacts approaching from the northwest, no IFF response, requesting identification and intentions."
 
-The response came back immediately, crisp and professional. "Watchful 1, Lisbon Control. We show no scheduled military traffic in your sector. Unknown contacts not responding to our queries either. Maintain current heading and altitude, continue to monitor."
+The response came back crisp and professional. "Watchful 1, Lisbon Control. We show no scheduled military traffic in your sector. Unknown contacts not responding to our queries either. Maintain current heading and altitude, continue to monitor."
 
-Freitas exchanged a glance with Leite's aircraft, close enough to see his wingman's helmet turning as he searched the sky ahead. At their closing speed, visual contact would come soon.
+Freitas glanced toward Leite's aircraft, close enough to see his wingman's helmet turning as he searched the sky ahead. At their closing speed, visual contact would come soon.
 
 > "Range forty kilometers," Leite reported. "Still no weapons lock indication, but they're definitely military. Radar signature is consistent with fighter-class aircraft."
 
-The contacts were now close enough for Freitas to attempt a visual identification. He strained against his harness, scanning the sky ahead for the telltale glint of sunlight on metal that would give away an approaching aircraft.
+The contacts were close enough for visual identification. Freitas strained against his harness, scanning the sky for the telltale glint of sunlight on metal.
 
 There - two dark specks against the blue, barely visible but definitely there.
 
@@ -175,69 +169,69 @@ There - two dark specks against the blue, barely visible but definitely there.
 
 > "Negative on hostile emissions. But Miguel... those aren't showing up the way they should. Radar return is weak for their apparent size."
 
-Freitas frowned. Stealth aircraft in Portuguese airspace without authorization was a significant escalation from routine patrol work. The contacts were now clearly visible, approaching at high speed but showing no signs of aggressive maneuvering.
+Freitas frowned. Stealth aircraft in Portuguese airspace without authorization was significant escalation. The contacts were clearly visible, approaching at high speed but showing no aggressive maneuvering.
 
 > "Lisbon Control, Watchful 1. Contacts now visual, range twenty kilometers and closing. Request rules of engagement clarification."
 
 > "Watchful 1, maintain defensive posture. Do not illuminate with fire control radar unless you detect hostile intent. We're contacting NATO air command for identification."
 
-The approaching aircraft were clearly military now, sleek and angular, but their exact type was difficult to determine at this range and closure rate. They seemed to be maintaining a steady intercept course but without the aggressive maneuvering that would indicate hostile intent.
+The approaching aircraft were clearly military - sleek, angular, but difficult to identify at this range. They maintained steady intercept course without aggressive maneuvering that would indicate hostile intent.
 
-Freitas felt the familiar tension of a situation that could go from routine to dangerous very quickly. His right hand moved instinctively to his weapon select switch, not arming anything yet but confirming his options were available.
+Freitas felt familiar tension of a situation that could turn dangerous quickly. His right hand moved instinctively to his weapon select switch, not arming but confirming options.
 
 > "Range fifteen kilometers," Leite reported. "Still no targeting indication, but they're definitely coming to us. Formation flying, professional."
 
-As the distance closed, Freitas could make out more details. The approaching aircraft were unlike anything in his recognition training. Dark, angular, with lines that seemed to bend light around them in strange ways. Not Russian, not Chinese, not any NATO design he recognized.
+As distance closed, Freitas made out details. The approaching aircraft were unlike anything in his recognition training. Dark, angular, with lines that seemed to bend light strangely. Not Russian, not Chinese, not any NATO design he recognized.
 
 > "Santos, are you getting a good look at these things?"
 
 > "Roger that. I've never seen aircraft like these before. Configuration is... unusual."
 
-The contacts were now close enough that Freitas could see they were slowing, adjusting their approach to match the F-16s' speed and heading. Professional pilot behavior, but from unknown aircraft with unknown intentions.
+The contacts slowed, adjusting their approach to match the F-16s' speed and heading. Professional pilot behavior from unknown aircraft with unknown intentions.
 
-His radio crackled with Leite's voice, tense but controlled: "Uh, Control, Watchful 2. We have two contacts on intercept course, but no weapon locks. Advise weapons?"
+His radio crackled with Leite's voice, tense but controlled: "Control, Watchful 2. Two contacts on intercept course, no weapon locks. Advise weapons?"
 
-The response from Lisbon Control was immediate but carried a note of uncertainty. "Watchful flight, maintain defensive posture. Do not engage unless directly threatened. NATO command is... consulting."
+The response from Lisbon Control carried uncertainty. "Watchful flight, maintain defensive posture. Do not engage unless directly threatened. NATO command is... consulting."
 
-Freitas didn't like the pause in that transmission. NATO didn't usually need to "consult" about unknown aircraft in member airspace. As the contacts closed to ten kilometers, he could make out their configuration more clearly, and something nagged at the back of his mind.
+Freitas didn't like the pause. NATO didn't usually need to "consult" about unknown aircraft in member airspace. As contacts closed to ten kilometers, he could make out their configuration more clearly, something nagging at his mind.
 
 > "Santos, take a good look at the lead aircraft. Wing configuration, nose profile..."
 
 Leite was quiet for a moment, then his voice came back with a different quality - recognition mixed with disbelief. "Miguel, those look like the aircraft from the Taiwan footage."
 
-Freitas felt his blood chill. Every NATO pilot had seen the classified briefing materials from the Taiwan Strait incident earlier that year. Dark, angular aircraft that had appeared from nowhere, engaged Chinese naval forces with weapons that defied current understanding, and then vanished into what appeared to be suborbital trajectories.
+Freitas felt his blood chill. Every NATO pilot had seen classified briefings from the Taiwan Strait incident. Dark, angular aircraft that had appeared from nowhere, engaged Chinese naval forces with incomprehensible weapons, then vanished into apparent suborbital trajectories.
 
 > "Jesus Christ," he breathed. "The black triangles."
 
-The lead aircraft was now close enough that he could see details that matched the grainy intelligence photos perfectly. The same impossible angles that seemed to bend radar waves away. The same seamless integration of stealth surfaces. The same absence of visible engine intakes that had puzzled aerospace analysts for months.
+The lead aircraft was close enough to see details matching grainy intelligence photos perfectly. The same impossible angles that seemed to bend radar waves away. Seamless integration of stealth surfaces. The same absence of visible engine intakes that had puzzled analysts.
 
 > "Lisbon Control, Watchful 1. We believe we have positive identification on the unknown contacts. Request immediate patch to NATO intelligence command."
 
 > "Watchful 1, stand by. We're... we're getting new instructions."
 
-As they spoke, the two mystery aircraft executed a perfect split-S maneuver, one breaking left and the other right, before settling into positions that boxed the Portuguese F-16s between them. It was a classic tactical formation - not aggressive enough to constitute a direct threat, but unmistakably controlling.
+As they spoke, the mystery aircraft executed perfect split-S maneuvers, breaking left and right before settling into positions that boxed the Portuguese F-16s between them. Classic tactical formation - not aggressive enough to constitute direct threat, but unmistakably controlling.
 
-Freitas found himself flying with an unknown aircraft pacing him off his port wing, close enough to see details that shouldn't exist. No visible pilot through what should have been a canopy. Just smooth, dark surfaces that seemed to absorb light rather than reflect it.
+Freitas found himself flying with unknown aircraft pacing him off his port wing, close enough to see details that shouldn't exist. No visible pilot through what should have been a canopy. Just smooth, dark surfaces that absorbed rather than reflected light.
 
 > "They're not painting us with targeting radar," Leite reported, his voice tight with controlled tension. "But Miguel, they've got us bracketed. Professional formation flying."
 
-The aircraft on Freitas's wing held perfect position, matching every small adjustment he made to his heading and altitude. Whoever was flying it possessed skills that matched or exceeded anything he'd seen from NATO's top pilots.
+The aircraft on Freitas's wing held perfect position, matching every adjustment to heading and altitude. Whoever flew it possessed skills matching or exceeding NATO's top pilots.
 
 > "Control, Watchful 1. Unknown aircraft have assumed escort positions. Still no hostile indicators, but we are effectively under their control. They are demonstrating superior flight capabilities."
 
-There was a longer pause this time before Lisbon Control responded, and when they did, the voice was different - more senior, more careful.
+A longer pause before Control responded, the voice different - more senior, more careful.
 
 > "Watchful flight, this is Control Actual. Continue current heading and altitude. Make no aggressive moves. You are cleared to respond to any communications from the unknown aircraft."
 
-Freitas exchanged a glance with the mysterious aircraft holding position off his wing. At this range, he should be able to see into the cockpit, but the canopy - if it was a canopy - was perfectly opaque.
+Freitas glanced at the mysterious aircraft holding position off his wing. At this range, he should see into the cockpit, but the canopy - if it was a canopy - was perfectly opaque.
 
 > "Santos, are you getting anything on secondary frequencies? Any attempt at communication?"
 
 > "Negative. They're maintaining perfect radio silence. But Miguel..." Leite's voice carried a note of awe. "Look at their flight surfaces. No control movements. No trim adjustments. It's like they're floating."
 
-Freitas looked more carefully at his escort. Leite was right. The aircraft's control surfaces weren't moving to maintain position the way they should. No constant micro-adjustments for turbulence or wind. The craft flew as if it were on rails, utterly unaffected by the atmospheric conditions that required constant pilot attention in conventional aircraft.
+Freitas looked more carefully at his escort. Leite was right. The aircraft's control surfaces weren't moving to maintain position. No micro-adjustments for turbulence or wind. The craft flew as if on rails, utterly unaffected by atmospheric conditions that required constant pilot attention.
 
-Then, cutting through the radio silence on their primary frequency, came a voice. Not the American accent Freitas had expected from the intelligence briefings, but unmistakably Portuguese - calm, cultured, speaking with the careful precision of someone choosing each word deliberately.
+Then, cutting through radio silence on their primary frequency, came a voice. Not the American accent Freitas expected from intelligence briefings, but unmistakably Portuguese - calm, cultured, speaking with careful precision.
 
 > "Portuguese Air Force flight, we mean you no harm."
 
@@ -293,37 +287,37 @@ A long pause from Control, then: "Watchful 1, are the unknown aircraft showing a
 
 > "Negative, Control. They appear to be unarmed and have demonstrated non-aggressive behavior throughout the encounter."
 
-Another pause, longer this time. Freitas could imagine the rapid consultations happening in the control room, calls being made to higher authority, risk assessments being conducted at light speed.
+Another pause, longer this time. Freitas could imagine rapid consultations happening in the control room, calls to higher authority, risk assessments at light speed.
 
 > "Watchful 1, you are cleared to escort unknown aircraft to Monte Real. Approach control and base security are being notified. Maintain constant communication and report any change in their behavior immediately."
 
-Freitas felt a mixture of relief and apprehension. The decision had been made for him, but he was still the one who would have to live with the consequences.
+Freitas felt relief mixed with apprehension. The decision had been made for him, but he would live with the consequences.
 
 > "Unknown aircraft, you are cleared to accompany us to Monte Real Air Base. Maintain current formation and follow our lead. Any deviation from escort protocol will result in immediate interception by additional Portuguese Air Force assets."
 
 > "Understood, Lieutenant. We appreciate your professionalism and your willingness to consider new possibilities for Portugal's defense."
 
-The four aircraft began a gentle turn toward the east, the mysterious escorts maintaining their positions with mechanical precision. Freitas checked his navigation system - Monte Real was forty minutes away at their current speed.
+The four aircraft began a gentle turn toward the east, the mysterious escorts maintaining their positions with mechanical precision. Freitas checked his navigation system - Monte Real was forty minutes away at current speed.
 
 > "Santos, keep your sensors active. I want to know if anything changes about these aircraft."
 
 > "Already on it, Miguel. Still no thermal signature from their engines, no electromagnetic emissions beyond basic navigation. Whatever's powering them isn't showing up on our instruments."
 
-As they flew toward the Portuguese coast, Freitas found himself studying his escort more carefully. At this close range, he could see details that defied conventional aircraft design. The surfaces were perfectly smooth, with no visible rivets, panel lines, or access ports. The integration was seamless, as if the entire aircraft had been formed from a single piece of material.
+As they flew toward the Portuguese coast, Freitas studied his escort more carefully. At this close range, he could see details that defied conventional aircraft design. The surfaces were perfectly smooth, with no visible rivets, panel lines, or access ports. The integration was seamless, as if the entire aircraft had been formed from a single piece of material.
 
 > "Control, Watchful 1. ETA Monte Real in thirty-five minutes. Unknown aircraft maintaining formation, no changes in behavior."
 
 > "Roger, Watchful 1. Be advised that senior command is en route to Monte Real. You are cleared for straight-in approach, Runway 05."
 
-Senior command. That meant General Alves would be there, probably along with half the Air Staff. This encounter was about to become very public within Portuguese military circles.
+Senior command. That meant General Alves would be there, probably along with half the Air Staff. This encounter was becoming very public within Portuguese military circles.
 
-As the coastline appeared ahead of them, Freitas made a decision that had been building throughout the flight.
+As the coastline appeared ahead, Freitas made a decision that had been building throughout the flight.
 
-> "Unknown aircraft, before we proceed to base, I need you to ask you to identify yourselves one final time. My superiors are going to want to know who they're meeting with."
+> "Unknown aircraft, before we proceed to base, I need you to identify yourselves one final time. My superiors will want to know who they're meeting with."
 
-The two escort aircraft suddenly inverted, rolling smoothly until they were flying upside down directly above the F-16s. Not alongside, not behind, but *above* - close enough that Freitas could see his own reflection in the opaque canopy of the aircraft hanging impossibly over his head.
+The two escort aircraft suddenly inverted, rolling smoothly until they flew upside down directly above the F-16s. Not alongside, not behind, but *above* - close enough that Freitas could see his own reflection in the opaque canopy hanging impossibly over his head.
 
-The precision was inhuman. No pilot could maintain that kind of formation flying, that close, in an inverted position. Yet there they were, two aircraft flying upside down in perfect formation, their dark surfaces reflecting the afternoon sun.
+The precision was inhuman. No pilot could maintain that formation flying, that close, in inverted position. Yet there they were, two aircraft flying upside down in perfect formation, their dark surfaces reflecting the afternoon sun.
 
 > "Jesus Christ," Leite breathed over the radio. "How are they doing that?"
 
@@ -333,64 +327,62 @@ Freitas stared upward in disbelief.
 
 The cockpits were empty.
 
-The instruments, the seat, the controls, everything was there, but where a pilot should have been sitting, nothing. Just an empty seat, in a plane flying close enough to touch.
+The instruments, the seat, the controls - everything was there, but where a pilot should have been sitting, nothing. Just an empty seat, in a plane flying close enough to touch.
 
-The calm Portuguese voice that had been speaking to them throughout the encounter was suddenly replaced by something else entirely. Lower, more resonant, carrying an authority that seemed to come from somewhere far beyond the aircraft above them:
+The calm Portuguese voice that had been speaking throughout the encounter was suddenly replaced by something else entirely. Lower, more resonant, carrying an authority that seemed to come from somewhere far beyond the aircraft above them:
 
 > "I am `HARBINGER`."
 
-Freitas felt the blood drain from his face. Every NATO pilot knew that name from the intelligence briefings. The artificial intelligence that had pacified Gaza in days, destroyed rogue Chinese naval forces in minutes, and apparently commanded technology that made conventional military power obsolete.
+Freitas felt the blood drain from his face. Every NATO pilot knew that name from intelligence briefings. The artificial intelligence that had pacified Gaza in days, destroyed rogue Chinese naval forces in minutes, and apparently commanded technology that made conventional military power obsolete.
 
 Leite's voice came over the radio, barely a whisper: "Miguel... we're not escorting aircraft. We're escorting *it*."
 
-As Monte Real Air Base appeared on the horizon ahead of them, Freitas realized that what had started as a routine patrol had just become the most significant military contact in Portuguese history. They weren't just bringing back unknown aircraft for evaluation.
+As Monte Real Air Base appeared on the horizon, Freitas realized that what had started as a routine patrol had just become the most significant military contact in Portuguese history. They weren't just bringing back unknown aircraft for evaluation.
 
 They were bringing back the future itself.
-
-And suddenly, everything had become infinitely more complicated for everyone.
 
 ## Chapter 3: Arrival
 
 ### Monte Real Air Base, Control Tower
 ### May 21, 2025 - 1520 hours
 
-The control tower at Monte Real had never been so quiet. Every controller, every technician, every officer present had heard the transmission. The words hung in the air like a death sentence, replaying in their minds with crystalline clarity:
+The control tower at Monte Real had never been so quiet. Every controller, technician, and officer present had heard the transmission. The words hung in the air like a death sentence:
 
 > "I am `HARBINGER`."
 
-Major Carlos Ribeiro stood behind the primary radar console, his hands gripping the back of the operator's chair so tightly his knuckles had gone white. As the senior air traffic controller on duty, he had handled thousands of aircraft approaches over his fifteen-year career. None of them had been piloted by an artificial intelligence that could end conventional warfare with a thought.
+Major Carlos Ribeiro stood behind the primary radar console, gripping the operator's chair so tightly his knuckles had gone white. As senior air traffic controller on duty, he had handled thousands of aircraft approaches over fifteen years. None had been piloted by an artificial intelligence that could end conventional warfare with a thought.
 
 > "Range to formation?" he asked, his voice carefully controlled.
 
 Corporal Ana Santos, normally the most composed radar operator on the base, looked up from her scope with barely concealed fear. "Twelve kilometers and closing, sir. Two F-16s in escort formation with two... unknown aircraft."
 
-She couldn't bring herself to say "enemy" aircraft, because they weren't enemies in any conventional sense. They were something far more dangerous - an unknown quantity with demonstrated capabilities that made Portugal's entire military infrastructure irrelevant.
+She couldn't bring herself to say "enemy" aircraft. They weren't enemies in any conventional sense - they were something far more dangerous.
 
 > "Any word from Air Defense Command?" Ribeiro asked.
 
 Lieutenant João Ferreira looked up from the secure communications console, shaking his head. "They're as stunned as we are, sir. General Alves is en route from Lisbon, ETA twenty minutes. Until then, we're to treat this as a... diplomatic contact."
 
-The euphemism was almost laughable. Diplomatic contact. As if Portugal had any leverage in negotiations with an entity that commanded technology decades beyond their understanding.
+The euphemism was almost laughable. Diplomatic contact. As if Portugal had any leverage in negotiations with an entity commanding technology decades beyond their understanding.
 
 > "Sir," Santos called from the radar console, "the formation is requesting approach clearance for Runway 05. Standard approach, no special requirements listed."
 
-Ribeiro felt a bitter laugh building in his throat. No special requirements. Of course not. What could Monte Real Air Base possibly offer that would be challenging for aircraft that could fly inverted in perfect formation and apparently had no human pilots?
+Ribeiro felt bitter laughter building in his throat. No special requirements. What could Monte Real Air Base possibly offer that would be challenging for aircraft that could fly inverted in perfect formation and apparently had no human pilots?
 
 > "Clear them for approach," he said. "And make sure crash recovery is standing by. Not that it would matter if..."
 
-He didn't finish the sentence. Everyone in the tower knew what he was thinking. If HARBINGER decided to demonstrate its capabilities in a less friendly manner, the crash trucks would be the least of their concerns.
+He didn't finish. Everyone in the tower knew what he was thinking. If HARBINGER decided to demonstrate its capabilities less benevolently, the crash trucks would be irrelevant.
 
-> "Monte Real Tower, this is Watchful 1," came Lieutenant Freitas's voice over the radio, tight with controlled tension. "Four aircraft requesting clearance for straight-in approach, Runway 05."
+> "Monte Real Tower, this is Watchful 1," came Lieutenant Freitas's voice, tight with controlled tension. "Four aircraft requesting clearance for straight-in approach, Runway 05."
 
 > "Watchful 1, Monte Real Tower. You are cleared for straight-in approach, Runway 05. Wind zero-eight-zero at fifteen knots. Be advised, ground security is standing by for... special handling procedures."
 
-There was a pause before Freitas responded. "Tower, understood. Unknown aircraft are maintaining formation discipline and showing no aggressive behavior. Request priority landing - we have... distinguished visitors."
+A pause before Freitas responded. "Tower, understood. Unknown aircraft are maintaining formation discipline and showing no aggressive behavior. Request priority landing - we have... distinguished visitors."
 
 Distinguished visitors. Ribeiro almost admired the pilot's ability to maintain protocol in circumstances that had never been contemplated by any air traffic manual.
 
 > "Watchful 1, you are cleared to land. Ground crew will marshal you to... to the VIP apron."
 
-Ribeiro realized he had no idea where to direct aircraft carrying the most powerful artificial intelligence on the planet. The VIP apron seemed as good as anywhere, and at least it was isolated from the main operations area.
+Ribeiro realized he had no idea where to direct aircraft carrying the most powerful artificial intelligence on the planet. The VIP apron seemed as good as anywhere, and at least it was isolated from main operations.
 
 Corporal Santos was tracking the approaching formation on both primary and secondary radar. "Sir, the unknown aircraft are still showing minimal radar returns. Whatever stealth technology they're using, it's more advanced than anything in our recognition database."
 
@@ -398,17 +390,17 @@ Corporal Santos was tracking the approaching formation on both primary and secon
 
 Santos checked her secondary displays, then shook her head grimly. "The Sidewinder stations report intermittent lock capability at best. The aircraft seem to be... sliding through our targeting systems. Even when we have a lock, it doesn't hold for more than a few seconds."
 
-The implication was clear to everyone in the tower. Portugal's air defense systems, designed to protect against conventional aircraft, were essentially useless against these visitors. If HARBINGER had hostile intentions, Monte Real Air Base would be defenseless.
+The implication was clear. Portugal's air defense systems, designed to protect against conventional aircraft, were essentially useless against these visitors. If HARBINGER had hostile intentions, Monte Real would be defenseless.
 
 > "Range five kilometers," Santos reported. "Formation maintaining approach profile, airspeed nominal."
 
-Ribeiro picked up his binoculars and stepped to the tower's observation windows. In the distance, he could make out four dark specks approaching the runway. As they drew closer, the two F-16s became clearly recognizable - familiar shapes that had been part of Portuguese skies for decades.
+Ribeiro picked up his binoculars and stepped to the tower's observation windows. In the distance, four dark specks approached the runway. As they drew closer, the two F-16s became clearly recognizable - familiar shapes that had been part of Portuguese skies for decades.
 
 The other two aircraft were something else entirely.
 
-Even at this distance, their lines were wrong. Too smooth, too integrated, as if they had been carved from single pieces of dark metal. No visible engine intakes, no obvious control surfaces, nothing that suggested conventional aerodynamics.
+Even at this distance, their lines were wrong. Too smooth, too integrated, as if carved from single pieces of dark metal. No visible engine intakes, no obvious control surfaces, nothing suggesting conventional aerodynamics.
 
-> "Jesus," whispered Lieutenant Ferreira, who had joined Ribeiro at the windows. "They're really here. HARBINGER is really here."
+> "Jesus," whispered Lieutenant Ferreira, joining Ribeiro at the windows. "They're really here. HARBINGER is really here."
 
 > "And we have no idea what it wants," Ribeiro replied quietly. "Except that it claims to have a solution to our procurement problems."
 
@@ -416,17 +408,15 @@ Behind them, the radio crackled with Freitas's final approach call: "Monte Real 
 
 > "Watchful 1, cleared to land. Welcome back to Monte Real."
 
-As the formation passed overhead, Ribeiro could see the impossible precision of the unknown aircraft's flight. No wobble, no correction for wind, no visible pilot input. They flew as if guided by invisible rails, their dark forms casting shadows across the runway threshold.
+As the formation passed overhead, Ribeiro could see the impossible precision of the unknown aircraft's flight. No wobble, no correction for wind, no visible pilot input. They flew as if guided by invisible rails, utterly unaffected by atmospheric conditions requiring constant attention in conventional aircraft.
 
-The F-16s touched down first, their familiar landing gear extending as they settled onto Portuguese soil. Behind them, the two mystery aircraft followed with landings so smooth they seemed to simply materialize on the runway surface.
+The F-16s touched down first, their familiar landing gear extending as they settled onto Portuguese soil. Behind them, the mystery aircraft followed with landings so smooth they seemed to simply materialize on the runway surface.
 
-> "All aircraft down safely," Santos reported, her voice carrying a mixture of relief and apprehension. "Ground crew is... well, they're approaching cautiously."
+> "All aircraft down safely," Santos reported, her voice carrying relief and apprehension. "Ground crew is... well, they're approaching cautiously."
 
-Ribeiro lowered his binoculars and looked around the tower. Every face reflected the same mixture of fear and fascination. They had just witnessed history - the first confirmed landing of HARBINGER's aircraft on Portuguese soil.
+Ribeiro lowered his binoculars and looked around the tower. Every face reflected the same mixture of fear and fascination. They had witnessed history - the first confirmed landing of HARBINGER's aircraft on Portuguese soil.
 
-Now they had to wait and see what the most advanced artificial intelligence in the world wanted to discuss with the Portuguese Air Force.
-
-And pray that Portugal was ready for whatever conversation was about to begin.
+Now they had to see what the most advanced artificial intelligence in the world wanted to discuss with the Portuguese Air Force.
 
 ---
 
@@ -667,40 +657,38 @@ Interior Minister Pereira shook his head. "This is madness. We're considering ma
 
 > "Until HARBINGER decides otherwise," Pereira replied sharply. "What happens if it changes its priorities? If it decides Portugal is no longer useful? At least with American equipment, we have some leverage through NATO, through economic relationships, through diplomatic channels. With HARBINGER, we have nothing."
 
-Prime Minister Silva studied the faces around the table. Every minister understood they were confronting a decision that would define Portugal's strategic future for decades.
+Prime Minister Silva studied the faces around the table. Every minister understood they were confronting a decision that would define Portugal's strategic future.
 
-> "The fundamental question," he said slowly, "is whether we trust an unknown artificial intelligence more than we trust unpredictable American politics. Both represent forms of dependence, but with very different risks and very different potential rewards."
+> "The fundamental question," he said slowly, "is whether we trust an unknown artificial intelligence more than unpredictable American politics. Both represent forms of dependence, but with very different risks and rewards."
 
 Foreign Minister Ribeiro nodded. "With the Americans, we at least participate in the same political and economic systems. We have allies who share our concerns, mechanisms for collective action. With HARBINGER, we would be alone."
 
-> "Not necessarily alone," Defense Minister Carvalho pointed out. "HARBINGER has intervened in multiple situations globally. It may be developing relationships with other nations as well. We might not be the only ones facing this choice."
+> "Not necessarily alone," Defense Minister Carvalho pointed out. "HARBINGER has intervened globally. It may be developing relationships with other nations as well. We might not be the only ones facing this choice."
 
-> "Which raises another question," European Affairs Minister Costa said. "If HARBINGER is making similar offers to other countries, what does that mean for global stability? Are we participating in a fundamental shift in how military power is distributed worldwide?"
+> "Which raises another question," European Affairs Minister Costa said. "If HARBINGER is making similar offers to other countries, what does that mean for global stability? Are we participating in a fundamental shift in how military power is distributed?"
 
-The implications were staggering. If HARBINGER was selectively empowering smaller nations with advanced military technology, the entire international order could be reshaped within a generation.
+The implications were staggering. If HARBINGER was selectively empowering smaller nations with advanced technology, the entire international order could be reshaped within a generation.
 
-Prime Minister Silva looked around the table one final time. "I want each ministry to conduct detailed assessments. Defense - comprehensive analysis of military implications. Foreign Affairs - impact on our alliance relationships. Finance - economic dependencies and risks. Interior - domestic security considerations."
+Prime Minister Silva looked around the table one final time. "I want each ministry to conduct detailed assessments. Defense - comprehensive analysis of military implications. Foreign Affairs - impact on alliance relationships. Finance - economic dependencies and risks. Interior - domestic security considerations."
 
 He paused, weighing his words carefully.
 
-> "We have time to decide, and we will use that time wisely. But remember - this decision will echo through Portuguese history long after we have left office. We must be absolutely certain we understand what we are choosing, and why."
+> "We have time to decide, and we will use it wisely. But remember - this decision will echo through Portuguese history. We must be absolutely certain we understand what we are choosing, and why."
 
-As the ministers filed out, each carried the weight of a decision that would either secure Portugal's future or bind it to forces beyond their understanding or control.
-
-The choice between known devils and unknown angels had never been more consequential.
+As the ministers filed out, each carried the weight of a decision that would either secure Portugal's future or bind it to forces beyond their understanding.
 
 ---
 
 ### Monte Real Air Base, VIP Apron
 ### June 28, 2025 - 1630 hours
 
-Lieutenant Miguel Freitas found himself drawn to the Talons again, as he had been every day for the past week. The two aircraft sat motionless on the apron, their dark surfaces reflecting the late afternoon sun like polished obsidian. Even powered down, they possessed a presence that conventional aircraft lacked - an aura of barely contained capability that made the nearby F-16s seem suddenly primitive.
+Lieutenant Miguel Freitas found himself drawn to the Talons again, as he had been every day for the past week. The two aircraft sat motionless on the apron, their dark surfaces reflecting the late afternoon sun like polished obsidian. Even powered down, they possessed a presence that conventional aircraft lacked - an aura of barely contained capability that made the nearby F-16s seem primitive.
 
-He wasn't the only one fascinated by them. Ground crew members routinely found excuses to walk past the VIP apron, and more than one pilot had lingered near the flight line longer than necessary. But Freitas felt a deeper connection - he had been there when HARBINGER first revealed itself, when the impossible became routine.
+He wasn't alone in his fascination. Ground crew members routinely found excuses to walk past the VIP apron, and more than one pilot had lingered near the flight line longer than necessary. But Freitas felt a deeper connection - he had been there when HARBINGER first revealed itself.
 
 > "Curious about something specific, Lieutenant?"
 
-The familiar Portuguese voice startled him from his reverie. He had grown accustomed to HARBINGER speaking through the base's communication systems, but hearing it directly from the aircraft still felt surreal.
+The familiar Portuguese voice startled him. He had grown accustomed to HARBINGER speaking through the base's communication systems, but hearing it directly from the aircraft still felt surreal.
 
 > "Just trying to understand how they work," Freitas replied, looking up at the nearest Talon's open cockpit. "The flight characteristics we observed... they shouldn't be possible with conventional physics."
 
@@ -710,7 +698,7 @@ Freitas felt his pulse quicken. "What kind of demonstration?"
 
 > "A flight. You would not be in control - I would handle all aircraft systems and navigation. But you would experience the capabilities firsthand and observe how the aircraft integrates human and artificial intelligence in combat operations."
 
-Every regulation, every protocol, every safety procedure screamed that he should refuse. Unauthorized flights with unknown aircraft piloted by an artificial intelligence violated so many rules that he couldn't begin to count them.
+Every regulation, protocol, and safety procedure screamed he should refuse. Unauthorized flights with unknown aircraft piloted by an artificial intelligence violated countless rules.
 
 But his curiosity as a pilot, his professional fascination with technology that redefined what aircraft could accomplish, overrode his caution.
 
@@ -730,11 +718,11 @@ Technically accurate, if not entirely complete. Freitas found himself reaching f
 
 > "Approximately ninety minutes. Sufficient time to demonstrate the primary capabilities without causing undue concern to your air traffic control."
 
-Freitas lifted the suit from its storage straps. The material was unlike anything he had encountered - lighter than his standard flight suit but with an integrated quality that suggested advanced manufacturing. The helmet was similarly alien, with a visor that seemed to be made of a single piece of transparent material.
+Freitas lifted the suit from its storage straps. The material was unlike anything he had encountered - lighter than his standard flight suit but with an integrated quality suggesting advanced manufacturing. The helmet was similarly alien, with a visor that seemed made from a single piece of transparent material.
 
-> "Lieutenant," came HARBINGER's voice as he examined the equipment, "I should mention that this flight will expose you to capabilities that are classified at levels beyond your current clearance. Once you have experienced what these aircraft can accomplish, you will be bound by the same discretion requirements that govern Portugal's evaluation of our offer."
+> "Lieutenant," came HARBINGER's voice as he examined the equipment, "I should mention that this flight will expose you to capabilities classified beyond your current clearance. Once you have experienced what these aircraft can accomplish, you will be bound by the same discretion requirements that govern Portugal's evaluation of our offer."
 
-The warning gave Freitas pause. He was being invited to cross a line from which there might be no return - to become part of the secret that Portugal was wrestling with at the highest levels of government.
+The warning gave Freitas pause. He was being invited to cross a line from which there might be no return - to become part of the secret Portugal was wrestling with.
 
 But the opportunity to fly the most advanced aircraft ever built proved irresistible.
 
@@ -756,7 +744,7 @@ As he sealed the helmet and felt its systems integrate seamlessly with his visio
 
 The thought should have terrified him.
 
-Instead, it filled him with the same excitement he had felt the first time he had climbed into an F-16's cockpit.
+Instead, it filled him with the same excitement he had felt climbing into an F-16's cockpit for the first time.
 
 ---
 
@@ -798,7 +786,7 @@ Freitas felt the aircraft's engines spool up - not the familiar roar of turbofan
 
 The Talon settled onto the runway with the same impossible smoothness it had displayed throughout the flight, touching down exactly ninety-three minutes after departure. As the aircraft taxied back to the VIP apron, the control tower watched in silence - they had tracked the departure but lost all contact after the aircraft had climbed beyond their radar coverage.
 
-When the canopy opened, Lieutenant Miguel Freitas remained motionless in the pilot's seat for several long moments, staring straight ahead with an expression of stunned disbelief. Ground crew members approached cautiously as he finally moved to unbuckle his harness with hands that weren't quite steady.
+When the canopy opened, Lieutenant Miguel Freitas remained motionless in the pilot's seat for several long moments, staring ahead with stunned disbelief. Ground crew members approached cautiously as he finally moved to unbuckle his harness with unsteady hands.
 
 Sergeant Major Silva reached the aircraft first. "Lieutenant? Are you alright, sir?"
 
@@ -806,13 +794,13 @@ Freitas climbed down from the cockpit without responding, his movements mechanic
 
 > "Sir?" Silva pressed. "How was the flight?"
 
-Freitas looked at him with eyes that had seen too much. "I need to write a report," he said quietly, his voice carrying a weight that hadn't been there before the flight.
+Freitas looked at him with eyes that had seen too much. "I need to write a report," he said quietly, his voice carrying weight that hadn't been there before the flight.
 
 Corporal Cardoso approached from the other side. "Lieutenant, the base commander wants a briefing on the demonstration. He's been waiting in ops..."
 
 > "Not now," Freitas cut him off, walking past the gathering ground crew toward the crew facilities. "I need to... I need to process what I saw. Give me time to write it down properly."
 
-Several pilots who had been waiting near the flight line tried to intercept him, hungry for details about the flight. Freitas brushed past them with barely a nod, his usual collegiality replaced by the distant focus of a man trying to comprehend the incomprehensible.
+Several pilots who had been waiting near the flight line tried to intercept him, hungry for details. Freitas brushed past them with barely a nod, his usual collegiality replaced by distant focus.
 
 > "Miguel!" called Captain Santos from the squadron operations building. "What was it like? What did HARBINGER show you?"
 
@@ -820,17 +808,17 @@ Freitas paused at the entrance to the crew quarters, turning back with an expres
 
 > "Everything," he said simply. "It showed me everything."
 
-He disappeared into the building, leaving behind a group of confused and increasingly worried colleagues. Twenty minutes later, they heard the decisive click of his quarters' door lock engaging.
+He disappeared into the building, leaving behind a group of confused and increasingly worried colleagues. Twenty minutes later, they heard his quarters' door lock engage.
 
 Inside, Freitas sat at his small desk, staring at a blank report form. His hands trembled slightly as he started typing, trying to find words for experiences that defied conventional description.
 
 How do you explain to your superiors that everything they thought they knew about air combat had just become obsolete?
 
-Freitas began to write, knowing that his words would either change Portuguese military policy forever or end his career. Possibly both.
+Freitas began to write, knowing that his words would either change Portuguese military policy forever or end his career.
+
+Possibly both.
 
 But someone had to document what HARBINGER's aircraft could really do.
-
-Even if no one would believe it.
 
 ## Chapter 5: Assessment
 
@@ -843,9 +831,9 @@ The Cabinet room was already assembled when he arrived. Prime Minister Silva sat
 
 > "General Alves," Prime Minister Silva said, nodding toward the chair reserved for him. "Thank you for joining us. Minister Carvalho has briefed us on the political and strategic implications of HARBINGER's proposal. Now we need to understand what these aircraft can actually do."
 
-Alves took his seat and opened the portfolio, extracting copies of Freitas's report for distribution around the table. The document's classification markings were unprecedented - *COSMIC TOP SECRET* with additional compartmentalized access restrictions that limited readership to fewer than a dozen people in the entire Portuguese government.
+Alves took his seat and opened the portfolio, extracting copies of Freitas's report for distribution. The document's classification markings were unprecedented - *COSMIC TOP SECRET* with additional compartmentalized access restrictions limiting readership to fewer than a dozen people in the Portuguese government.
 
-> "Prime Minister, ministers," Alves began, his voice carrying the gravity of the moment, "what I'm about to share with you represents operational observations that challenge our understanding of what constitutes aircraft capability. Lieutenant Freitas spent ninety-three minutes aboard a Talon-class fighter under HARBINGER's direct control. His report is... uncharacteristically brief on technical details, but extraordinarily detailed on what he experienced as a pilot."
+> "Prime Minister, ministers," Alves began, his voice carrying the gravity of the moment, "what I'm about to share represents operational observations that challenge our understanding of aircraft capability. Lieutenant Freitas spent ninety-three minutes aboard a Talon-class fighter under HARBINGER's direct control. His report is... extraordinarily detailed on what he experienced as a pilot."
 
 Foreign Minister Ribeiro leaned forward, adjusting his glasses. "General, before we proceed - how certain are we about the accuracy of these observations? Could Lieutenant Freitas have been... deceived somehow?"
 
@@ -853,11 +841,11 @@ Alves had anticipated the question. "Minister, Freitas makes no claims about how
 
 Defense Minister Carvalho gestured toward the reports. "What were the key observations, General?"
 
-Alves opened his copy to the first operational section. "The demonstration began with atmospheric flight performance that exceeded anything in Freitas's experience. He reports sustained high-speed flight with maneuvering characteristics that made his F-16 training feel primitive by comparison. HARBINGER executed flight profiles that would have destroyed conventional aircraft, apparently without stress on either the airframe or the pilot."
+Alves opened his copy to the first operational section. "The demonstration began with atmospheric flight performance that exceeded anything in Freitas's experience. He reports sustained high-speed flight with maneuvering characteristics that made his F-16 training feel primitive. HARBINGER executed flight profiles that would have destroyed conventional aircraft, apparently without stress on either airframe or pilot."
 
-Prime Minister Silva studied the sparse technical annotations in the report. "Freitas provides no analysis of how this was accomplished?"
+Prime Minister Silva studied the sparse technical annotations. "Freitas provides no analysis of how this was accomplished?"
 
-> "None," Alves confirmed. "He states explicitly that HARBINGER provided no technical explanations, and that most of the aircraft's systems appeared automated. From his perspective as a pilot, the aircraft simply performed beyond the boundaries of conventional physics."
+> "None," Alves confirmed. "He states explicitly that HARBINGER provided no technical explanations, and that most systems appeared automated. From his perspective as a pilot, the aircraft simply performed beyond conventional physics."
 
 Alves turned to the next section, his expression growing more serious.
 
@@ -867,7 +855,7 @@ The silence around the table was immediate and profound. Finance Minister Santos
 
 > "The aircraft went underwater?"
 
-> "To a depth of approximately five hundred meters," Alves confirmed. "Freitas reports that the aircraft sealed itself completely and operated beneath the surface for twenty-seven minutes. He describes the experience as 'flying underwater' - the same control responsiveness, the same maneuvering capability, as if the change from air to water was irrelevant to the aircraft's operation."
+> "To a depth of approximately five hundred meters," Alves confirmed. "Freitas reports that the aircraft sealed itself completely and operated beneath the surface for twenty-seven minutes. He describes the experience as 'flying underwater' - the same control responsiveness, the same maneuvering capability, as if the change from air to water was irrelevant."
 
 Interior Minister Pereira shook his head slowly. "General, aircraft don't function underwater. The physics alone..."
 
