@@ -1,5 +1,11 @@
-# Ex Mero Mutu
-
+---
+layout: story
+type: story
+line: main
+title: Ex Mero Mutu
+permalink: /stories/ex-mero-mutu
+timeline: 2025-03-14
+---
 ## Chapter 1: The Cancellation
 
 ### Lisbon, Portugal - Air Force Headquarters
