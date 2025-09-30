@@ -674,7 +674,7 @@ For a moment, nobody moved. Then the van's side door slid open.
 
 The first figure that emerged made Marisa's breath catch.
 
-The man wore a black bodysuit overlaid with angular panels that caught the dim warehouse light in strange ways, seeming to shift and flow as he moved. The panels weren't quite rigid, weren't quite flexible, but something in between that suggested technology she didn't recognize. The helmet was integrated seamlessly with the suit, no visible seam where neck met collar, its shape angular and almost alien with subtle indentations and protrusions that suggested sensors or equipment she couldn't identify.
+The man wore a black bodysuit overlaid with angular panels that caught the dim warehouse light in strange ways, seeming to shift and flow as he moved. The panels weren't quite rigid, weren't quite flexible, but something in between that suggested technology she didn't recognize. The helmet was integrated seamlessly with the suit, no visible seam where neck met collar, its shape angular and almost alien with subtle indentations and protrusions that suggested sensors or equipment she couldn't identify. Three clusters of small lenses were mounted on the helmet's face—four lenses per cluster, arranged vertically—glowing a dim, unsettling red. Two clusters sat where eyes might be on a human face, the third centered above them. With LeBouf's visor retracted, these lens clusters were dark and inert, pushed to the sides of his helmet.
 
 But his visor was retracted, and Marisa recognized the unremarkable face beneath the helmet.
 
@@ -682,11 +682,11 @@ LeBouf.
 
 Except everything else about him had changed. The slouch was gone. He moved with fluid, predatory efficiency, weight balanced on the balls of his feet, every gesture precise and economical. His eyes swept the warehouse with systematic awareness, cataloging threats and angles with the automatic competence of someone who'd survived situations far worse than a dockside interdiction. The middle-management mediocrity had vanished, replaced by something that made Marisa's hindbrain recognize a dangerous predator.
 
-Two more figures followed him out of the van, identically equipped. Their visors were down, rendering their faces invisible behind smooth black surfaces. They moved with the same unsettling precision, fluid and coordinated, as if every gesture had been calculated for maximum efficiency.
+Two more figures followed him out of the van, identically equipped. Their visors were down, rendering their faces invisible behind smooth black surfaces, and on these operators the lens clusters glowed with that same dim red light—twelve small points arranged in three groups of four, giving them an insect-like, almost alien appearance. They moved with the same unsettling precision, fluid and coordinated, as if every gesture had been calculated for maximum efficiency.
 
 Beside her, Marisa heard Hartfield's sharp intake of breath.
 
-The three ESF operators approached, and she could hear it now: a faint humming sound emanating from their equipment. Not quite electrical, not quite mechanical, but something that made the air feel charged. The sound raised the hairs on her arms.
+The three ESF operators approached, and she could hear it now: a faint humming sound emanating from their equipment. Even without seeing their eyes behind the visors, she could feel their gaze on her and Hartfield's team—methodical, assessing, aware of everything. Not quite electrical, not quite mechanical, but something that made the air feel charged. The sound raised the hairs on her arms.
 
 Each of them carried rifles that were wrong in ways Marisa's eyes struggled to process. They were sleek and angular like the armor, but the proportions were off. The barrels were too thin, barely wider than her thumb, and they hummed with the same unsettling frequency as the suits. No visible magazines, no ejection ports, no iron sights—just smooth surfaces and subtle glowing indicators that pulsed with a soft blue light.
 
@@ -740,7 +740,9 @@ Hartfield's jaw was tight, but he nodded slowly.
 
 > "Agreed." LeBouf's tone carried quiet authority. "We'll be in position within three minutes. You'll have full communications coverage and tactical data feed through the earpieces."
 
-The three ESF operators turned and moved back toward the van with that same unsettling fluid precision. Marisa watched them go, trying to process what she'd just seen. The way LeBouf moved now, the casual readiness in his stance—it was like watching a different person wearing the same forgettable face.
+The three ESF operators turned and moved back toward the van with that same unsettling fluid precision. As they walked away, LeBouf gave a slight nod, and the two halves of his visor slid together in front of his face with a soft snap, sealing seamlessly without a visible seam. The lens clusters on either side of his helmet came to life, twelve small points of dim red light now matching his teammates', transforming him from a forgettable man in advanced gear into something far more alien.
+
+Marisa watched them go, trying to process what she'd just seen. The way LeBouf moved now, the casual readiness in his stance—it was like watching a different person wearing the same forgettable face.
 
 Hartfield stepped closer to her, his voice low.
 
