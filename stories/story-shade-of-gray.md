@@ -791,3 +791,185 @@ Marisa looked toward the warehouse entrance, where Hartfield's team was preparin
 Somewhere out there, in the maze of shipping containers and industrial equipment surrounding the Newark docks, three figures in impossible gear were moving into position.
 
 And Marisa had a sinking feeling that what she'd seen so far was just the beginning.
+
+## Chapter 4: Overwatch
+
+The Newark docks at night were a landscape of shadows and harsh sodium lights, industrial geometry stretched across acres of concrete and steel. Shipping containers stacked four high created artificial canyons, their corrugated walls painted in faded reds, blues, and rusts. Overhead cranes loomed like mechanical dinosaurs, their skeletal frames silhouetted against the orange glow of the city beyond.
+
+Marisa crouched behind a stack of pallets two hundred meters from the target warehouse, watching Hartfield's team move into position through the thermal optic mounted on her borrowed rifle. The weapon felt foreign in her hands—she was an investigator, not a tactical operator—but Hartfield had insisted she be armed and equipped like the rest of the team.
+
+Through her earpiece, she could hear the steady rhythm of operational communications. Hartfield's voice, calm and professional, directing his team to their positions. Rodriguez acknowledging from position Alpha, covering the warehouse's north entrance. Two other agents—Martinez and Chen—reporting from positions Beta and Gamma, establishing overlapping fields of fire.
+
+And underneath it all, that strange background hum from the ESF communications system, like standing near high-voltage lines.
+
+> "All positions, this is Hartfield. Sound off when in position."
+
+One by one, the FBI agents confirmed. Marisa watched through her optic as they settled into cover, professional and practiced. Good positioning, good spacing, proper security. Everything by the book.
+
+Then Shade's genderless voice cut through the channel, and Marisa felt her stomach tighten.
+
+> "Overwatch established. We have full visual coverage of the operational area. Targets are nine minutes out, proceeding as predicted."
+
+> "Overwatch, Hartfield. What's your position?"
+
+A pause, and Marisa could almost hear the smile in Shade's voice.
+
+> "Where we need to be, Agent Hartfield. You'll see us if the situation requires it. Until then, focus on your team. We'll guide you in."
+
+Hartfield's jaw must have been tight, but his voice remained professional.
+
+> "Copy that. All positions, standby for further guidance."
+
+Marisa scanned the surrounding area, looking for any sign of the ESF operators. The lens clusters, the distinctive helmets, the impossible gear—they should have been visible somewhere in this industrial maze. But there was nothing. Just shadows and shipping containers and the distant rumble of trucks on the highway.
+
+> "Agent Comey," Shade said, speaking directly to her now. "We're tracking your position. You're exposed on your eastern flank. Recommend moving three meters left, behind the concrete barrier. There's a sightline from the warehouse's second-floor window that could compromise you."
+
+Marisa looked left. There was indeed a concrete barrier, waist-high, providing better cover. And when she glanced at the warehouse, she could see the window Shade had mentioned—currently dark, but a potential threat vector.
+
+She moved, settling behind the barrier. Through her earpiece, she heard what might have been approval.
+
+> "Better. You're learning."
+
+> "Overwatch, Rodriguez." The tactical officer's voice carried a note of confusion. "How are you tracking our positions? I don't see any drones, no aerial assets."
+
+> "We have other methods, Agent Rodriguez. Trust that we see what we need to see."
+
+> "That's not an answer—"
+
+> "Rodriguez, Hartfield. Stay focused on the mission."
+
+But Marisa had heard the edge in Rodriguez's voice. She understood it. The idea that ESF could track their positions, see their movements, without any visible surveillance platform was unsettling in ways that went beyond operational security.
+
+The minutes ticked by. Through her earpiece, she heard Shade providing a steady stream of updates. The target vehicles were seven minutes out. Six minutes. Five. Each update came with precise timing, as if ESF had access to GPS tracking on the extremists' vehicles.
+
+Which, Marisa realized with growing unease, they probably did.
+
+> "All positions, Shade. Targets are three minutes out. First vehicle is a white Ford F-150, license plate Jersey Tango-Seven-Three-Charlie-Hotel-Niner. Three occupants, all male, mid-twenties to early thirties. Second vehicle is a grey Dodge Ram, Jersey Bravo-Four-Two-Echo-Kilo-Eight. Two occupants, both male, similar age range."
+
+Marisa pulled up the intelligence package on her phone, cross-referencing the descriptions. The vehicle details matched known associates. So did the physical descriptions Shade was providing.
+
+> "How are you getting these details?" Hartfield's voice was carefully neutral, but Marisa could hear the questions underneath. "Visual confirmation requires line of sight."
+
+> "We have line of sight, Agent Hartfield. Among other things."
+
+Marisa's eyes swept the dockyard again. Where the hell were they? The ESF operators had to be somewhere, had to have positioned themselves for visual observation. But there was nothing. No movement, no signatures, no indication of three operators in advanced tactical gear.
+
+Unless they were somewhere she couldn't see. Somewhere with elevation and clear sightlines. She tilted her head back, looking at the massive container cranes overhead.
+
+There. On one of the crane platforms, maybe sixty meters up, she caught the briefest glint of light reflecting off angular surfaces. A figure, barely visible against the night sky, rendered almost invisible by the darkness and the angle. As she watched, the figure shifted slightly, and she saw the faint red glow of lens clusters.
+
+One of the ESF operators. Perched on a crane platform like some kind of predatory bird.
+
+She keyed her mic.
+
+> "Overwatch, this is Comey. I have visual on one of your operators. North crane, upper platform."
+
+> "Confirmed. That's Dozer. He has primary overwatch from that position."
+
+> "How did he get up there? Those cranes have security locks, no access without—"
+
+> "Agent Comey, respectfully, the how is less important than the results. Dozer has optimal sightlines from that position. Focus on your sector."
+
+Marisa's hands tightened on her rifle. The casual dismissal, the implication that questions were unwelcome—it grated against everything she'd learned about proper operational procedure. But Monroe's words echoed in her head. *Don't ask too many questions. Just let them do what they do.*
+
+The next two minutes passed in tense silence. Marisa could see the other FBI positions now, her eyes adjusting to the industrial darkness. Rodriguez was fifty meters to her left, pressed against a shipping container with his rifle trained on the warehouse entrance. Martinez held the southern approach, barely visible behind a forklift. Hartfield had positioned himself near the main access road, ready to call the move when the time came.
+
+Movement caught Marisa's eye. High above, atop the container stacks. A figure in black, moving with fluid precision across the corrugated metal surface. One of the ESF operators. Even from this distance, she could see the smooth, predatory grace of the movement—no wasted motion, no sound carrying down to ground level. The operator paused at the edge of one stack, then leaped.
+
+For a moment, the figure was airborne, silhouetted against the sodium lights. Then a brief pulse of dim blue light from their back—so faint Marisa almost missed it—and the operator's trajectory shifted mid-air, carrying them smoothly to the next container stack eight feet away. They landed without a sound, without any visible impact, immediately flowing into a low crouch and continuing forward.
+
+Marisa's breath caught. That wasn't human. Humans didn't jump like that, didn't land like that, didn't move with that kind of impossible silence while wearing tactical gear and carrying weapons.
+
+> "Did anyone else just see—" Rodriguez's voice, barely a whisper.
+
+> "Saw it," Martinez confirmed. "How the hell did they—"
+
+> "Focus," Hartfield cut in, but Marisa heard the edge in his voice. He'd seen it too.
+
+Another figure appeared on the containers, this one closer to Rodriguez's position. The ESF operator moved at what should have been a full sprint, but made no sound. Not the clang of boots on metal, not the rustle of equipment, nothing. Just smooth, efficient movement that covered ground faster than seemed physically possible. The red glow of their lens clusters swept the area in methodical patterns, and Marisa found herself holding her breath when that alien gaze passed over her position.
+
+> "Targets are ninety seconds out," Shade announced. "All positions maintain coverage. We're detecting additional heat signatures inside the warehouse. Revising count upward."
+
+> "How many?" Hartfield's voice was sharp.
+
+> "Twelve total. All armed. Weapons consistent with AR-pattern rifles. They're staged in three groups—four near the loading bay, five in the main floor area, three on the second floor providing overwatch."
+
+Marisa's blood ran cold. Twelve armed extremists. The intel had suggested five, maybe six. But twelve changed everything. Changed the tactical balance, changed the risk assessment, changed whether this operation should proceed at all.
+
+> "Overwatch, Hartfield. That's a significant revision from our intelligence. Confidence level?"
+
+> "High confidence. We have thermal, electromagnetic, and acoustic signatures. Twelve individuals, all carrying metal-framed weapons, all positioned as described."
+
+> "How the hell—" Rodriguez started, then caught himself. "Never mind. Not the time."
+
+But Marisa heard what he'd almost said. The question they were all thinking. How could ESF have thermal imaging, electromagnetic detection, and acoustic sensors capable of distinguishing individual weapons from this distance? That would require equipment that didn't exist outside classified military programs. Equipment that certainly shouldn't be in the hands of a shadowy organization operating on U.S. soil.
+
+Through her earpiece, she heard Hartfield making rapid calculations.
+
+> "All positions, be advised we're facing a larger force than anticipated. Maintain position. We proceed only if we can maintain tactical advantage. Overwatch, what's your assessment?"
+
+> "Proceed," Shade said without hesitation. "We have clear sightlines on all twelve targets. If engagement becomes necessary, we can provide suppression and direction. Your team maintains the arrest authority. We're here to ensure you don't get killed in the process."
+
+The bluntness was almost refreshing. At least ESF wasn't pretending this was a standard operation.
+
+> "Copy that," Hartfield said. "All positions, weapons tight unless I give the word. This is a law enforcement operation. We detain, we don't engage unless absolutely necessary."
+
+Hartfield shifted his position, moving to get a better angle on the warehouse entrance. As he did, he caught movement in his peripheral vision. One of the ESF operators, pressed against the corner of a shipping container thirty meters away. The figure moved with that same unnatural silence, bringing their rifle up in a smooth motion.
+
+But instead of quick-peeking around the corner like any trained operator would, the ESF agent extended just the barrel of their weapon around the edge, keeping their body in cover. They held it there for several seconds, the rifle angled as if they were looking through the optic. Then they pulled back, adjusted position, and flowed around the corner with the absolute certainty of someone who'd already seen what was waiting.
+
+Hartfield's jaw tightened. The rifle. They were seeing through the rifle somehow. Getting a visual feed from sensors or cameras mounted on the weapon itself, letting them observe without exposing themselves to return fire. He filed the observation away with all the other impossible things he'd seen tonight. Questions for later. Much later.
+
+Marisa watched the access road. Headlights appeared in the distance, two sets, approaching at moderate speed. No rush, no indication they suspected anything wrong. The white F-150 led, the grey Dodge Ram following twenty meters behind.
+
+Her finger rested alongside the trigger guard, not on the trigger itself. Bureau training. Don't touch the trigger until you're ready to shoot.
+
+> "Targets entering the kill zone," Shade announced. "First vehicle slowing. Driver is scanning the area. Passenger is on a phone—wait, ending the call. They're pulling up to the loading bay."
+
+The F-150 came to a stop thirty meters from Marisa's position. She had a clear view through her optic. Three men, just as Shade had described. The driver killed the engine. Nobody moved for a moment.
+
+Then Rodriguez's voice, barely a whisper through the comms.
+
+> "Jesus Christ. It's like they can see where people are *looking*, not just where they are."
+
+Marisa's head snapped around. Rodriguez had shifted position slightly, just a few inches, probably to get a better angle on the second vehicle. An unconscious tactical adjustment. But she'd heard the wonder in his voice. How the hell had ESF known he needed to adjust before he'd even done it?
+
+Movement to her right. Close. Too close. An ESF operator materialized from the shadows between containers, moving parallel to her position. The figure ran in complete silence, covering ground in long, loping strides that should have made noise, should have clanged against metal surfaces, should have *announced* their presence. But there was nothing. Just the faint hum of their equipment and the dim red glow of lens clusters sweeping the area with mechanical precision.
+
+The operator passed within ten meters of her position, and Marisa got a clear view. The way they moved was wrong in ways that made her hindbrain scream warnings. Too smooth, too efficient, like watching a predator that had evolved for a hundred million years longer than humanity. Every motion flowed into the next with perfect economy, no wasted energy, no hesitation. And through it all, that complete, absolute silence.
+
+Then the figure was gone, disappearing into the maze of containers as if they'd never existed.
+
+Marisa's hands were shaking. She forced them still, forced herself to focus on the warehouse, on the mission. But the image stayed with her. The smooth, inhuman efficiency. The silence. The sense that she was watching something that shouldn't exist outside of nightmares or science fiction.
+
+A new voice cut through the channel. Male, deep, with a faint accent Marisa couldn't place. Not Shade. Not LeBouf. One of the other ESF operators.
+
+> "Dozer here. Affirmative, Agent Rodriguez. Our systems track ocular direction and attention focus. We can see what you're looking at, where your attention is directed. Helps us coordinate movements and prevent friendly fire."
+
+The casual confirmation sent a chill down Marisa's spine. Track ocular direction. Attention focus. That implied sensors capable of detecting eye movement, pupil dilation, maybe even neural activity patterns through their helmets and equipment. Technology that made every science fiction movie she'd ever seen look conservative.
+
+Rodriguez's voice came back, carefully controlled but carrying an edge of disbelief.
+
+> "That's... that's not possible. Not with any technology I know about."
+
+> "Fortunate, then, that you have access to technology you don't know about." Dozer's tone was matter-of-fact, almost amused. "Second vehicle stopping now. All occupants are armed. Two with concealed carry, three with rifles in the truck beds. The man exiting the passenger side of the F-150 has his hand near his waistband. Weapon is a Glock 19, loaded, one in the chamber."
+
+Marisa watched through her optic as the man Dozer described stepped out of the truck. Young, maybe twenty-six, wearing a flannel shirt and jeans. His right hand hovered near his belt, fingers twitching. She couldn't see the weapon from this angle, but she didn't doubt it was there.
+
+Because ESF could apparently see through clothing now. Or detect metal signatures. Or read body language with inhuman precision.
+
+Or all of the above.
+
+> "Overwatch, Hartfield. Continue tracking. All positions, standby. We move when all targets are out of their vehicles and committed to entering the warehouse."
+
+The five men from the trucks gathered near the loading bay door, talking in low voices. Through the enhanced audio in her earpiece—another capability she hadn't known the ESF comms possessed—Marisa could hear fragments of conversation.
+
+"—should be ready by now—"
+
+"—Marcus said they finished the second unit—"
+
+"—move everything tonight, get it staged—"
+
+The loading bay door rolled up with a grinding metallic sound. Light spilled out, illuminating the five men. Behind them, inside the warehouse, Marisa could see movement. More figures. The twelve Shade had counted.
+
+> "All targets are now consolidated," Shade said. "Warehouse interior shows three on the upper level, nine on the main floor. Optimal time for interdiction is when the exterior team enters the building. Spacing will separate them from the main group for approximately thirty seconds. Agent Hartfield, recommend you initiate on my mark."
