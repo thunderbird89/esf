@@ -1217,3 +1217,87 @@ Hartfield's eyes narrowed.
 LeBouf glanced at the other two ESF operators, who had moved closer. Then he looked back at Marisa and Hartfield, and there was definitely amusement in his unremarkable features now. Something knowing and almost playful.
 
 > "I think," he said, his French accent more pronounced, "it is time you met Shade. In person."
+
+## Chapter 5: Ascent
+
+A slight wind kicked up across the parking lot, swirling debris and causing loose papers to scatter. Marisa felt it first—a change in air pressure, a subtle disturbance that made her ears pop. The sodium lights overhead flickered.
+
+> "Look up," LeBouf said quietly.
+
+Marisa tilted her head back. At first, she saw nothing but the orange-tinted night sky of industrial New Jersey. Then the air *shimmered*.
+
+It started as a distortion, like heat haze on summer asphalt, but wrong—too precise, too geometric. The shimmer spread outward in a shape that shouldn't exist, revealing angular surfaces that caught the light in ways that made her eyes hurt to focus on. Black panels that seemed to absorb light rather than reflect it. Surfaces that shifted between matte and glossy as if the material itself couldn't decide what it was.
+
+The craft materialized from nothing, settling toward the parking lot with impossible silence. No roar of engines. No downdraft from rotors. Just that gentle wind and the soft *hiss* of something moving through air that didn't want to move.
+
+It was enormous. Fifty meters long at least, shaped like a flattened diamond or an arrowhead, all sharp angles and aggressive geometry. The nose was impossibly sharp, the body flowing back into wings that were too thin, too elegant, breaking every rule of aerodynamics Marisa had ever learned. The entire surface seemed to be made of those light-absorbing panels, broken only by subtle seams and what might have been sensor ports glowing with faint blue light.
+
+The craft touched down on extended landing gear that looked too delicate to support its mass, settling with barely a whisper of contact. A ramp extended from the ventral surface with a soft hydraulic hiss, lowering to the parking lot asphalt. The interior beyond was lit with that same dim blue glow from the sensor ports.
+
+Marisa stood frozen, her mind struggling to process what she was seeing. Beside her, Hartfield had gone pale, his hand unconsciously gripping his rifle tighter.
+
+> "What the fuck," Rodriguez breathed.
+
+LeBouf was already moving toward the craft, his two teammates flanking him. He called back over his shoulder, urgency cutting through his usual calm.
+
+> "Hurry up and board. We have fifty-six minutes, and this is your ticket to San Francisco."
+
+Marisa's feet moved before her brain fully engaged, training and desperation overriding the shock. Hartfield grabbed her arm.
+
+> "Comey, that's not a plane. That's not any aircraft I've ever—"
+
+> "I know," Marisa said, pulling free. "But it's also our only option. Move."
+
+They ran toward the craft, Martinez and Rodriguez following. As they approached, Marisa could see the interior more clearly through the opening. Not a cargo bay or passenger compartment—something else. Seats that looked molded from the same angular material as the exterior, arranged in two rows facing each other. Restraint systems that were far more complex than standard five-point harnesses. Panels covered in what looked like medical equipment.
+
+LeBouf waited at the entrance, literally bouncing on his toes with an energy that was completely at odds with his usual composed demeanor. The moment they were close enough, he started talking, words coming fast, his accent thick with stress.
+
+> "This is Shade. The plane itself *is* Shade. It's an AI—artificial intelligence—fully autonomous. It will be taking us to space and back down to reach San Francisco in just over twenty minutes."
+
+> "Space," Hartfield repeated flatly. "You're saying we're going to *space*."
+
+> "Suborbital trajectory, yes." LeBouf was already climbing into the craft, gesturing for them to follow. "Get in, strap in immediately. We'll provide countermeasures—pressure suits, medications, monitoring—but blacking out is expected and normal. Your bodies are not designed for this kind of acceleration."
+
+Marisa hauled herself through the opening, her hands finding purchase on surfaces that felt warm and almost organic. The interior was cramped despite the craft's size, every centimeter optimized for function. The seats—if they could be called that—were less like furniture and more like form-fitting cocoons.
+
+The other two ESF operators were already strapped in, their visors down, moving with practiced efficiency. LeBouf was helping Martinez into one of the seats, his hands moving rapidly over the complex restraint system.
+
+> "Arms here, legs here, head back against the rest. The system will conform to your body. Do not fight it. Shade will monitor your vitals and provide support as needed."
+
+Marisa dropped into a seat, and immediately the material shifted, flowing around her limbs like liquid becoming solid. Restraints snaked across her chest, her thighs, her shoulders, locking into place with soft *clicks*. A panel extended from the headrest, curving around to position itself in front of her face—a helmet or mask of some kind, already sealing against her skin.
+
+> "Wait—" she started, but the mask was already locked in place, and suddenly she could breathe easier, the air tasting pure and cold.
+
+Shade's voice filled her ears, coming through the mask's integrated speakers with that same measured, genderless tone.
+
+> "Agent Comey. Welcome aboard. Please remain calm. I am monitoring your vitals. Heart rate elevated but acceptable. Beginning pre-flight preparation."
+
+Marisa looked around wildly. Hartfield was in the seat across from her, his eyes wide behind his own mask. Martinez and Rodriguez were further back, both looking terrified. LeBouf was the last to strap in, his movements hurried, almost frantic.
+
+Hartfield's voice came through the comm system, muffled by his mask but clear.
+
+> "LeBouf. Have you done this before? This... whatever this is?"
+
+LeBouf's hands were still shaking as he finished securing his own restraints. When he spoke, his accent was so thick Marisa could barely understand him.
+
+> "Yes. Many times."
+
+> "Then why," Hartfield pressed, his voice tight, "do you look just as anxious as the rest of us?"
+
+LeBouf's unremarkable face turned toward Hartfield, and for once, his expression was completely honest. Raw. Almost haunted.
+
+> "Because you don't get used to it," he said quietly. "It just gets less bad each time."
+
+The ramp retracted with a soft hydraulic hiss, sealing into the hull with a final, definitive *snap*. The interior lighting shifted from white to a dim red. Marisa felt the craft shudder—not mechanically, but as if it were a living thing preparing to move.
+
+Shade's voice returned, calm and precise.
+
+> "All personnel secured. Systems nominal. Filing emergency flight plan with FAA. Cloaking system active. Initiating launch sequence."
+
+> "Wait—" Marisa tried to say, but her voice came out as barely a whisper.
+
+> "Launch in five seconds," Shade announced. "Four. Three. Two. One."
+
+> "Merde," LeBouf breathed.
+
+The world disappeared.
