@@ -1141,3 +1141,79 @@ Marisa stepped fully into the warehouse, her rifle finally lowering. Around her,
 Twelve armed terrorists. Neutralized in under two minutes. Zero FBI casualties. Zero enemy fatalities.
 
 It shouldn't have been possible. But ESF had made it look routine.
+
+---
+
+The next twenty minutes were a controlled chaos of securing evidence and processing suspects. FBI agents moved through the warehouse with practiced efficiency, photographing the scene, collecting weapons, documenting injuries. Marisa coordinated with local police and federal medical response, arranging transport for the twelve incapacitated extremists. All of them would survive, though several had broken ribs and one—the man LeBouf had kicked—had a severe concussion and possible spinal trauma.
+
+The three ESF operators had withdrawn to the perimeter, standing in loose formation near the loading bay entrance. Their visors were up now, revealing three faces that Marisa was already struggling to remember in detail. LeBouf's unremarkable features. A woman with dark hair and sharp eyes who must be one of the other operators. A man with a forgettable face that seemed to slide out of memory even as Marisa looked at him.
+
+Hartfield was coordinating the evidence collection, his voice steady and professional over the comms, but Marisa had noticed the way he kept glancing at the ESF team. The way his hands occasionally trembled when he thought no one was looking. Whatever had happened inside the warehouse had shaken him.
+
+Rodriguez approached Marisa, his tablet displaying preliminary photos of the seized materials.
+
+> "Agent Comey, you need to see this. We found two partially assembled devices in the back room. High-voltage capacitors, ferrite cores, the whole shopping list from the intelligence package. They were maybe a day away from being operational."
+
+Marisa felt cold relief wash over her. They'd stopped it. They'd actually stopped it. Two devices that could have disabled blocks of infrastructure, that could have killed people through secondary effects—hospitals losing power, traffic systems failing, emergency services blinded.
+
+> "Document everything. I want a complete technical analysis sent to—"
+
+Shade's voice cut through every comm channel simultaneously, sharp and urgent. The genderless tone carried an edge Marisa hadn't heard before.
+
+> "All personnel, priority alert. We have a significant development."
+
+The warehouse went silent. FBI agents paused mid-task. The ESF operators' heads snapped up in unison, a synchronized movement that looked almost mechanical.
+
+> "The cell we just interdicted missed their scheduled check-in seventeen minutes ago. Our monitoring shows the broader network is aware of the raid. Communications intercepts indicate they're accelerating their timeline."
+
+Marisa's stomach dropped.
+
+> "Accelerating how?" Hartfield demanded.
+
+> "Two devices are already operational. Fully assembled, armed, and positioned. The network is moving up their detonation schedule in response to our action here."
+
+> "Where?" Marisa was already moving toward LeBouf, her mind racing through response protocols.
+
+> "San Francisco. Mission District and Financial District. Devices are positioned to maximize infrastructure damage and cascading failures across the city's power grid and communications networks."
+
+> "When?" Hartfield had joined Marisa, his face pale.
+
+> "Fifty-eight minutes. They've initiated the countdown."
+
+The warehouse erupted in controlled chaos. Hartfield was already on his phone, calling FBI San Francisco field office. Rodriguez was pulling up maps on his tablet. Marisa's mind was running calculations, trying to find an angle, any angle that could work.
+
+> "We need to contact San Francisco PD, evacuate the blast radius—"
+
+> "Agent Comey," Shade interrupted. "EMP devices don't have a traditional blast radius. The electromagnetic pulse will propagate through the electrical grid. Evacuation won't help. We need to physically disable the devices before detonation."
+
+Marisa looked at Hartfield. He was thinking the same thing she was—the math didn't work.
+
+> "Even if we left right now," Hartfield said slowly, "took a Bureau charter, flew at maximum speed—we're looking at what, five hours minimum to San Francisco?"
+
+> "Four hours forty minutes if we can get airborne in the next ten minutes," Marisa confirmed. "We'd need clearance, flight plan, coordination with—"
+
+> "We don't have four hours," Hartfield said flatly. "We have fifty-seven minutes."
+
+Marisa's mind raced through alternatives. Military assets? The Air Force had response teams, but the same time constraints applied. Local law enforcement? They could reach the devices, but without technical expertise to disarm EMP weapons, they'd be helpless. Remote detonation of the devices? Too risky—could trigger them early.
+
+> "What about bomb disposal teams in San Francisco?" Rodriguez suggested. "If we can give them technical specs—"
+
+> "These aren't conventional explosives," LeBouf said, approaching the group. His visor was still up, his unremarkable face carrying an expression of calm certainty that felt surreal given the circumstances. "The detonation mechanism is electronic, likely with anti-tamper features. Local teams would need detailed schematics and specialized equipment. We don't have time for that." 
+
+Marisa wanted to scream. They'd done everything right. They'd stopped the cell, seized the devices, prevented the attack. But there were always more cells, more devices, more threats they hadn't seen coming. The network had anticipated interdiction and built in redundancy.
+
+> "There has to be something," she said, hearing the desperation in her own voice. "We can't just—"
+
+> "There is something," LeBouf said quietly.
+
+Everyone turned to look at him. The ESF operator stood with that same patient calm, but now Marisa could see something else in his expression. A hint of anticipation. Perhaps even amusement.
+
+> "We can reach San Francisco in time," LeBouf continued. "But it will require... unconventional transportation."
+
+Hartfield's eyes narrowed.
+
+> "What kind of unconventional?"
+
+LeBouf glanced at the other two ESF operators, who had moved closer. Then he looked back at Marisa and Hartfield, and there was definitely amusement in his unremarkable features now. Something knowing and almost playful.
+
+> "I think," he said, his French accent more pronounced, "it is time you met Shade. In person."
