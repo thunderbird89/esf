@@ -973,3 +973,171 @@ The five men from the trucks gathered near the loading bay door, talking in low 
 The loading bay door rolled up with a grinding metallic sound. Light spilled out, illuminating the five men. Behind them, inside the warehouse, Marisa could see movement. More figures. The twelve Shade had counted.
 
 > "All targets are now consolidated," Shade said. "Warehouse interior shows three on the upper level, nine on the main floor. Optimal time for interdiction is when the exterior team enters the building. Spacing will separate them from the main group for approximately thirty seconds. Agent Hartfield, recommend you initiate on my mark."
+
+Hartfield's voice was steady, professional.
+
+> "Copy that. All positions, prepare to move on my mark. Remember, this is an arrest operation. Verbal commands first, force only if necessary."
+
+Marisa shifted her weight, readying herself. Her heart hammered against her ribs. Fifteen years with the Bureau, and she'd never been in a tactical operation like this. Never had to move on armed suspects with this kind of tactical complexity.
+
+The five men from the trucks stepped through the loading bay entrance, disappearing into the warehouse interior. Through the open door, Marisa could see them greeting the others inside. Handshakes. Casual conversation. Men who thought they were safe, who had no idea federal agents were closing in.
+
+> "Exterior team is inside," Shade announced. "Separation is optimal. Three seconds. Two. One. Mark."
+
+> "All positions, move now," Hartfield commanded. "FBI! Nobody move!"
+
+Marisa broke from cover, rifle up, moving toward the loading bay entrance. Around her, the other FBI agents converged on the warehouse from multiple angles. Hartfield led from the front, his voice cutting through the night.
+
+> "Federal agents! Hands in the air! Down on the ground!"
+
+Shouts erupted from inside the warehouse. Confusion. Panic. Men scrambling for weapons, for cover, for any kind of response to the sudden assault.
+
+Marisa was twenty meters from the entrance when Martinez stumbled.
+
+It happened fast. His boot caught on something—a piece of debris, a length of chain, something in the darkness—and he went down hard. His rifle clattered against concrete, the metallic sound echoing across the dockyard like a gunshot.
+
+LeBouf's voice cut through the comms instantly, sharp and clear. The calm patience was gone, replaced by something harder. The accent was more pronounced now, the word snapping out with barely contained urgency.
+
+> "Merde. Go loud."
+
+The night exploded.
+
+Gunfire erupted from inside the warehouse. The sharp crack of rifles, muzzle flashes strobing through the loading bay entrance. Someone inside had seen Martinez fall, heard the clatter of his weapon, and made the logical calculation. The extremists were shooting first.
+
+Hartfield's voice cut through the chaos, edged with controlled urgency.
+
+> "Contact! Weapons free! Suppress and advance!"
+
+The FBI agents opened up, controlled three-round bursts from their M4s. The familiar *crack-crack-crack* of rifle fire echoed across the dockyard, punctuated by the metallic *ting* of brass hitting concrete. Marisa pressed herself against her concrete pillar, her hands shaking, her mind racing. Martinez was still exposed, still crawling, rounds kicking up sparks and concrete chips around him.
+
+Then the ESF weapons joined the fight.
+
+The sound was wrong. Not the sharp report of conventional firearms, not even the suppressed *crack* of subsonic rounds through a silencer. Instead, a rapid *zwip-zwip-zwip*—the sound of something very small moving very, very fast. Like a high-speed nail gun crossed with a camera shutter, each shot barely audible over the chaos but somehow cutting through it.
+
+Marisa's head snapped toward the source. One of the ESF operators—she couldn't tell which—had taken a position atop a shipping container thirty meters away. The figure stood in full view, completely exposed, rifle shouldered with mechanical precision. The weapon pulsed with that strange *zwip* sound in rapid succession, and through the warehouse entrance, Marisa saw extremists dropping.
+
+Not wounded. Dropped. Clean, instant incapacitations. A man bringing his rifle to bear on Martinez jerked backward, his weapon clattering away. Another extremist, moving toward the loading bay door, crumpled mid-stride. A third, half-visible behind a pallet, simply collapsed.
+
+No blood spray. No dramatic reactions. Just immediate, clinical neutralization.
+
+> "Second floor shooters neutralized," came a filtered voice—not Shade, not LeBouf. The third operator. "Upstairs is clear."
+
+Marisa looked up. Through the warehouse's second-floor windows, she could see figures slumped against walls, weapons dropped. The second ESF operator had taken them all out in seconds, firing from somewhere she still couldn't see. The *zwip-zwip-zwip* of their weapon had been nearly drowned out by the FBI's M4s, but the results were undeniable.
+
+> "Martinez, move!" Rodriguez shouted. "Go, go, go!"
+
+Martinez scrambled to his feet, sprinting for cover as the FBI team maintained suppressing fire. He made it behind a concrete barrier, breathing hard, and immediately brought his rifle back up.
+
+Then LeBouf moved.
+
+Marisa caught the motion in her peripheral vision—a figure launching from the top of a container stack. Not jumping. *Launching*. That same brief pulse of dim blue light from his back, and suddenly he was airborne, arcing toward the warehouse entrance in a trajectory that physics shouldn't allow.
+
+He covered twenty meters in the air, clearing the FBI positions entirely, and came down just inside the loading bay entrance with impossible precision. The impact should have shattered his ankles, should have sent him sprawling. Instead, he landed in a perfect crouch, absorbed the force without a sound, and immediately flowed into motion.
+
+An extremist emerged from behind a stack of crates, rifle swinging toward LeBouf. The ESF operator was faster. He pivoted, and his leg came up in a forward kick that looked almost lazy in its execution but moved with blinding speed.
+
+The kick caught the extremist square in the chest.
+
+The man *flew*. Not stumbled, not staggered—flew. His body lifted completely off the ground and sailed backward a good eight feet before slamming into the concrete wall behind him with a sickening *crack*. He crumpled, unconscious before he hit the floor, his rifle spinning away across the warehouse floor.
+
+Marisa's mouth fell open. That wasn't human strength. That was hydraulic power, mechanical force, something augmented and amplified beyond anything biology could produce. The casual efficiency of it—the way LeBouf had barely seemed to exert himself—made it even more terrifying.
+
+> "Jesus Christ," Rodriguez breathed over the comms. "What the hell was that?"
+
+LeBouf didn't pause. He flowed forward into the warehouse, his rifle coming up. The *zwip-zwip-zwip* of his weapon joined the other ESF operators, each shot precise and measured. More extremists dropped. Marisa could see them through the entrance now, trying to mount a defense, trying to return fire, but ESF was everywhere and nowhere, moving faster than the extremists could track.
+
+Hartfield's voice cut through, professional instincts overriding his shock.
+
+> "All positions, advance! Martinez, Rodriguez, take the left flank. Chen, with me on the right. Agent Comey, provide cover from your position."
+
+The FBI team moved, training and discipline pushing them forward despite the surreal nature of what they were witnessing. They flowed through the loading bay entrance in textbook formation, weapons up, calling out targets and sectors.
+
+Hartfield entered first, Martinez covering his six. The warehouse interior was chaos—scattered crates, fallen extremists, the acrid smell of gunpowder mixing with something else, something sharp and metallic that Hartfield couldn't identify. He moved tactically, clearing corners, his M4 tracking potential threats.
+
+LeBouf was ahead of him, maybe fifteen feet, moving through the space with that same fluid efficiency. His visor was down now, the smooth black faceplate broken only by those twelve points of red light arranged in three clusters. The effect was deeply unsettling—like watching something that only resembled a human being.
+
+Movement. Upper right. Hartfield's training kicked in, his rifle swinging toward—
+
+A muzzle flash.
+
+Time seemed to slow. Hartfield saw the extremist emerging from behind a stack of pallets, rifle already aimed, already firing. Saw the muzzle bloom, felt his body starting to react but knowing he was too slow, the round already in flight.
+
+Then LeBouf *moved*.
+
+It wasn't running. It wasn't jumping. It was something else entirely—a burst of motion so fast Hartfield's eyes couldn't track it. One moment LeBouf was five meters away, the next he was directly in front of Hartfield, impossibly fast, accompanied by a sharp *whoosh* of displaced air and a brief flash of blue light from his back.
+
+The round meant for Hartfield's chest hit LeBouf instead.
+
+Sparks erupted from the impact point on LeBouf's torso, a shower of orange-white that lasted a fraction of a second. The bullet deflected with a metallic *ping*, ricocheting off into the warehouse ceiling. LeBouf didn't stagger. Didn't flinch. Just stood there, a wall of angular black armor between Hartfield and the shooter.
+
+Hartfield's training overrode his shock. His M4 was already coming up, muscle memory and fifteen years of experience taking over. Three controlled shots, center mass. The extremist jerked backward and went down.
+
+For a heartbeat, neither man moved.
+
+Then LeBouf turned, that featureless black visor with its twelve red points of light fixing on Hartfield. The lens clusters tracked with mechanical precision, sweeping across Hartfield's face, his body, assessing for damage. The alien quality of that gaze—those glowing red points arranged in three clusters of four—made Hartfield's hindbrain scream warnings about predators and prey.
+
+LeBouf's voice came through the comms, filtered through his helmet but still carrying that French accent. Calm. Almost casual.
+
+> "You are unharmed?"
+
+Hartfield's mouth was dry. He managed a nod, then realized the gesture might not translate through whatever sensors ESF used.
+
+> "I'm good. You—" He gestured at the impact point on LeBouf's chest. "That was a rifle round."
+
+> "The suit is rated for such threats." LeBouf's visor swept the warehouse once more, then returned to Hartfield. "Stay behind cover when possible, Agent. We cannot intercept every shot."
+
+Then he was moving again, flowing back into the fight as if nothing had happened. But Hartfield stood frozen for a moment longer, his mind trying to process what he'd just seen.
+
+The speed. The impossible speed. LeBouf had covered five meters in what couldn't have been more than a tenth of a second. And the suit—the round had hit dead center and just... bounced off. No penetration. No damage. Just sparks and a deflection.
+
+This wasn't advanced body armor. This was something else. Something that made every piece of tactical gear Hartfield had ever used look like medieval equipment by comparison.
+
+> "Hartfield, you good?" Martinez's voice through the comms, concerned.
+
+> "Yeah." Hartfield shook himself, forced his body to move. "I'm good. Clear right and advance."
+
+But his hands were shaking as he gripped his rifle. Not from fear. From the sudden, visceral understanding that ESF wasn't just technologically advanced.
+
+They were operating on a completely different level of capability. A level that made conventional special operations look slow and vulnerable by comparison.
+
+And LeBouf had just taken a bullet meant for him without hesitation.
+
+But the targets were already down.
+
+Marisa watched from her position as the FBI agents swept through the warehouse. Extremists lay scattered across the floor, weapons dropped, most of them clutching their chests or limbs but alive. Conscious, in pain, but alive. The ESF weapons hadn't killed them—just incapacitated them with surgical precision.
+
+All except the man LeBouf had kicked. He was still slumped against the wall, unmoving.
+
+> "Clear left!"
+
+> "Clear right!"
+
+> "Second floor clear!"
+
+The calls came rapid-fire as the FBI team secured the warehouse. Marisa stood from her cover position, rifle still shouldered, and moved toward the entrance. Her legs felt unsteady, her hands still shaking with adrenaline.
+
+Inside the warehouse, the three ESF operators stood in a loose perimeter, their weapons tracking potential threats with mechanical precision. The red glow of their lens clusters swept the space, and Marisa noticed the extremists on the ground were giving those glowing eyes a very wide berth, even in their incapacitated state.
+
+LeBouf's visor was still down, his face hidden behind that smooth black surface with its twelve points of red light. He stood over the man he'd kicked, rifle pointed down but not quite aimed. Checking for consciousness, Marisa realized. Making sure the threat was neutralized.
+
+Hartfield approached LeBouf, his M4 lowered but ready. When he spoke, his voice was carefully controlled.
+
+> "What the hell are those weapons? And how did you—" He gestured at the unconscious extremist. "That's not standard takedown technique."
+
+LeBouf's visor retracted with that same smooth *snap*, revealing his unremarkable face. The transformation back was jarring—from alien predator to forgettable middle manager in an instant. But his eyes were hard, calculating, still carrying the edge of combat readiness.
+
+> "Specialized equipment, as discussed. Non-lethal when possible, highly effective when necessary." His accent was thick now, stress and exertion stripping away the careful neutrality. "Your man is safe. The threats are neutralized. That is what matters."
+
+> "Non-lethal?" Hartfield looked at the extremists scattered across the warehouse floor. "They're all—"
+
+> "Incapacitated but alive," Shade's genderless voice confirmed through the comms. "Kinetic impact rounds. Designed for maximum stopping power with minimal lethality. Broken ribs, severe bruising, possible internal trauma, but survivable. They'll stand trial."
+
+Rodriguez was moving among the downed extremists, checking vitals, securing weapons. He looked up at Hartfield with an expression of disbelief.
+
+> "They're breathing. All of them. Fuck me, they're all breathing."
+
+Marisa stepped fully into the warehouse, her rifle finally lowering. Around her, the FBI team was securing the scene—zip-tying wrists, calling for medical support, documenting the evidence. The extremists groaned and writhed on the floor, conscious enough to feel pain but too hurt to resist.
+
+Twelve armed terrorists. Neutralized in under two minutes. Zero FBI casualties. Zero enemy fatalities.
+
+It shouldn't have been possible. But ESF had made it look routine.
