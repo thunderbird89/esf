@@ -14,19 +14,19 @@ But there was something about the way the clothes fit that bothered Marisa. The 
 
 > "FBI team, we'll be taking separate vehicles back to headquarters," LeBouf said as the restraints retracted. "Standard procedure—we maintain operational security until the formal debrief is complete."
 
-The cargo bay revealed the same two Q-cars they'd used in San Francisco, but now there were two additional vehicles—a black Chevrolet Suburban and a silver Ford Explorer that looked like they'd been waiting for their return. Government fleet vehicles, the kind that blended into Washington traffic like camouflage.
+The cargo bay revealed the same two Q-cars they'd used in San Francisco—the silver Honda Accord and the dark blue Toyota Camry. No additional vehicles, no government fleet cars. Just the same unremarkable sedans that had carried them through the Mission District at impossible speeds, now looking every inch like the rental cars they were supposed to be.
 
-Marisa and her team climbed into the Explorer while LeBouf's group took the Suburban. As they pulled away from the hangar, Marisa looked back to see Shade's ramp retracting, the craft beginning its transition back to invisibility. Within moments, there was nothing but empty tarmac and the faint smell of jet fuel in the air.
+Marisa and her team climbed back into the Honda while LeBouf's group took the Toyota. As they pulled away from the hangar, Marisa looked back to see Shade's ramp retracting, the craft beginning its transition back to invisibility. Within moments, there was nothing but empty tarmac and the faint smell of jet fuel in the air.
 
-The drive through Washington morning traffic felt like stepping back into a different world. Normal cars driven by normal people heading to normal jobs, their biggest concerns probably centered around coffee and commute times. Marisa watched them through the Explorer's windows—a woman in a Honda Civic talking on her phone, a man in a pickup truck checking his reflection in the side mirror, teenagers in a beat-up Corolla laughing at something on someone's phone.
+The drive through Washington morning traffic felt like stepping back into a different world. Normal cars driven by normal people heading to normal jobs, their biggest concerns probably centered around coffee and commute times. Marisa watched them through the Honda's windows—a woman in a Civic talking on her phone, a man in a pickup truck checking his reflection in the side mirror, teenagers in a beat-up Corolla laughing at something on someone's phone.
 
 None of them knew how close the world had come to chaos. None of them would ever know.
 
 The FBI's J. Edgar Hoover Building rose ahead of them, its brutalist concrete facade as imposing as ever in the morning light. Marisa had walked through those doors thousands of times, but today felt different. Today she was bringing back secrets that couldn't be written in any report, experiences that couldn't be shared with anyone who didn't already know.
 
-They pulled into the underground garage, the Explorer's government plates getting them through security without question. LeBouf's Suburban was already parked when they arrived, its occupants nowhere to be seen. Marisa suspected they were already inside, probably in a conference room she didn't know existed, preparing for a debriefing that would never appear on any official schedule.
+They pulled into the underground garage, the Honda's ordinary appearance getting them through security without question. LeBouf's Toyota was already parked when they arrived, its occupants nowhere to be seen. Marisa suspected they were already inside, probably in a conference room she didn't know existed, preparing for a debriefing that would never appear on any official schedule.
 
-> "Seventh floor," Hartfield said as they stepped into the elevator. "Assistant Director Monroe wants to see us immediately."
+> "Seventh floor," Hartfield said as they stepped into the elevator. "Assistant Director Reeves wants to see us immediately."
 
 Marisa nodded, trying to prepare herself for what was coming. How do you brief your superior on a mission that officially never happened? How do you explain that you've just returned from space, that you've worked with an artificial intelligence that could have stepped out of science fiction, that you've witnessed capabilities that made the FBI's most advanced technologies look like stone tools?
 
