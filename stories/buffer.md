@@ -338,6 +338,230 @@ Marisa kept her eyes on the heads-up display. The blue line showing their route 
 
 Ahead, a traffic light turned green just as they approached. Then another. Then another. The entire city's traffic control system was bending itself around their path, clearing the way, making them invisible not through technology but through perfection—by being exactly where they needed to be, exactly when they needed to be there, never quite breaking enough laws to be noticed but never slowing down.
 
-The Honda took an exit, banking smoothly onto a surface street. The neighborhood changed from industrial to residential. The Mission District. Somewhere in these streets, hidden in a building that looked like every other building, was a nuclear EMP device counting down to detonation.
+The Honda took an exit, banking smoothly onto a surface street. The neighborhood changed from industrial to residential. The Mission District. Somewhere in these streets, hidden in a building that looked like every other building, was an EMP device counting down to detonation.
 
 And they had thirty-five minutes to find it.
+
+---
+
+Shade guided them through the narrow streets with the same precision it had shown on the highway, taking turns at exactly the right moment, maintaining speeds that would have been reckless in human hands but felt perfectly controlled. The heads-up display showed their route threading between residential blocks and commercial strips, past late-night taquerias and convenience stores, deeper into the Mission.
+
+The countdown timer ticked relentlessly downward.
+
+33:18
+33:17
+33:16
+
+> "Target building ahead," Shade announced. "Folsom and Twenty-third. The structure is a former electronics retail space, currently vacant, listed for lease."
+
+Marisa could see it through the windshield—a nondescript two-story building on the corner, its windows dark, a weathered "FOR LEASE" sign hanging crookedly from the front door. It looked exactly like what it was supposed to be: another casualty of the city's economic churn, waiting for a new tenant that might never come.
+
+The Honda pulled to the curb across the street, the engine dropping to an idle that was barely audible.
+
+> "Electromagnetic signatures are consistent with a high-energy charging device," Shade continued, its voice now taking on a more urgent tone. "The readings suggest a capacitor bank building toward critical discharge levels. Based on the energy buildup pattern, I estimate ten minutes and thirty-seven seconds until the device reaches full power and detonates."
+
+Ten minutes. Marisa's mouth went dry.
+
+Hartfield was already opening his door, his rifle coming up as he scanned the street. "No time for recon. We go in fast and hard."
+
+> "Agreed," Marisa said, checking her sidearm. "Rodriguez, Martinez, you take the back entrance. Hartfield and I go through the front."
+
+The team moved with practiced efficiency, crossing the empty street in a tactical formation. The building's facade was covered by a roll-up security shutter, the kind used by electronics stores and small retailers. A heavy padlock secured it to the ground.
+
+Hartfield didn't hesitate. He raised his rifle, aimed at the padlock, and fired. The .308 round shattered the lock mechanism in a shower of sparks and metal fragments. The sound echoed off the surrounding buildings, impossibly loud in the quiet night.
+
+> "So much for stealth," Martinez muttered through the comm.
+
+> "We're past stealth," Hartfield replied, already grabbing the bottom of the shutter. "Help me get this up."
+
+Marisa joined him, and together they hauled the metal barrier upward. It rose with a grinding screech that seemed to announce their presence to half the Mission District. Behind the shutter was a glass storefront, its windows covered with brown paper from the inside.
+
+Hartfield stepped back and fired twice more, the rifle rounds punching through the glass in a cascade of glittering fragments. He kicked away the remaining shards and stepped through the opening.
+
+Marisa followed, her pistol raised, flashlight cutting through the darkness inside.
+
+What she saw made her stop dead.
+
+The interior of the store had been completely gutted. All the retail fixtures were gone, leaving an open space that stretched back toward what must have been the storage area. But the space wasn't empty.
+
+In the center of the room, surrounded by a maze of thick cables and cooling equipment, was a device that looked like it had been assembled by someone who understood physics but had never heard of aesthetics. Banks of capacitors the size of refrigerators were arranged in a rough circle, their surfaces covered with warning labels and heat exchangers. Between them, a complex web of cables carried power to a central hub—a cylindrical device about the size of a garbage can, suspended from the ceiling by an intricate framework of supports.
+
+The entire assembly hummed with barely contained energy. The air itself seemed to vibrate, and Marisa could feel the hair on her arms standing up from the electromagnetic field.
+
+But what made her blood freeze was the sound it was making—a rising whine, like a jet engine spooling up, that was getting noticeably louder even in the few seconds she'd been watching.
+
+Shade's voice came through their earpieces, urgent now.
+
+> "Confirmed. This is the EMP device. The charging cycle is in its final phase. Based on the electromagnetic signature, you have exactly ten minutes and fourteen seconds before detonation."
+
+Marisa stared at the device, her mind racing. The whine was getting louder, more insistent. Whatever was happening inside that central cylinder, it was building toward something catastrophic. She could see status lights blinking faster on the capacitor banks, their rhythm accelerating like a heartbeat under stress.
+
+She turned to Hartfield, desperation creeping into her voice.
+
+> "James. I'm not a bomb technician, I don't know what to do..."
+
+Shade's voice cut through her rising panic, calm and precise in her earpiece.
+
+> "Marisa, have you ever played *Keep Talking And Nobody Explodes*? Describe the device, and I'll walk you through it."
+
+Marisa blinked. Of all the things she'd expected to hear in this moment, a reference to a video game wasn't one of them. But there was something oddly reassuring about Shade's matter-of-fact tone, as if disarming improvised EMP devices was just another Tuesday for the AI.
+
+> "I... what?"
+
+> "The game where one person describes a bomb and another person guides them through defusing it," Shade explained, its voice maintaining that same clinical calm. "Same principle. You are my eyes. Describe what you see on the central device. Start with any text or markings."
+
+Marisa moved closer to the suspended cylinder, her flashlight beam playing across its surface. The metal was warm to the touch, almost hot, and she could feel the electromagnetic field intensifying as she approached. Warning labels in multiple languages covered most of the surface, but there was something else—text stamped directly into the metal.
+
+> "It's... Russian. Looks like..." She squinted at the Cyrillic characters, trying to make sense of the unfamiliar alphabet. "M, a small b, an e with two dots above it, a wonky *pi*..."
+
+> "Mjolnir," Shade said immediately. "Continue."
+
+> "T, a sort of backwards N, and a square with the bottom missing, then 14."
+
+> "Type 14," Shade confirmed. "Mjolnir Type 14. That gives me the specifications I need. This is a Russian-designed electromagnetic pulse generator, likely acquired through black market channels. The good news is that I have the technical documentation. The bad news is that you have nine minutes and forty-three seconds."
+
+Marisa's hands were shaking now, but she forced herself to stay focused. Around her, she could hear Rodriguez and Martinez moving through the back of the building, securing the rear entrance. Hartfield was watching the street through the broken storefront, his rifle ready.
+
+> "What do I need to do?" she asked.
+
+> "Look for a control panel or access port," Shade instructed. "The Type 14 should have a maintenance interface somewhere on the primary housing. It will likely be covered by a removable plate or panel."
+
+Marisa circled the device slowly, her flashlight beam searching the surface. There—on the side facing away from the entrance, she found what looked like a rectangular outline in the metal, barely visible except for the slight gap around the edges.
+
+> "I think I found it. Rectangular panel, about the size of a paperback book."
+
+> "Good. You'll need to remove that panel. Look for screws or fasteners."
+
+Marisa examined the panel more closely. Four small hex screws, one at each corner.
+
+> "Hartfield, do you have a multi-tool or something? I need to get these screws out."
+
+Hartfield reached into his tactical vest and pulled out a red Swiss Army knife, flipping it open to reveal a small screwdriver. "This work?"
+
+> "Perfect." Marisa took the tool and began working on the first screw. The metal was warm under her fingers, and she could feel vibration from the machinery inside. "Shade, I'm getting the panel off."
+
+> "Excellent. Once you have it open, describe what you see inside."
+
+The screws came out easily, as if the panel had been designed for quick access. When the last one dropped into her palm, the rectangular piece of metal lifted away, revealing the device's interior electronics.
+
+Marisa peered inside with her flashlight. A maze of circuit boards, wiring harnesses, and components she couldn't begin to identify. But there was a certain logic to the layout—clearly labeled connection points, color-coded wires, and what looked like a simplified control interface.
+
+> "Okay, I see... a lot of electronics. There's a small display screen that's showing numbers counting down. And there are these thick cables, different colors—red, yellow, blue, black."
+
+> "The countdown display confirms we're in the right place," Shade said. "Now, look for a component labeled with a skull and crossbones or the word 'DANGER' in red lettering. That will be the fail-safe mechanism."
+
+Marisa's beam swept across the components until she found it—a small black box with bright red warning symbols and Cyrillic text.
+
+> "Found it. Black box, lots of warning labels."
+
+> "Perfect. You should see two wires connected to that box—one yellow, one green. Disconnect the yellow wire first. Pull it straight out."
+
+Marisa located the wires. Her hands were steady now, focused on the task. She grasped the yellow connector and pulled. It came free with a soft click.
+
+> "Yellow wire disconnected."
+
+> "Good. Now the green one."
+
+Another click as the second wire came free.
+
+> "Both disconnected. The countdown is still running."
+
+> "That's normal. We've disabled the fail-safe, but now we need to disconnect the primary charging circuits. Look for a series of thick black cables, probably six of them, each connected to a separate terminal block."
+
+Marisa found them—six heavy cables running from the central housing to different points around the device's perimeter.
+
+> "I see them. Six black cables."
+
+> "Disconnect them one at a time, starting from the left and working clockwise. Each one will reduce the device's power by roughly sixteen percent."
+
+The first connector required some effort to remove, but once Marisa understood the mechanism, the others came easier. As each cable disconnected, she could hear the whine of the device dropping in pitch, the electromagnetic field weakening.
+
+> "One... two... three... four... five... six. All disconnected."
+
+> "Excellent. The charging cycle should be interrupted now. One final step—look for a cylindrical component about the size of a flashlight battery, probably red or orange in color. That's the primary initiator."
+
+Marisa's light found it immediately—a bright red cylinder secured with a simple threaded cap.
+
+> "Red cylinder, threaded cap."
+
+> "Unscrew the cap and remove the initiator. Set both pieces aside carefully."
+
+Marisa twisted the cap counterclockwise until it came free, then gently lifted out the red cylinder. The moment she set it aside, the device's whine died completely. The electromagnetic field faded. The status lights on the capacitor banks shifted from red to amber.
+
+> "Done," she said, her voice barely above a whisper. "It's... it's quiet."
+
+> "Confirmed," Shade announced. "Electromagnetic signature has dropped to baseline levels. The device is neutralized. Well done, Marisa."
+
+Marisa slumped against the wall, the adrenaline finally catching up with her. Her hands were shaking again, but this time from relief rather than fear. Around her, the capacitor banks continued their transition from red to amber, the device's death rattle finally complete.
+
+> "Rodriguez, Martinez," she called through the comm. "Device is neutralized. Secure the scene and call it in."
+
+> "Copy that," Rodriguez's voice came back, tight with relief. "SFPD is already en route. Someone reported the gunshots."
+
+Marisa pulled out her phone and dialed the San Francisco FBI field office. It took three transfers and two explanations before she reached someone with enough clearance to understand what she was telling them.
+
+> "This is Special Agent Comey, counter-terrorism. I'm at Folsom and Twenty-third in the Mission District with a neutralized EMP device that requires immediate federal response. I need a bomb squad, evidence collection, and someone from the weapons of mass destruction unit."
+
+The next hour was a blur of flashing lights, crime scene tape, and federal agents trying to understand how a device of this sophistication had ended up in an abandoned electronics store. Marisa gave her statement three times, each version carefully edited to remove any mention of spacecraft, AI assistance, or suborbital flights. As far as the official record would show, they'd received an anonymous tip and responded accordingly.
+
+By the time the relief team arrived from the San Francisco field office, dawn was beginning to touch the eastern sky. Marisa handed over the scene to a senior agent who looked like she'd been roused from bed, then walked back to where the Honda sat waiting at the curb.
+
+> "Time to go," Hartfield said, already climbing into the back seat. "Before someone starts asking questions we can't answer."
+
+The drive back to SFO was quieter than their arrival. No racing through synchronized traffic lights, no aggressive lane changes. Shade kept to normal speeds, blending seamlessly with the early morning commuters beginning their daily routines. The heads-up display was gone, the countdown timer replaced by nothing more threatening than a GPS showing their route to the airport.
+
+> "How did LeBouf's team do?" Marisa asked.
+
+> "Device Two was neutralized forty-seven minutes ago," Shade replied. "Similar design, though the financial district location presented additional security challenges. The team is already at the rendezvous point."
+
+At SFO, the airport was slowly coming back to life. The mysterious equipment failure had ended as suddenly as it had begun, and air traffic control was working through the backlog of delayed flights. The Honda pulled through the same service gate they'd used earlier, the barrier lifting automatically to admit them.
+
+Shade's craft was invisible again, nothing but empty tarmac where Marisa knew it was parked. The Honda rolled to a stop at the precise spot where the ramp should be, and sure enough, the opening materialized as they approached—a rectangular portal into an aircraft that existed only as a void in space.
+
+LeBouf and his team were already aboard when Marisa and her agents climbed the ramp. The ESF operative looked tired but satisfied, his usual composure restored now that the immediate crisis had passed.
+
+> "Both devices neutralized," he reported as they strapped themselves back into the acceleration seats. "San Francisco will wake up with power, running water, and working traffic lights. They'll never know how close they came."
+
+> "What happens to the devices?" Martinez asked.
+
+Marisa found herself answering before LeBouf could speak.
+
+> "The FBI will trace the components, follow the money, build their case," she said, surprised by her own certainty. "But this was bigger than two devices. There's a network behind this—procurement, logistics, placement. The Bureau will tear it apart piece by piece. We'll find everyone involved, from the financiers down to the courier who delivered the components. No one who had a hand in this walks away."
+
+LeBouf nodded approvingly. "The official investigation will handle the criminal prosecution. But the intelligence assessment—understanding how this network operated, what other capabilities they might have, what it means for future threats—that's a joint responsibility."
+
+The ramp retracted, sealing them inside. But this time, there was no rush, no countdown timer driving them toward desperate measures. Shade's engines spun up gradually, building power at a comfortable pace.
+
+> "Departing San Francisco International," Shade announced. "Flight time to Washington D.C. will be approximately four hours and thirty minutes. Normal flight profile. Please feel free to move about the cabin once we reach cruising altitude."
+
+Four and a half hours. A normal flight, at normal altitudes, breathing normal air. After everything they'd been through, the prospect felt almost luxurious.
+
+The takeoff was gentle, barely more than a slight push back into the seats. Through the viewport, Marisa watched San Francisco fall away below them—the bay, the bridges, the city sprawling across its hills. The aircraft rose smoothly, still cloaked, invisible to the air traffic controllers who were frantically trying to manage the morning's delayed flights. No radar signature, no flight plan, no trace that they had ever been there.
+
+Once they reached cruising altitude, the restraints retracted and the cabin lighting shifted to a warmer tone. For the first time since leaving Newark, Marisa could move freely, stretch her legs, breathe without the constant pressure of imminent catastrophe.
+
+She looked around the cabin. Rodriguez and Martinez were already asleep, their heads back against the headrests, exhaustion finally claiming them. Hartfield was staring out the viewport, watching the country pass below. LeBouf and his team were quietly discussing something in French, their voices low and professional.
+
+It was over. Whatever conspiracy had placed those devices in San Francisco, whatever larger threat they represented, tonight's immediate crisis had been resolved. The city would wake up safe, its eight million residents never knowing how close they'd come to losing everything that made modern life possible.
+
+Marisa closed her eyes and tried to process what she'd experienced. Twenty-four hours ago, she'd been a federal agent investigating a routine terrorism case. Now she'd been to space, had seen the Earth from the edge of the atmosphere, had defused a weapon that could have crippled one of America's largest cities. And officially, none of it had happened.
+
+Alicia Monroe's words echoed in her memory, that warning delivered in the sterile conference room that felt like a lifetime ago: *"You're going to see things that will make you question what's possible."* At the time, Marisa had thought she understood what that meant. She'd imagined classified technologies, maybe some advanced surveillance capabilities, perhaps weapons systems that weren't public knowledge.
+
+She hadn't imagined *this*. She hadn't imagined sitting in a spacecraft that could reach the edge of space in minutes, guided by an artificial intelligence that could hack airport control systems while providing step-by-step bomb disposal instructions with the casual efficiency of a GPS giving driving directions. She hadn't imagined watching the curvature of the Earth through a viewport while traveling at speeds that made commercial aviation look like walking.
+
+And yet, somehow, it all made a terrible kind of sense. The EarthSpace Federation. Shade. LeBouf and his unremarkable face that concealed capabilities she was only beginning to understand. They operated in the spaces between the official world and the real one, keeping threats like tonight from ever reaching public awareness. It was exactly the kind of shadow government conspiracy that would have appalled her yesterday.
+
+Today, after watching them save millions of lives with casual efficiency, she wasn't sure how she felt about it.
+
+But Monroe had been wrong about one thing. It wasn't just that she was questioning what was possible—she was questioning what was *necessary*. How many other threats like tonight's were being handled by people who didn't officially exist? How many disasters had been prevented by technology that wasn't supposed to be real? How many times had the world come close to catastrophe while ordinary people went about their daily lives, completely unaware that civilization was hanging by a thread?
+
+The scope of it was staggering. If the ESF had this level of capability, what else was out there? What other organizations operated in the shadows? What other technologies existed beyond public knowledge?
+
+Marisa opened her eyes and looked around the cabin again. Rodriguez and Martinez were still asleep, their faces peaceful in the gentle cabin lighting. Hartfield was awake but quiet, staring out the viewport with an expression she couldn't read. LeBouf and his team were reviewing something on a tablet, their conversation too low to overhear.
+
+All of them had just experienced something that would fundamentally change how they saw the world. But only she would have to go back to her regular job, file reports that couldn't include any of the truth, and pretend that none of this had happened. The others were part of this shadow world. She was just a visitor, granted temporary access to capabilities and knowledge that she'd have to spend the rest of her career pretending didn't exist.
+
+Outside the viewport, the sun was climbing higher, painting the clouds below in shades of gold and pink. Somewhere ahead lay Washington, and whatever debriefing awaited her return. But for now, for these few hours, she could simply sit in this impossible aircraft and watch America pass below, carried by technology that shouldn't exist toward a future she couldn't quite imagine.
+
+The world was larger and stranger than she'd ever known. And perhaps, she was beginning to think, that wasn't entirely a bad thing.
