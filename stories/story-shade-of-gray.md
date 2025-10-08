@@ -1084,7 +1084,7 @@ Hartfield's mouth was dry. He managed a nod, then realized the gesture might not
 
 > "I'm good. You—" He gestured at the impact point on LeBouf's chest. "That was a rifle round."
 
-> "The suit is rated for such threats." LeBouf's visor swept the warehouse once more, then returned to Hartfield. "Stay behind cover when possible, Agent. We cannot intercept every shot."
+> "The suit is rated for much worse than this." LeBouf's visor swept the warehouse once more, then returned to Hartfield. "Stay behind cover when possible, Agent. We cannot intercept every shot."
 
 Then he was moving again, flowing back into the fight as if nothing had happened. But Hartfield stood frozen for a moment longer, his mind trying to process what he'd just seen.
 
