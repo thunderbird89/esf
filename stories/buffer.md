@@ -160,31 +160,55 @@ Marcus looked up, his reading glasses catching the afternoon light.
 
 > "The evidence is solid. Chain of custody is clean. We have the devices, we have the suspects, we have their communications. What's the problem?"
 
-> "It's too solid." Jennifer pulled one of the reports closer. "Look at the timeline. The FBI opens the investigation on a Monday. By Friday, they've identified the entire network, tracked down multiple locations across two states, intercepted encrypted communications, and coordinated a takedown operation. That's not investigation. That's magic."
+> "It's too solid." Jennifer pulled one of the reports closer, reading aloud. "Investigation opened Monday, October seventh. By Tuesday evening—less than thirty-six hours—they had identified shell company ownership structures spanning three jurisdictions and six corporate layers." She looked up. "Marcus, do you know how long it takes to pierce a single offshore LLC? Weeks. Months, if the attorneys are competent. They did six in a day and a half."
+
+She flipped to another page, her finger tracing the timeline.
+
+> "Wednesday morning, they obtained complete Signal message transcripts between four suspects. Signal. End-to-end encrypted. The NSA can't break it reliably, but somehow the FBI had full conversation histories by midweek." She set the document down. "Thursday, they had vehicle tracking data showing movement patterns across two states over a three-week period. Friday morning, coordinated takedown."
 
 Marcus set down his own documents and leaned back in his chair.
 
 > "Fast work doesn't make it inadmissible."
 
-> "Fast work, no. Impossible work, maybe." Jennifer flipped through pages, her finger tracing the timeline. "They identified shell companies buried under six layers of offshore entities in less than forty-eight hours. They obtained Signal message transcripts—you know how encrypted that is—without any documentation of how they accessed them. They tracked vehicles and individuals with precision that would require surveillance capabilities we know they didn't have."
+> "Fast work, no. Impossible work, maybe." Jennifer pulled another report from the stack. "Listen to this. From the technical intelligence summary: 'Surveillance indicated subject vehicle traveling northbound on Interstate 80 at 2347 hours, confirmed by subsequent review of traffic camera footage and GPS data obtained through warrant.' But the warrant is dated two days after the surveillance. Two days. They're describing real-time tracking and then retroactively justifying it with legal process."
+
+She grabbed another file, reading from a different section.
+
+> "Here's the financial analysis: 'Account records obtained from Banco de Panama via MLAT request show wire transfers totaling $47,000 between subject accounts.' The MLAT request is dated October ninth. The investigation opened on the seventh. There's no way they got responses from Panama in forty-eight hours. Those requests take weeks."
 
 > "Parallel construction," Marcus said quietly. "They got tips from somewhere, then verified through legal means."
 
-> "Exactly. Tips from where?" Jennifer spread her hands. "There's no mention of informants, no reference to any cooperating witnesses, nothing that explains how they obtained the initial intelligence. Just this vague reference to 'partner agencies' and 'specialized intelligence support.'"
+> "Exactly. Tips from where?" Jennifer spread her hands. "There's no mention of informants, no reference to any cooperating witnesses, nothing that explains how they obtained the initial intelligence. Just this vague reference to 'partner agencies' and 'specialized intelligence support.'" She pulled out another document. "Look at this authorization memo: 'Technical assistance provided by partner organization with specialized surveillance capabilities.' That's it. No details. No explanation. No identification of the partner organization."
+
+Jennifer flipped through more pages, finding another passage.
+
+> "Communications intercept log: 'Encrypted communications between subjects were obtained through technical means and subsequently verified through legal process.' Technical means. That's not a legal term. That's not even a proper intelligence term. It's a placeholder for 'we can't tell you how we really got this.'"
 
 Marcus was silent for a moment, his fingers drumming on the table.
 
 > "You think the evidence is laundered."
 
-> "I think the evidence is too good. Too complete. Too fast." Jennifer pulled another document from the stack. "Look at this—they have photographs from private security cameras, dashcam footage from vehicles, financial transactions from offshore accounts. All obtained in a matter of days. And when you dig into the warrants and subpoenas, everything is legally sufficient but just barely. Like someone reverse-engineered the evidence trail."
+> "I think the evidence is too good. Too complete. Too fast." Jennifer pulled yet another document from the stack, reading the passage she'd highlighted. "Physical surveillance log: 'Subject observed entering warehouse facility at 2143 hours via overhead surveillance platform.' Overhead surveillance platform. Not a helicopter, not a drone—those would be identified. Just 'platform.' What does that even mean?"
+
+She set the paper down and leaned forward.
+
+> "And here's what really bothers me. The witness list. Every single witness is FBI. Case agents, technical analysts, tactical team members. No outside experts, no informants, no cooperating witnesses. Just FBI personnel testifying about evidence they obtained through 'specialized means' from 'partner agencies' using 'technical capabilities.'"
 
 > "If you're right, we have a problem." Marcus removed his glasses, rubbing the bridge of his nose. "But if you're wrong and we challenge admissibility, we let domestic terrorists walk because we got squeamish about methodology."
 
-> "I know." Jennifer stared at the documents spread across the table. "That's what bothers me most. The evidence works. It's admissible. The chain is clean. But it feels manufactured."
+> "I know." Jennifer stared at the documents spread across the table. "That's what bothers me most. The evidence works. It's admissible. The chain is clean. But it feels manufactured. Like someone started with the conclusion and worked backward to create a legal path to it."
+
+She picked up another document, scanning the text.
+
+> "Here's a search warrant affidavit. Probable cause is based on 'information received from a reliable confidential source with proven access to relevant intelligence.' But there's no detail. No history. No reliability assessment. Just a blanket assertion that the source is credible."
+
+> "That's standard language for classified sources."
+
+> "Maybe. But it's also perfect language for laundering illegal intelligence." Jennifer set the document aside. "Look, every piece of evidence in this case is legally obtained. Every warrant is properly executed. Every subpoena is valid. But the underlying intelligence that led to those warrants—that's where it all falls apart. The speed is impossible. The completeness is impossible. The capabilities implied by the surveillance logs are impossible."
 
 > "Gut feeling isn't grounds for a motion to suppress."
 
-> "No. It's not." Jennifer gathered the papers back into their folders. "But it is grounds for asking questions. I want to depose the case agents. I want to know exactly how they obtained this intelligence, step by step, method by method."
+> "No. It's not." Jennifer gathered the papers back into their folders. "But it is grounds for asking questions. I want to depose the case agents. I want to know exactly how they obtained this intelligence, step by step, method by method. I want them to explain how they pierced six corporate shells in thirty-six hours. How they broke Signal encryption. How they tracked vehicles in real-time and then got warrants days later."
 
 Marcus gave her a long look.
 
@@ -210,7 +234,11 @@ Neither prosecutor noticed.
 
 > "Your call." Marcus headed for the door, then paused with his hand on the frame. "But Jennifer? Be careful what you ask for. Sometimes the answers are more complicated than the questions."
 
-After he left, Jennifer sat alone in the conference room, surrounded by evidence that was perfect and complete and just slightly wrong. She thought about parallel construction, about tips from unnamed sources, about investigations that moved faster than they should.
+After he left, Jennifer sat alone in the conference room, surrounded by evidence that was perfect and complete and just slightly wrong. She thought about parallel construction, about tips from unnamed sources, about investigations that moved faster than they should. She pulled one more report toward her, reading the concluding paragraph of the operational summary.
+
+> "Through coordinated efforts with partner agencies and the application of specialized intelligence capabilities, all subjects were successfully identified and apprehended. Threat was neutralized with zero civilian casualties. Investigative techniques and methodologies are detailed in supplemental classified annexes available to cleared personnel only."
+
+Classified annexes. Available to cleared personnel only. The perfect bureaucratic wall behind which impossible methods could hide.
 
 Outside the window, San Francisco continued its evening routine. Traffic building on the 101. Lights coming on in office buildings. The city settling into the comfortable rhythms of normal life, unaware of how close it had come to chaos.
 
