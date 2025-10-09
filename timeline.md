@@ -30,6 +30,36 @@ A chronological overview of canonical events in the ESF universe.
 
 ## 2022
 
+**March 19, 2022** - [Shade of Gray](stories/story-shade-of-gray) (Investigation begins)
+- Special Agent Marisa Comey (FBI Technology Crimes Division) finds Federation calling card on desk
+- Jeane LeBouf (MTF-34) contacts FBI regarding domestic EMP threat
+- Russian-origin EMP components traced through Eastern Seaboard ports
+- Far-right extremist network identified targeting major metropolitan areas
+
+**March 19-23, 2022** - [Shade of Gray](stories/story-shade-of-gray) (Investigation develops)
+- ESF provides intelligence through "Cipher" and "Shade" capabilities
+- FBI identifies six priority locations across two states
+- Signal encryption broken, offshore financial networks traced
+- Twelve extremist cell members mapped through impossible-speed intelligence
+
+**March 23, 2022** - [Shade of Gray](stories/story-shade-of-gray) (Newark interdiction)
+- Final EMP component shipment arrives Newark docks
+- MTF-34 deploys in powered armor alongside FBI tactical teams
+- Agent James Hartfield witnesses Federation combat capabilities
+- Five suspects apprehended, multiple EMP devices secured
+
+**March 24, 2022** - [Shade of Gray](stories/story-shade-of-gray) (San Francisco operation)
+- Additional EMP devices located in San Francisco Mission District
+- FBI team transported via Shade spacecraft to West Coast
+- Orbital surveillance coordinates ground interdiction
+- Q-cars demonstrate physics-defying capabilities in urban pursuit
+
+**March 27, 2022** - [Shade of Gray](stories/story-shade-of-gray) (Aftermath)
+- Marisa Comey debriefed at FBI headquarters
+- Case files prepared for San Francisco DA prosecution
+- ADA Jennifer Park questions evidence timeline and methodology
+- First documented case of Federation parallel construction concerns
+
 **July 16, 2022** - [Shadows in Tel Aviv](stories/the-israeli-wraith)
 - Israeli pressure on US for Federation technology access
 - Diplomatic tensions over Wraith deployment
@@ -101,6 +131,8 @@ A chronological overview of canonical events in the ESF universe.
 
 - **1947**: Foundation event - Roswell Incident
 - **2021**: First covert operations with allies
+- **2022**: Major domestic counterterrorism operation (EMP threat)
+- **2022**: First FBI formal cooperation with Federation
 - **2024**: Open intervention begins (Gaza deployment)
 - **2024**: Formal UN recognition achieved
 - **2025**: Direct military intervention (Taiwan Strait)
