@@ -1898,7 +1898,7 @@ Marisa gathered her things and headed for the elevator. The building was quiet, 
 
 The elevator descended in silence. She watched the numbers count down, each floor taking her further from the classified world of the seventh floor, closer to the ordinary world of ground level. Seven. Six. Five. Four. Three. Two. One.
 
-The doors opened onto the lobby. She badged out through security, exchanged nods with the evening guard, and stepped through the main entrance into the cool October evening.
+The doors opened onto the lobby. She badged out through security, exchanged nods with the evening guard, and stepped through the main entrance into the cool March evening.
 
 The street was busy with end-of-day traffic. Pedestrians hurrying home, cars honking, the usual urban chaos of Washington at rush hour. Marisa paused on the steps, breathing in the city air, trying to ground herself in the familiar.
 
@@ -1948,7 +1948,7 @@ Marcus looked up, his reading glasses catching the afternoon light.
 
 > "The evidence is solid. Chain of custody is clean. We have the devices, we have the suspects, we have their communications. What's the problem?"
 
-> "It's too solid." Jennifer pulled one of the reports closer, reading aloud. "Investigation opened Monday, October seventh. By Tuesday evening—less than thirty-six hours—they had identified shell company ownership structures spanning three jurisdictions and six corporate layers." She looked up. "Marcus, do you know how long it takes to pierce a single offshore LLC? Weeks. Months, if the attorneys are competent. They did six in a day and a half."
+> "It's too solid." Jennifer pulled one of the reports closer, reading aloud. "Investigation opened Monday, March twenty. By Tuesday evening—less than thirty-six hours—they had identified shell company ownership structures spanning three jurisdictions and six corporate layers." She looked up. "Marcus, do you know how long it takes to pierce a single offshore LLC? Weeks. Months, if the attorneys are competent. They did six in a day and a half."
 
 She flipped to another page, her finger tracing the timeline.
 
@@ -1962,7 +1962,7 @@ Marcus set down his own documents and leaned back in his chair.
 
 She grabbed another file, reading from a different section.
 
-> "Here's the financial analysis: 'Account records obtained from Banco de Panama via MLAT request show wire transfers totaling $47,000 between subject accounts.' The MLAT request is dated October ninth. The investigation opened on the seventh. There's no way they got responses from Panama in forty-eight hours. Those requests take weeks."
+> "Here's the financial analysis: 'Account records obtained from Banco de Panama via MLAT request show wire transfers totaling $47,000 between subject accounts.' The MLAT request is dated March 22. The investigation opened on the seventh. There's no way they got responses from Panama in forty-eight hours. Those requests take weeks."
 
 > "Parallel construction," Marcus said quietly. "They got tips from somewhere, then verified through legal means."
 
