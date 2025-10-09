@@ -1,3 +1,11 @@
+---
+layout: story
+type: story
+line: wraith
+title: Shade of Gray
+permalink: /stories/shade-of-gray
+timeline: 2022-03-19
+---
 # Shade of Gray
 
 ## Chapter 1: The Calling Card
