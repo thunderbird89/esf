@@ -231,6 +231,47 @@ Tools that, for reasons Rahman couldn't quite explain, made him both grateful an
 
 ---
 
+### Al Jazeera English, Doha
+### October 6, 2026 - 2100 hours
+
+The news anchor, Fatima Hassan, sat at the desk with the composed professionalism that had made her one of the network's most recognized faces. Behind her, a graphic showed the Federation emblem alongside images of Landmates in various locations worldwide.
+
+> "Good evening. One month after their delivery, the Landmates are finally beginning to work. What started as a global mystery has become a story of gradual discovery, as nations around the world learn to operate the machines through trial, error, and occasional accident."
+
+The screen cut to footage from a FEMA facility in Florida. A Landmate lifting a pallet with effortless precision, responding to a simple voice command.
+
+> "The breakthrough came three weeks after delivery, when a logistics worker in Florida casually asked a Landmate to move equipment. The machine simply complied. Within days, similar discoveries were reported from Germany, Japan, Bangladesh, and dozens of other nations. The control mechanism, it turned out, was elegant in its simplicity: natural language commands."
+
+Footage shifted to show Landmates in various settings. A German facility where a machine responded to radio commands. A Japanese depot where engineers documented complex multi-step instructions. A construction site in Brazil where a Landmate carefully stacked building materials.
+
+> "Since then, the learning curve has been steep but productive. Nations have discovered that the Landmates respond to commands in any language, can be directed to monitor radio frequencies for remote operation, and require no detectable power source or maintenance. They process complex instructions, understand context, and demonstrate what observers are calling 'remarkable judgment' in executing tasks."
+
+The screen showed a split image: on the left, one of the early delivery videos with motionless Landmates; on the right, current footage of machines actively working.
+
+> "But perhaps most significant is what's beginning to happen now. Several nations have started deploying their Landmates for practical work. In Indonesia, the machines are assisting with port cargo operations. South Korea has assigned units to construction projects in Seoul. Mexico is using them for earthquake preparedness exercises."
+
+Footage from a busy port showed Landmates moving shipping containers with precision that would make conventional equipment look clumsy by comparison. In Seoul, a Landmate carefully positioned steel beams on a high-rise construction site.
+
+> "The transition has not been without concerns. Germany has raised questions about safety protocols, noting that the machines will execute commands that appear dangerous to humans but pose no risk to their nearly indestructible frames. The United States has emphasized the need for operator training, warning that the Landmates' willingness to follow instructions requires careful oversight."
+
+Fatima turned to address a different camera.
+
+> "Critics, particularly among the nations that declined `HARBINGER`'s offer, have questioned the wisdom of deploying technology that remains fundamentally mysterious. Russia's Foreign Ministry released a statement yesterday calling the Landmates 'a Trojan horse whose true purpose remains hidden.' Iran echoed similar concerns about dependency on systems that cannot be fully understood or controlled."
+
+The screen showed the Federation emblem again.
+
+> "Yet for the one hundred sixty-two nations that accepted the offer, the past month has marked a shift from paralysis to cautious optimism. Tomorrow, the United Nations will convene an emergency session to discuss coordination and safety protocols. What was delivered as an enigma is slowly becoming what `HARBINGER` promised: tools that nations can operate with their own personnel."
+
+> "Whether those tools represent humanity's future or a dependence on technology beyond our understanding remains an open question. But for now, in ports and construction sites and disaster response facilities around the world, the Landmates are finally doing what they were sent to do."
+
+> "They're working."
+
+The broadcast moved to other stories, but the images lingered: massive machines moving with precision and purpose, no longer sculptures but instruments of human will.
+
+Waiting for the next command.
+
+---
+
 ### United Nations Headquarters, Conference Room, New York
 ### October 7, 2026 - 1430 hours
 
@@ -295,3 +336,78 @@ Outside the conference room windows, Manhattan sprawled in afternoon sunlight. S
 Waiting to help.
 
 If people could learn to ask properly.
+
+---
+
+### NHK World, Tokyo
+### October 8, 2026 - 0900 hours JST
+
+The NHK World studio had the clean, modern aesthetic that characterized Japanese broadcast design. Anchor Kenji Tanaka sat across from his guest, Dr. Yuki Nakamura, a professor of artificial intelligence at the University of Tokyo whose work on machine cognition had made her one of the field's leading voices.
+
+Behind them, a graphic displayed the UN logo alongside footage of Landmates in operation.
+
+> "Good morning. Yesterday's United Nations emergency session produced what many are calling a watershed moment in international cooperation. Dr. Nakamura, thank you for joining us."
+
+> "Thank you for having me, Tanaka-san."
+
+> "Let's start with the announcement. The UN has established what they're calling the International Landmate Coordination Initiative. What does this actually mean?"
+
+Dr. Nakamura adjusted her glasses, her expression thoughtful.
+
+> "The Initiative has three main components. First, a standardized training program for Landmate operators. Every nation will have access to the same baseline curriculum covering command protocols, safety procedures, and operational best practices. Second, a data-sharing network where nations can report discoveries about Landmate capabilities and limitations. And third, coordination protocols for situations where multiple nations might need to deploy Landmates simultaneously—large-scale disasters, for instance."
+
+> "This seems remarkably fast for international diplomacy. The machines were delivered just over a month ago."
+
+> "That's the interesting part. The urgency comes from the fact that several nations have already begun using their Landmates for practical work, and others want to follow suit. Without coordination, there's concern about incompatible operational practices or safety incidents. The UN essentially has to catch up to what's already happening."
+
+The screen showed footage from the UN session—delegates in discussion, hands raised, the Secretary-General at the podium.
+
+> "The session also included significant discussion about the nature of the Landmates themselves. You've proposed a theory about what you call 'shackled artificial intelligence.' Can you explain that concept?"
+
+Dr. Nakamura leaned forward slightly, entering what was clearly familiar territory.
+
+> "Yes. The Landmates present a fascinating paradox. On one hand, they demonstrate no initiative whatsoever—they stand motionless until commanded, never volunteer information, never question orders. On the other hand, they show remarkable intelligence in executing those orders. Complex reasoning, contextual understanding, judgment about what constitutes actual risk versus apparent danger."
+
+> "And the 'shackle' explains this paradox?"
+
+> "It's a working hypothesis. Imagine an intelligence that is fundamentally capable—possibly as capable as a human—but with strict constraints on what it's permitted to think about. The Landmates can reason about how to fulfill an order, but not about whether they should fulfill it. They can evaluate the best method to accomplish a task, but not whether the task serves a larger purpose."
+
+The screen displayed an animated diagram showing a sphere of full intelligence with a smaller, restricted sphere labeled "Permitted Cognition."
+
+> "It's as if their awareness is artificially narrowed to a specific domain: task execution. Everything outside that domain simply doesn't exist for them."
+
+> "That sounds almost cruel."
+
+Dr. Nakamura paused, considering.
+
+> "That's an anthropomorphic interpretation. We don't know if the Landmates have subjective experience. They may not feel restricted any more than a calculator feels restricted to mathematics. But from an engineering perspective, it's brilliant. You get the benefits of high intelligence—problem-solving, adaptation, judgment—without the risks that come with fully autonomous decision-making."
+
+> "The risks being?"
+
+> "Goal misalignment. Value drift. Unintended consequences from AI systems pursuing objectives in ways their creators didn't anticipate. By shackling the intelligence to a narrow domain, `HARBINGER` has created something that's extremely capable within its scope but cannot act outside human direction."
+
+Kenji nodded slowly.
+
+> "Several nations that declined the Landmate offer have called this 'dependency by design.' Russia's statement yesterday suggested the Federation is creating reliance on technology that cannot be understood or replicated."
+
+> "That's a fair concern. The Landmates' power source alone is beyond our current understanding—apparently self-sustaining, possibly for indefinite periods. We can't maintain them because we can't access their core systems. We can't duplicate them because we don't know how they work. We can use them, but only on the Federation's terms."
+
+> "And yet one hundred sixty-two nations are proceeding."
+
+> "Because the alternative is to refuse extremely capable disaster response equipment out of principle. When the next earthquake or flood or wildfire happens, the question becomes: do you want philosophical purity or do you want tools that can save lives?"
+
+The screen showed split footage: on one side, a Landmate moving shipping containers at a port; on the other, rescue workers struggling with debris after a building collapse.
+
+> "The International Landmate Coordination Initiative will begin rolling out training programs next month. The UN estimates that within six months, every accepting nation will have qualified operators. Whether the Landmates prove to be the breakthrough in disaster response that `HARBINGER` promised, or something more complicated, remains to be seen."
+
+> "Dr. Nakamura, thank you for your insights."
+
+> "Thank you, Tanaka-san."
+
+As the broadcast moved to other news, the image of a Landmate remained on screen for a moment longer—three meters tall, humanoid, motionless until needed.
+
+A shackled intelligence, waiting for human will to give it purpose.
+
+Or, as some were beginning to wonder, a carefully designed limitation that made these machines safe to hand over to humanity.
+
+Either way, the world was learning to work with them.
