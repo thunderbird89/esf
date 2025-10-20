@@ -206,49 +206,125 @@ And the Landmates, tireless and precise, continued helping however they were com
 
 ---
 
-### BBC World News, London
-### November 19, 2026 - 0245 hours GMT
+### Koto Ward, Tokyo
+### November 18, 2026 - 2301 hours JST
 
-The BBC breaking news banner had been running for nine hours. Sophie Raworth looked exhausted, but her voice remained steady as she updated viewers on the developing situation.
+The aftershock hit without warning.
 
-> "It is now just past 11:45 AM in Tokyo, seventeen hours since the magnitude 7.8 earthquake struck the Kanto region. The death toll stands at four hundred and twelve, with over three thousand injured. But as rescue operations continue through a second night, one element of the response has captured international attention."
+Naoko was outside the coordination vehicle, stretching her legs during a brief lull in deployments, when the ground lurched beneath her feet. Not as violent as the initial quake, but violent enough. The pavement cracked with sounds like gunshots. The coordination vehicle rocked on its suspension. Someone inside shouted a warning.
 
-The screen cut to footage from Tokyo. Landmates working in the rubble, their gray frames visible through the smoke and dust. One was pulling apart a collapsed parking structure with its bare hands. Another was holding up a tilted building while evacuees streamed out beneath it.
+Then the building beside her—already damaged, already compromised—began to collapse.
 
-> "Japan's ten Landmates, deployed within an hour of the earthquake, have been credited with saving hundreds of lives. The machines have worked without pause for over seventeen hours, moving through conditions too dangerous for human rescue workers and lifting debris that would normally require heavy equipment."
+Naoko ran. Debris crashed behind her, dust billowing through the street. She heard voices shouting, the screech of twisting metal, the thunder of concrete hitting asphalt. Her radio was screaming with traffic—multiple reports, new collapses, the organized chaos of disaster response suddenly thrown back into crisis.
 
-Sophie turned to address a different camera.
+She rounded a corner, coughing in the dust cloud, trying to orient herself. The street lights were out. Emergency lights strobed in the distance. She'd been separated from the coordination center, from her team, from—
 
-> "Joining us now is Professor David Walsh from Imperial College London, who has been analyzing the Landmate deployment. Professor, you were skeptical about these machines when they first arrived. What's your assessment now?"
+A shape loomed through the dust. Three meters tall. Motionless.
 
-Walsh appeared on a split screen, his earlier skepticism replaced by something harder to define.
+A Landmate.
 
-> "Sophie, I'll admit I was wrong to doubt their utility. What we're seeing in Tokyo is unprecedented. These machines have operated continuously in extreme conditions—fires, structural instability, toxic smoke—without any degradation in performance. They've lifted loads that would require mobile cranes. They've executed complex rescue operations with precision that rivals experienced emergency teams. And they've done it all under the direction of operators who, until a month ago, had never commanded anything like this."
+Naoko stumbled toward it, relief flooding through her. One of their units, standing in the middle of the street. Unit Six, if she remembered the deployment map correctly. Its armor was covered in concrete dust, but it stood perfectly still, waiting.
 
-> "There are reports of Landmates walking through fires to reach trapped survivors."
+She grabbed her radio.
 
-> "Yes, and emerging completely undamaged. Whatever armor system they use, it's far beyond anything in our material science. The heat that would melt steel apparently has no effect on them whatsoever."
+> "This is Operator Yoshika. I'm separated from the coordination center, I have visual on Unit Six. Requesting connection to command frequency."
 
-Sophie nodded.
+Static. The aftershock must have disrupted communications. She tried again, got the same result.
 
-> "We're also hearing that other nations are watching this deployment closely. Have we learned something fundamental about the Landmates' capabilities?"
+Behind her, she could hear screaming. The collapse had trapped people. First responders were calling for help, for equipment, for anything that could lift the debris.
 
-> "Absolutely. Tokyo is providing what amounts to a real-world stress test under the worst possible conditions. Every nation that accepted Landmates is undoubtedly taking notes. We're seeing proof of concept—these machines can do exactly what `HARBINGER` promised they'd do. Save lives in disasters that would overwhelm conventional response capabilities."
+Naoko looked up at the Landmate.
 
-The screen showed more footage. A Landmate gently setting down a survivor it had just extracted from a collapsed school. Firefighters directing another unit toward a burning apartment complex. A third standing perfectly still while engineers secured a damaged support beam beside it.
+> "Unit Six, respond to voice command. Acknowledge."
 
-> "The Japanese government has released preliminary data suggesting the Landmates may have prevented several hundred additional deaths. That's not just impressive, Sophie. That's transformative. If these machines can perform like this consistently, they represent the most significant advancement in disaster response since the invention of the search-and-rescue dog."
+The machine stood motionless.
 
-> "Strong words, Professor."
+Right. Without the radio link, without the command frequency, it wouldn't respond to her voice alone. The units were keyed to their assigned operators through the coordination system. She wasn't Unit Six's operator. She couldn't just—
 
-> "We're watching strong evidence. I was skeptical because I didn't understand what we were dealing with. Tokyo is teaching us very quickly."
+More screaming. Someone was trapped. Someone was dying while she stood here with a perfectly functional rescue machine that wouldn't listen to her.
 
-Sophie turned back to the main camera.
+> "Move!" she shouted at it. "People need help! Unit Six, move!"
 
-> "The rescue operations in Tokyo continue as we speak, with Landmates working alongside thousands of Japanese first responders. The International Landmate Coordination Initiative has scheduled an emergency meeting for tomorrow to discuss the lessons learned from this deployment. We'll continue to follow this story throughout the day."
+Nothing.
 
-As the broadcast moved to other coverage, the image that lingered was simple: a Landmate standing in the ruins of what had been someone's home, a firefighter beside it directing it toward the next person who needed help.
+Frustration boiled over into desperation. Naoko slammed her fists against the Landmate's chest armor, the impacts sending sharp pain through her hands but not even marking the machine's surface.
 
-The machines `HARBINGER` had delivered were finally proving what they could do.
+> "Move, damn you! We have to help!"
 
-And the world was watching.
+The Landmate stood silent.
+
+Naoko hit it again, and again, her hands throbbing, her throat raw from shouting. Nine hours of coordinating rescues, of watching these machines save lives, and now when she needed one—when people were dying just meters away—it stood there like a statue, like it had for those first three weeks after delivery.
+
+She drew back her fist for another futile strike.
+
+Then the Landmate's chest opened.
+
+Naoko froze.
+
+The armor plates split along seams she'd never noticed before. Two panels folded upward, two downward, revealing an interior space that glowed with soft amber light. Inside was a seat—not mechanical, but curved and padded, almost organically shaped to fit a human form. And around it, a framework of something that looked like metal and carbon fiber woven together, skeletal and precise, with attachment points at shoulders, waist, wrists, and ankles.
+
+A harness.
+
+A cockpit.
+
+Naoko stared at the open chest cavity, at the seat waiting inside, at the harness that looked designed to hold a human body.
+
+All this time. Seven weeks of voice commands, of radio frequencies, of treating these machines like remote-controlled equipment.
+
+And they'd been designed to be piloted.
+
+Her radio crackled back to life.
+
+> "—shika, respond. Yoshika, what's your status?"
+
+But Naoko couldn't answer. She stood in the dusty Tokyo street, staring at the open Landmate, at the invitation it offered, while somewhere behind her people screamed for help she didn't know how to give.
+
+The amber light inside the cockpit pulsed gently, waiting.
+
+Naoko had read Appleseed cover to cover. Multiple times. She'd watched the anime adaptations, studied the technical diagrams that Shirow had lovingly detailed in the margins. She recognized this. The seat. The harness. The cybernetic interface between human and machine.
+
+A landmate. Not in name only, but in function. An exoskeleton amplifier. A human-machine hybrid.
+
+She didn't think. Didn't calculate the risks or consider the consequences. People were dying. The machine was waiting. And she knew—she knew—what this meant.
+
+Naoko grabbed the chest armor's edge and pulled herself up.
+
+The Landmate's frame provided handholds she hadn't noticed before, subtle recesses in the armor that her fingers found instinctively. She climbed into the cockpit, swung her legs over the seat's edge, and—
+
+The harness moved.
+
+Metal bands erupted from the seat's sides like living things, snaking around her ankles with mechanical precision. She felt them wrap, tighten, lock into place with soft clicks that reverberated through the frame. Before she could react, more bands shot up from the seat itself, coiling around her thighs, her hips, each one constricting with enough force to hold her but not quite enough to hurt.
+
+> "No! Wait—"
+
+Struts extended from the seat back, lying flat against her arms. She tried to pull away, but the leg restraints held her in place. The struts pressed against her forearms, her upper arms, conforming to the shape of her limbs with disturbing accuracy. Bands wrapped around her wrists, her elbows, her shoulders—not tight enough to cut off circulation, but secure enough that she couldn't move.
+
+> "No, no, no, no!!"
+
+Belts shot out from the seat's sides, crossing over her chest in an X-pattern, then wrapping around her waist. They pulled taut, pressing her back firmly into the seat. She tried to struggle, but the harness had already immobilized her limbs. More bands secured her hips, her lower back, every major joint locked into position.
+
+Then something cold touched the back of her head.
+
+Metallic pressure points made contact with her skull—behind her ears, at the base of her neck, along the sides of her head above her temples. She felt the structure closing around her like a crown, or a cage, each contact point pressing with gentle but inexorable force. Not painful, but present. Undeniable. Something that felt like it was reading her, mapping her, connecting to her in ways she didn't understand.
+
+> "Stop! Please, I don't—"
+
+The chest panels began to close.
+
+Amber light gave way to shadow as the armor plates swung shut with mechanical certainty. Two panels from above, two from below, sealing with the same precise clicks she'd heard from the restraints. The last sliver of dusty Tokyo street disappeared as the panels met, merged, became seamless.
+
+Darkness.
+
+Complete, absolute darkness.
+
+Naoko's breathing came in short, sharp gasps. The harness held her immobile, the struts against her limbs preventing even the smallest movement. The metallic structure around her head felt like it was tightening, though rationally she knew it wasn't. The seat cradled her body in a grip that was almost gentle but absolutely unyielding.
+
+She'd climbed into a three-meter-tall machine that she didn't know how to operate, that no one had trained her to use, that might not even be designed for someone of her size or physiology. She was trapped inside a Federation creation that had just sealed her in its chest cavity, restrained her with bands she couldn't break, and was now doing something to her head that she couldn't see or understand.
+
+The screaming outside was muffled now, distant through layers of armor that could withstand fire and crushing force.
+
+What had she been thinking? That she'd just climb in and know how to use it? That it would somehow be intuitive, like in the manga? That the desperate situation would somehow make her compatible with technology decades beyond anything Earth could produce?
+
+She'd made a mistake. A terrible, impulsive mistake driven by nine hours of exhaustion and the sound of people dying in the rubble behind her.
+
+And now she was locked inside a machine she couldn't control, couldn't escape, couldn't—
