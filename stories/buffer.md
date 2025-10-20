@@ -1,152 +1,231 @@
-## Chapter 6: Debrief
+## Chapter 4: Disaster
 
-The approach to Ronald Reagan Washington National Airport felt almost surreal after everything Marisa had experienced. Shade descended through normal airspace at normal speeds, following standard approach vectors like any other aircraft. The only difference was that air traffic control couldn't see them—their radar screens showing clear skies while a forty-meter spacecraft glided silently toward the runway.
+### Tokyo Metropolitan Area
+### November 18, 2026 - 1447 hours JST
 
-> "Final approach, Runway Zero-One," Shade announced with the same clinical precision it had maintained throughout the flight. "Local time zero-six-thirty-seven. Weather is clear, winds light and variable."
+Private Naoko Yoshika was reviewing training protocols when the floor began to move.
 
-Through the viewport, Marisa could see the Potomac River winding through the dawn landscape, the Washington Monument catching the early morning light. The city was waking up, traffic beginning to build on the highways, people starting another ordinary day completely unaware that two EMP devices had nearly turned San Francisco into a dead zone just hours earlier.
+Not the gentle sway that Tokyo residents learned to ignore. This was different. The building lurched sideways, throwing her against her desk. Coffee mugs crashed to the floor. The overhead lights swung wildly on their fixtures. Someone screamed. The emergency alarms started blaring, adding their wail to the chorus of creaking steel and shattering glass.
 
-The landing was as gentle as the takeoff had been brutal twelve hours ago. Shade touched down on a service runway away from the main terminal, rolling to a stop near what looked like an abandoned maintenance hangar. The kind of place where aircraft came to be forgotten, not to discharge passengers who had just returned from preventing a catastrophic terrorist attack.
+Naoko grabbed the desk edge as the world tilted again. Earthquake drills had trained her for this—get to a doorway, protect your head, wait for it to stop. But this wasn't stopping. The shaking intensified, a deep rumbling that seemed to come from the earth itself.
 
-As the engines wound down, Marisa noticed that LeBouf and his team had changed clothes during the flight. Gone were the tactical vests, the combat gear, the obvious military hardware. Now they wore civilian clothing—khakis, polo shirts, light jackets that could have come from any department store. LeBouf himself had traded his operational kit for a navy blue windbreaker and dark slacks, looking every inch the unremarkable federal employee.
+Through the window, she could see buildings swaying across the street. One of the older structures was already showing cracks in its façade. Car alarms wailed in harmony with the emergency sirens. The sky had that strange, dusty quality that came from concrete and mortar being pulverized.
 
-But there was something about the way the clothes fit that bothered Marisa. The jackets hung just slightly wrong, as if they were concealing more than they revealed. The fabric looked ordinary but moved in ways that suggested hidden reinforcement. Even the shoes—simple leather oxfords—seemed just a shade too substantial for their apparent purpose.
+The shaking lasted ninety seconds. It felt like hours.
 
-> "FBI team, we'll be taking separate vehicles back to headquarters," LeBouf said as the restraints retracted. "Standard procedure—we maintain operational security until the formal debrief is complete."
+When it finally stopped, Naoko's ears rang in the sudden relative silence. Around her, the depot office was chaos—overturned furniture, shattered screens, papers strewn across the floor. But the building had held. The JSDF built to earthquake standards.
 
-The cargo bay revealed the same two Q-cars they'd used in San Francisco—the silver Honda Accord and the dark blue Toyota Camry. No additional vehicles, no government fleet cars. Just the same unremarkable sedans that had carried them through the Mission District at impossible speeds, now looking every inch like the rental cars they were supposed to be.
+Major Tanaka's voice cut through the confusion, calm and commanding.
 
-Marisa and her team climbed back into the Honda while LeBouf's group took the Toyota. As they pulled away from the hangar, Marisa looked back to see Shade's ramp retracting, the craft beginning its transition back to invisibility. Within moments, there was nothing but empty tarmac and the faint smell of jet fuel in the air.
+> "Status report. Everyone check in."
 
-The drive through Washington morning traffic felt like stepping back into a different world. Normal cars driven by normal people heading to normal jobs, their biggest concerns probably centered around coffee and commute times. Marisa watched them through the Honda's windows—a woman in a Civic talking on her phone, a man in a pickup truck checking his reflection in the side mirror, teenagers in a beat-up Corolla laughing at something on someone's phone.
+Voices called out. Some shaken, but everyone accounted for. No injuries beyond cuts and bruises.
 
-None of them knew how close the world had come to chaos. None of them would ever know.
+Naoko's phone buzzed with an emergency alert. She pulled it from her pocket, hands still trembling slightly.
 
-The FBI's J. Edgar Hoover Building rose ahead of them, its brutalist concrete facade as imposing as ever in the morning light. Marisa had walked through those doors thousands of times, but today felt different. Today she was bringing back secrets that couldn't be written in any report, experiences that couldn't be shared with anyone who didn't already know.
+**MAGNITUDE 7.8 EARTHQUAKE**
+**EPICENTER: TOKYO BAY**
+**TSUNAMI WARNING IN EFFECT**
 
-They pulled into the underground garage, the Honda's ordinary appearance getting them through security without question. LeBouf's Toyota was already parked when they arrived, its occupants nowhere to be seen. Marisa suspected they were already inside, probably in a conference room she didn't know existed, preparing for a debriefing that would never appear on any official schedule.
+Her stomach dropped. Magnitude 7.8. In the bay. That meant the coastal areas would be—
 
-> "Seventh floor," Hartfield said as they stepped into the elevator. "Assistant Director Reeves wants to see us immediately."
+> "All personnel, listen up," Major Tanaka called out. "This is what we've been training for. Yoshika, Sato, Kimura—get to the hangar. We're mobilizing the Landmates."
 
-Marisa nodded, trying to prepare herself for what was coming. How do you brief your superior on a mission that officially never happened? How do you explain that you've just returned from space, that you've worked with an artificial intelligence that could have stepped out of science fiction, that you've witnessed capabilities that made the FBI's most advanced technologies look like stone tools?
+Naoko was already moving before the order fully registered. Seven weeks. Seven weeks since the Landmates had arrived. Four weeks since the Initiative training had begun. They'd drilled for this, practiced the commands, rehearsed the deployment procedures.
 
-The elevator climbed through the building's floors, each one representing layers of the federal law enforcement bureaucracy. But somewhere above or below or parallel to this official structure was another world entirely—the shadow realm where the EarthSpace Federation operated, where Q-cars masqueraded as rental sedans and spacecraft launched from parking lots in New Jersey.
+But this wasn't a drill.
 
-Marisa caught herself studying LeBouf's reflection in the elevator's polished metal doors. Even in civilian clothes, there was something about his posture, his alertness, that marked him as different. And those clothes—she was becoming more convinced that they weren't as ordinary as they appeared. The way his jacket fell suggested weight distribution that didn't match simple cotton or wool. The seams were too precise, the cut too accommodating for someone who needed to move quickly and quietly.
+The depot yard was a mess of fallen equipment and cracked pavement, but the Landmates stood in their perfect formation, utterly unmoved by the earthquake that had shaken everything around them. Naoko felt a surge of something—relief? gratitude?—at the sight of those ten motionless figures.
 
-What kind of technology was woven into fabric that looked like it came from a mall department store? What capabilities were hidden in plain sight, disguised as the mundane uniform of federal bureaucracy?
+> "Landmate units," Major Tanaka's voice carried across the yard. "Board the transport helicopters on approach. Move to the marked positions."
 
-The elevator chimed softly as it reached the seventh floor, the doors sliding open to reveal the familiar corridors of FBI leadership. But as Marisa stepped out, she couldn't shake the feeling that she was crossing from one world into another—from the realm of impossible possibilities back into the comfortable illusion of normal government operations.
+The Landmates moved in unison, their stride eating up ground with mechanical precision. Naoko could already hear the helicopters—four heavy cargo Chinooks coming in fast and low, their rotors beating the air.
 
-And somewhere in the space between those worlds, the real work of protecting the country continued, invisible and unacknowledged, carried out by people whose ordinary appearances concealed extraordinary capabilities.
+The loading procedure they'd practiced dozens of times unfolded with smooth efficiency. Two Landmates per helicopter, walking up the rear ramps without hesitation. The machines weighed tons, but the cargo helicopters were rated for them. Barely.
 
-## Epilogue: Threshold
+Naoko grabbed her gear and ran for the command vehicle. Through her radio, she could hear the emergency channels lighting up. Reports flooding in from across Tokyo. Building collapses in Shinagawa. Fires in Odaiba. The elevated expressway near Ariake had buckled. The Sumida River bridges—
 
-The debriefing lasted three hours and covered almost nothing.
+She forced herself to focus. Her job was the Landmates. Get them to the disaster zone. Keep them working. Save as many people as possible.
 
-Marisa sat across from Assistant Director Reeves in Conference Room 7C, the same sterile space where a thousand other operational reviews had taken place. Hartfield was to her right, his posture perfect, his face carefully neutral. The transcript would show a textbook after-action report: subjects apprehended, devices secured, threat neutralized. Clean. Professional. Utterly mundane.
+The command vehicle lurched into motion, following the helicopters toward the smoke rising over Tokyo Bay.
 
-> "The tactical support provided by ESF was instrumental in the operation's success," Marisa heard herself saying. "Their intelligence capabilities allowed us to identify and interdict the threat before activation."
+---
 
-Reeves nodded, making notes on his tablet. He didn't ask how ESF had obtained their intelligence. Didn't question the timeline, the methodology, the impossible speed of the operation. He simply recorded her sanitized account and moved to the next item.
+### Koto Ward, Tokyo
+### November 18, 2026 - 1523 hours JST
 
-> "And the devices themselves? They've been secured?"
+The Ariake district looked like something from a war zone.
 
-> "San Francisco Field Office has custody," Hartfield said. "Local PD assisted with the initial seizure. They're being processed through standard evidence protocols for destructive devices."
+Naoko had seen earthquake damage before—cracked walls, broken windows, collapsed roofs. But this was different in scale. Entire buildings had folded in on themselves. The ground was fractured, great rifts opening in the pavement. Fires burned in at least three locations she could see. And everywhere, everywhere, there were people trapped in the rubble.
 
-Which was true, as far as it went. The EMPs were real evidence in a real case. What the report wouldn't mention was how they'd been located—the spacecraft, the orbital surveillance, the AI that had guided them through San Francisco's streets. Those details would never appear in any official document.
+The Landmates had deployed from the helicopters with the same mechanical precision they did everything else. Drop from five meters, land with a burst of jump jets, assume formation. Now they stood in the middle of devastation, waiting for commands.
 
-The rest of the session followed the same pattern. Questions asked, answers given, both sides carefully avoiding the truths that mattered. Nobody mentioned spacecraft. Nobody discussed artificial intelligence or Q-cars that defied physics. Nobody acknowledged that federal agents had just returned from orbit after witnessing capabilities that shouldn't exist.
+Major Tanaka was coordinating with the on-site incident commander, a fire department captain whose face was streaked with soot and whose voice carried the edge of controlled panic. Around them, first responders worked frantically—pulling at debris, calling out for survivors, setting up triage stations.
 
-By 1300 hours, it was over. Reeves thanked them for their service, commended their professionalism, and dismissed them with the promise that commendations would be forthcoming. The whole thing had the choreographed quality of theater, a performance both sides agreed to maintain.
+> "Yoshika," Tanaka called. "You're on Unit One. Captain Hayashi needs that residential block cleared. Four-story building, partial collapse, multiple trapped."
 
-Marisa returned to her desk on the fifth floor, to the familiar landscape of paperwork and email and case files. Her coffee mug sat where she'd left it three days ago, a ring of dried liquid at the bottom. Her monitor displayed the same background image, the same desktop icons. Everything exactly as it had been.
+Naoko moved to the first Landmate, her training taking over despite the chaos around her.
 
-Except she wasn't.
+> "Unit One, follow me."
 
-She tried to work. Pulled up case files, reviewed reports, responded to emails. But her mind kept drifting back to San Francisco, to the way Shade had punched through the atmosphere like it was nothing, to the calm precision of that genderless voice providing real-time intelligence from orbit. She found herself staring at her hands, remembering how they'd gripped the restraints during launch, how her whole body had felt the impossible acceleration.
+The machine fell into step beside her, its three-meter frame drawing stares from the first responders as she led it toward the collapsed building. The structure had pancaked on one side, the upper floors crushing down onto the lower ones. Smoke was rising from somewhere inside—not a full fire yet, but it would be soon.
 
-How did you go back to filing reports after you'd seen Earth from space? How did you focus on database queries when you knew there were AI systems that could see through walls and track targets from orbit? How did you pretend the world was normal when you'd witnessed proof that everything you thought you knew about technology and capability was a comfortable lie?
+A firefighter waved her over frantically.
 
-By 1800 hours, the office had mostly emptied. Marisa sat alone at her desk, the evening light slanting through her window, and pulled out her phone. She stared at Alicia Monroe's contact information for a long moment before finally calling.
+> "We've got at least three people in there. Ground floor, under that section." He pointed at a massive concrete slab, probably part of the second floor. "We can't lift it. We tried jacks, but it's too heavy and too unstable."
 
-Monroe answered on the second ring.
+Naoko looked at the slab. It had to weigh several tons. A crane could lift it, but the nearest crane was probably dealing with a dozen other collapses, and time was everything.
 
-> "Agent Comey. I've been expecting your call."
+She turned to the Landmate.
 
-> "You were right," Marisa said quietly. "About everything."
+> "Unit One, lift that concrete slab and hold it steady."
 
-A pause. Then Monroe's voice, softer now, carrying an edge of something Marisa couldn't quite identify. Not sympathy. Something more complicated.
+The machine moved forward without hesitation. It positioned itself beside the slab, got its hands underneath the edge, and lifted.
 
-> "I wish I could tell you it gets easier. But honestly? I don't know if it does."
+The concrete rose as if it were made of foam. The Landmate held it there, perfectly still, its servos barely humming.
 
-> "How do you do it?" Marisa asked. "How do you go back to normal after seeing what they can do?"
+> "Go, go, go!" the firefighter shouted.
 
-Another pause, longer this time. When Monroe spoke again, her voice was careful, measured.
+Rescue workers scrambled into the space beneath the slab. Naoko could hear them calling out, see movement in the darkness. Within minutes they were bringing people out—two adults, one child, all alive. Injured, but alive.
 
-> "I can't really talk about my own work with them, Comey. You know how classification works. But I can tell you this: you don't go back. Not really." She sighed. "You just learn to live with knowing. With understanding that the world isn't what everyone thinks it is."
+> "Clear!" someone shouted.
 
-Marisa thought about that. About the impossible weight of knowledge that couldn't be shared, couldn't be discussed, couldn't be written down.
+> "Unit One, set it down gently and step back."
 
-> "It feels like a lie," she said. "Sitting here, filing paperwork, when I know what I know."
+The Landmate lowered the slab with the same precision it had lifted it. Not a drop, not a jolt. Just smooth, controlled movement that probably saved the lives of everyone who'd been working underneath.
 
-> "It is a lie. But it's the lie everyone lives with." Monroe's voice carried a note of resignation. "Most people can't handle the truth, and frankly, they don't need to. They need to believe the world is knowable, controllable, bound by rules they understand. So we maintain that illusion. We let them sleep soundly."
+The firefighter stared at the machine, then at Naoko.
 
-> "We Are Watching," Marisa murmured, remembering the calling card that had started everything.
+> "Can it do that again?"
 
-> "Exactly." Monroe paused. "Look, I wish I could give you better advice. Tell you how to process this, how to compartmentalize it. But I'm still figuring that out myself. All I know is that they're real, they're effective, and they exist for reasons we probably don't fully understand. And now you're one of the people who knows."
+> "As many times as we need it to."
 
-> "Lucky me."
+By 1600 hours, Unit One had cleared six collapse sites. Unit Two was pulling apart a crushed vehicle to reach the driver inside. Unit Three was holding up a dangerously tilted wall while evacuees were brought out of the building behind it.
 
-> "Lucky all of us, maybe. Somebody has to know. Somebody has to be able to work with them when the situation requires it." Monroe's voice softened slightly. "Get some rest, Comey. And if you ever need to talk—within the limits of what we can discuss—call me. It helps, knowing there's someone else who understands."
+The Landmates worked without pause, without fatigue. They lifted weights that would require industrial equipment. They moved through spaces too dangerous for humans. When the fire in the residential block flared up, threatening to engulf an apartment where survivors were trapped, Unit Four simply walked through the flames.
 
-After the call ended, Marisa sat in the gathering darkness of her office, watching the city lights come on across Washington. Somewhere out there, LeBouf had returned to whatever ESF facility he called home. Somewhere, Shade was probably already being prepped for another mission. Somewhere, the AI had returned to its mysterious duties, maintaining the invisible web that kept the world from tearing itself apart.
+Naoko watched on the video feed as the Landmate emerged from the inferno carrying two unconscious people, its armor blackened by soot but completely undamaged. It set them down gently near the paramedics, then turned and walked back into the fire to search for more.
 
-And here she was, back at her desk, surrounded by the comfortable mundanity of federal bureaucracy.
+> "Yoshika," Tanaka's voice came through her radio. "Status on your units?"
 
-Monroe couldn't give her answers. Couldn't even talk about her own experiences. They were both operating in a world of compartmented knowledge, each carrying secrets the other couldn't know. But at least Monroe understood the weight of it. The isolation of knowing truths that couldn't be shared.
+> "All operational. No signs of fatigue or damage. They're... sir, they're incredible. They just keep working."
 
-Marisa gathered her things and headed for the elevator. The building was quiet, most agents already gone for the evening. Her footsteps echoed in the empty corridors, a lonely sound that reminded her how isolated this knowledge made her. How few people could understand what she'd seen, what she now knew.
+> "Same report from all operators. We've got requests for Landmates from fifteen different sites. We need to prioritize."
 
-The elevator descended in silence. She watched the numbers count down, each floor taking her further from the classified world of the seventh floor, closer to the ordinary world of ground level. Seven. Six. Five. Four. Three. Two. One.
+Naoko looked around at the devastation. Fifteen sites. They had ten Landmates. And this was just one district of Tokyo.
 
-The doors opened onto the lobby. She badged out through security, exchanged nods with the evening guard, and stepped through the main entrance into the cool October evening.
+> "Where do you need us, sir?"
 
-The street was busy with end-of-day traffic. Pedestrians hurrying home, cars honking, the usual urban chaos of Washington at rush hour. Marisa paused on the steps, breathing in the city air, trying to ground herself in the familiar.
+> "There's a school in Toyosu. Three-story building, complete collapse. They think there are at least twenty children still inside."
 
-She turned left, heading toward the Metro station. The sidewalk was crowded, forcing her to weave between slower walkers. A woman in a business suit talking urgently on her phone. A man with a briefcase checking his watch. A delivery driver pushing a hand truck loaded with packages.
+Naoko felt her throat tighten.
 
-And there, moving through the crowd with unremarkable efficiency, was a face she recognized.
+> "Understood. Unit One, on me. We're relocating."
 
-Jeane LeBouf.
+The Landmate fell into step beside her as she headed for the command vehicle. Around them, the sun was beginning to set, painting the smoke-filled sky in shades of orange and red.
 
-He wore khakis and a polo shirt, a light jacket that could have come from any department store. His posture had the slight slouch of someone tired from a long day of office work. Everything about him radiated forgettable mediocrity—the kind of person your eyes would slide past without registering.
+The disaster was far from over.
 
-But Marisa registered him. Saw the too-precise way he moved through the crowd, never quite touching anyone but never slowing either. Saw the subtle awareness in his eyes, the way they tracked his surroundings with practiced efficiency. Saw the person beneath the unremarkable mask.
+But for the first time since the earthquake hit, Naoko felt something other than fear.
 
-Their eyes met for a fraction of a second.
+Hope.
 
-LeBouf's expression didn't change. No acknowledgment, no recognition. He simply continued walking, flowing past her in the crowd, disappearing into the urban river of humanity as if he'd never been there at all.
+---
 
-But Marisa had seen him. Had recognized him. And she understood now what that meant.
+### National Diet Building, Tokyo
+### November 18, 2026 - 2134 hours JST
 
-She would see them everywhere now. In crowded streets and quiet airports, in government buildings and shopping malls. The operatives of the EarthSpace Federation, moving through the world in plain sight, their unremarkable faces concealing extraordinary purpose. Always watching. Always ready. Always there.
+Prime Minister Ishikawa stood in the emergency operations center, watching the map of Tokyo light up with incident reports. The room hummed with controlled urgency—officials coordinating response efforts, screens showing live feeds from across the affected areas, voices calling out updates every few minutes.
 
-Marisa continued toward the Metro, her steps steady, her face composed. To anyone watching, she was just another federal employee heading home after a long day. Tired. Ordinary. Unremarkable.
+The numbers were still coming in, but they painted a grim picture. Magnitude 7.8. Hundreds dead. Thousands injured. Tens of thousands displaced. Infrastructure damage across six wards. Multiple fires still burning. And the aftershocks kept coming, each one threatening to bring down structures already weakened by the initial quake.
 
-But inside, she carried the weight of impossible knowledge. The truth about spacecraft that launched from New Jersey. About AI that could see through walls and guide operations from orbit. About people who could do the impossible while looking utterly mundane.
+But there was something else in the data. Something that didn't fit the expected pattern of disaster response.
 
-She descended the escalator into the Metro station, letting the crowd flow around her, and wondered which world she truly inhabited now. The comfortable lie of normal federal law enforcement? Or the impossible truth of the Federation's shadow war?
+Minister of Defense Takeda stood beside him, reviewing a tablet.
 
-The train arrived with its familiar rumble. Marisa stepped aboard, found a seat, and watched the city disappear into the tunnel darkness.
+> "Prime Minister, the Landmate deployment reports are remarkable."
 
-Somewhere above, the stars were hidden by light pollution and city haze. But she knew they were there. Knew that even now, Federation assets might be passing overhead, invisible and vigilant. Watching. Always watching.
+Ishikawa turned from the map.
 
-The train rocked gently on its tracks, carrying her home through tunnels that felt somehow different now—not barriers against the world above, but merely one more layer of the elaborate illusion that most people called reality.
+> "Remarkable how?"
 
-Marisa closed her eyes and thought about tomorrow. About returning to her desk, her cases, her paperwork. About pretending that everything was normal while carrying the weight of impossible truths.
+> "In the past six hours, our ten Landmates have been involved in rescue operations at forty-three separate sites. They've extracted over two hundred survivors from collapsed structures. They've cleared debris that would have taken conventional equipment days to move. And they've done it all without rest, without equipment failures, without any of the limitations we'd normally face."
 
-Monroe had it right. You don't go back. You just learn to live with knowing.
+Takeda pulled up a video feed. A Landmate walking calmly through a burning building, emerging with survivors. Another lifting a collapsed wall that had trapped an entire family. A third working steadily to clear rubble while firefighters directed it with hand signals.
 
-The train rumbled on through the darkness, carrying her between worlds.
+> "The Self-Defense Force has never had anything like this. Nothing close. These machines are force multipliers in a way I'm not sure we fully appreciated until now."
 
+Ishikawa watched the footage. The Landmates moved with purpose, with precision, with an efficiency that seemed almost unnatural compared to the organized chaos of human rescue workers around them.
+
+> "Casualties?"
+
+> "Current estimate is three hundred and forty-seven dead, with that number expected to rise. But Prime Minister..." Takeda hesitated. "The models we ran after the earthquake hit suggested we'd be looking at over a thousand deaths by now. The Landmates are making a difference. A significant one."
+
+Ishikawa nodded slowly. Seven weeks ago, he'd voted to accept `HARBINGER`'s offer with a mixture of desperation and doubt. Japan needed earthquake response capabilities. The Landmates had seemed like either a gift or a curse, and he hadn't been sure which.
+
+Now, watching those machines work tirelessly through the Tokyo night, pulling people from rubble while fires raged and aftershocks rattled the city, he knew which it was.
+
+> "Continue coordinating with the operators. I want those Landmates deployed wherever they're needed most. And Takeda..."
+
+> "Yes, Prime Minister?"
+
+> "Draft a message to the United Nations. Specifically to the International Landmate Coordination Initiative. Other nations need to know what these machines can do when disaster strikes. Not speculation, not theory. Real-world performance data."
+
+> "I'll have it ready within the hour."
+
+Ishikawa turned back to the map. The red indicators showed fire. Orange showed structural damage. Blue showed active rescue operations. And wherever those blue indicators appeared, small icons marked the positions of deployed Landmates.
+
+Ten machines. Ten tireless, precise, nearly indestructible machines working alongside six thousand human first responders.
+
+`HARBINGER` had called them helpers.
+
+Tonight, as Tokyo burned and shook and struggled to save itself, that name felt like an understatement.
+
+---
+
+### BBC World News, London
+### November 19, 2026 - 0245 hours GMT
+
+The BBC breaking news banner had been running for nine hours. Sophie Raworth looked exhausted, but her voice remained steady as she updated viewers on the developing situation.
+
+> "It is now just past 11:45 AM in Tokyo, seventeen hours since the magnitude 7.8 earthquake struck the Kanto region. The death toll stands at four hundred and twelve, with over three thousand injured. But as rescue operations continue through a second night, one element of the response has captured international attention."
+
+The screen cut to footage from Tokyo. Landmates working in the rubble, their gray frames visible through the smoke and dust. One was pulling apart a collapsed parking structure with its bare hands. Another was holding up a tilted building while evacuees streamed out beneath it.
+
+> "Japan's ten Landmates, deployed within an hour of the earthquake, have been credited with saving hundreds of lives. The machines have worked without pause for over seventeen hours, moving through conditions too dangerous for human rescue workers and lifting debris that would normally require heavy equipment."
+
+Sophie turned to address a different camera.
+
+> "Joining us now is Professor David Walsh from Imperial College London, who has been analyzing the Landmate deployment. Professor, you were skeptical about these machines when they first arrived. What's your assessment now?"
+
+Walsh appeared on a split screen, his earlier skepticism replaced by something harder to define.
+
+> "Sophie, I'll admit I was wrong to doubt their utility. What we're seeing in Tokyo is unprecedented. These machines have operated continuously in extreme conditions—fires, structural instability, toxic smoke—without any degradation in performance. They've lifted loads that would require mobile cranes. They've executed complex rescue operations with precision that rivals experienced emergency teams. And they've done it all under the direction of operators who, until a month ago, had never commanded anything like this."
+
+> "There are reports of Landmates walking through fires to reach trapped survivors."
+
+> "Yes, and emerging completely undamaged. Whatever armor system they use, it's far beyond anything in our material science. The heat that would melt steel apparently has no effect on them whatsoever."
+
+Sophie nodded.
+
+> "We're also hearing that other nations are watching this deployment closely. Have we learned something fundamental about the Landmates' capabilities?"
+
+> "Absolutely. Tokyo is providing what amounts to a real-world stress test under the worst possible conditions. Every nation that accepted Landmates is undoubtedly taking notes. We're seeing proof of concept—these machines can do exactly what `HARBINGER` promised they'd do. Save lives in disasters that would overwhelm conventional response capabilities."
+
+The screen showed more footage. A Landmate gently setting down a survivor it had just extracted from a collapsed school. Firefighters directing another unit toward a burning apartment complex. A third standing perfectly still while engineers secured a damaged support beam beside it.
+
+> "The Japanese government has released preliminary data suggesting the Landmates may have prevented several hundred additional deaths. That's not just impressive, Sophie. That's transformative. If these machines can perform like this consistently, they represent the most significant advancement in disaster response since the invention of the search-and-rescue dog."
+
+> "Strong words, Professor."
+
+> "We're watching strong evidence. I was skeptical because I didn't understand what we were dealing with. Tokyo is teaching us very quickly."
+
+Sophie turned back to the main camera.
+
+> "The rescue operations in Tokyo continue as we speak, with Landmates working alongside thousands of Japanese first responders. The International Landmate Coordination Initiative has scheduled an emergency meeting for tomorrow to discuss the lessons learned from this deployment. We'll continue to follow this story throughout the day."
+
+As the broadcast moved to other coverage, the image that lingered was simple: a Landmate standing in the ruins of what had been someone's home, a firefighter beside it directing it toward the next person who needed help.
+
+The machines `HARBINGER` had delivered were finally proving what they could do.
+
+And the world was watching.
