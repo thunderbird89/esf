@@ -448,3 +448,102 @@ As if the Federation expected them to figure it out themselves. As if this had b
 The morning sun rose over Dhaka, lighting the depot yard, reflecting off the gray armor of ten machines that had traveled from somewhere unknowable to stand silent and ready.
 
 Waiting for someone to figure out how to help.
+
+---
+
+### BBC News Centre, London
+### September 4, 2026 - 1900 hours GMT
+
+The BBC News at Six logo faded, replaced by anchor Sophie Raworth at the desk, her expression carrying the weight of a story that had dominated every news cycle for the past fifteen hours.
+
+> "Good evening. The Landmates have arrived. At precisely 0600 local time this morning, one hundred sixty-two nations across the globe received deliveries of the advanced machines promised by the artificial intelligence known as `HARBINGER`. But what was expected to be a technological revolution has instead become a study in confusion and caution."
+
+The screen cut to a montage of footage from around the world. Matte black aircraft hovering over delivery zones in Sydney, São Paulo, Lagos, Berlin. Landmates dropping, jump jets firing, ranks forming. The same scene repeated across time zones, perfectly synchronized despite spanning the entire planet.
+
+> "Reports have been flooding in throughout the day, and while the details vary, the pattern is consistent: unidentified aircraft, described uniformly as angular, black, and roughly helicopter-sized, delivered ten Landmates to each accepting nation's designated disaster relief depot. The aircraft departed immediately, leaving no personnel, no documentation, and no instructions."
+
+The footage shifted to ground-level perspectives. In Tokyo, JSDF personnel standing at a distance from ten motionless Landmates. In Nairobi, emergency responders in high-visibility vests staring at the machines from behind a makeshift perimeter. In Mexico City, civil defense officials arguing with military personnel while the Landmates stood silent in the background.
+
+> "What makes this remarkable is not just the global coordination—deliveries occurred within seconds of 0600 in each local time zone—but what happened after. Or rather, what didn't happen."
+
+Sophie leaned forward slightly.
+
+> "The Landmates have been standing motionless in their respective locations for over twelve hours now. No nation has reported any ability to activate, control, or communicate with the units. Government officials worldwide are describing a situation that borders on the absurd: they now possess some of the most advanced machines ever created, and have absolutely no idea how to use them."
+
+The screen split to show footage from multiple locations. In each, personnel stood at careful distances from the Landmates, which remained in their perfect two-rank formations, unmoving as statues.
+
+> "The French Ministry of the Interior released a statement this afternoon calling the situation 'unprecedented and deeply concerning.' The German Bundeswehr described it as 'a delivery without instruction.' Multiple nations have appealed to the United Nations for guidance, but the UN Security Council has no more information than anyone else."
+
+The footage shifted to multiple angles of the Landmates standing in their formations. Tokyo. Nairobi. São Paulo. Mexico City. In every location, personnel maintained careful distances, observing but not approaching.
+
+> "As far as we can determine, no nation has yet attempted direct interaction with the units. The caution is understandable—these are machines that destroyed a naval task force in minutes. No one wants to be the first to trigger an unintended response."
+
+Sophie turned to address a different camera.
+
+> "To help us understand what might be happening here, I'm joined by Professor David Walsh from Imperial College London, a specialist in robotics and autonomous systems. Professor Walsh, thank you for joining us."
+
+The screen split to show Professor Walsh in the BBC studio, a man in his fifties with graying hair and the slightly harried look of someone who'd been fielding calls all day.
+
+> "Thank you for having me, Sophie."
+
+> "Professor, you've had all day to review the footage and reports from around the world. In your professional opinion, how might these Landmates be controlled?"
+
+Walsh paused, choosing his words carefully.
+
+> "Well, that's the fascinating and frankly frustrating question, isn't it? We're working entirely from observation here, with no technical specifications whatsoever. But based on what we've seen, there are several possibilities."
+
+> "Walk us through them."
+
+> "The most obvious would be voice activation. Many modern systems use speech recognition, and it would be consistent with `HARBINGER` stating that nations would operate them with their own personnel. Of course, we don't know if there's a specific activation phrase, or if the systems need to be keyed to particular voices first. As far as I'm aware, no one has actually tried voice commands yet."
+
+The screen showed a slow pan of one of the Tokyo Landmates, with JSDF personnel visible in the background, maintaining their perimeter.
+
+> "Then there's remote control. The Landmates could be operated via radio, satellite uplink, or some form of wireless interface. But that would require broadcasting signals, and from what I understand, nations are still in the analysis phase—examining the units from every angle before attempting any interaction."
+
+> "Could they be programmed? Pre-set missions that need to be uploaded somehow?"
+
+> "Possibly. Many industrial robots work on pre-programmed routines. But that would require some form of physical or wireless connection to upload instructions, and we haven't identified any obvious interface points. The machines appear completely sealed."
+
+Sophie frowned.
+
+> "You're describing a lot of dead ends, Professor."
+
+Walsh nodded, his expression troubled.
+
+> "That's precisely the problem. We're theorizing about control mechanisms, but as far as I know, no one has actually tested any of them yet. Everyone is being extraordinarily cautious. Which leaves us trying to solve a puzzle with no data."
+
+> "Such as?"
+
+> "One: there's a specific activation sequence or protocol that nations are supposed to discover on their own, though why `HARBINGER` would make it that difficult is unclear. Two: the units require some form of hardware interface we haven't identified yet—a control panel, a port, something that needs to be physically accessed. Three: they're biometrically locked and will only respond to specific individuals."
+
+He paused.
+
+> "Or four: they're simply not ready yet. `HARBINGER` may have delivered them but not activated them, for reasons we can only speculate about."
+
+> "That last possibility—are you suggesting this is deliberate? That the Federation wanted nations to have these machines but not be able to use them?"
+
+> "I'm suggesting we don't know what we don't know. The technology demonstrated in Gaza and Taiwan was decades beyond anything in our arsenals. We're dealing with systems we fundamentally don't understand, delivered by an intelligence that has shown no interest in explaining itself."
+
+Sophie turned back to the main camera.
+
+> "What we do know is this: one hundred sixty-two nations are now in possession of ten Landmates each. Sixteen hundred and twenty machines in total, standing silent across the globe. Disaster relief organizations that had begun planning deployment strategies have been left with equipment they cannot activate. Military officials who worried about security implications now face a stranger problem—highly advanced machines that might as well be sculpture for all the good they're doing."
+
+The screen showed a slow pan across one of the Florida depot Landmates. Three meters tall, humanoid, motionless. In the background, FEMA personnel watched from behind barriers, waiting for something to happen.
+
+> "The Chinese Ministry of Emergency Management released perhaps the most candid statement of the day: 'We have accepted a gift we cannot open.' It's a sentiment echoed across capitals worldwide."
+
+Sophie's expression remained neutral, professional.
+
+> "Questions are mounting about what happens next. How long will nations wait before attempting more aggressive investigation? Will anyone risk damaging a Landmate to examine its internal systems? And perhaps most pressingly—if no one can determine how to use these machines before the next disaster strikes, will the failure to deploy them cost lives?"
+
+The Federation emblem appeared on screen—the wireframe globe, the laurels, the broken swords.
+
+> "`HARBINGER` promised that nations would operate the Landmates with their own personnel. What it didn't promise was that it would be easy. Or even possible. More on this story as it develops. This is BBC News."
+
+The broadcast continued to other stories, but in the production booth, the director was already fielding calls from government liaisons wanting copies of the footage, from other news agencies requesting interviews, from military analysts offering theories.
+
+Around the world, in one hundred sixty-two locations, the Landmates continued to stand in perfect silence.
+
+Waiting.
+
+For what, no one knew.
