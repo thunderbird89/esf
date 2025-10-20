@@ -328,3 +328,256 @@ What had she been thinking? That she'd just climb in and know how to use it? Tha
 She'd made a mistake. A terrible, impulsive mistake driven by nine hours of exhaustion and the sound of people dying in the rubble behind her.
 
 And now she was locked inside a machine she couldn't control, couldn't escape, couldn't—
+
+Light.
+
+The darkness vanished as the cockpit interior blazed to life. Not harsh fluorescent white, but a soft, omnidirectional glow that seemed to come from everywhere and nowhere at once. Naoko blinked against the sudden illumination, her panic momentarily forgotten.
+
+Then the view changed.
+
+Suddenly she was looking at the street from three meters up. The collapsed building. The dust still settling from the aftershock. The coordination vehicle on its side, emergency lights still flashing. Her perspective had shifted—not through the cockpit walls, but as if she were standing at the Landmate's height, seeing through its eyes, her viewpoint elevated far above where her body actually sat sealed in the machine's chest.
+
+Naoko turned her head. The view shifted with her, smooth and natural, showing her the rubble to one side, first responders to the other. She could still feel the harness, still sense her body restrained in the seat below, but her vision—her awareness—extended upward and outward to sensors mounted in the Landmate's head.
+
+She looked down.
+
+She could see her own body, dimly visible in the ambient light of the cockpit, strapped into the seat. But beyond it, through it somehow, she also saw the Landmate's legs, its armored feet planted on cracked pavement. Dual awareness. She was both inside the machine and somehow looking through it.
+
+She tried to move her hand, just a twitch of her fingers—
+
+The Landmate's hand rose into view, five massive fingers flexing exactly as her own fingers flexed inside the cockpit. She opened her hand wider. The Landmate's hand opened. She rotated her wrist. The machine's wrist rotated with mechanical precision, mirroring her movement perfectly.
+
+It was her hand. The Landmate's hand was her hand.
+
+She tried lifting her arm, and the massive armored limb rose into her field of vision, responding to her intention as naturally as her own flesh and blood. The weight of it registered somehow—not heavy, exactly, but present. She could feel the mass, the power, the potential force contained in that mechanical limb as clearly as she felt her own muscles.
+
+Naoko tried to take a step.
+
+Her foot came down heavy. Too heavy. The pavement cracked beneath the Landmate's weight with a sharp report that made her freeze. She'd just... she'd just moved three meters and several tons of machine with a thought, with the same casual motion she'd use to walk to the bathroom.
+
+She tried the next step more carefully. Thinking about it. Conscious of the weight, the balance, the way her body's center of gravity had shifted upward and outward. The Landmate's foot lifted, moved forward, set down with controlled precision. Better. More natural. The machine responded to intention, to the subtle shifts in her muscles that the harness detected, translated, amplified into motion that should have required hydraulics and complex control systems.
+
+Information appeared in her vision.
+
+Not text on a screen, exactly. More like labels floating in space, overlaying her view of the world. A readout in the upper right showing power levels—a simple bar indicator, full, with text beside it in Japanese: "Power Remaining: 100%". In the upper left, a compass rose with cardinal directions marked. Lower right, a simple menu system with options that made intuitive sense: "Lighting", "Communications", "Sensors", "Systems".
+
+All labeled in Japanese characters, positioned exactly where she'd naturally look for them. All accessible through some combination of thought and motion that she somehow understood without being taught.
+
+Naoko focused her attention on the communications menu, simply looking at it with intention. The indicator expanded without any physical touch, opening into a submenu. Radio frequencies. Emergency channels. Command links. All inactive, waiting for her to select one.
+
+She flexed her other hand, feeling the power in those mechanical fingers. Took another step, then another, the movements becoming more fluid as her mind adapted to the machine's mass and momentum. She turned her head, and the view shifted smoothly, naturally, as if she were simply looking around rather than watching a screen.
+
+The panic was fading, replaced by something else.
+
+Realization.
+
+It was going to be that intuitive.
+
+The harness wasn't restraining her. It was reading her. The struts against her limbs, the bands around her joints, the pressure points on her skull—they were mapping her movements, her intentions, her body's subtle signals, and translating them into motion for a three-meter frame that moved like an extension of her own body.
+
+She'd climbed into an Appleseed landmate. And it worked exactly like Shirow had imagined it would.
+
+Behind her—behind the Landmate—she could still hear the screaming. The people trapped in the rubble. The first responders calling for equipment they didn't have.
+
+Naoko looked at her massive armored hands, flexed her fingers, felt the power contained in each digit.
+
+She could help them.
+
+She took a step toward the collapsed building, then another, the Landmate's stride eating up ground with mechanical precision. The weight felt natural now, the movements fluid, as if she'd been doing this her entire life rather than for thirty seconds.
+
+The interface updated automatically, sensors highlighting heat signatures in the rubble, structural weak points, the safest approach vector. Information she needed, presented the moment she needed it, in a language she could read, through a display system that felt more like augmented vision than watching a screen.
+
+Somewhere in the back of her mind, Naoko Yoshika knew she should be terrified. She was sealed inside a Federation machine, connected to systems she didn't understand, controlling technology that shouldn't exist.
+
+But people were dying.
+
+And she had the power to save them.
+
+She broke into a run.
+
+The motion felt strange at first—each stride covering three times what her legs normally would, the ground rushing past faster than she'd ever moved on foot. But the interface adapted, the view stabilizing, compensating for the machine's gait. Within seconds, running felt natural. Powerful. The Landmate's legs ate up the distance to the collapsed building in massive strides.
+
+As she approached, the display updated. Three outlines appeared in her vision, highlighted in pulsing orange through the rubble. Human-shaped. Two smaller, one larger. Heat signatures, she realized. The Landmate's sensors showing her exactly where the trapped people were, even buried under concrete and steel.
+
+Naoko reached the building and dropped to one knee, the motion smooth despite the machine's mass. The largest heat signature was directly beneath a concrete slab—part of the building's second floor that had collapsed onto the ground level. The slab had to weigh several tons.
+
+She reached down with both of the Landmate's hands, got her fingers under the edge of the concrete, and lifted.
+
+The slab rose. Not easily, exactly—she felt resistance, a pressure against her movements, like trying to lift something heavy through water. But it rose. The Landmate's servos hummed, power flowing through hydraulics and mechanisms she couldn't see, translating her intention into force measured in tons.
+
+Naoko held the slab with one hand, keeping it steady above her head. The resistance shifted, concentrating in her left arm now, a constant pressure that let her gauge exactly how much weight she was holding. Not the actual tonnage—the machine was doing that work—but enough feedback that she could feel it, adjust for it, keep it stable.
+
+The interface was giving her proprioception for a body that wasn't hers. Letting her sense weight and resistance even though her actual muscles were doing nothing but making small movements against the harness. The machine did the work, but she could feel the effort, gauge the load, understand the limits.
+
+With her free hand, she reached into the space beneath the slab. The first person—adult, male, unconscious—was partially buried in rubble. She brushed aside smaller debris with the Landmate's massive fingers, movements that should have been impossibly clumsy but somehow weren't. The harness translated her intent into precision, letting the mechanical hands move with the delicacy of a surgeon.
+
+She got her fingers around the man's torso and lifted him clear, cradling him in the Landmate's palm. Set him down gently on clear pavement, away from the danger zone.
+
+The second outline. Smaller. A woman, also unconscious, one arm trapped under a steel beam. Naoko shifted her grip on the slab with her left hand, felt the resistance adjust as the weight redistributed. Reached in with her right hand and carefully moved the beam aside. The metal groaned but bent under the Landmate's strength. She extracted the woman with the same careful precision, set her down beside the man.
+
+The third signature was deeper, partially covered by fragments from what might have been an interior wall. Naoko lowered the slab slightly—feeling the resistance decrease in her left arm as she let the weight descend—and reached further into the space. A child. Small. Still breathing, according to the thermal overlay showing shallow respiration patterns.
+
+She cleared the debris with infinite care, her massive mechanical fingers somehow gentle enough to move broken drywall without disturbing the unconscious child beneath. Got her hand under the small body, lifted with a touch so light she barely registered any feedback at all.
+
+The child came free. Naoko cradled the small form in the Landmate's palm, feeling almost nothing—the interface telling her this weight was negligible, barely worth registering. She pulled her arm back and set the child down beside the adults.
+
+Then she lowered the concrete slab, letting it settle back onto the rubble with a controlled descent. The resistance in her left arm faded as the weight transferred back to the ground.
+
+Three people. Thirty seconds, maybe. A task that would have required cutting equipment, heavy machinery, and a team of rescuers working for an hour.
+
+Naoko straightened, looking at the three unconscious forms laid out on the pavement. Already she could see first responders running toward them, medical personnel moving in with stretchers and equipment.
+
+The display highlighted more signatures. Five buildings away, four people trapped. Another location, two more. Across the district, dozens of heat signatures buried in rubble, waiting for help that conventional rescue teams would take hours to reach.
+
+She turned toward the nearest cluster of signatures, the Landmate's body responding to her intent, and started running again.
+
+The machine provided feedback, let her sense weight and resistance, translated her movements into tons of force and precision measured in millimeters.
+
+But it did the work.
+
+And Naoko realized, with a clarity that cut through exhaustion and shock and nine hours of coordinating rescues, exactly what the Federation had given them.
+
+Not just machines that followed commands.
+
+Tools that amplified human will into superhuman capability.
+
+She reached the next collapse site and dropped to her knees, already scanning for the best approach to extract the people trapped beneath.
+
+---
+
+### Across Koto Ward, Tokyo
+### November 18-19, 2026 - 2315-0247 hours JST
+
+The night blurred into a sequence of collapses, extractions, and the steady rhythm of moving rubble.
+
+At the third site, a firefighter nearly dropped his equipment when he saw Naoko approach. The Landmate moved with purpose through the debris field, navigating obstacles without hesitation, without any visible operator nearby giving commands.
+
+> "Holy shit, is it autonomous?"
+
+> "Can't be. They need voice commands. Radio control. They don't just... move on their own."
+
+Naoko ignored them, focused on the heat signatures the display was showing her. Four people, trapped in what had been a convenience store. She knelt and began clearing debris, her movements deliberate and controlled.
+
+A civil engineer approached cautiously, hard hat in hand, staring up at the machine.
+
+> "Unit Six? Can you hear me? Who's commanding you?"
+
+Naoko turned her head to look at him. The motion was smooth, natural. The engineer took a step back.
+
+> "It responded. But there's no operator station here. No command vehicle."
+
+> "Maybe someone's broadcasting commands from the coordination center?"
+
+> "From kilometers away? Through all this chaos? Look at how it's moving. That's not remote control. That's... I don't know what that is."
+
+Naoko returned her attention to the collapse. She reached in and extracted the first victim, setting them down gently near the medical team. Then the second. The third.
+
+It was only when she stood and turned to leave that one of the firefighters noticed something.
+
+> "Wait. The chest panels. They're closed. I thought they opened for maintenance or something."
+
+> "They do. But there's nothing inside except the frame and systems. I've seen the technical briefings."
+
+They watched as the Landmate jogged away toward another cluster of emergency lights, its stride purposeful and directed.
+
+> "Then how the hell is it operating?"
+
+No one had an answer.
+
+---
+
+At the fourth site, Naoko discovered a new capability by accident.
+
+She'd been about to lift a section of collapsed roof when her vision changed. The structural overlay appeared unbidden, triggered by her focus on the damaged building. Lines of force flowed through the display, color-coded by stress. Red zones marked where the structure was on the verge of catastrophic failure. Yellow showed dangerous but stable areas. Green indicated solid load-bearing sections.
+
+A menu appeared in her lower left vision: "Structural Analysis Active".
+
+Below it, text in Japanese scrolled past. Recommendations. The northwest support column needed immediate reinforcement—it was holding most of the remaining structure's weight. The debris pile to her right could be safely removed without triggering further collapse. The eastern wall should not be disturbed until the roof section was secured.
+
+Naoko stared at the overlay, then looked at the support column. It was cracked, visibly bowing under load. If it failed, the entire remaining structure would come down on the rescue workers currently inside.
+
+She moved to the column and braced it with both hands, holding it steady. Felt the resistance as tons of weight settled against her arms. The Landmate's servos hummed, compensating, distributing the load.
+
+> "What the hell?" A rescue worker emerged from inside the building. "Did it just... did it know we needed that reinforced?"
+
+> "Structural sensors," an engineer called from nearby. "It must have analyzed the building stability. But I've never seen one move without direct commands before."
+
+Naoko held the column while the rescue team extracted three more people from the building. Eight minutes. Her arms didn't tire. The machine didn't strain. It simply held, unwavering, until the last person was clear.
+
+When she released the column and stepped back, it shifted slightly but held. The rescue workers emerged with their final extraction, staring up at the Landmate that had somehow known exactly what they needed.
+
+---
+
+By midnight, Naoko had worked her way through seven collapse sites. Her body was exhausted—she could feel it in the harness, in her actual arms and legs making small movements that the machine amplified. But the Landmate showed no signs of fatigue.
+
+At the eighth site, she attempted something she'd been considering for the past hour.
+
+The most direct route to the heat signatures was blocked by a massive fissure in the street—probably three meters wide, opened by the aftershock. The alternative route would add five minutes to her response time. Five minutes that the people trapped in the building ahead might not have.
+
+Naoko looked at the gap, at the cracked edges still settling.
+
+She took three steps back, building momentum in her mind. The Landmate responded, backing up with her. Then she ran forward.
+
+Four strides. Five. Her speed building. At the edge of the fissure, she jumped.
+
+The jets fired automatically as she left the ground, blue-white thrust vectoring from beneath her feet and from the back-mounted units. The Landmate soared across the gap with controlled power, the boost giving her easily twice the distance she could have managed with muscle alone. Naoko's stomach lurched with the acceleration, but the motion felt natural, intuitive.
+
+She landed on the far side, the jets cutting out, letting her momentum carry her forward into a run. The impact cracked the pavement slightly, but the Landmate's legs absorbed the force without issue.
+
+Behind her, across the fissure, a group of rescue workers stood staring.
+
+> "Did it just..."
+
+> "The jump jets. We knew they had those. But I've never seen one use them like that. Not without direct commands."
+
+> "How is it even knowing where to go?"
+
+Naoko didn't look back. She had heat signatures to reach.
+
+---
+
+At 0147 hours, Naoko discovered the medical assessment system.
+
+She'd just pulled four people from a collapsed restaurant. As she laid them out for the medical team, her vision overlaid new information. Not just heat signatures now, but vital signs. Heart rates. Respiration. Injury markers highlighting where each person was wounded.
+
+One of the four—a middle-aged man—had a highlighted chest. Red indicator. Text appeared: "Suspected Internal Bleeding. Priority: Critical. Estimated Time: 15-20 minutes."
+
+Naoko looked at the medical team organizing their triage. They were working from visual assessment, hadn't reached the man yet. Still treating someone with more obvious injuries.
+
+She stepped over to the man, knelt, and carefully touched his shoulder with one massive finger. Gentle pressure, just enough to draw attention.
+
+A paramedic looked up, startled.
+
+Naoko lifted her hand and pointed at the man, then at her own chest area, trying to communicate. The gesture was clumsy with the Landmate's size, but clear enough.
+
+The paramedic frowned, then moved to the man. Started her assessment. Her expression changed.
+
+> "Internal bleeding! Get the trauma kit, now! He's critical!"
+
+The team swarmed the patient. The paramedic looked up at the Landmate, at the machine that had somehow known what her trained eyes had missed in the chaos.
+
+> "How did you...?"
+
+But Naoko was already moving to the next site, where three more heat signatures waited beneath rubble.
+
+The medical overlay remained active now. Every person she extracted got assessed automatically. Injury severity. Treatment priority. Time sensitivity. Information that could mean the difference between life and death, presented in clean Japanese text overlaying her vision.
+
+The Federation had built these machines to save lives.
+
+And now, sealed inside one of them, Naoko was beginning to understand just how thoroughly they'd designed them for that purpose.
+
+---
+
+By 0247 hours, she'd lost count of the rescues.
+
+Twenty sites? Thirty? The thermal signatures blurred together. Men, women, children. Buried under concrete, trapped in collapsed cars, pinned beneath steel beams. She pulled them out, assessed their injuries, placed them where medical teams could reach them.
+
+The Landmate's power indicator still read 93%. Her own body was running on adrenaline and desperation. The harness supported her, held her immobile, but she could feel exhaustion in every small movement.
+
+Another collapse site. More heat signatures.
+
+Naoko dropped to her knees and started digging.
+
+Behind her, a JSDF officer stood watching, speaking quietly into his radio.
+
+> "Confirm visual on Unit Six. Still operating independently. I've been tracking it for three hours now, twenty-plus rescue sites. Sir, I need clarification on operational protocols. The briefings said these units require voice commands or radio direction. But Unit Six is moving with purpose, analyzing structures, triaging casualties, using its jump jets for tactical positioning. It's acting like it has situational awareness. Like it's making decisions. Sir, with respect, I need to know if there's something about these machines we weren't told. Because what I'm watching doesn't match any of our training materials."
