@@ -658,3 +658,86 @@ Naoko tried to stand at attention. Managed something closer to exhausted swaying
 Major Tanaka's voice cut across the coordination area, sharp enough to carry over the background noise of rescue operations and idling equipment.
 
 > "Private Naoko Yoshika, just what the hell did you think you were doing?!?"
+
+---
+
+### NHK World News, Tokyo
+### November 19, 2026 - 0847 hours JST
+
+The morning news anchor, Kenji Tanaka, sat at the desk with the controlled exhaustion of someone who'd been reporting on the earthquake for fifteen straight hours. Behind him, footage showed rescue operations continuing across Tokyo's waterfront districts.
+
+> "We're continuing our coverage of the magnitude 7.8 earthquake that struck Tokyo Bay yesterday afternoon. The death toll currently stands at four hundred and thirty-two, with over three thousand injured. However, casualty estimates have been revised downward multiple times throughout the night, largely due to the unprecedented deployment of Landmate rescue units."
+
+The screen cut to footage of Landmates working through the night—lifting debris, wading through floodwater, stabilizing damaged structures.
+
+> "But in the past hour, a video has emerged on social media that is raising questions about the nature of these machines and how they operate. The footage, recorded on a mobile phone shortly after last night's major aftershock, has been shared over two million times on Japanese social networks and is now spreading internationally."
+
+The screen changed to shaky mobile phone video. The timestamp read 23:03. The scene showed a dusty Tokyo street, emergency lights strobing in the background, debris still settling from the aftershock.
+
+A figure in JSDF uniform stumbled into frame, coughing, disoriented. A woman. She looked around frantically, then spotted something off-camera. Started running.
+
+The camera panned to follow her. A Landmate stood motionless in the middle of the street, covered in concrete dust, its gray armor barely visible in the emergency lighting.
+
+The woman ran up to it and started shouting. The audio was poor—too much background noise, the phone's microphone struggling—but her desperation was clear.
+
+> "Move! People need help!"
+
+She slammed her fists against the Landmate's chest. Once. Twice. Three times. The impacts were futile against tons of armored hull.
+
+> "Move, damn you! We have to help!"
+
+Then the Landmate's chest opened.
+
+The person recording the video gasped audibly. The armor plates split and folded outward, amber light spilling into the darkened street. The woman froze, staring at the opening, at the seat and harness visible inside.
+
+For a moment, no one moved.
+
+Then the woman grabbed the armor's edge and pulled herself up. Climbed into the cockpit with desperate urgency. The camera zoomed in, shaking badly, trying to capture what was happening.
+
+The chest panels began to close. The amber light dimmed as the armor sealed shut.
+
+For three seconds, the Landmate stood motionless.
+
+Then it moved.
+
+Not the smooth, purposeful motion that had characterized the machines all night. This was different. Uncertain. The Landmate raised one hand, looked at it, flexed its fingers. Rotated its wrist. The movements were experimental, almost curious.
+
+It turned its head left, then right. Took a tentative step. The foot came down too heavy, cracking the pavement. The machine paused, seemed to recalibrate. Took another step, more controlled this time.
+
+The person recording spoke in Japanese, voice shaking.
+
+> "Is someone inside? Did she just get inside?"
+
+The Landmate took three more steps, each one smoother than the last. Then it stopped, seemed to orient itself, and suddenly sprinted away with startling speed and purpose. Within seconds it had disappeared into the smoke and darkness, heading toward the collapsed building where people were still screaming for help.
+
+The video ended.
+
+The studio returned to Kenji Tanaka, who looked directly at the camera.
+
+> "That footage was recorded at 2303 hours last night in Koto Ward. The JSDF has confirmed that the person in the video is Private Naoko Yoshika, a Landmate operator assigned to the disaster response. What they have not explained is how she entered the machine, or how it began operating without external commands."
+
+The screen showed a freeze-frame from the video—the moment the Landmate's chest was open, the amber-lit cockpit visible, Yoshika climbing inside.
+
+> "For seven weeks, the Landmates have been operated through voice commands and radio direction. Remote control. But this footage suggests something else entirely. A pilot. A human operator inside the machine, controlling it directly."
+
+Kenji paused, letting that sink in.
+
+> "The implications are significant. If the Landmates can be piloted from within, it fundamentally changes our understanding of what these machines are capable of. It may also explain reports throughout the night of Unit Six operating with what rescue workers described as 'autonomous behavior'—analyzing structures, triaging injuries, using jump jets for tactical positioning. Behaviors that seemed impossible for remote operation but would make sense if someone was inside, making real-time decisions."
+
+The screen split to show multiple social media posts in Japanese, Korean, English, Spanish—the video spreading across language barriers.
+
+> "International response has been swift. The video is now trending globally on multiple platforms. The United Nations International Landmate Coordination Initiative has called an emergency meeting for this afternoon. And perhaps most significantly, every nation that accepted Landmates is now re-examining what they know—or don't know—about these machines."
+
+The freeze-frame appeared again. Yoshika's silhouette against the amber light, climbing into something that was supposed to be a remotely-operated platform.
+
+> "Seven weeks ago, the Federation delivered these machines and told us we would operate them with our own personnel. We assumed that meant commands. Instructions. Remote control. But this footage suggests they meant something far more direct. Far more intimate."
+
+Kenji turned to address a different camera.
+
+> "The JSDF has not yet released an official statement regarding Private Yoshika or the circumstances shown in this video. But as rescue operations continue across Tokyo, one question dominates discussion both in Japan and internationally: if the Landmates can be piloted, why weren't we told? And what else about these machines remains unknown?"
+
+The Federation emblem appeared on screen—the wireframe globe, the laurels, the broken swords.
+
+> "We will continue to follow this story as it develops. For now, rescue operations continue, and Private Naoko Yoshika's actions last night are credited with saving dozens of lives. Whatever questions remain about how she did it, the results speak for themselves."
+
+The broadcast moved to other coverage, but the video remained viral. By mid-morning, it had been viewed fifty million times worldwide. By afternoon, every news agency on Earth was analyzing the footage frame by frame.
