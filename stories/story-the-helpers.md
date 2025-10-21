@@ -1705,3 +1705,896 @@ The Federation emblem appeared on screen—the wireframe globe, the laurels, the
 > "We will continue to follow this story as it develops. For now, rescue operations continue, and Private Naoko Yoshika's actions last night are credited with saving dozens of lives. Whatever questions remain about how she did it, the results speak for themselves."
 
 The broadcast moved to other coverage, but the video remained viral. By mid-morning, it had been viewed fifty million times worldwide. By afternoon, every news agency on Earth was analyzing the footage frame by frame.
+
+## Chapter 5: Revelation
+
+### JSDF Emergency Operations Center, Ichigaya
+### November 20, 2026 - 0930 hours JST
+
+Private Naoko Yoshika sat at a metal table in a conference room that felt far too large for the occasion. The chair was uncomfortable. Her hands were folded in her lap to keep them from shaking. She'd slept perhaps three hours, showered, changed into a fresh uniform, and reported as ordered.
+
+Across from her sat seven people who looked like they hadn't slept at all.
+
+Major Tanaka occupied the center position, his expression carefully neutral. To his left sat Colonel Hayashi, the senior JSDF officer overseeing all Landmate operations in the Kanto region. To his right, General Kimura from Defense Ministry liaison. The others were civilians—two robotics professors from Tokyo University, a systems engineer who'd been part of the original Landmate evaluation team, and a woman in a dark suit who'd been introduced as being from the Cabinet Office but whose exact role Naoko didn't catch.
+
+They'd been questioning her for forty minutes.
+
+The table between them was covered with tablets showing freeze-frames from the viral video. Naoko could see herself from a dozen angles—pounding on Unit Six's chest, climbing into the cockpit, the Landmate's first uncertain movements. The footage had been viewed nearly eighty million times worldwide now. Someone had helpfully mentioned that number right before they started the debrief.
+
+Colonel Hayashi scrolled through something on his tablet, then looked up at her.
+
+> "Walk us through the harness sequence again. You said it activated automatically when you entered the cockpit?"
+
+> "Yes sir. As soon as I swung my legs over the seat, the restraints started moving. Bands around my ankles first, then my legs, arms, torso. It happened very quickly. Maybe ten seconds total."
+
+One of the professors—Dr. Yamamoto, the older one with gray hair—leaned forward.
+
+> "Did you feel pain? Pressure? How tight were the restraints?"
+
+> "Tight enough that I couldn't move, sir. But not painful. They... conformed to my limbs. Like they were measuring me." Naoko paused, trying to find the right words. "The pressure was constant but not uncomfortable. Like wearing a very tight wetsuit, maybe."
+
+> "And the contact points on your head?"
+
+> "Behind my ears, base of my neck, temples. Cold at first, then warm. They didn't hurt, but I could feel them. Mapping something, I think. Reading my movements."
+
+The systems engineer, a man named Takahashi, was typing notes rapidly.
+
+> "You said the interface activated immediately after the cockpit sealed. Describe what you saw."
+
+Naoko had already described this twice, but she understood they needed to hear it again. Make sure her story stayed consistent. Make sure she wasn't making things up or hallucinating from stress.
+
+> "The interior lit up. Not bright, just... ambient light everywhere. Then the view changed. Suddenly I was looking at the street from the Landmate's head, three meters up. My perspective shifted. I could still feel my body in the seat, but I could see through the machine's sensors."
+
+> "How did you know how to move?"
+
+> "I didn't, sir. Not at first. I tried moving my hand and the Landmate's hand moved. When I wanted to look around, the view followed my head movements. It felt... natural. Like the machine was reading my intentions and translating them into motion."
+
+General Kimura, who'd been silent until now, set down his tablet.
+
+> "Private Yoshika. You understand the seriousness of what you did. Unit Six represents technology we don't fully understand, provided by an organization we cannot contact. It is, by any measure, the most valuable piece of equipment in our inventory. Yet you climbed inside it without authorization, without training, without any way to know if you would survive the experience."
+
+Naoko's throat felt dry. She nodded.
+
+> "Yes sir. I understand that now."
+
+> "So explain to us why you did it."
+
+The question she'd been dreading. Naoko looked down at her hands, then back up at the panel. Seven sets of eyes watching her. Judging whether what she'd done was heroism or recklessness or something else entirely.
+
+> "Sir, I'm not a large person. One hundred fifty centimeters tall. Barely fifty kilograms. When that aftershock hit and the building came down, when I heard people screaming for help..." She paused, organizing her thoughts. "I couldn't move the debris. I couldn't lift the concrete. I couldn't reach the people trapped underneath. I'm trained as an operator, but in that moment, operating meant nothing. I needed to be there, physically there, doing the work. And I couldn't."
+
+She looked at Unit Six's image on one of the tablets. The machine that had amplified her will into something powerful enough to matter.
+
+> "But inside the Landmate, I had the power to render real assistance. To actually help people, not just coordinate or give commands from a safe distance. My size didn't matter anymore. My strength didn't matter. The machine gave me the capability to do what needed to be done. To pull people from rubble. To lift concrete that would have taken a crane. To reach survivors that conventional rescue teams couldn't get to in time."
+
+She met General Kimura's gaze directly.
+
+> "You said I couldn't have known if I would survive the experience, sir. You're right. I didn't know. But in that moment, it wouldn't have mattered. If climbing into that machine meant people lived because of what I could do, then whether I survived doing it seemed... less important. At least I would have tried. At least I would have done something that mattered."
+
+Naoko looked down at her hands briefly, then back up.
+
+> "I know what I did was unauthorized. I know I should have reported to my unit, waited for orders, followed protocol. But people were dying, sir. And for the first time in my career, I had the power to save them. So I did."
+
+The room was silent for a long moment.
+
+Major Tanaka was the first to speak, his voice quiet.
+
+> "How many rescues, Yoshika? Over the course of the night."
+
+> "I don't know, sir. I lost count after twenty sites. Thirty, maybe? The thermal signatures just kept appearing. I'd finish one extraction and move to the next."
+
+> "The preliminary reports say you saved at least sixty people directly. Possibly more that we haven't confirmed yet. You operated continuously for four and a half hours, performing rescues that would have required specialized equipment and multiple teams."
+
+Naoko didn't know how to respond to that. She stayed silent.
+
+Colonel Hayashi set down his tablet and leaned back in his chair, exchanging a look with General Kimura. The General nodded slightly.
+
+> "Private Yoshika," Colonel Hayashi said, his tone shifting from interrogation to something more formal. "By all rights, you should be facing a court martial. Unauthorized use of military equipment. Failure to report to your unit. Operating technology without proper authorization or training. Any one of those charges would be sufficient grounds for disciplinary action."
+
+Naoko felt her stomach drop. She'd known this was coming, but hearing it stated so plainly made it real.
+
+General Kimura picked up where Hayashi left off.
+
+> "However, what you discovered changes the equation entirely. You've proven that the Landmates can be piloted. That they respond to human operators with remarkable fidelity. That they amplify human capability in ways we never understood when we were treating them as remotely-operated platforms. This changes everything about how we deploy these machines, how we train personnel to use them, and how we understand the Federation's intentions in providing them."
+
+The General paused, looking at his colleagues before continuing.
+
+> "Which is why, effective immediately, you're being promoted to Sergeant and assigned to develop Japan's Landmate pilot training program."
+
+Naoko blinked. She must have misheard.
+
+> "Sir... I don't understand."
+
+> "You're being promoted," Colonel Hayashi repeated. "And you're being placed in charge of establishing training protocols, safety procedures, and operational doctrine for piloted Landmate operations. We need someone who understands how these machines work from the inside. Someone who can teach others what you learned."
+
+> "But sir, I only spent four and a half hours inside one. I barely understand what I did. I can't possibly—"
+
+Colonel Hayashi cut her off, his expression somewhere between amused and deadly serious.
+
+> "Sergeant Yoshika, you spent four and a half hours piloting a Landmate. That's four and a half hours more than anyone else on this planet. Which makes you, whether you like it or not, the world's leading expert on the subject."
+
+The words hung in the air.
+
+Naoko opened her mouth. Closed it. Opened it again. No words came out.
+
+The Colonel was right. The realization settled over her like a weight. Seven weeks ago, one hundred sixty-two nations had received Landmates. Thousands of operators had been trained in voice commands and radio direction. But until last night, no one—not in Japan, not in America, not anywhere—had climbed inside one and learned to pilot it.
+
+She was the only person in the world who knew what that interface felt like. How the harness read movements. How the display presented information. How intention translated into motion. How feedback let you gauge weight and resistance.
+
+Four and a half hours of experience. And it made her the global expert.
+
+> "I..." Naoko struggled to find words. "Sir, other nations will figure this out too. Someone will—"
+
+> "Someone will," General Kimura agreed. "Probably within days, now that the video has shown it's possible. But right now, in this moment, you are the only person who has done this. The only person who can describe what it's like, what to expect, how to adapt. Every hour of advantage we have in understanding this capability is an hour we can use to develop proper training, to avoid mistakes, to ensure our personnel are prepared."
+
+Dr. Yamamoto leaned forward.
+
+> "Sergeant Yoshika, we need you to document everything. Every detail you can remember about the interface, the controls, the feedback systems. What worked. What didn't. What surprised you. What felt intuitive. We're starting from absolute zero here, and you're the only data point we have."
+
+Major Tanaka, who'd been watching her carefully throughout the exchange, spoke again.
+
+> "This isn't a punishment, Yoshika. It's recognition that you've stumbled onto something that no amount of conventional analysis could have discovered. The Federation gave us these machines and told us we'd operate them with our own personnel. We thought that meant giving orders. You've shown us they meant something far more direct. Now we need you to help us understand what that means."
+
+Naoko looked around the table at the seven people who'd been interrogating her. They were all watching her now with expressions that had shifted from judgment to expectation. They weren't asking if she could do this. They were telling her she had to.
+
+Because nobody else could.
+
+> "I'll do my best, sir," she finally managed to say.
+
+> "Your best just saved sixty people and changed our understanding of technology from an organization we can't even contact," Colonel Hayashi said. "I think we can work with that."
+
+He stood, and the others followed suit. The debriefing was apparently over.
+
+> "You have forty-eight hours to write up everything you remember about piloting Unit Six. After that, we'll start developing training protocols. The UN Initiative meeting is this afternoon—expect that every nation with Landmates will be trying to replicate what you did. We need to be ahead of that curve."
+
+Naoko stood as well, her mind still reeling.
+
+> "Yes sir. I understand."
+
+> "And Sergeant Yoshika?" General Kimura added as she turned to leave. "Get some sleep. You're going to be very busy very soon."
+
+She saluted, received salutes in return, and left the conference room in a daze.
+
+In the hallway outside, Naoko leaned against the wall and tried to process what had just happened.
+
+Twenty-four hours ago, she'd been a private, one of dozens of operators coordinating Landmate deployments during a disaster response. Now she was a sergeant, promoted in the field, assigned to build a training program for a capability that had been discovered by accident.
+
+The world's leading expert on Landmate piloting.
+
+Because she'd spent four and a half hours inside one.
+
+She started laughing. Quietly at first, then harder, until she had to cover her mouth to keep from being heard down the hall. The absurdity of it. The weight of it. The terrifying reality that Colonel Hayashi was absolutely right.
+
+She was the expert. By default. By accident. By necessity.
+
+And somehow, she was going to have to figure out how to teach other people to do what she'd barely understood how to do herself.
+
+---
+
+### JSDF Training Ground, Chitose Air Base, Hokkaido
+### November 22, 2026 - 0845 hours JST
+
+Sergeant Naoko Yoshika stood on a raised platform overlooking the training ground and tried very hard not to throw up.
+
+Twelve hours of sleep hadn't been enough. Neither had the forty-eight hours she'd spent writing and rewriting her report, trying to capture details about an experience that felt more like body memory than knowledge she could articulate. The report had ended up being thirty-seven pages long, filled with phrases like "the harness seemed to read intention" and "feedback manifests as pressure sensation" that sounded inadequate even as she wrote them.
+
+But the UN Initiative had moved with terrifying speed. Within twenty-four hours of her debriefing, they'd selected the first training cohort. Sixteen candidates from eight nations, flown to Japan on military transport, assembled at Chitose because it was remote enough to avoid press attention and had enough space for what they were about to attempt.
+
+Sixteen people who were about to trust their lives to her expertise.
+
+Four and a half hours of expertise.
+
+The cadets stood in formation on the tarmac below, their postures military-correct despite the disparate uniforms. She could see Americans, Germans, Brazilians, an Indonesian, two Kenyans, a Mexican officer, an Australian, a Canadian, two more Japanese besides herself, and several others whose nationality she wasn't certain of. All of them had been selected for prior engineering or heavy equipment experience. All of them had scored high on the Initiative's aptitude tests. All of them had volunteered to climb into machines that might kill them.
+
+Behind them, arranged in two neat ranks, stood ten Landmates. Units borrowed from multiple nations' inventories, shipped to Hokkaido specifically for this training. They stood motionless in the cold morning air, their gray armor dusted with frost, waiting.
+
+Major Tanaka stood beside Naoko on the platform, his presence both reassuring and terrifying. He'd made it clear this morning: she was running the training. He was there for support and oversight, but the program was hers. The cadets were hers. The responsibility was hers.
+
+She'd thrown up twice before leaving her quarters. The second time had been dry heaving because her stomach was already empty.
+
+> "Sergeant," Tanaka said quietly. "They're waiting."
+
+Naoko took a breath. Held it. Released it slowly. Her hands wanted to shake, so she clasped them behind her back where no one could see. The sergeant's insignia on her uniform still felt foreign, like she was wearing someone else's rank.
+
+She stepped forward to the microphone.
+
+> "Good morning. I'm Sergeant Naoko Yoshika, JSDF Engineering Corps. As of forty-eight hours ago, I'm also the only person on Earth who has piloted a Landmate in operational conditions."
+
+Her voice came out steadier than she felt. The cadets' attention focused on her with an intensity that made her skin crawl.
+
+> "That makes me the world's leading expert on this subject. Which sounds impressive until you realize it means I have four and a half hours of experience. Four and a half hours that I spent making things up as I went, reacting to crisis conditions, with no training and no preparation."
+
+She paused, making eye contact with several of the cadets. An American whose nametape read MARTINEZ. One of the Kenyans, OMONDI. The German officer, FISCHER.
+
+> "So let me be very clear: I don't have all the answers. I barely have any answers. What I have is experience—recent, terrifying, life-or-death experience with technology I still don't fully understand. And over the next two weeks, I'm going to share everything I learned, everything I felt, everything I discovered while trying not to die or kill the people I was trying to save."
+
+She gestured toward the Landmates behind the formation.
+
+> "These machines are not vehicles. They're not equipment you operate from a distance. They're amplifiers. When you climb inside one, it reads your body, maps your movements, translates your intentions into motion that can lift tons of concrete or pull people from burning buildings. The harness will restrain you completely—and I mean completely. You will not be able to move anything except tiny muscle movements. And those tiny movements will control three meters and several tons of machinery."
+
+Naoko pulled out her tablet, displaying an image of a Landmate's open cockpit that she'd grabbed from her own helmet camera footage.
+
+> "The first time the harness activates, it's terrifying. Bands will wrap around every major joint. Struts will lock against your limbs. Contact points will press against your skull. The cockpit will seal, and for about five seconds, you'll be in complete darkness while the interface initializes. During those five seconds, your brain will tell you that you're trapped, that you've made a terrible mistake, that you need to get out immediately."
+
+She looked at each cadet in turn.
+
+> "You need to override that instinct. The panic is natural. I felt it. You will feel it. The harness needs you to be still, to let it map your body, to give it time to calibrate. Five seconds of absolute trust in a system you don't understand."
+
+Martinez's hand went up. Naoko nodded at her.
+
+> "Sergeant, what happens if someone can't override that instinct? What if they panic?"
+
+Naoko hesitated. Honesty felt more important than confidence right now.
+
+> "I don't know for certain. I presume the Landmate will release you safely—the Federation machines seem designed with operator safety in mind. But I can't guarantee that. I didn't panic badly enough to test it. Which means our first few pilots will be helping us discover the answer to that question."
+
+She let that sink in.
+
+> "This is volunteer training. Anyone who wants to stop at any point can stop. What I can tell you is that fighting the harness isn't the solution. If you need out, you stay calm and clearly state your intention to exit. The machine has responded to voice commands for months—I'm betting it will respond to that one too. But we're all learning together here. No judgment, no penalty for discovering you're not compatible with this. Better to find out in a controlled environment than during an actual emergency."
+
+She meant it. The idea of forcing someone through the harness sequence made her feel ill.
+
+> "Once the interface activates, you'll experience a perspective shift. Your viewpoint will elevate to the Landmate's head—three meters up. You'll still feel your body in the cockpit, but you'll be seeing through the machine's sensors. This is disorienting. I nearly fell over on my first step because my brain couldn't reconcile where my body was versus where my eyes were."
+
+Omondi raised his hand.
+
+> "How long does the disorientation last?"
+
+> "For me? About thirty seconds of movement. Your brain adapts fast—it has to, or you'd never learn to walk. But those first steps are dangerous. You're controlling tonnage with muscle movements you normally use for walking to the bathroom. Too much force, too fast, and you'll face-plant into the tarmac. Or worse, step on something you didn't mean to."
+
+She pulled up another image on the tablet—a diagram she'd sketched of the feedback system.
+
+> "The harness provides proprioceptive feedback. When you lift something heavy, you feel resistance—not the actual weight, but proportional pressure that tells you how much load you're under. When you touch something, you feel contact through the machine's sensors translated into pressure against your hands. It's not perfect. You won't feel texture or temperature the same way. But you'll know when you're gripping something, how hard you're gripping it, and whether you're about to crush it."
+
+Fischer's hand went up.
+
+> "The video showed you running. How does acceleration feel?"
+
+Naoko had to think about that one. How did she describe something that had felt both natural and terrifying?
+
+> "Each stride covers about three times what your legs normally would. Your brain compensates—the interface stabilizes your view, dampens the impact feedback. But mentally, you're moving faster than you've ever moved on foot. The first time I ran, I had to consciously tell myself not to slow down, not to fight the momentum. The machine wants to move efficiently. You just have to trust it and let it."
+
+She looked at the assembled cadets, seeing her own fear reflected in some of their faces. Good. They should be scared. She was scared, and she'd already done this.
+
+> "Over the next two days, we'll do ground instruction. I'll walk you through every detail I can remember about the interface, the harness, the feedback systems. You'll watch my helmet camera footage frame by frame. You'll study the schematics we've mapped of the cockpit interior. We'll discuss body mechanics, weight distribution, spatial awareness at an elevated perspective—everything I can think of that might help prepare you for what you're about to experience."
+
+She gestured toward the Landmates again.
+
+> "And then, on day three, you'll climb inside one. One at a time. Supervised. With emergency extraction procedures in place and medical personnel standing by. Because despite everything I can teach you, despite every detail I can share, you won't really understand what it's like until the harness wraps around you and the cockpit seals."
+
+Naoko paused, choosing her next words carefully.
+
+> "I need you all to understand something. The Landmate pilots you become won't be like me. You'll be better. You're getting actual training, structured learning, preparation. I learned by trial and error during a crisis. You're learning in a controlled environment where mistakes won't kill anyone. By the end of this program, you'll have knowledge I had to figure out the hard way—if I figured it out at all."
+
+She met Major Tanaka's eyes briefly. He gave her a small nod of approval.
+
+> "I can't promise this will be easy. I can't promise you'll all succeed. I can't even promise you'll want to succeed once you experience what it's like inside those machines. What I can promise is that I'll share everything I know, teach you everything I learned, and do everything I can to prepare you for the moment when you need to decide whether you can trust a Federation machine with your body and your mind."
+
+The morning air was cold enough that she could see her breath. Somewhere in the distance, a crow called. The Landmates stood silent behind the formation, waiting with infinite patience for humans to figure out what they were meant to do.
+
+Naoko straightened her shoulders.
+
+> "Welcome to Landmate pilot training. I hope you're ready to learn, because I'm definitely not ready to teach. But ready or not, we're doing this together. Questions?"
+
+Every hand in the formation went up.
+
+Naoko felt her stomach drop again, but she smiled despite the panic clawing at her chest.
+
+> "Okay. Let's start with the basics."
+
+She stepped down from the platform, tablet in hand, and walked toward the assembled cadets. Behind her, Major Tanaka remained on the platform, watching with an expression that suggested he understood exactly how terrified she was and approved of her doing it anyway.
+
+The first cadet, Martinez, lowered her hand and spoke.
+
+> "Sergeant, the harness—does it hurt when it restrains you?"
+
+Naoko thought back to that moment in Unit Six, the bands wrapping around her limbs with inexorable precision.
+
+> "No. It's tight, but not painful. The restraints conform to your body—snug pressure, constant, but not crushing. Your circulation isn't cut off. You can breathe normally. And you can move."
+
+She saw several surprised expressions.
+
+> "Not freely. The cockpit is cramped, and the harness keeps you properly positioned. But you can shift your weight, adjust your posture slightly, move your limbs within the restraints. I think—and this is speculation—that the harness allows movement because your brain needs it. For proprioception, kinesthetic awareness. If you were completely immobilized, your brain couldn't maintain proper body mapping. The restraints hold you in place but let you move enough that your nervous system stays calibrated."
+
+Naoko gestured with her hands, mimicking small movements.
+
+> "What you can't do is thrash around or make large movements. The cockpit is maybe sixty centimeters wide. You're seated, slightly reclined, with the harness keeping you centered. Think of it like a racing harness or a fighter jet restraint system, but more sophisticated. Tight enough to keep you positioned correctly, loose enough that you can still shift and adjust."
+
+> "And that doesn't cause panic?"
+
+Naoko laughed, a short, sharp sound.
+
+> "Oh, it absolutely causes panic. For the first thirty seconds, my brain was screaming at me. But the harness responds to intention, not force. Small movements. Micro-adjustments in your muscles that it translates into macro-movements for the machine. Once you understand that, once you feel the Landmate's hand move when you twitch your finger, the panic starts to fade. Because suddenly you're not trapped. You're amplified."
+
+She looked at the sixteen faces watching her, processing that information.
+
+> "Next question?"
+
+The hands went up again, and Naoko began to teach.
+
+---
+
+Two hours later, they'd moved to a briefing room. Naoko stood at the front, her tablet connected to a large display showing sketches and diagrams she'd drawn during those forty-eight hours of documentation. The cadets sat at tables, notebooks open, styluses poised over tablets. Major Tanaka observed from the back of the room, silent.
+
+Naoko pulled up an image—a rough schematic of the cockpit interior she'd drawn from memory.
+
+> "The interface. This is where it gets both intuitive and strange."
+
+She highlighted the cockpit walls in her diagram.
+
+> "When you're sealed inside, the cockpit walls seem to disappear. Not literally—they're still there, solid armor between you and the outside world. But the interface projects the Landmate's visual feed across every interior surface. Three-hundred-sixty-degree vision, seamlessly stitched together, displayed on the walls around you. Your brain interprets it as transparency, like you're sitting in a glass sphere three meters off the ground."
+
+Fischer raised his hand.
+
+> "How disorienting is the height difference?"
+
+> "Very, at first. Your eyes are telling you you're three meters up, but your inner ear is telling you you're still at normal seated height. For the first thirty seconds, maybe a minute, your balance feels wrong. I kept expecting to feel the sway you'd get from actually being that high up, but there's nothing. You're seated low in the chest, protected, stable. The Landmate's gyroscopic systems keep the view steady even when you're moving."
+
+She pulled up another diagram, this one showing a pilot's field of view with various interface elements floating in space.
+
+> "Once the perspective shift settles, you start noticing the interface elements. Information overlays that appear in your vision—but not on a screen. They're projected into your visual field, augmented reality style. Status indicators, environmental data, targeting reticles if you were using weapons systems. All of it presented in your native language."
+
+Omondi leaned forward.
+
+> "How much information appears? Is it overwhelming?"
+
+Naoko shook her head, emphasizing this point.
+
+> "This is critical: the interface only shows you what you need, when you need it. Never more. During my first minutes inside, I saw basic status information—power levels, orientation compass. When I started lifting debris, load indicators appeared. When I needed to find survivors, thermal overlays activated. The system seems to anticipate what's relevant to your current task and presents exactly that."
+
+She circled several elements in her diagram.
+
+> "I never felt drowned in data. Never had to dismiss pop-ups or navigate menus. The interface is... intelligent. Contextual. If you're walking, you see terrain mapping. If you're lifting something, you see structural analysis and weight distribution. If you're looking at a person, you might see vital signs through thermal imaging. But you never see all of it at once. Just what matters right now."
+
+Martinez was typing notes rapidly.
+
+> "How do you access additional information if you need it?"
+
+> "Intention, mostly. If I looked at something and wanted more information about it, details would appear. If I focused on a menu element, it would expand. Eye tracking, maybe, or something reading my attention patterns through the neural contacts. I didn't have to consciously activate anything. The interface responded to what I was trying to do."
+
+Naoko pulled up a still from her helmet camera footage—the view from inside the cockpit during one of the rescues. The cadets could see the thermal signatures highlighted in orange, the structural integrity indicators, the load feedback displayed as a subtle bar graph.
+
+> "Look at this frame. I'm holding approximately four tons of concrete. The load indicator is visible but not intrusive—a simple bar in my peripheral vision. The thermal signatures showing trapped survivors are highlighted, but not so bright they're distracting. The structural damage to the building is indicated by color-coded overlays, but they're translucent enough that I can still see the actual debris. Everything is present but nothing is in the way."
+
+The Australian cadet—his nametape read CHEN—raised his hand.
+
+> "What about the text labels? Are they floating in 3D space or flat on your vision?"
+
+> "Flat, but positioned in 3D. They appear at the distance of whatever they're labeling. So if I'm looking at something ten meters away, the label appears ten meters away too, not floating in front of my face. Your eyes don't have to refocus. The interface maintains depth consistency."
+
+Naoko zoomed in on another section of the image.
+
+> "And here's something I only realized after the fact: I could read all of this while moving. Running, actually. The view stabilization is so good that the interface elements stayed perfectly readable even during high-speed motion. The Landmate's gyroscopes and the display system work together to keep your visual field stable. It's like having the world's best camera stabilization built into your eyes."
+
+She paused, making sure they were following.
+
+> "The really impressive part is how fast you adapt. Within ten minutes, I stopped thinking about the interface at all. It became like peripheral vision—you're aware of it, you can look at it when you need to, but most of the time you're just... using it. Your attention goes to what matters, and the information appears. It feels natural in a way that shouldn't be possible for technology this advanced."
+
+Fischer spoke up again.
+
+> "You mentioned the cockpit walls seem transparent but aren't. What happens if the display system fails?"
+
+Naoko hesitated, then shrugged.
+
+> "I don't know. I assume you'd be sitting in a dark metal box with no way to see out. But I also assume the Federation didn't design these machines to fail catastrophically. The technology we've seen from them is robust beyond anything we can produce. My best guess? Multiple redundant systems, failsafes we haven't identified. But that's speculation."
+
+She pulled up a new diagram—a simplified representation of the sensory feedback system.
+
+> "Beyond the visual interface, there's haptic feedback. The harness translates resistance into pressure against your limbs. When I lifted that concrete slab, I felt the weight—not as actual force on my muscles, but as proportional feedback. Pressure signals telling me how much load I was under, where the center of mass was, whether the object was stable or shifting."
+
+Naoko demonstrated with her hands, mimicking gripping something heavy.
+
+> "Your fingers don't close completely when the Landmate's hands grip something. You feel resistance through the harness, pressure against your palms and fingers that maps to what the machine is touching. It's sophisticated enough that I could adjust my grip pressure on a human body versus on concrete. The feedback was different. Softer, more yielding for flesh, rigid and unforgiving for stone."
+
+She paused, considering her next words carefully.
+
+> "The concrete slabs I was lifting—four, maybe five tons—they felt light. Manageable. Not effortless exactly, but nowhere near what I imagine lifting something at the Landmate's actual capacity would feel like. Which suggests to me that those loads were well within the machine's operational range. What I don't know is how the feedback scales at higher loads. If you try to lift something that truly challenges the Landmate's limits, does the feedback remain proportional? Does it plateau? Do you start straining for real inside the cockpit? I genuinely don't know. I never pushed the machine hard enough to find out."
+
+The cadets were absorbed now, the initial nervousness giving way to technical curiosity. They were engineering types, Naoko realized. Show them a problem, and they wanted to understand how it worked.
+
+> "Temperature feedback exists but it's muted. I walked into a burning building and felt warmth, not heat. The interface showed me temperature readings overlaid on my vision, but the physical sensation was dampened. Same with cold—I felt it, but not intensely. I think the system protects you from sensory overload while still providing enough feedback that you can gauge environmental conditions."
+
+Omondi raised his hand.
+
+> "What about audio? Can you hear outside the cockpit?"
+
+> "Yes, but filtered. External sounds come through clearly—voices, structural groans, debris shifting. But they're processed. Loud noises don't deafen you. I stood near an active fire with water pressure systems going and heard everything at a manageable volume. The audio system seems to have automatic gain control, maybe active noise cancellation for dangerous frequencies. You can hear what you need to hear, at levels that won't damage your hearing."
+
+Naoko advanced to another diagram, this one showing the contact points on the pilot's skull.
+
+> "The head frame—these contact points around your skull—they track your head position and orientation. That's how the view follows when you look around. The machine reads where your head is pointing and adjusts the display accordingly. The frame also provides force feedback if necessary—if the Landmate's head encounters resistance or impact, you'll feel subtle pressure cues. But it's not reading your thoughts or neural signals. Just physical position."
+
+She gestured to indicate the frame's placement.
+
+> "The control interface itself—how your intentions translate into machine action—I think that's through the harness reading your muscle tension and micro-movements. When you intend to move your arm, your muscles begin tensing in preparation even before large-scale movement starts. The harness is sensitive enough to detect those preparatory signals and translate them into machine motion. That's why the response feels so immediate. You're not waiting for your arm to actually move—the system reads your intention to move and executes it."
+
+The cadets were absorbed now, the initial nervousness giving way to technical curiosity. They were engineering types, Naoko realized. Show them a problem, and they wanted to understand how it worked.
+
+She had no idea if she was doing it right. No idea if her explanations made sense or if her descriptions were accurate. No idea if any of these sixteen people would successfully pilot a Landmate or if they'd all wash out after experiencing the harness.
+
+But she was trying. And for right now, forty-eight hours after being promoted and assigned an impossible task, trying was all she had.
+
+The questions continued. The sun rose higher over Hokkaido. The Landmates stood waiting.
+
+And Sergeant Naoko Yoshika, the world's first and only Landmate pilot, did her best to transform four and a half hours of terrified improvisation into something resembling knowledge.
+
+Because sixteen people were depending on her.
+
+And soon, maybe hundreds more.
+
+---
+
+### JSDF Training Ground Mess Hall, Chitose Air Base
+### November 22, 2026 - 1845 hours JST
+
+Naoko's tray held curry rice, a piece of grilled fish, miso soup, and pickled vegetables. Standard JSDF fare, but after eight hours of non-stop teaching, it looked like a feast.
+
+She'd intended to eat alone, to decompress from the intensity of the day, to process everything that had happened. But Martinez had spotted her entering the mess hall and waved her over to a table where several cadets had already gathered. Refusing would have been rude. More importantly, it would have made her look like she was avoiding them.
+
+So now she sat at a long table with Martinez, Omondi, Fischer, Chen, and three others whose names she was still learning—a Brazilian lieutenant named Silva, one of the Japanese cadets called Tanaka (no relation to the Major), and a Canadian corporal whose nametape read DUBOIS.
+
+The conversation had been carefully professional for the first ten minutes. Questions about tomorrow's schedule, clarifications on details from the briefing, speculation about the training progression. But exhaustion and shared anxiety had a way of dissolving formality. Someone made a joke about the mess hall curry. Someone else complained about the Hokkaido cold. The atmosphere gradually shifted from instructor-and-students to something more collegial.
+
+Naoko was halfway through her fish when Silva asked the question she'd been dreading.
+
+> "Sergeant, can I ask you something personal?"
+
+Naoko set down her chopsticks.
+
+> "You can ask. I might not answer, but you can ask."
+
+> "When you were standing there, after the aftershock, and Unit Six opened up for you—what were you thinking? Like, in that exact moment?"
+
+The table went quiet. Everyone was listening now, even the cadets who'd been having their own conversation at the far end.
+
+Naoko looked down at her tray, considering how honest to be. The professional answer would be something about duty, about responding to crisis, about making a split-second decision to save lives. All of which was true. But also not the whole truth.
+
+> "Honestly? I saw that cockpit open, saw the seat and the harness, and my first thought was Appleseed."
+
+She said it before she could stop herself. Before her brain could engage the filter that reminded her she was supposed to be a sergeant, an instructor, someone these people were trusting with their lives.
+
+Martinez blinked.
+
+> "The manga?"
+
+> "The manga, yeah. Shirow's work. I've read it cover to cover probably a dozen times." Naoko felt heat rising in her cheeks but pushed forward anyway. "When I was a kid, I was obsessed with the idea of landmates—the machines in the story, not our Landmates, though obviously now the connection is... anyway. I loved the concept. Human-sized pilot, machine-sized capability, seamless integration. And when Unit Six's chest opened, when I saw that seat and that harness, it looked exactly like what Shirow had drawn."
+
+She laughed, a slightly embarrassed sound.
+
+> "So I climbed in. Barely thought about it. Just saw the cockpit and thought 'oh, it's like the manga' and... got in. Which in retrospect was possibly the most reckless thing I've ever done, but in the moment it felt obvious. Of course you climb into the giant robot that looks like it came out of your favorite manga. What else would you do?"
+
+The table was silent for a beat.
+
+Then Fischer started laughing. Not mocking—genuine, surprised laughter.
+
+> "I've seen the Appleseed films. The CGI ones from the 2000s. I must have watched them five times when I was in university."
+
+Chen leaned forward.
+
+> "Wait, seriously? That's what you were thinking? Not 'I should assess the safety risks' or 'I should report this discovery' but 'this looks like my favorite manga so I'm climbing in'?"
+
+Naoko felt her face burning now.
+
+> "When you say it like that, it sounds even worse than it was."
+
+> "No, no," Martinez said, shaking her head. "That's... actually that makes perfect sense. I mean, not sense like it was a rational decision, but sense like—" She paused, organizing her thoughts. "You saw something from fiction become real, and your brain just... accepted it. Like the manga had already prepared you for what you were seeing, so it didn't seem impossible anymore."
+
+Omondi was nodding slowly.
+
+> "I read a paper once about science fiction and technological adoption. The hypothesis was that fictional representation of technology makes people more willing to accept it when it becomes real. They've already imagined it, visualized it, seen characters interact with it. So when the actual technology appears, there's less cognitive barrier to using it."
+
+He looked at Naoko.
+
+> "You climbed into that Landmate because Shirow had already shown you what it would look like to climb into a landmate. The fiction pre-loaded the concept. Made it feel familiar instead of alien."
+
+Naoko considered that.
+
+> "Maybe. Or maybe I was just sleep-deprived and running on adrenaline and made a stupid decision that happened to work out."
+
+> "Both can be true," Silva said with a grin. "Stupid decisions that work out are the best kind of luck."
+
+Fischer was still looking thoughtful.
+
+> "The Appleseed films, they showed the landmates as extension of the pilot, yes? Not vehicle to operate but body to inhabit. That's how you've been describing the interface all day. Like you become the machine rather than controlling it."
+
+> "That's exactly how it feels," Naoko said. "I kept trying to find words for it in my report, but Shirow already had the words. The manga called them 'landmates' because they were partners, extensions, amplifiers. That's what they are. What ours are, I mean. The Federation's Landmates." She stumbled over the terminology. "I don't know if that's coincidence or if whoever designed them was also a manga fan, but the parallel is uncanny."
+
+Tanaka, the Japanese cadet, spoke up for the first time.
+
+> "Shirow consulted with robotics engineers when he was developing the designs. I read that in an interview once. He wanted the landmates to be theoretically plausible, even if the technology didn't exist yet. Maybe whoever built our Landmates was working from the same engineering principles. Or maybe—" He paused, as if considering whether to voice the thought. "Maybe they read the same manga and thought it was a good idea."
+
+The table fell quiet again, but this time the silence felt less awkward and more contemplative.
+
+Martinez broke it.
+
+> "So what you're telling us is that tomorrow, when we climb into those cockpits, we should be thinking about Appleseed?"
+
+Naoko picked up her chopsticks again, a smile tugging at her lips despite herself.
+
+> "I'm telling you that when the harness wraps around you and the interface lights up, your brain is going to be screaming that this is impossible. That machines like this don't exist. That human-machine integration this seamless can't be real." She met Martinez's eyes. "And in that moment, it might help to remember that we've been imagining this for decades. That artists and writers and engineers have been drawing pictures of exactly this kind of technology since before we were born. The Federation might have built it, but humans dreamed it first."
+
+She took a bite of curry, chewed, swallowed.
+
+> "Or maybe I'm just trying to rationalize why I climbed into an unknown machine because it looked cool. Both are possible."
+
+Dubois, who'd been silent until now, finally spoke.
+
+> "My little brother is obsessed with mecha anime. Gundam, Code Geass, all of it. When I told him I'd been selected for Landmate training, you know what he said?"
+
+Naoko raised an eyebrow.
+
+> "He said 'Lucky bastard, you get to pilot a real mecha.' And I told him these aren't mecha, they're disaster response equipment. They're tools, not weapons. But..."
+
+Dubois gestured vaguely.
+
+> "But they kind of are, aren't they? Mecha, I mean. Not in the military sense, but in the 'human climbs inside giant robot' sense. We've been watching fiction about this for generations, and now it's real. And instead of fighting aliens or other robots, we're going to be saving people from earthquakes and floods. Which is honestly better than what most mecha anime shows."
+
+Chen laughed.
+
+> "Your brother is going to lose his mind when you tell him what the cockpit looks like."
+
+> "Oh, I'm not telling him anything," Dubois said quickly. "He'd never forgive me for having this experience while he's stuck in high school."
+
+The conversation drifted after that, moving to lighter topics—comparisons of various mecha shows, debates about which ones had the most realistic technology, speculation about whether the Federation had entertainment media of their own. Naoko let the talk wash over her, finishing her dinner while the cadets debated the relative merits of different fictional robot designs.
+
+It felt good. Normal, almost. These people who were about to trust their lives to her teaching, who'd spent all day absorbing technical information with intense focus, were revealing themselves to be exactly what she'd been at their age: people who'd grown up on science fiction and were now facing the reality of it.
+
+Maybe that would help them. Maybe having a cultural framework for understanding the impossible would make the impossible easier to accept.
+
+Or maybe, like her, they'd just climb in because it looked cool and figure out the rest later.
+
+Either way, they'd find out soon enough.
+
+> "Sergeant," Martinez said, pulling Naoko back to the present. "Thank you. For being honest about the manga thing. It makes you seem more... human, I guess. Less like some superhuman who just instinctively knew what to do."
+
+Naoko snorted.
+
+> "I'm definitely not superhuman. I'm someone who made an impulsive decision based on childhood nostalgia and happened to survive it. Learn from my successes, but don't replicate my decision-making process."
+
+> "But it worked," Fischer pointed out.
+
+> "This time," Naoko agreed. "Which is why you're all getting actual training instead of just being told to climb in and figure it out. My way worked, but it was also stupid and dangerous and could have gone very differently. Your way will be better."
+
+She stood, picking up her tray.
+
+> "Get some sleep, all of you. Tomorrow's another full day of ground instruction, and then the day after that, someone's going to be the first of you to climb into a cockpit. You'll want to be rested."
+
+The cadets murmured acknowledgments, but she could see the tension creeping back into their postures. The reminder that this wasn't just theoretical anymore. In two days, they'd be doing what she'd done. Putting their bodies into machines they didn't fully understand, trusting Federation technology with their lives.
+
+Naoko dropped her tray at the collection point and headed for the door. Behind her, the conversation at the table continued, quieter now but still there. These sixteen people, from eight different nations, bonding over shared anxiety and shared childhood memories of robots and heroes and impossible machines.
+
+She'd told them about Appleseed. About climbing in because it looked familiar, because fiction had prepared her brain to accept something that should have been unacceptable. She'd been honest in a way she probably shouldn't have been, admitting to impulsiveness and nostalgia and decisions made without proper thought.
+
+But walking back to her quarters through the cold Hokkaido night, Naoko decided she didn't regret it.
+
+They needed to know that she was human. That she'd been scared. That she hadn't had some grand revelation or special insight.
+
+She'd just recognized something from a manga and climbed aboard.
+
+And if that helped them find the courage to do the same when their turn came, then maybe childhood nostalgia was exactly the right tool for the job.
+
+---
+
+### JSDF Training Ground, Chitose Air Base, Hokkaido
+### November 24, 2026 - 0915 hours JST
+
+Two days of ground instruction. Sixteen cadets had absorbed everything Naoko could teach them about the interface, the harness, the feedback systems, the perspective shift. They'd watched her helmet camera footage until they could recite the sequence of events. They'd studied diagrams until the cockpit layout was burned into their memories. They'd discussed theory and practice and speculation until there was nothing left to discuss.
+
+Now they stood in two ranks on the tarmac, medical personnel standing by, emergency extraction equipment positioned near each Landmate, and Major Tanaka observing from the platform with an expression that suggested he was prepared for anything from total success to catastrophic failure.
+
+Naoko stood before the first Landmate in the row. Behind her, Martinez waited in a flight suit—standard JSDF issue, modified with sensor patches that would monitor her vitals during the attempt. The American's face was calm, but Naoko could see the tension in her shoulders, the way her hands kept wanting to clench and unclench at her sides.
+
+> "Okay," Naoko said, turning to face Martinez. "Last chance to back out. No judgment, no penalty. You can step back right now and no one will think less of you."
+
+Martinez shook her head.
+
+> "I'm good, Sergeant. Let's do this."
+
+> "Remember: the harness will activate as soon as you're seated. Stay calm during the restraint sequence. Don't fight it. The darkness lasts about five seconds while the interface initializes. Your brain will panic. Override it. And if at any point you need out, say so clearly. We think the Landmate will respond to voice commands for release, but we're testing that theory right now."
+
+> "Understood."
+
+Naoko stepped aside, gesturing toward the Landmate.
+
+> "Unit One, open cockpit."
+
+The machine's chest plates split with mechanical precision. Two panels folded upward, two downward, revealing the amber-lit interior. The seat. The waiting harness. The empty space designed to hold a human body and translate its will into three meters of mobile capability.
+
+Martinez stared at the open cockpit for a long moment.
+
+> "It really does look like the movies," she said quietly.
+
+Then she stepped forward, grabbed the handholds, and pulled herself up.
+
+Naoko watched as Martinez climbed into the frame, movements careful and deliberate. The American swung her legs over the seat's edge, positioned herself, settled into the slight recline. For a moment, nothing happened. Martinez sat in the open cockpit, looking small against the machine's bulk, her expression somewhere between anticipation and terror.
+
+Then the harness activated.
+
+Bands erupted from the seat's sides, wrapping around Martinez's ankles with smooth, inexorable precision. More bands followed, coiling around her thighs, her hips, her waist. Struts extended from the seat back, conforming to her arms. The restraints moved with mechanical certainty, each one tightening just enough to hold position without crushing.
+
+Naoko saw Martinez's breathing speed up, saw her hands start to pull against the restraints, saw the moment of panic cross her face.
+
+> "Stay calm, Martinez," Naoko called up. "Let it map you. Don't fight it."
+
+Martinez nodded, a jerky movement, and forced her hands to relax. The head frame extended, contact points pressing against her skull behind her ears, at the base of her neck, along her temples. The American's eyes widened, but she held still.
+
+The chest panels began to close.
+
+Martinez's last visible expression before the armor sealed was pure fear, quickly suppressed. The panels met, merged, became seamless. The Landmate stood silent, its chest now showing no sign that it held a human inside.
+
+Naoko counted. Five seconds. Six. Seven.
+
+The Landmate's head moved. Just a small motion, looking left, then right, then down at its own hands. The movements were uncertain, exploratory, like a person waking up and trying to remember where they were.
+
+Eight seconds. Nine.
+
+The Landmate took a step forward. Hesitant. Too much force—the foot came down hard, cracking the tarmac. The machine froze.
+
+Ten seconds.
+
+Another step, more controlled this time. The Landmate's foot placed deliberately, weight distributed properly. Then another step. The movements were becoming more fluid, more natural, as Martinez's brain adapted to the amplified body.
+
+Naoko let out a breath she hadn't realized she'd been holding.
+
+> "Martinez, can you hear me?"
+
+The Landmate's head turned toward her, the motion smooth now. A pause, then the machine raised one hand in what was unmistakably a thumbs-up gesture.
+
+Behind Naoko, several of the watching cadets started laughing. Not mockery—relief. Shared relief that it worked, that Martinez was okay, that the interface was real and functional and everything Naoko had promised it would be.
+
+> "How do you feel?" Naoko called up.
+
+Another pause. Then the Landmate's hand moved to its chest, fingers spreading as if Martinez was trying to touch her own body through three meters of machine. The gesture was oddly human, made strange by the scale.
+
+> "Martinez, I need verbal confirmation. Are you okay in there?"
+
+The Landmate's external speakers crackled to life. Martinez's voice came through, slightly distorted but recognizable.
+
+> "I'm okay. It's... Sergeant, it's exactly like you said. The view, the interface, the feedback. Everything. I can feel the tarmac under my feet. I can feel the weight of my arms. But I'm also still in the seat, still restrained, and my actual body isn't moving at all. It's disorienting but manageable."
+
+> "Can you walk forward five meters and then stop?"
+
+The Landmate moved. Five steps, precisely measured, each one more confident than the last. At five meters, it stopped smoothly, no stumbling, no over-correction.
+
+> "Good. Now turn around."
+
+The machine pivoted, the motion fluid. Martinez was adapting fast.
+
+> "Raise your right hand."
+
+The right hand rose, fingers flexing.
+
+> "Make a fist. Open it. Point at me."
+
+Each command executed perfectly. The Landmate's hand moved with precision, the pointing gesture so natural that Naoko almost forgot she was looking at a three-meter machine rather than a person.
+
+> "Martinez, I want you to exit now. Tell the Landmate to open the cockpit."
+
+A pause. The Landmate stood motionless for several seconds. Then:
+
+> "Unit One, open cockpit."
+
+The chest panels split apart, revealing Martinez still strapped into the harness, her face flushed, her eyes wide. The restraints released in reverse order—head frame first, then arms, then torso, then legs. Each band retracting smoothly, leaving Martinez free to move.
+
+She sat there for a moment, breathing hard, hands gripping the seat's edge.
+
+Naoko stepped forward.
+
+> "Can you climb out?"
+
+Martinez nodded, then carefully pulled herself up and out of the cockpit. Her movements were shaky, and Naoko positioned herself to catch her if she fell, but Martinez made it down to the tarmac on her own feet.
+
+The medical personnel moved in immediately, checking her vitals, asking questions, running through their checklist. Martinez answered on autopilot, her eyes still fixed on the Landmate standing behind her with its cockpit open, waiting for the next pilot.
+
+Naoko gave her a moment, then stepped close enough to speak quietly.
+
+> "Status?"
+
+Martinez turned to look at her, and Naoko saw something in her expression that she recognized. Not fear, not shock, not even relief.
+
+Wonder.
+
+> "It's real," Martinez said, her voice barely above a whisper. "Everything you told us about the manga, about the interface, about becoming the machine instead of controlling it. It's all real. I was three meters tall, Sergeant. I could feel every ton of that frame like it was my own body. And when I moved my hand—" She held up her actual hand, staring at it. "—the Landmate's hand moved with it. Not after it. With it. Simultaneous. Like the machine was just... me. Bigger me."
+
+She looked back at Naoko.
+
+> "Shirow got it right. He got all of it right. How is that possible?"
+
+Naoko had been asking herself the same question since Tokyo.
+
+> "I don't know. Maybe he consulted better engineers than we thought. Maybe the Federation read the same manga. Maybe there's only one logical way to design this kind of interface and everyone who thinks about it long enough reaches the same conclusions."
+
+She gestured toward the waiting cadets, who were all watching Martinez with expressions of intense curiosity and barely suppressed excitement.
+
+> "What I do know is that you just proved it works. That the training works, that the system is reliable, that humans can interface with these machines safely. Which means it's time for the next volunteer."
+
+Martinez glanced at the other cadets, then back at the Landmate.
+
+> "They're going to love it," she said. "The panic during the harness sequence is real, and the first step is terrifying. But once you adapt, once your brain accepts what's happening..." She trailed off, searching for words. "It's the most incredible thing I've ever experienced. And I was only in there for three minutes."
+
+The medical personnel finished their checks. No elevated stress markers beyond what was expected. No signs of neurological effects. Heart rate and blood pressure returning to normal. Martinez was, by all measurable standards, perfectly fine.
+
+Naoko turned to face the assembled cadets.
+
+> "You all saw that. Martinez successfully piloted Unit One, executed basic commands, and exited safely. The interface is confirmed functional. The harness is confirmed safe. The system works."
+
+She paused, scanning their faces.
+
+> "Next volunteer?"
+
+Fischer stepped forward immediately.
+
+> "Me, Sergeant."
+
+Behind him, Chen was already moving forward as well.
+
+> "I'm after Fischer."
+
+Omondi raised his hand.
+
+> "Third."
+
+Naoko looked at the line forming, at the cadets who minutes ago had been fighting nervousness and doubt, now competing for position. Martinez's success had changed something. The abstract had become concrete. The impossible had become achievable.
+
+They'd all seen her climb in and climb out, unharmed and exhilarated.
+
+Now they wanted to experience it themselves.
+
+Major Tanaka descended from the observation platform, approaching Naoko with an expression of carefully controlled satisfaction.
+
+> "Well done, Sergeant," he said quietly. "Both to you and to Cadet Martinez."
+
+> "She did it herself, sir. I just told her what to expect."
+
+> "You prepared her well enough that she succeeded on the first attempt, in front of an audience, with full knowledge that failure would affect everyone watching." Tanaka glanced at the growing queue of volunteers. "That's training, Yoshika. Real training. And it worked."
+
+He looked back at the Landmate, its cockpit still open, waiting for Fischer to climb aboard.
+
+> "Continue. Let's get all of them certified today if possible. The world is watching, and they need to see that we can produce functional pilots."
+
+Naoko nodded and turned back to Fischer, who was already moving toward the Landmate with the determined expression of someone who'd made up his mind and wasn't going to let doubt interfere.
+
+> "Unit One, reset for next pilot," Naoko called out.
+
+The cockpit indicators cycled through a brief sequence, amber light pulsing once, then steadying.
+
+> "Fischer, ready?"
+
+The German officer nodded sharply.
+
+> "Ready, Sergeant."
+
+> "Then climb aboard. Let's see if the second one's as smooth as the first."
+
+Fischer grabbed the handholds and pulled himself up with practiced efficiency. Behind him, the other cadets watched with an intensity that had shifted from anxiety to anticipation.
+
+The line of volunteers stretched back across the tarmac. Sixteen people who'd come to Hokkaido uncertain if they could pilot a Landmate.
+
+Sixteen people who now knew, with certainty, that they could.
+
+Because Martinez had just shown them.
+
+And if Martinez could do it, so could they.
+
+---
+
+### BBC News Centre, London
+### November 25, 2026 - 2100 hours GMT
+
+The BBC News at Nine logo faded, replaced by anchor Fiona Bruce at the desk. Behind her, a graphic showed a Landmate in mid-stride, overlaid with the text: LANDMATE PILOTS - NEW ERA.
+
+> "Good evening. In what's being called a watershed moment for international disaster response, the first class of trained Landmate pilots has successfully completed certification in Japan. Sixteen candidates from eight nations have now demonstrated the ability to directly pilot the machines provided by the Federation, marking a significant evolution in how these technologies will be deployed."
+
+The screen cut to footage from Chitose Air Base. Landmates moving across the tarmac with fluid precision, their movements unmistakably human in character despite their mechanical nature. The video showed pilots climbing into open cockpits, the machines sealing around them, then walking, lifting equipment, performing coordinated maneuvers.
+
+> "Until now, Landmates have been operated through voice commands and radio direction—effective for many tasks, but limited in precision and responsiveness. Direct piloting, as demonstrated this week in Hokkaido, allows for unprecedented control and capability. The implications for emergency response are significant."
+
+The footage shifted to show a Landmate carefully stacking shipping containers, each movement deliberate and controlled, the machine's massive hands adjusting grip with remarkable delicacy.
+
+> "To help us understand what this development means, I'm joined by Dr. Elena Vasquez, director of the European Centre for Robotics and Autonomous Systems. Dr. Vasquez, thank you for joining us."
+
+The screen split to show Dr. Vasquez in the studio, a woman in her fifties with sharp eyes and an expression of barely contained enthusiasm.
+
+> "Thank you for having me, Fiona."
+
+> "Let's start with the basics. We've had Landmates for two months now. What changes when they can be piloted directly rather than commanded remotely?"
+
+Dr. Vasquez leaned forward slightly.
+
+> "Everything changes. Voice command operation is fundamentally limited—you're describing what you want the machine to do, and it interprets and executes. There's latency, there's ambiguity, there's a disconnect between intention and action. Direct piloting eliminates all of that. The pilot's movements translate immediately into machine movements. Their spatial awareness becomes the machine's spatial awareness. It's the difference between telling someone to pick up an egg versus picking up the egg yourself."
+
+> "And in practical terms, for disaster response?"
+
+> "Consider a collapsed building. With voice commands, you might direct a Landmate to 'move that beam' or 'clear this debris.' The machine will do it, but you're limited by how precisely you can describe what you want. With direct piloting, the operator can feel the weight, judge the stability, make real-time adjustments as they're lifting. The precision increases exponentially. The speed of operation increases. The complexity of tasks that become possible increases."
+
+Fiona nodded.
+
+> "The footage from Japan shows pilots performing quite sophisticated maneuvers. How quickly can someone learn to pilot a Landmate?"
+
+> "That's what makes this remarkable. According to the UN Initiative's preliminary reports, the training program developed in Japan took just four days—two days of ground instruction, two days of practical training. The interface is apparently intuitive enough that humans can adapt very quickly. The pilots describe it as 'natural' despite controlling machines that are three meters tall and weigh several tons."
+
+The screen showed more footage: a Landmate walking backward, turning smoothly, reaching down to pick up a piece of equipment with careful precision.
+
+> "The key innovation seems to be the interface itself. The Federation machines apparently provide haptic feedback—the pilot feels resistance proportional to what the machine is experiencing. They see through the machine's sensors as if through their own eyes. The control system reads muscle tension and micro-movements. It's remarkably sophisticated technology that we're only beginning to understand."
+
+> "There's been some controversy about nations accepting technology they don't fully understand. Does this development change that calculation?"
+
+Dr. Vasquez paused, choosing her words carefully.
+
+> "What we're seeing is that the Landmates are proving themselves through practical demonstration. Yes, we don't understand their power systems. Yes, we can't replicate the technology. But we're learning to use it effectively, to train personnel, to develop operational doctrine. The machines are doing exactly what they were offered to do—providing unprecedented disaster response capability. And now, with direct piloting, that capability has expanded dramatically."
+
+Fiona turned to address the camera directly.
+
+> "The European Union announced this afternoon that it will be establishing its own Landmate pilot training center in Germany, using the Japanese program as a template. France, Spain, and Italy are expected to send their first candidates within the month. Similar announcements have come from nations across the globe."
+
+The screen showed a map of Europe with markers indicating nations that had accepted Landmates and were now planning training programs.
+
+> "Dr. Vasquez, we're looking at potentially hundreds of trained pilots by early next year. What does that mean for disaster response capability?"
+
+> "It means we're entering a new era. Imagine a major earthquake—multiple buildings collapsed, fires, infrastructure damage. In the past, rescue efforts were limited by equipment, by accessibility, by the physical capabilities of rescue workers. Now we can deploy pilots who can lift debris that would require cranes, who can work in environments too dangerous for humans, who can operate continuously for hours without the fatigue that limits human rescuers."
+
+She gestured at the footage still playing in the background.
+
+> "These machines don't replace conventional rescue operations—they augment them. But the augmentation is so significant that it fundamentally changes what's possible. We can reach people faster, work in more dangerous conditions, lift heavier loads, operate more precisely. The mathematics of disaster response have changed."
+
+> "And the pilots themselves—who are they? What kind of person can do this?"
+
+> "According to the reports from Japan, the first class was selected from personnel with engineering backgrounds and heavy equipment experience. But what's interesting is that psychological compatibility seems to be more important than physical capability. The interface does the actual work—the pilot provides intention and judgment. Size, strength, traditional physical fitness metrics appear to be less relevant than mental adaptability and spatial awareness."
+
+Fiona leaned forward.
+
+> "There's been some speculation about the origins of this technology. The resemblance to science fiction concepts, particularly Japanese manga and anime, has been noted by multiple observers. Do you think that's significant?"
+
+Dr. Vasquez smiled slightly.
+
+> "I think it's fascinating. Whether the Federation was influenced by human fiction or whether there's some convergent design philosophy at work, the result is that many people find these machines oddly familiar. They've seen similar concepts in media, in entertainment, in speculative fiction. That cultural preparation may actually be helping with adoption—the technology seems less alien because we've been imagining it for decades."
+
+The screen cut back to footage of a Landmate carefully placing a rescued training dummy on the ground, its movements gentle despite its size.
+
+> "What we're seeing here is science fiction becoming science fact. Human-machine integration at a level that was purely theoretical even six months ago. And now, thanks to the training program developed in Japan, it's becoming operational doctrine."
+
+Fiona turned back to the main camera.
+
+> "The UN International Landmate Coordination Initiative will be holding an emergency session next week to formalize training standards and pilot certification requirements. Nations are being encouraged to establish their own programs while maintaining compatibility with international protocols."
+
+The graphic behind her changed to show statistics: 162 nations with Landmates, 16 trained pilots, dozens of training programs in development.
+
+> "Two months ago, these machines arrived without instructions, standing silent while nations struggled to understand their purpose. Today, they're being piloted by trained operators, performing tasks that would have been impossible before. The transformation has been rapid, and the implications are still being understood."
+
+She turned to Dr. Vasquez one final time.
+
+> "Final question: where does this go next? What comes after learning to pilot them?"
+
+> "The obvious next step is deploying them operationally. We've had successful training in controlled conditions. Now we wait for the inevitable—the next earthquake, flood, or disaster where trained pilots can demonstrate these capabilities in real-world conditions. That's when we'll truly understand what we have."
+
+Dr. Vasquez paused.
+
+> "But I suspect we're also going to see innovation in how they're used. The Federation gave us tools and let us figure out their application. As more pilots are trained, as more nations develop operational experience, we'll discover capabilities and uses that weren't immediately obvious. This is just the beginning."
+
+Fiona nodded and turned back to the camera.
+
+> "Dr. Elena Vasquez, thank you for your insights."
+
+> "Thank you, Fiona."
+
+The screen returned to Fiona at the desk.
+
+> "The first class of Landmate pilots is expected to return to their respective nations next week, where they'll begin training additional personnel. Japan has announced plans to train fifty more pilots by year's end. The United States, Germany, and Brazil have similar programs in development. What began as a mystery in September has become, in just two months, an operational capability that may reshape how humanity responds to disaster."
+
+The BBC News logo appeared beside her.
+
+> "More on this story as it develops. This is BBC News."
+
+The broadcast moved to other stories, but in the production booth, the director was already fielding calls from government liaisons, from other news agencies, from military analysts requesting the footage for their own reports.
+
+Around the world, in one hundred sixty-two nations, people watched the news and understood that something fundamental had shifted.
+
+The Landmates were no longer mysterious sculptures standing silent in depot yards.
+
+They were being piloted. Controlled. Integrated into human operations with a speed and efficiency that suggested the Federation had designed them specifically for this purpose.
+
+And somewhere, in the cold November night over Hokkaido, ten Landmates stood in perfect formation on a training ground, their cockpits sealed, their systems ready, waiting for the next class of pilots to learn what it meant to become three meters tall.
+
+Because now, they knew it was possible.
+
+And that changed everything.
