@@ -581,3 +581,80 @@ Naoko dropped to her knees and started digging.
 Behind her, a JSDF officer stood watching, speaking quietly into his radio.
 
 > "Confirm visual on Unit Six. Still operating independently. I've been tracking it for three hours now, twenty-plus rescue sites. Sir, I need clarification on operational protocols. The briefings said these units require voice commands or radio direction. But Unit Six is moving with purpose, analyzing structures, triaging casualties, using its jump jets for tactical positioning. It's acting like it has situational awareness. Like it's making decisions. Sir, with respect, I need to know if there's something about these machines we weren't told. Because what I'm watching doesn't match any of our training materials."
+
+---
+
+### Koto Ward, Tokyo
+### November 19, 2026 - 0512 hours JST
+
+Naoko was extracting her thirty-second victim—or was it thirty-third?—when she finally registered what she'd been half-hearing all night.
+
+Voices. Distant, tinny, like listening to a conversation in another room. She'd dismissed them as radio chatter from nearby rescue teams, background noise filtered through the Landmate's sensors. But now, as she knelt in the pre-dawn darkness with another unconscious survivor cradled in her mechanical hands, the voices resolved into something clear.
+
+> "—epeat, all units respond. Yoshika, if you can hear this, acknowledge immediately. This is Major Tanaka. Yoshika, respond."
+
+Naoko froze.
+
+That was her command frequency. Her radio. The one she'd been wearing when she climbed into the Landmate four and a half hours ago.
+
+She focused on the communications menu in her lower right vision. It expanded, showing active channels. There—frequency 462.5625 MHz, the JSDF coordination channel. The same frequency her personal radio had been set to. The Landmate had been monitoring it the entire time.
+
+The entire time she'd been missing.
+
+The realization hit her like cold water. She'd vanished during the aftershock. Her team didn't know where she was. They'd been calling for her all night while she'd been sealed inside Unit Six, too focused on rescues to notice the voices trying to reach her.
+
+She was MIA.
+
+Naoko set down the survivor, watched the medical team swarm forward to take over, then stood. The sky was lightening to the east, the smoke-filled darkness giving way to gray dawn. She'd worked through the entire night.
+
+She turned and started running back toward where she'd last seen the coordination center. The Landmate's stride ate up ground, but exhaustion was catching up with her now. Her actual body, strapped motionless in the harness for hours, ached in ways she hadn't felt while focused on the rescues.
+
+The coordination area came into view. Or what was left of it—the building had sustained damage from the aftershock, but personnel had set up a new command post using emergency equipment and portable stations. Naoko could see Major Tanaka standing beside a communications vehicle, other operators at their stations, all of them focused on their screens and radios.
+
+She approached slowly, suddenly uncertain. How exactly did you explain this?
+
+Major Tanaka looked up as the Landmate's footsteps approached, his expression cycling through confusion, recognition, and something that might have been anger.
+
+> "Unit Six. Report your status and operator location."
+
+Naoko stood there, three meters tall, covered in concrete dust and soot, and realized she had no way to respond. She'd never figured out how to use the external speakers.
+
+Tanaka waited. When no response came, he grabbed his radio.
+
+> "Unit Six, acknowledge. Who is commanding you? Where is your operator?"
+
+Naoko looked down at the interface, scanning through menus she'd barely explored in her focus on rescue operations. Communications. Sensors. Systems. There had to be something for external audio, but she couldn't find it in the chaos of submenus and options.
+
+She gave up. There was only one way to answer him.
+
+Naoko scanned the Systems menu. There—the option she'd seen earlier, dismissed while focused on rescues.
+
+"Dismount"
+
+She focused on it. A confirmation prompt appeared: "Disengage harness and open cockpit? Yes/No"
+
+Yes.
+
+The harness released all at once. Bands unwound from her ankles, wrists, shoulders. Struts retracted from her arms. The belts across her chest loosened and withdrew. The pressure points around her head released, the metallic structure pulling away from her skull.
+
+The chest panels began to open.
+
+Amber light flooded in as the armor plates folded outward—two up, two down—revealing the pre-dawn Tokyo street. Naoko blinked against the sudden exposure, her vision no longer augmented by the Landmate's sensors. Just her own eyes now, adjusting to the real world after hours inside the interface.
+
+She tried to stand and immediately felt the crash.
+
+Four and a half hours of adrenaline-fueled rescues, of moving tons of debris, of making life-or-death decisions every few minutes. The emergency response high that had kept her moving through exhaustion and fear finally broke. Her legs felt like water. Her hands trembled uncontrollably. Every muscle in her body seemed to realize at once that it had been pushed far beyond its limits.
+
+Naoko half-fell, half-climbed down from the cockpit, grabbing handholds in the Landmate's frame to control her descent. Her arms barely supported her weight. Her fingers slipped on the armor's smooth surface.
+
+She stumbled the last meter, caught herself on the Landmate's leg, and finally stood on her own feet. The pavement felt strange under her boots. Too solid. Too stable. After hours of feeling tons of mechanical weight through the interface, her own body felt impossibly light.
+
+Naoko turned around.
+
+Major Tanaka stood three meters away, surrounded by stunned operators and rescue personnel who'd gathered to watch. His face had gone past anger into something harder to read. Shock, maybe. Disbelief. The controlled fury of a commander who'd spent five hours thinking one of his personnel was dead or trapped, only to discover she'd been operating a three-meter-tall rescue machine the entire time.
+
+Naoko tried to stand at attention. Managed something closer to exhausted swaying. Opened her mouth to explain, to report, to say something that would make sense of what she'd done.
+
+Major Tanaka's voice cut across the coordination area, sharp enough to carry over the background noise of rescue operations and idling equipment.
+
+> "Private Naoko Yoshika, just what the hell did you think you were doing?!?"
