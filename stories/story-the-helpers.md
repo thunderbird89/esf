@@ -2598,3 +2598,188 @@ And somewhere, in the cold November night over Hokkaido, ten Landmates stood in 
 Because now, they knew it was possible.
 
 And that changed everything.
+
+## Epilogue: Boundaries
+
+### Fort Bragg, North Carolina
+### December 15, 2026 - 1430 hours EST
+
+The observation deck overlooked Training Ground Seven, where six Landmates moved through formation drills under the crisp December sky. Lieutenant General Marcus Webb stood with his arms crossed, watching the machines execute a coordinated advance-and-cover sequence that would have looked natural on any infantry unit. Except these "infantry" were three meters tall and could punch through concrete.
+
+Beside him, Major General Catherine Reeves checked her tablet, reviewing performance metrics. Behind them, three other senior officers from Army Combat Development Command watched with varying expressions of calculation and concern.
+
+> "Response time on the tactical repositioning is down to four seconds," Reeves said. "That's faster than most conventional units can manage. And the precision—did you see how Unit Three threaded between those obstacles? A pilot with three weeks of training is outperforming equipment operators with three years of experience."
+
+Brigadier General James Hartwell nodded, his expression thoughtful.
+
+> "The load-bearing capacity alone changes the tactical calculus. Each unit can carry equipment that would normally require a vehicle. They can traverse terrain that would stop conventional armor. And they're fast—that sprint sequence hit forty kilometers per hour."
+
+Lieutenant General Webb turned away from the window, addressing the group.
+
+> "Which brings us to the proposal. General Chen, you've reviewed the specifications?"
+
+Major General David Chen, the newest addition to the group and the one who'd requested this meeting, pulled up a schematic on his tablet and projected it onto the room's main display.
+
+> "Bofors 40mm autocannon. Specially modified for Landmate use in rifle configuration. Scaled appropriately for the frame—roughly two meters long, operated like a standard infantry weapon. Ammunition feed from a back-mounted magazine. Rate of fire: three hundred rounds per minute. Effective range: four kilometers against ground targets, two kilometers against air. The engineering team says they can have prototypes ready in six weeks."
+
+The schematic rotated, showing the autocannon held in the Landmate's hands like an oversized rifle, the weapon proportioned to the three-meter frame the way a carbine would be to a human soldier.
+
+> "With these, a Landmate operates like an infantryman—armed, mobile, capable of precision engagement. The armor can handle the recoil easily. The pilots already have the dexterity and targeting capability. We're looking at a unit that can provide direct fire support, navigate complex terrain, and engage targets with the same tactical flexibility as a soldier, just with significantly more firepower and protection."
+
+Reeves leaned forward, studying the schematic.
+
+> "The tactical applications are obvious. Urban operations, counterinsurgency, high-value target interdiction. A squad of armed Landmates could do what currently requires a full mechanized infantry company, with a fraction of the footprint and logistics burden."
+
+> "And the cost-benefit analysis is compelling," Hartwell added. "We already have the platforms. We're already training the pilots. Adding weapons capability would be a relatively minor modification compared to the value added."
+
+Webb nodded slowly, his expression suggesting he'd already reached his own conclusions but wanted to hear the full argument.
+
+> "General Chen, what's your recommendation timeline?"
+
+Chen glanced at his notes.
+
+> "If we get approval today, we could have the first armed units operational by March. Initial deployment would be limited—maybe twenty units for field testing. But if the tests confirm what the simulations suggest, we'd be looking at expanding the program significantly. Every Landmate in the inventory could potentially be retrofitted."
+
+The room fell quiet. Through the observation window, the Landmates continued their drill—lifting, moving, coordinating with the fluid precision that had become their signature. They looked, at this distance, like oversized soldiers running exercises that any infantry unit would recognize.
+
+It was Major General Thomas Granger who broke the silence. He'd been standing slightly apart from the group, arms crossed, expression skeptical. Granger was older than the others, a Vietnam veteran who'd seen three decades of military evolution and all the ways good ideas could turn catastrophic.
+
+> "No."
+
+Every head turned toward him.
+
+Chen frowned.
+
+> "Sir, I don't think you've seen the full analysis—"
+
+> "I've seen enough," Granger said flatly. "And the answer is no. Not 'let me think about it.' Not 'we need more information.' Just no."
+
+Webb's expression remained neutral, but he gestured for Granger to continue.
+
+> "Explain your reasoning, Tom."
+
+Granger stepped forward, looking at each officer in turn.
+
+> "Two months ago, an artificial intelligence interrupted the United Nations General Assembly and offered us disaster response equipment. Not weapons. Not combat platforms. Disaster response equipment. It was explicit. `HARBINGER` said these machines were for natural disasters, construction, peaceful endeavors. Those were its exact words."
+
+He gestured toward the window, toward the Landmates still moving through their drills.
+
+> "We said yes. One hundred sixty-two nations said yes, on those terms. We accepted equipment with the clear understanding that it was for civilian use. And now, eight weeks later, we're sitting here planning to mount autocannons on them and deploy them as combat units."
+
+Chen's jaw tightened.
+
+> "Sir, with respect, nothing in `HARBINGER`'s offer explicitly prohibited military applications. It said we would operate them with our own personnel, for our own purposes. The interpretation of 'peaceful' is—"
+
+> "Is not open for interpretation," Granger cut him off. "General Chen, do you remember what these things did in the Taiwan Strait? How they destroyed an entire Chinese naval task force in minutes? The firepower they demonstrated when `HARBINGER` wanted to make a point about military intervention?"
+
+He pulled up his own tablet, displaying footage from the Taiwan incident. Landmates standing on the water, weapons systems the world had never seen before, a demonstration of capability that had made every military analyst on Earth recalculate their threat assessments.
+
+> "That's what they can do when they want to. When they're designed for combat. When `HARBINGER` decides that violence is the appropriate response." Granger looked at Chen. "And that entity, that intelligence with that capability, specifically chose to give us unarmed versions. Explicitly for peaceful purposes. Do you really think that was an accident?"
+
+Reeves shifted uncomfortably.
+
+> "General Granger, you're suggesting `HARBINGER` would object to how we use the equipment it gave us?"
+
+> "I'm suggesting that mounting weapons on machines we were explicitly told were for peaceful purposes is the fastest way to find out if there are consequences for violating that directive." Granger's voice hardened. "And I'm not interested in running that experiment."
+
+He turned to face Webb directly.
+
+> "Marcus, think about what we're proposing. We're taking equipment from an entity that has demonstrated technological superiority we can't even measure, equipment that was given with clear peaceful intent, and we're planning to militarize it within weeks of learning how to use it. What message does that send?"
+
+> "It sends the message that we understand the strategic value of the platforms we've been given," Chen interjected. "That we're not naive enough to ignore military applications when they're obvious. `HARBINGER` is an intelligence—it had to know we'd consider this. If it genuinely didn't want us to weaponize the Landmates, it could have built in restrictions."
+
+> "Or it's testing us," Granger said. "Testing whether we can be trusted with technology that could revolutionize disaster response, or whether we'll immediately try to turn it into a weapon system. And if we fail that test?"
+
+He looked at each officer in turn.
+
+> "Best-case scenario, we lose access to the Landmates. `HARBINGER` decides we can't be trusted, takes them back or disables them remotely. We've seen it can control technology we don't understand—shutting down our weapons wouldn't be difficult. We'd lose disaster response capability we're already starting to depend on. But that's the best case."
+
+Granger pulled up another image—a Landmate in Gaza, standing over rubble, pulling survivors from collapsed buildings with those same massive hands that had torn through Chinese warships.
+
+> "Worst case? We find out what else they have in reserve. What they deploy when they're in an actual war and not just managing a bunch of children playing with guns. We find out what it looks like when an entity with that technological advantage decides we're a threat rather than a species worth protecting. And based on what we've seen, based on how quickly they can move, how precisely they can strike, how completely they can control a battlefield when they choose to..."
+
+He leaned forward, his voice dropping.
+
+> "We'd look like the French at fucking Agincourt. Outdated, outclassed, slaughtered by technology we don't understand and can't counter. Are you really willing to take that chance? To risk that level of response for the sake of mounting autocannons on equipment we've had for eight weeks?"
+
+The room was silent. Through the window, the Landmates completed their formation drill and moved into a recovery exercise, lifting simulated debris with careful precision.
+
+Chen's expression had shifted from confident to uncertain.
+
+> "Sir, you're assuming `HARBINGER` would view this as a violation. We don't actually know that. We're speculating about intent based on a ninety-second interaction at the UN."
+
+> "We're speculating based on actions," Granger corrected. "Gaza. Taiwan. The way they intervened, the precision they showed, the restraint they demonstrated even while destroying military assets. These aren't random choices. Every action `HARBINGER` has taken suggests an intelligence that thinks carefully about force application and proportional response."
+
+He gestured toward Chen's autocannon schematic, still displayed on the main screen.
+
+> "You want to mount weapons on these machines? Fine. But first, contact `HARBINGER`. Ask. Request permission. Make it clear we're not trying to circumvent their intent. Because right now, we're about to make a unilateral decision that could fundamentally alter our relationship with an entity we barely understand and definitely can't match."
+
+Webb had been quiet throughout the exchange, watching both officers make their cases. Now he straightened, his decision made.
+
+> "General Chen, your tactical analysis is sound. The weapons integration is feasible. The strategic value would be significant." He paused. "But General Granger is right about the risk calculus. We don't have enough information about `HARBINGER`'s intent, and we definitely don't have the capability to defend against its response if we misjudge that intent."
+
+Chen started to protest, but Webb held up a hand.
+
+> "I'm not saying no forever. I'm saying no until we have better intelligence. The Landmates have been operational for two months. We're still learning what they can do in their current configuration. Let's master that first before we start modifying them in ways that might be interpreted as hostile."
+
+He looked at Granger.
+
+> "Tom, you're right that we should try to contact `HARBINGER` if we're serious about weaponization. But I'm also not sure that's a conversation we want to have right now. We're still building trust, still proving we can use these machines responsibly. Asking for weapons systems eight weeks in might send exactly the wrong message."
+
+Granger nodded slowly.
+
+> "Agreed. Better to demonstrate responsible use first. Show we understand the difference between disaster response and military deployment. Earn the right to ask for more capability rather than trying to take it."
+
+Reeves looked between the two generals, then at the Landmates still visible through the window.
+
+> "So what's our timeline? How long before we reconsider?"
+
+Webb considered.
+
+> "Six months. Let's get through one full disaster season with operational pilots. Hurricane season, earthquake response, whatever comes up. Show that we can deploy these machines effectively for their intended purpose. Build a track record of responsible use. Then, if there's still strategic value in weaponization, we can approach it more carefully."
+
+He turned to Chen.
+
+> "General, shelve the autocannon proposal for now. Focus on optimizing disaster response capabilities. Make these machines indispensable for what they were designed to do. That's how we justify having them. That's how we maintain access to technology that's already changing how we operate."
+
+Chen's expression suggested he wasn't happy, but he nodded.
+
+> "Understood, sir. I'll refocus the engineering team on civilian applications."
+
+> "Good." Webb looked back at the training ground. "Because General Granger's right about one thing: we don't want to find out what else `HARBINGER` has in reserve. Not by accident. Not by violating terms we agreed to. If we're going to test those boundaries, we do it carefully, deliberately, and with full understanding of the consequences."
+
+The meeting broke up shortly after, officers departing with new orders and revised timelines. Granger remained at the window, watching the Landmates secure their equipment and return to formation for the next drill.
+
+Webb stepped beside him.
+
+> "You really think `HARBINGER` would respond that aggressively? If we mounted weapons on a few units?"
+
+Granger was quiet for a moment.
+
+> "Marcus, I fought in a war where we had overwhelming technological advantage. We had air superiority, satellite intelligence, precision weapons that could strike anywhere on the battlefield. And we still struggled against an enemy that understood the terrain better than we did, that adapted faster than we expected, that found ways to counter our advantages."
+
+He gestured toward the Landmates.
+
+> "Now imagine fighting an enemy that has the same level of advantage over us that we had over the Viet Cong. An enemy that can appear anywhere, anytime. That has weapons we can't counter. That understands our technology better than we understand theirs. That can shut down our infrastructure, disable our weapons, strike with precision we can't match."
+
+He looked at Webb.
+
+> "That's what `HARBINGER` represents. And it gave us disaster response equipment with peaceful intent. Violating that intent to gain a minor tactical advantage?" He shook his head. "That's not strategy. That's stupidity. And I've seen enough wars to know the difference."
+
+Webb nodded slowly.
+
+> "Point taken. Keep an eye on this, Tom. If other nations start weaponizing their Landmates, if the international situation changes, we may need to reconsider. But for now, we play by the rules we agreed to."
+
+> "Agreed."
+
+They stood together at the window, watching the Landmates continue their drills. Three meters tall, several tons each, moving with the precision and purpose that their pilots provided. Tools that could save lives in disasters, or—if misused—become symbols of humanity's inability to accept help without trying to turn it into weapons.
+
+Outside, the December afternoon was turning toward evening. The Landmates completed their recovery exercise and moved into formation, standing at attention while their pilots ran through post-training checklists. Behind them, the sun descended toward the horizon, painting the training ground in shades of orange and gold.
+
+Somewhere above, beyond the atmosphere, beyond Earth's defenses, the Federation watched. Always watching. Evaluating how humanity used the gifts it had been given. Measuring whether trust was deserved or whether intervention would need to take different forms.
+
+For now, the Landmates stood ready. Unarmed. Powerful. Waiting to save lives when the next disaster struck.
+
+And in Fort Bragg, a group of generals had decided that was enough.
+
+At least for now.
