@@ -1,4 +1,11 @@
-# The Helpers
+---
+layout: story
+type: story
+line: main
+title: The Helpers
+permalink: /stories/the-helpers
+timeline: 2026-09-03
+---
 
 ## Chapter 1: The Offer
 
