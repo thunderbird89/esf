@@ -10,7 +10,7 @@ A chronological overview of canonical events in the ESF universe.
 
 ## 1947
 
-**July 7, 1947** - [The Beginning Is A Delicate Time](stories/the-beginning)
+**July 7, 1947** - [The Beginning Is A Delicate Time](/esf/stories/the-beginning)
 - Roswell Incident occurs
 - Sergeant Nathaniel Summers discovers crashed alien craft
 - General John Haytham begins initial investigation
@@ -20,7 +20,7 @@ A chronological overview of canonical events in the ESF universe.
 
 ## 2021
 
-**March 21, 2021** - [The Wraith](stories/the-american-wraith)
+**March 21, 2021** - [The Wraith](/esf/stories/the-american-wraith)
 - CIA asset "Nightingale" (Marcus Adams) compromised in Moscow
 - Alicia Monroe makes desperate plea to Federation
 - First documented Federation covert extraction operation
@@ -30,37 +30,37 @@ A chronological overview of canonical events in the ESF universe.
 
 ## 2022
 
-**March 19, 2022** - [Shade of Gray](stories/story-shade-of-gray) (Investigation begins)
+**March 19, 2022** - [Shade of Gray](/esf/stories/story-shade-of-gray) (Investigation begins)
 - Special Agent Marisa Comey (FBI Technology Crimes Division) finds Federation calling card on desk
 - Jeane LeBouf (MTF-34) contacts FBI regarding domestic EMP threat
 - Russian-origin EMP components traced through Eastern Seaboard ports
 - Far-right extremist network identified targeting major metropolitan areas
 
-**March 19-23, 2022** - [Shade of Gray](stories/story-shade-of-gray) (Investigation develops)
+**March 19-23, 2022** - [Shade of Gray](/esf/stories/story-shade-of-gray) (Investigation develops)
 - ESF provides intelligence through "Cipher" and "Shade" capabilities
 - FBI identifies six priority locations across two states
 - Signal encryption broken, offshore financial networks traced
 - Twelve extremist cell members mapped through impossible-speed intelligence
 
-**March 23, 2022** - [Shade of Gray](stories/story-shade-of-gray) (Newark interdiction)
+**March 23, 2022** - [Shade of Gray](/esf/stories/story-shade-of-gray) (Newark interdiction)
 - Final EMP component shipment arrives Newark docks
 - MTF-34 deploys in powered armor alongside FBI tactical teams
 - Agent James Hartfield witnesses Federation combat capabilities
 - Five suspects apprehended, multiple EMP devices secured
 
-**March 24, 2022** - [Shade of Gray](stories/story-shade-of-gray) (San Francisco operation)
+**March 24, 2022** - [Shade of Gray](/esf/stories/story-shade-of-gray) (San Francisco operation)
 - Additional EMP devices located in San Francisco Mission District
 - FBI team transported via Shade spacecraft to West Coast
 - Orbital surveillance coordinates ground interdiction
 - Q-cars demonstrate physics-defying capabilities in urban pursuit
 
-**March 27, 2022** - [Shade of Gray](stories/story-shade-of-gray) (Aftermath)
+**March 27, 2022** - [Shade of Gray](/esf/stories/story-shade-of-gray) (Aftermath)
 - Marisa Comey debriefed at FBI headquarters
 - Case files prepared for San Francisco DA prosecution
 - ADA Jennifer Park questions evidence timeline and methodology
 - First documented case of Federation parallel construction concerns
 
-**July 16, 2022** - [Shadows in Tel Aviv](stories/the-israeli-wraith)
+**July 16, 2022** - [Shadows in Tel Aviv](/esf/stories/the-israeli-wraith)
 - Israeli pressure on US for Federation technology access
 - Diplomatic tensions over Wraith deployment
 - Ambassador Levi demands explanations
@@ -70,7 +70,7 @@ A chronological overview of canonical events in the ESF universe.
 
 ## 2023
 
-**February 21, 2023** - [Silent Watchers](stories/the-japanese-wraith)
+**February 21, 2023** - [Silent Watchers](/esf/stories/the-japanese-wraith)
 - Japanese Defense Intelligence Agency discusses North Korean provocations
 - Recognition of Federation involvement with US and Israeli forces
 - Growing awareness of Federation influence in regional security
@@ -80,20 +80,20 @@ A chronological overview of canonical events in the ESF universe.
 
 ## 2024
 
-**June 13, 2024** - [Angels in Armor](stories/angels-in-armor)
+**June 13, 2024** - [Angels in Armor](/esf/stories/angels-in-armor)
 - Federation Landmates deploy to Gaza Strip
 - First open peacekeeping intervention by Federation forces
 - IDF encounters with Golem units
 - UN emergency sessions regarding alien technology
 - QR code treaty signed with UN - first formal acknowledgment
 
-**December 6, 2024** - [Adrenaline](stories/adrenaline)
+**December 6, 2024** - [Adrenaline](/esf/stories/adrenaline)
 - Grand Concordance of Interstellar Medicine attacked
 - Terror squad strikes Xenari medical facility
 - Staff Sergeant Logan Carter and medical team respond
 - Human physiological capabilities demonstrated to galactic community
 
-**December 7, 2024** - [The Shadow Alliance](stories/shadow-alliance)
+**December 7, 2024** - [The Shadow Alliance](/esf/stories/shadow-alliance)
 - NATO debates formal Federation cooperation agreement
 - Hungarian and Turkish opposition to partnership
 - Secretary General Stoltenberg advocates for alliance
@@ -103,13 +103,13 @@ A chronological overview of canonical events in the ESF universe.
 
 ## 2025
 
-**January 7, 2025** - [Across the Sea](stories/across-the-sea)
+**January 7, 2025** - [Across the Sea](/esf/stories/across-the-sea)
 - Chinese naval provocations in Taiwan Strait
 - Captain Lu Jianjun leads rogue destroyer flotilla
 - Federation intervention prevents missile attack on Taipei
 - Landmates deployed on Taiwan beaches as deterrent
 
-**August 21, 2025** - [Torchlight](stories/torchlight)
+**August 21, 2025** - [Torchlight](/esf/stories/torchlight)
 - Pirate attack on joint Kryllian-Xenari freighter *Galara's Hope*
 - Naomi Campbell and Leonard Park improvise defense
 - First documented human engineering innovation in space
@@ -119,7 +119,7 @@ A chronological overview of canonical events in the ESF universe.
 
 ## Training Programs
 
-**Ongoing** - [Future Flight](stories/future-flight)
+**Ongoing** - [Future Flight](/esf/stories/future-flight)
 - Federation pilot training program at Vandenberg
 - Introduction of Talon-class fighters with FTL capability
 - Mars and asteroid belt combat scenarios
