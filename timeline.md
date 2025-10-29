@@ -117,6 +117,70 @@ A chronological overview of canonical events in the ESF universe.
 
 ---
 
+## 2026
+
+**September 3, 2026** - [The Helpers](/esf/stories/story-the-helpers) (UN Offer)
+- HARBINGER interrupts UN General Assembly
+- Offers humanitarian Landmates to member nations
+- 162 nations accept in 90-second vote
+- First large-scale technology transfer to civilian authorities
+
+**September 4, 2026** - [The Helpers](/esf/stories/story-the-helpers) (Delivery)
+- Landmates delivered worldwide at 0600 local time
+- Unidentified black aircraft deploy units via jump jets
+- No instructions or documentation provided
+- Units stand motionless for three weeks while nations attempt analysis
+
+**September 29, 2026** - [The Helpers](/esf/stories/story-the-helpers) (Voice Control Discovery)
+- FEMA logistics worker accidentally triggers voice command response
+- Discovery spreads globally within 48 hours
+- Natural language commands in any language confirmed functional
+- Radio frequency monitoring capability discovered
+
+**October 7, 2026** - [The Helpers](/esf/stories/story-the-helpers) (UN Coordination)
+- UN establishes International Landmate Coordination Initiative
+- Training programs and safety protocols developed
+- Data-sharing network created among accepting nations
+- 162 nations begin coordinated Landmate deployment
+
+**November 18, 2026** - [The Helpers](/esf/stories/story-the-helpers) (Tokyo Earthquake)
+- Magnitude 7.8 earthquake strikes Tokyo Bay
+- Aftershock triggers Naoko Yoshika's discovery of piloting capability
+- First human directly pilots Landmate in operational conditions
+- 60+ lives saved during 4.5-hour continuous operation
+
+**November 19, 2026** - [The Helpers](/esf/stories/story-the-helpers) (Viral Discovery)
+- Mobile phone video of Yoshika entering cockpit goes viral
+- 80+ million views within 24 hours
+- Global realization that Landmates can be piloted
+- UN calls emergency session on piloting protocols
+
+**November 20, 2026** - [The Helpers](/esf/stories/story-the-helpers) (Training Program)
+- Sergeant Naoko Yoshika promoted and assigned training development
+- Becomes world's only certified Landmate pilot
+- Tasked with creating international pilot training program
+- 48-hour documentation period produces 37-page report
+
+**November 22-24, 2026** - [The Helpers](/esf/stories/story-the-helpers) (First Training Class)
+- 16 international cadets begin training at Chitose Air Base
+- Two days ground instruction, two days practical training
+- All 16 candidates successfully certified as pilots
+- Martinez becomes second certified pilot globally
+
+**November 25, 2026** - [The Helpers](/esf/stories/story-the-helpers) (International Expansion)
+- First trained pilots return to home nations
+- EU announces training center in Germany
+- Multiple nations establish pilot programs
+- Japan plans 50 additional pilots by year end
+
+**December 15, 2026** - [The Helpers](/esf/stories/story-the-helpers) (Weaponization Debate)
+- US Army Combat Development Command debates arming Landmates
+- Proposal for Bofors 40mm autocannon configuration
+- Lieutenant General Granger argues against militarization
+- Decision made to maintain peaceful-use restriction for six months
+
+---
+
 ## Training Programs
 
 **Ongoing** - [Future Flight](/esf/stories/future-flight)
@@ -124,6 +188,12 @@ A chronological overview of canonical events in the ESF universe.
 - Introduction of Talon-class fighters with FTL capability
 - Mars and asteroid belt combat scenarios
 - Advanced aerospace warfare development
+
+**November 2026-Present** - [The Helpers](/esf/stories/story-the-helpers)
+- International Landmate pilot training program
+- Multiple national training centers established
+- Standardized certification through UN Initiative
+- Hundreds of pilots anticipated by early 2027
 
 ---
 
@@ -137,6 +207,9 @@ A chronological overview of canonical events in the ESF universe.
 - **2024**: Formal UN recognition achieved
 - **2025**: Direct military intervention (Taiwan Strait)
 - **2025**: Deep space operations with galactic allies
+- **2026**: Large-scale civilian technology transfer (Landmates)
+- **2026**: First human-piloted Federation technology (Tokyo)
+- **2026**: International pilot training program established
 
 ---
 
