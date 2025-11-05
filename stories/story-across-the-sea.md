@@ -1383,7 +1383,7 @@ And the *certainty* that whoever - or *whatever* - they were dealing with, was n
 
 Zhang Tao didn't wait for a second warning.
 
-> "Red Blade Two, we're breaking off. Set course one-eight-zero. Return to Wuyishan. Now."
+> "Red Blade Two, we're breaking off. Set course two-seven-zero. Return to Wuyishan. Now."
 
 > "Copy that. Turning."
 
