@@ -2,13 +2,13 @@
 type: story
 layout: page
 line: main
-title: Future Flight
-permalink: /stories/future-flight
+title: Flight of Icari
+permalink: /stories/flight-of-icari
 timeline: 2026-06-15
 ---
 ## Blue Sky Killbox
 
-The coast shimmered under morning haze as Vandenberg Air Force Base came alive with jetwash and radio chatter. Concrete vibrated with the weight of purpose. NATO brass, consultants, and a smattering of civilian observers lined the open-air viewing gantries, craning necks against the Californian sun.
+The coast shimmered under morning haze as Vandenberg Air Force Base came alive with jetwash and radio chatter. Concrete vibrated with the weight of purpose. NATO brass, consultants, and a smattering of civilian observers lined the open-air viewing gantries, craning necks against the Californian sun. Among them, a small delegation from the Portuguese Air Force stood with the quiet confidence of those who already knew what the Talon could do—they'd been flying their own for nearly a year.
 
 On the tarmac, four aircraft sat at idle. Three familiar silhouettes—F-22, Typhoon, Gripen—stood in stark contrast to the alien geometry of the *Talon*. Angular and predatory, its airframe shimmered subtly even at rest, as though deflecting more than radar. *Federation Aerospace Tactical Frame - Talon.* 
 
