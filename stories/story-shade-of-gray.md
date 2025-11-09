@@ -6,8 +6,6 @@ title: Shade of Gray
 permalink: /stories/shade-of-gray
 timeline: 2022-03-19
 ---
-# Shade of Gray
-
 ## Chapter 1: The Calling Card
 
 Special Agent Marisa Comey had learned to trust her gut over fifteen years at the FBI. That morning, walking through the humid Washington air toward the Hoover Building, her gut told her something was off. Nothing concrete—no missed calls, no emergency alerts—just that nagging itch between her shoulder blades that came before the world tilted sideways.
