@@ -2,13 +2,13 @@
 type: story
 layout: page
 line: main
-title: Future Flight
-permalink: /stories/future-flight
+title: Flight of Icari
+permalink: /stories/flight-of-icari
 timeline: 2026-06-15
 ---
 ## Blue Sky Killbox
 
-The coast shimmered under morning haze as Vandenberg Air Force Base came alive with jetwash and radio chatter. Concrete vibrated with the weight of purpose. NATO brass, consultants, and a smattering of civilian observers lined the open-air viewing gantries, craning necks against the Californian sun.
+The coast shimmered under morning haze as Vandenberg Air Force Base came alive with jetwash and radio chatter. Concrete vibrated with the weight of purpose. NATO brass, consultants, and a smattering of civilian observers lined the open-air viewing gantries, craning necks against the Californian sun. Among them, a small delegation from the Portuguese Air Force stood with the quiet confidence of those who already knew what the Talon could do—they'd been flying their own for nearly a year.
 
 On the tarmac, four aircraft sat at idle. Three familiar silhouettes—F-22, Typhoon, Gripen—stood in stark contrast to the alien geometry of the *Talon*. Angular and predatory, its airframe shimmered subtly even at rest, as though deflecting more than radar. *Federation Aerospace Tactical Frame - Talon.* 
 
@@ -672,45 +672,47 @@ They were still trying to breathe.
 
 ---
 
-## The Adults’ Playground
+## The Adults' Playground
 
 They drifted in silence, four Talons hovering on the edge of the world.
 
 Below, the curve of the Earth burned with blues and golds, oceans stitched to atmosphere in perfect silence. Above, the black was deeper than night. Stars hung like ancient sentinels, unblinking.
 
-Inside their cockpits, the pilots still hadn’t fully exhaled.
+In the viewing gantries back at Vandenberg, a small Portuguese delegation observed with particular interest. Having received their own Talons nearly a year earlier, they watched the NATO pilots' orbital ascent with the quiet satisfaction of those who already knew what came next.
+
+Inside their cockpits, the pilots still hadn't fully exhaled.
 
 Kraus flexed his gloved hands slowly, verifying sensation. Lindholm sat utterly still, save for his eyes, which darted from orbit lines to shield readouts to the soft glow of the HUD. Adams was the first to speak, voice raspy in his helmet.
 
-> “We’re not in Kansas anymore.”
+> "We're not in Kansas anymore."
 
-> “You barely made it out of the driveway,” Voss replied, his tone softer than usual.
+> "You barely made it out of the driveway," Voss replied, his tone softer than usual.
 
 He let the silence linger.
 
-> “I brought you up here because I want you to understand what you’re really training for,” he said. “That figure-eight patrol back home? That’s a *kindergarten loop*. This—” he nodded toward the horizon, “—this is where the *adults* play.”
+> "I brought you up here because I want you to understand what you're really training for," he said. "That figure-eight patrol back home? That's a *kindergarten loop*. This—" he nodded toward the horizon, "—this is where the *adults* play."
 
-They didn’t speak. They didn’t need to.
+They didn't speak. They didn't need to.
 
 Below them, the Pacific glinted like a molten coin under sunlight, and far to the north, faint auroras curled along the pole. Their Talons held perfect station with no effort—like they belonged here.
 
-> “We’ll be back in a few days,” Voss said. “You’ll do this again. For longer. Harder. With objectives.”
+> "We'll be back in a few days," Voss said. "You'll do this again. For longer. Harder. With objectives."
 
-> “Combat?” Lindholm asked, finally.
+> "Combat?" Lindholm asked, finally.
 
-> “Eventually,” Voss said. “But first, movement. Pressure. Coordination. It’s different up here. You don’t have drag, lift, terrain. You only have inertia, thrust, and timing. Get any of those wrong... and no one hears you die.”
+> "Eventually," Voss said. "But first, movement. Pressure. Coordination. It's different up here. You don't have drag, lift, terrain. You only have inertia, thrust, and timing. Get any of those wrong... and no one hears you die."
 
 Adams exhaled through his teeth.
 
-> “Hell of a view, though.”
+> "Hell of a view, though."
 
-> “You get used to it,” Voss said. “And then, eventually, you realize—this can be yours.”
+> "You get used to it," Voss said. "And then, eventually, you realize—this can be yours."
 
-He didn’t mean the Talon. He meant *space*.
+He didn't mean the Talon. He meant *space*.
 
-> “The training manual doesn’t talk about this,” Kraus said, voice flat, but not unfeeling.
+> "The training manual doesn't talk about this," Kraus said, voice flat, but not unfeeling.
 
-> “It doesn’t need to,” Voss replied. “The view does the talking.”
+> "It doesn't need to," Voss replied. "The view does the talking."
 
 And for a long moment, no one spoke.
 
@@ -720,37 +722,37 @@ They simply looked.
 
 The descent was gentle—eerie in how little it felt like reentry.
 
-The Talons bled altitude without drag, slipping back into atmosphere like shadows returning to a body. The transition to air-breathing mode occurred automatically at 67,000 feet, marked only by a low, tactile hum through the cockpit as the turbines spun back to life. Control systems dampened the shift, feeding velocity into a high-altitude glide until Vandenberg’s coastline appeared beneath them.
+The Talons bled altitude without drag, slipping back into atmosphere like shadows returning to a body. The transition to air-breathing mode occurred automatically at 67,000 feet, marked only by a low, tactile hum through the cockpit as the turbines spun back to life. Control systems dampened the shift, feeding velocity into a high-altitude glide until Vandenberg's coastline appeared beneath them.
 
 They touched down just past sunset, wheels kissing the runway with barely a whisper. Four silhouettes. One formation.
 
-By the time they’d peeled off flight suits and debriefed, the sky outside had turned purple, the last orange streaks dying over the ocean.
+By the time they'd peeled off flight suits and debriefed, the sky outside had turned purple, the last orange streaks dying over the ocean.
 
 The mess hall buzzed like it never had.
 
-They had a corner table again, but this time it wasn’t quiet.
+They had a corner table again, but this time it wasn't quiet.
 
-> “I thought my spine was going to *implode*,” Adams said, gesturing wildly with a drink in one hand. “I’ve pulled high-G in the Raptor, I’ve done centrifuge tests at Wright-Patt, I’ve puked in VR. *None* of it even comes close.”
+> "I thought my spine was going to *implode*," Adams said, gesturing wildly with a drink in one hand. "I've pulled high-G in the Raptor, I've done centrifuge tests at Wright-Patt, I've puked in VR. *None* of it even comes close."
 
-> “It felt like we were being *launched*,” Lindholm added. “Not climbing. Not accelerating. *Launched.* Like a round out of a gun.”
+> "It felt like we were being *launched*," Lindholm added. "Not climbing. Not accelerating. *Launched.* Like a round out of a gun."
 
-> “There was no engine noise,” Kraus said. “Just... force. I was expecting flame. Rumble. Not that *silent punch*.”
+> "There was no engine noise," Kraus said. "Just... force. I was expecting flame. Rumble. Not that *silent punch*."
 
 Adams laughed.
 
-> “Yeah, and then it just *kept going.* Like, I was waiting for a stall cue, for buffeting, *something*. Instead it felt like time just... warped.”
+> "Yeah, and then it just *kept going.* Like, I was waiting for a stall cue, for buffeting, *something*. Instead it felt like time just... warped."
 
-> “That was the transition,” Voss said, seated with them but not animated like the others. More like a man watching a campfire burn. “That shift to plasma engines—it’s not just thrust. It’s a shift in how the Talon thinks about the environment. No more atmosphere. No more drag curves. Just vectors. You want up? You get *up*. Instantly.”
+> "That was the transition," Voss said, seated with them but not animated like the others. More like a man watching a campfire burn. "That shift to plasma engines—it's not just thrust. It's a shift in how the Talon thinks about the environment. No more atmosphere. No more drag curves. Just vectors. You want up? You get *up*. Instantly."
 
-> “It wasn’t just up,” Lindholm said. “It was *off.* Like the Earth just let go.”
+> "It wasn't just up," Lindholm said. "It was *off.* Like the Earth just let go."
 
-> “And the dampers still didn’t catch all of it,” Adams added, rubbing the back of his neck. “I was ready to black out.”
+> "And the dampers still didn't catch all of it," Adams added, rubbing the back of his neck. "I was ready to black out."
 
-> “Same,” said Lindholm. “And I think mine *did* for a second.”
+> "Same," said Lindholm. "And I think mine *did* for a second."
 
 Kraus looked into his glass.
 
-> “We weren’t passengers. We were just... slightly tolerated guests.”
+> "We weren't passengers. We were just... slightly tolerated guests."
 
 They all laughed—harder than they usually did.
 
@@ -758,7 +760,7 @@ It was the kind of laughter that came not from comfort, but from awe. From brush
 
 Voss let them have it.
 
-They’d earned that much.
+They'd earned that much.
 
 ---
 
@@ -1320,95 +1322,95 @@ They didn’t have to.
 
 ## Sci-Fi is Real
 
-The briefing room wasn’t much different from the others—same brushed metal walls, same embedded lighting, same rows of modular chairs. But something about the *atmosphere* had shifted.
+The briefing room wasn't much different from the others—same brushed metal walls, same embedded lighting, same rows of modular chairs. But something about the *atmosphere* had shifted.
 
-The four pilots sat a little straighter this time. They didn’t bother hiding their curiosity. Or their skepticism.
+The four pilots sat a little straighter this time. They didn't bother hiding their curiosity. Or their skepticism.
 
-At the front, Mira Halden stood flanked by a large wall display already alight with orbital projections—arcs and paths that extended far beyond Earth’s gravity well.
+At the front, Mira Halden stood flanked by a large wall display already alight with orbital projections—arcs and paths that extended far beyond Earth's gravity well.
 
 Ember hovered quietly nearby, her holographic core pulsing in slow rhythm.
 
-> “Good morning,” Halden said. “This next block is Block Four — *Orbital and Interplanetary Combat Trials*. You will ascend to Earth orbit and perform maneuvering drills, then travel to the Moon, where you will have your first taste of space combat. Once you're victorious, you will move to Mars, then enter controlled combat scenarios within the asteroid belt.”
+> "Good morning," Halden said. "This next block is Block Four — *Orbital and Interplanetary Combat Trials*. You will ascend to Earth orbit and perform maneuvering drills, then travel to the Moon, where you will have your first taste of space combat. Once you're victorious, you will move to Mars, then enter controlled combat scenarios within the asteroid belt."
 
 That drew a few raised eyebrows.
 
 Adams frowned, crossing his arms.
 
-> “That’s going to take a long time…”
+> "That's going to take a long time…"
 
-> “Nah,” Voss said from the far end of the room, only half-looking up from a datapad. “Barely a second to the Moon. Not more than four to Mars.”
+> "Nah," Voss said from the far end of the room, only half-looking up from a datapad. "Barely a second to the Moon. Not more than four to Mars."
 
 The room paused.
 
-Kraus glanced at him like he’d misheard.
+Kraus glanced at him like he'd misheard.
 
-> “Four *what* to Mars?”
+> "Four *what* to Mars?"
 
-> “Seconds,” Voss replied, with the detached air of a man discussing weather.
+> "Seconds," Voss replied, with the detached air of a man discussing weather.
 
 Lindholm blinked.
 
-> “You're joking.”
+> "You're joking."
 
-> “You think I’m smiling?”
+> "You think I'm smiling?"
 
 Halden stepped forward, clearly used to this moment.
 
-> “Today, you’ll also be introduced to Talon warp capability. This includes FTL vector alignment, bubble projection, and subspace braking procedures. Each frame is fitted with a short-hop spatial drive calibrated to interplanetary transit. These systems are not theoretical. They are *routine*.”
+> "Today, you'll also be introduced to Talon warp capability. This includes FTL vector alignment, bubble projection, and subspace braking procedures. Each frame is fitted with a short-hop spatial drive calibrated to interplanetary transit. These systems are not theoretical. They are *routine*."
 
-The wall screen shifted, now showing schematics of the Talon’s warp nacelles—stealthed inside the fuselage until extended during high-velocity operations. Next to them, transit paths: Earth to Luna, Luna to Mars, Mars to Belt—each labeled not in days or hours, but *seconds*.
+The wall screen shifted, now showing schematics of the Talon's warp nacelles—stealthed inside the fuselage until extended during high-velocity operations. Next to them, transit paths: Earth to Luna, Luna to Mars, Mars to Belt—each labeled not in days or hours, but *seconds*.
 
-> “You will begin in orbit,” Halden continued. “Once you’ve completed your maneuvering evaluations and weapons sync in zero-gravity conditions, Ember will authorize your transition to lunar space. All transitions are frame-locked. The system will not allow miscalculated jumps.”
+> "You will begin in orbit," Halden continued. "Once you've completed your maneuvering evaluations and weapons sync in zero-gravity conditions, Ember will authorize your transition to lunar space. All transitions are frame-locked. The system will not allow miscalculated jumps."
 
-> “That’s comforting,” Adams muttered.
+> "That's comforting," Adams muttered.
 
-> “You’ll thank it later,” Voss said. “Mars gets *crowded* fast.”
+> "You'll thank it later," Voss said. "Mars gets *crowded* fast."
 
 Lindholm rubbed the back of his neck, glancing at the trajectory map. One of the arcs pulsed—highlighted in red.
 
-> “And the asteroid belt?”
+> "And the asteroid belt?"
 
-> “Where we stop holding your hand,” Halden said, folding her arms. “No terrain. No fallback. Just vector math and intent.”
+> "Where we stop holding your hand," Halden said, folding her arms. "No terrain. No fallback. Just vector math and intent."
 
 Kraus, who had said nothing, finally spoke.
 
-> “You’re not teaching us to fly anymore,” he said quietly. “You’re teaching us to *fight in space*.”
+> "You're not teaching us to fly anymore," he said quietly. "You're teaching us to *fight in space*."
 
-Halden didn’t smile. She didn’t need to.
+Halden didn't smile. She didn't need to.
 
-> “Correct.”
+> "Correct."
 
 ---
 
 They lifted off from a secure pad at Vandenberg, four Talons rising into crisp morning air under conventional turbine thrust, engines spooling with a tight, modulated whine. Compared to the last time—when Voss had flung them into orbit without warning—this felt almost casual. Controlled. Deliberate.
 
-But that didn’t last.
+But that didn't last.
 
-> “Talon Flight, confirm readiness for orbital boost,” Ember intoned.
+> "Talon Flight, confirm readiness for orbital boost," Ember intoned.
 
-> “Talon-2, ready.”
+> "Talon-2, ready."
 
-> “Talon-3, ready.”
+> "Talon-3, ready."
 
-> “Talon-4, standing by.”
+> "Talon-4, standing by."
 
-Voss chimed in last. “Talon-1, cleared. Let’s take the high road.”
+Voss chimed in last. "Talon-1, cleared. Let's take the high road."
 
 The HUDs flashed green. The familiar pulse beneath the cockpit returned—that subtle shift in engine tone, the whisper that things were about to become *unreasonable*.
 
-> “Orbital engines primed. Atmospheric vector lock achieved,” Ember said.
+> "Orbital engines primed. Atmospheric vector lock achieved," Ember said.
 
 They passed 68,000 feet.
 
-> “Engage plasma thrust. Full ascent profile.”
+> "Engage plasma thrust. Full ascent profile."
 
 And then the sky folded.
 
 The Talons leapt upward as if shot from railguns. There was no afterburner flare, no roaring turbulence—only the hard, bone-deep *slam* of acceleration as the plasma drives engaged. The G-suits tensed. Dampers compensated. But still, the weight came.
 
-> “Here we go again—” Adams grunted through clenched teeth.
+> "Here we go again—" Adams grunted through clenched teeth.
 
-Lindholm’s teeth rattled as the Mach indicator blurred past readable. The blue of the atmosphere peeled away into violet, then black. Clouds shrank to texture. Coastlines bent into curve.
+Lindholm's teeth rattled as the Mach indicator blurred past readable. The blue of the atmosphere peeled away into violet, then black. Clouds shrank to texture. Coastlines bent into curve.
 
 Altitude: 140,000 feet.
 
@@ -1422,15 +1424,15 @@ The pressure vanished. The weight dropped away like a bad memory.
 
 They were in low Earth orbit.
 
-> “Talon Flight, orbital insertion complete,” Ember announced.
+> "Talon Flight, orbital insertion complete," Ember announced.
 
-The HUDs reconfigured, velocity shifting to orbital units, attitude indicators now keyed to pitch-relative starlines and Earth’s slowly rotating frame below.
+The HUDs reconfigured, velocity shifting to orbital units, attitude indicators now keyed to pitch-relative starlines and Earth's slowly rotating frame below.
 
 Adams exhaled loudly.
 
-> “Every time, I *think* I’m ready for that. And every time, I’m *wrong*.”
+> "Every time, I *think* I'm ready for that. And every time, I'm *wrong*."
 
-> “It’s not supposed to feel normal,” Voss said. “But you’ll miss it once it does.”
+> "It's not supposed to feel normal," Voss said. "But you'll miss it once it does."
 
 Below them, the Pacific rolled across half the planet.
 
@@ -1440,37 +1442,37 @@ Ahead, the Moon awaited.
 
 The Talons coasted above the world, weightless and sharp, arrayed in a loose diamond formation over the Pacific terminator line. Their engines were silent now, guidance thrusters whispering only when needed. Below them, Earth was quiet. Above them, everything else stretched out.
 
-> “Begin orbital maneuvering drills,” Ember announced. “Maintain vector spacing. Execute pitch-yaw-roll sequences on mark.”
+> "Begin orbital maneuvering drills," Ember announced. "Maintain vector spacing. Execute pitch-yaw-roll sequences on mark."
 
 The HUDs shifted again, displaying artificial horizon bands keyed to orbital velocity and rotational axis. Maneuver prompts blinked in the periphery: translate, roll, reorient.
 
 Adams nudged his stick, trying a slow roll—but it kept going too far, sluggish and over-rotated.
 
-> “Damn it,” he muttered. “It’s like there's no resistance—nothing to push against.”
+> "Damn it," he muttered. "It's like there's no resistance—nothing to push against."
 
-> “That’s because there isn’t,” Voss replied, angling his Talon effortlessly through a barrel roll. “Forget your instincts. Space doesn’t give you feedback like air does. Let the AI assist handle orientation damping.”
+> "That's because there isn't," Voss replied, angling his Talon effortlessly through a barrel roll. "Forget your instincts. Space doesn't give you feedback like air does. Let the AI assist handle orientation damping."
 
 Lindholm toggled into assist mode and tried again—this time the Talon responded smoothly, coasting through the motion like it was tethered to an invisible rail.
 
-> “There it is,” he said. “That’s better.”
+> "There it is," he said. "That's better."
 
-Kraus tried a lateral drift, decoupling yaw from orientation. The Talon obliged, sliding sideways while still pointed at Earth. He didn’t speak, but his silence carried a certain grim approval.
+Kraus tried a lateral drift, decoupling yaw from orientation. The Talon obliged, sliding sideways while still pointed at Earth. He didn't speak, but his silence carried a certain grim approval.
 
 Then a green square blinked into view on all their HUDs—hovering over a distant speck just off-center in the black.
 
-> “[CMSA] Tiangong Station,” the callout read.
+> "[CMSA] Tiangong Station," the callout read.
 
-> “Oh look,” Voss said, half-joking, “the Chinese are probably watching us through their telescopes. Give 'em a good show!”
+> "Oh look," Voss said, half-joking, "the Chinese are probably watching us through their telescopes. Give 'em a good show!"
 
 Adams grinned, locking into a corkscrew maneuver around his forward axis.
 
-> “Well, we *did* wave at them underwater.”
+> "Well, we *did* wave at them underwater."
 
-> “They’re probably still losing sleep over that,” Lindholm added, executing a clean pitch-over into reverse drift.
+> "They're probably still losing sleep over that," Lindholm added, executing a clean pitch-over into reverse drift.
 
 The Talons began threading elegant spirals, matched rolls, and free-floating dogfight patterns. Their thrusters whispered against the void, creating geometric elegance against the stars—each maneuver coordinated not by calls, but by shared predictive modeling.
 
-> “Keep moving,” Voss said. “Let your Talon read the scenario. You’re not flying anymore—you’re *positioning*. Velocity is just where you used to be.”
+> "Keep moving," Voss said. "Let your Talon read the scenario. You're not flying anymore—you're *positioning*. Velocity is just where you used to be."
 
 The Earth turned quietly below, brilliant and unaware.
 
@@ -1480,7 +1482,9 @@ In orbit, four shadows danced in view of a silent Chinese telescope.
 
 The last maneuvering drill ended in perfect silence, four Talons drifting over the night side of Earth like hunting birds suspended in amber. Their HUDs marked the completion of all flight exercises. The Moon hung above them, silver and solemn, haloed in soft glare.
 
-> “Drills complete,” Ember confirmed. “Ready for vector alignment.”
+> "Drills complete," Ember confirmed. "Ready for vector alignment."
+
+Back at Vandenberg, the Portuguese delegation leaned forward in the observation gallery. Their own Talons had performed admirably in atmospheric and orbital operations over the past year, but interplanetary warp remained theoretical. Every officer present had a tablet or notepad ready, documenting what came next.
 
 On cue, the Talons reoriented. Their HUDs recalibrated for long-range interbody flight, showing a clean vector spike arcing toward the Moon—just a quarter-million kilometers away.
 
@@ -1488,17 +1492,17 @@ A line appeared across their cockpits: *Lunar Trajectory Locked – Warp Initiat
 
 Adams adjusted in his seat, already bracing.
 
-> “This is gonna be weird, isn’t it?”
+> "This is gonna be weird, isn't it?"
 
-> “Very,” Lindholm said. “Probably violently weird.”
+> "Very," Lindholm said. "Probably violently weird."
 
-There was a brief pause before Voss spoke—cool, steady, like he’d done this a hundred times.
+There was a brief pause before Voss spoke—cool, steady, like he'd done this a hundred times.
 
-> “I’m going to warp us all now,” he said into the channel. “Since I’m the wing commander, I have navigation override over you all. For your first time, I’ll be in control. Then you can do it on the way to Mars.”
+> "I'm going to warp us all now," he said into the channel. "Since I'm the wing commander, I have navigation override over you all. For your first time, I'll be in control. Then you can do it on the way to Mars."
 
 Before anyone could argue, their cockpits shimmered with light. The HUD dimmed. A deep vibration passed through the airframe, like a taut string pulling tighter.
 
-> “Warp initiation in three... two... one.”
+> "Warp initiation in three... two... one."
 
 Space bent.
 
@@ -1510,23 +1514,23 @@ They were in orbit around the Moon.
 
 The grey surface rolled beneath them—impact craters sharp in low-angle sunlight, shadows stretching kilometers. Earth was a distant blue marble. No transition. No drift. Just arrival.
 
-> “Welcome to Luna,” Voss said. “Next stop—combat.”
+> "Welcome to Luna," Voss said. "Next stop—combat."
 
 ---
 
 ### Aboard Tiangong Station – Low Earth Orbit
 
-“Radar contact. Multiple objects,” said Commander Guo, squinting at his monitor. “No thermal signatures. No comms. Not tracking like debris.”
+"Radar contact. Multiple objects," said Commander Guo, squinting at his monitor. "No thermal signatures. No comms. Not tracking like debris."
 
 Lieutenant Sun leaned in. The dots were *weird*. Not in pattern. No decay in orbit. Not a single retrograde trajectory.
 
-> “That’s... not a satellite cluster,” he muttered. “Could be black project test vehicles?”
+> "That's... not a satellite cluster," he muttered. "Could be black project test vehicles?"
 
-Guo frowned. “They just... disappeared.”
+Guo frowned. "They just... disappeared."
 
-> “Sensor error?”
+> "Sensor error?"
 
-> “No. It was coordinated.”
+> "No. It was coordinated."
 
 Sun pushed away from the console, walking to the viewing panel. Then, an idea—he grabbed the fixed-range telescope, manually slewed it to the patch where the contacts had last been.
 
@@ -1538,13 +1542,37 @@ Except... a faint, shimmering afterimage in the black. A kind of tunnel, curling
 
 He blinked.
 
-> “Did you see something?” Guo asked.
+> "Did you see something?" Guo asked.
 
 Sun lowered the telescope, still staring.
 
-> “I... don’t know what I saw,” he said slowly. “But I don’t think we were supposed to see it.”
+> "I... don't know what I saw," he said slowly. "But I don't think we were supposed to see it."
 
 They stood there in silence, above a world that still believed in limits.
+
+---
+
+### Vandenberg Air Force Base – Observation Gallery
+
+The room had gone silent the moment the Talons vanished from Earth orbit. NATO brass, consultants, and observers stood frozen, eyes locked on telemetry screens showing impossible data. Transit time to lunar orbit: 0.3 seconds. Distance covered: 384,400 kilometers.
+
+Among the Portuguese delegation, Colonel Tavares set down his tablet with trembling hands. Beside him, Major Silva stared at the screen as if it had personally insulted the laws of physics.
+
+> "Apollo 11 took three days," someone whispered in English.
+
+> "Less than a second," Tavares murmured in Portuguese, shaking his head. "Meu Deus."
+
+An American general near the front turned to his aide, voice low but carrying in the stunned quiet. "Confirm that telemetry. I need to know we're not looking at a systems error."
+
+> "Telemetry confirmed, sir. All four Talons now in stable lunar orbit. No anomalies detected."
+
+Silva leaned closer to Tavares. "We've been flying these for a year and never knew they could do *this*."
+
+> "Because we never asked," Tavares replied quietly. "We never thought to ask if science fiction was real."
+
+Around them, other observers began finding their voices again—hushed conversations in half a dozen languages, all expressing variations of the same disbelief. The Portuguese officers exchanged glances, a shared understanding passing between them.
+
+They had thought they knew their aircraft. They had been wrong.
 
 ---
 
