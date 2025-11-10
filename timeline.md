@@ -191,16 +191,6 @@ A chronological overview of canonical events in the ESF universe.
 
 ---
 
-## 2027
-
-**January 15, 2027** - [The Shadow Alliance](/esf/stories/shadow-alliance)
-- NATO debates formal Federation cooperation agreement
-- Hungarian and Turkish opposition to partnership
-- Secretary General Stoltenberg advocates for alliance
-- Growing political tensions over Federation involvement
-
----
-
 ## Key Milestones
 
 - **1947**: Foundation event - Roswell Incident
@@ -209,7 +199,6 @@ A chronological overview of canonical events in the ESF universe.
 - **2022**: First FBI formal cooperation with Federation
 - **2024**: Open intervention begins (Gaza deployment)
 - **2024**: Formal UN recognition achieved
-- **2027**: NATO debates Federation cooperation agreement
 - **2025**: Direct military intervention (Taiwan Strait)
 - **2025**: Deep space operations with galactic allies
 - **2026**: Large-scale civilian technology transfer (Landmates)
