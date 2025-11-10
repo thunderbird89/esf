@@ -348,7 +348,7 @@ Mira replied calmly.
 
 She looked up, brushing hair out of her eyes.
 
-> "The world isn't binary, Ethan. Not really. It's not one timeline—one chain of cause and effect. Every decision, every atomic flutter, spins off branches. Most fade. Some persist. The trick is knowing *which actions* increase the weight of the timeline you want."
+> "The world isn't binary, Ethan, not really. It's not one timeline—one chain of cause and effect. Every decision, every atomic flutter, spins off branches. Most fade. Some persist. The trick is knowing *which actions* increase the weight of the timeline you want."
 
 Ethan blinked.
 
@@ -384,7 +384,7 @@ Ethan stared at her like she was reciting sacred scripture.
 
 Mira just smirked.
 
-> "Like I said. Quantum computing helps."
+> "Like I said: quantum computing helps."
 
 She snapped the laptop shut.
 
@@ -657,7 +657,7 @@ This... this was a *map* to that thought. Not the key. Not the door. But maybe�
 
 His pulse quickened.
 
-It wasn't something he could run. Nobody had 512-qubit platforms. Not yet. But that didn't make it worthless. In the right journals, among the right people, this would ripple for years. Someone would try to build toward it. Maybe many someones.
+It wasn't something he could run. Nobody had 512-qubit platforms. Not yet. But that didn't make it worthless. In the right journals, among the right people, this would ripple for years as people unpacked the mathematics of picking your randomness. Someone would try to build toward it. Maybe many someones.
 
 Ethan folded the page carefully and slid it back into his coat. Then he looked up toward the sky—clear, cloudless, uncaring.
 
