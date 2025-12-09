@@ -1060,8 +1060,106 @@ But they were going to war.
 
 And that was all that mattered.
 
----
+### Third North Fleet, Deep Space
 
-The countdown continued.
+The carrier *In Amber Clad* cut through the void at maximum warp, her escort fleet arrayed in tight formation around her. Nineteen warships in total—the carrier, four battleships, six cruisers, eight destroyers—all running their drives at 110 percent rated capacity. The engineering sections were pushing tolerances that would have made safety inspectors resign on the spot, but no one was thinking about regulations now.
+
+Admiral Katherine Trager stood on the bridge, studying the tactical plot that showed their position relative to Sol system. Seventeen systems. Seventeen stargates. Thirty-four hours of transit time even at this punishing pace.
+
+And they needed to be there in twenty-six.
+
+> "Navigation, confirm our ETA to Sol," she said, though she already knew the answer. She'd been asking every hour, hoping somehow the math would change.
+
+Lieutenant Commander David Park looked up from his console, his expression apologetic.
+
+> "Ma'am, at current speed we'll hit the Xenari jump bridge in thirty-four hours, sixteen minutes. That's assuming we don't have to slow for stargate transit protocols, which technically we should—"
+
+> "We're not slowing," Trager interrupted. "Emergency transit codes. We blow through every gate at full speed. Xenari traffic control can file complaints after Earth is still standing."
+
+> "Aye, ma'am. Even so, thirty-four hours is optimistic. We're redlining the drives on half our destroyers. If we lose one to a burnout—"
+
+> "Then that ship drops out and catches up later. The rest of the fleet doesn't slow down. Not for anything."
+
+Park nodded and returned to his calculations. Trager watched the plot, her jaw tight. Third North Fleet had been conducting disaster recovery operations with Kryllian partners in the Outer Reaches—humanitarian work, helping evacuate populations from a failed colony world. Good work. Important work.
+
+But not as important as defending Earth.
+
+The Kryllians had released them from the joint operation without hesitation. Whatever else you could say about them, they understood priorities. Within thirty minutes of receiving the recall order, Third North Fleet had been warping out at maximum speed.
+
+And it still wasn't fast enough.
+
+> "Ma'am," her communications officer called out. "Message from Xenari traffic control at the jump bridge. They're acknowledging our arrival time and confirming the bridge will be held open for us. No other traffic permitted until we transit."
+
+> "How long can they hold it?" Trager asked.
+
+> "They're saying indefinitely, ma'am. The Xenari are diverting all available power to keep that bridge operational. They'll have it ready the moment we arrive."
+
+That was something, at least. The jump bridge from the Xenari network to Sol was the only way to reach Earth in time to make a difference. Standard stargate-to-stargate transit would take weeks. But the bridge could fold space, shortening the journey to minutes—if you could reach it.
+
+Trager moved to the fleet status display. Nineteen ships, all showing amber or red indicators on their drive systems. They were pushing too hard, running too hot. But the alternative was arriving to find Earth already under Ryzak occupation.
+
+> "CAG," she called to her air wing commander. "Status on the strike wings?"
+
+Commander Michael Chen approached, datapad in hand.
+
+> "All squadrons are running combat drills. We've got sixty Talons operational, another twelve in maintenance that we'll have ready before we hit Sol. The pilots know what's coming—they're drilling intercept patterns against carrier-based strike craft."
+
+> "Morale?"
+
+> "High, ma'am. Angry, but high. Nobody in the wing likes the idea of Earth under attack. They're ready to make the Ryzak regret showing up."
+
+Trager nodded. She'd walked through the hangar deck earlier, seen the ground crews working with focused intensity. Ordnance being loaded, systems being checked, pilots reviewing tactical data. The whole fleet felt it—the knowledge that they were racing against time to defend their homeworld.
+
+Her XO, Captain James Morrison, moved to her side.
+
+> "Admiral, engineering reports from the destroyers. *Thermopylae* and *Agincourt* are both showing stress fractures in their warp coils. They can maintain current speed, but there's risk of catastrophic failure."
+
+> "Acceptable risk," Trager said immediately. "We maintain speed."
+
+> "Understood, ma'am." Morrison hesitated. "The crew knows we're going to arrive late. They know Earth will be fighting without us for at least eight hours."
+
+> "Then we make sure those eight hours count when we do arrive," Trager said. "The Ryzak think they're hitting a soft target. They think they'll have space supremacy by the time we show up. We're going to teach them what happens when you corner a wounded animal."
+
+She looked at the tactical plot again. Somewhere ahead, beyond seventeen systems and thirty-four hours of hard burn, Earth was preparing for the fight of its existence. Federation forces. Earth's Talons. The hastily-repaired battleships from Jovian Shipyards. All of them buying time.
+
+Time for Third North Fleet to arrive and turn the tide.
+
+> "All hands," she said into the fleet-wide comm. "This is Admiral Trager. By now you all know where we're heading and why. Earth is facing an invasion force—two Ryzak combat groups with overwhelming numerical superiority. Our forces in-system are outnumbered, outgunned, and fighting on a timetable measured in hours."
+
+Throughout the fleet, personnel stopped what they were doing to listen.
+
+> "We are thirty-four hours from the jump bridge. Earth will be fighting for at least eight hours without us. Maybe longer. But I want every single person in this fleet to understand something—those eight hours matter. Every Ryzak ship we destroy when we arrive is one less ship threatening our homeworld. Every strike we make is payback for every human who stood in harm's way while we were racing to get there."
+
+She paused, letting that sink in.
+
+> "We're going to push these ships harder than they've ever been pushed. We're going to run our drives at maximum until they scream. And when we arrive at Sol, we're going into that system at full combat readiness, ready to engage immediately. The Ryzak wanted to conquer Earth. We're going to show them they picked the wrong planet."
+
+Another pause.
+
+> "Engineering sections—I know what I'm asking of you. Keep these ships moving. Navigation—plot the fastest possible route, even if it bends every regulation in the book. All combat personnel—prepare for immediate engagement upon arrival. We don't get time to rest, we don't get time to refit. We hit them the moment we're in range."
+
+She took a breath.
+
+> "Earth is counting on us. Our families are counting on us. The people who are fighting right now, buying us time with their lives—they're counting on us. We will not let them down. Trager out."
+
+The bridge was silent for a moment, then Lieutenant Commander Park spoke up.
+
+> "Ma'am, I've optimized the route. We can shave forty-three minutes off the transit time if we skip some standard deceleration protocols at the gates. It's risky, but—"
+
+> "Do it," Trager said. "Every minute matters."
+
+She returned to the tactical plot, watching the fleet's position slowly advancing across the star map. Thirty-four hours. It felt like an eternity.
+
+But Third North Fleet would arrive. And when they did, the Ryzak were going to learn what it meant to threaten Earth.
+
+All across the fleet, the preparations continued. In the hangar bays, ordnance was loaded and fighters were prepped. In the gunnery sections, crews drilled their targeting sequences. In engineering, technicians monitored the straining warp drives, coaxing every ounce of speed from systems already pushed beyond their limits.
+
+Nineteen warships racing against time.
+
+Thirty-four hours to salvation.
+
+And a homeworld that needed them eight hours ago.
+
+---
 
 **ESTIMATED RYZAK ARRIVAL: 25 HOURS, 47 MINUTES**
