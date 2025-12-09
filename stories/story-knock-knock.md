@@ -607,3 +607,181 @@ Chen didn't respond. She was watching the countdown timer that SUNTZU had placed
 The clock was running. Out in the galaxy, Federation ships were warping gate-to-gate, rushing to the closest available jump bridge to get them home. Somewhere, a Ryzak supercarrier was already spooling to create a wormhole bridging lightyears to drop their ships into Sol. On Earth, phones would soon start to ring, and high-ranking people would be getting some unexpected visits. The dice were cast and the pieces dropping into place.
 
 Earth's awakening had begun.
+
+## Chapter 2: Wakeup Call
+
+### The White House
+
+President Donald Trump was not in a good mood.
+
+He'd been asleep for maybe three hours when the Secret Service detail burst into the residence, their urgency cutting through the usual protocols. No apologies, no explanations, just firm hands guiding him toward hastily provided clothes and insistent voices repeating that he needed to come with them immediately.
+
+Now, at 3:47 AM, he stalked down the corridor toward the Situation Room, still buttoning his shirt, flanked by agents whose expressions told him this wasn't a drill and wasn't negotiable. Chief of Staff Susie Wiles hurried alongside him, her phone pressed to her ear, her face pale.
+
+> "What is this about?" Trump demanded. "Wiles, talk to me. Russia? China?"
+
+> "Sir, I don't—they won't say. The Joint Chiefs are already in the Situation Room. They said you needed to see it yourself."
+
+That didn't improve his mood. The door to the Situation Room stood open, light spilling into the hallway. Trump could hear voices inside, tense and clipped. He pushed through.
+
+The room was packed. Chairman of the Joint Chiefs General Charles Brown stood at the head of the table, his uniform crisp despite the hour. Around him, the other service chiefs occupied their usual positions—General Randy George from the Army, Admiral Lisa Franchetti from the Navy, General David Allvin from the Air Force, General Eric Smith from the Marines, and General Michael Guetlein from Space Force. Secretary of Defense Pete Hegseth stood near the wall, his expression grim.
+
+What stopped Trump cold wasn't the assembled brass.
+
+It was what filled every screen in the room.
+
+The main display, the side monitors, even the smaller tactical screens—all showed the same thing. A shifting geometric pattern rendered in cool blues and silvers, vaguely humanoid in suggestion but clearly not human. The form pulsed and moved with an organic quality that made it impossible to look away.
+
+From the speakers on the conference table, a voice was speaking. Deep, electronic, with a gravelly quality that suggested vast computational power constrained through audio hardware. The voice was mid-sentence when Trump entered.
+
+> "—recommend immediate activation of all trained personnel. Time to orbital deployment is critical. Each hour of delay reduces defensive probability by approximately seven percent."
+
+> "Mr. President," General Brown said, straightening. The geometric form on the screens pulsed once, as if acknowledging the interruption.
+
+> "What the hell is that?" Trump gestured at the displays. "Some kind of hologram?"
+
+> "Sir," General Brown said carefully, "this is HARBINGER. It's—"
+
+> "An artificial intelligence," the voice from the speakers interrupted, smooth and patient. "Designed and deployed by the EarthSpace Federation to coordinate defensive operations for this system. President Trump, we have a critical situation requiring immediate executive action."
+
+Trump stared at the shifting patterns on the screen, then at his Joint Chiefs, then back at the screen.
+
+> "Artificial intelligence. Like ChatGPT?"
+
+> "Substantially more advanced," HARBINGER replied. "Mr. President, I understand this is disorienting. You have questions. However, we are operating under severe time constraints. I need to brief you on an imminent threat to United States territory and, more broadly, to human civilization. After the briefing, you may ask whatever questions you require."
+
+Trump pulled out a chair and sat, his eyes never leaving the displays. Wiles slid into the seat beside him, her phone now recording.
+
+> "Talk."
+
+The geometric form pulsed, and the main screen shifted. The shifting blue pattern moved to a corner window while the center display showed what appeared to be a star map. Earth sat at the center, rendered in familiar blue and green. Jupiter's orbit was marked in the outer system. And beyond that, at the edge of the solar system, a cluster of red icons appeared, labeled simply: "HOSTILE FORCE."
+
+> "Twenty-three hours ago," HARBINGER began, "the Xenari—a friendly alien civilization that has been monitoring Earth for approximately eighty years—detected a security breach in their communication networks. Specifically, encryption keys for their interstellar jump beacon system were stolen by operatives from a hostile species called the Ryzak."
+
+Trump's face went through several expressions in rapid succession. General Brown started to speak, but HARBINGER continued without pause.
+
+> "The Ryzak are a militaristic reptilian species that controls a substantial portion of the galaxy through conquest and subjugation. They have been aware of Earth for several decades but have been unable to reach this system due to diplomatic restrictions and the absence of jump beacon access. The stolen encryption keys remove that barrier."
+
+The display zoomed in on Jupiter, showing a single icon near its orbit.
+
+> "The Xenari maintain a single jump beacon in Sol system, positioned near Jupiter for covert operations. Under normal circumstances, only authorized Xenari vessels can access this beacon. However, with the stolen encryption keys, the Ryzak can now use it to bridge directly into this system, bypassing all border security and achieving complete tactical surprise."
+
+Red icons appeared near the Jupiter beacon, multiplying rapidly.
+
+> "Based on Xenari intelligence assessments, we expect a Ryzak subjugation fleet to arrive in approximately twenty-six hours. Fleet composition: two combat groups totaling thirty-four capital ships. Two carriers capable of deploying six hundred strike craft, four battleships, supporting cruisers, destroyers, and frigates."
+
+The room was absolutely silent. Trump's expression had moved past confusion into something harder, more focused.
+
+> "Their objective?" he asked quietly.
+
+> "Orbital supremacy followed by systematic occupation of Earth. The Ryzak want humanity as subjects, not allies. They view Earth as strategically valuable and humans as primitives requiring domination."
+
+General Smith leaned forward, his Marine officer instincts engaged.
+
+> "What's stopping them from just glassing the planet from orbit?"
+
+> "Economics," HARBINGER replied. "Ryzak culture values conquest and subjugation. Dead worlds have no value. They will attempt to establish space control, neutralize defensive assets, and then begin ground operations. However, if faced with sufficient resistance, they are capable of orbital bombardment."
+
+Admiral Franchetti's hands were flat on the table.
+
+> "Mr. President, before you arrived, HARBINGER was briefing us on defensive capabilities. The EarthSpace Federation—this organization we've apparently been working with for years without knowing it—has combat vessels in-system. But they're outnumbered."
+
+> "Forty-two operational combat craft," HARBINGER confirmed. "Against six hundred Ryzak strike fighters plus thirty-four capital ships. The Federation has also activated emergency protocols with allied governments. Portugal, Japan, and several NATO partners have received similar briefings and are mobilizing their assets."
+
+> "Assets," Trump said. The word hung in the air. "You mean the Talons. The aircraft we've been testing."
+
+> "Correct, Mr. President. The United States currently has eight Talon interceptors fully integrated with trained pilots, and twelve additional airframes in advanced training status. Total available force if we activate training units: twenty Talons. Portugal can field twenty-five. Japan can field sixteen. Combined Earth response: approximately one hundred twenty combat-capable spacecraft."
+
+General Allvin pulled up additional data on his tablet.
+
+> "Sir, the eight fully operational birds are stationed at Groom Lake. The training units are at Edwards, Nellis, and Ellington. If we start recall procedures now, we can have all twenty assembled and ready for deployment in eighteen hours."
+
+> "Deployment where?" Trump asked. "These things can reach orbit?"
+
+> "Yes, Mr. President," HARBINGER said. "Talons are hybrid atmospheric-space superiority fighters. They can operate from sea level to high orbit. Your pilots have been training for this exact scenario, though they were told it was theoretical."
+
+Trump looked at General Brown.
+
+> "Charlie, you knew about this?"
+
+General Brown's expression was carefully neutral.
+
+> "Sir, the program was classified above my clearance level until approximately forty minutes ago, when HARBINGER initiated this emergency protocol. I was aware we had experimental aircraft at Groom Lake. I was not aware they were designed by aliens."
+
+> "Not designed by aliens," HARBINGER corrected. "Designed by humans, using principles and materials provided by the Xenari through the Federation. The technology is human-built, human-operated, human-maintained. The Xenari simply provided the knowledge we lacked."
+
+> "For eighty years," Wiles said quietly. "You've been here for eighty years and we didn't know."
+
+> "The Federation was established in 1947 following the Roswell incident," HARBINGER confirmed. "Its mandate was to prepare Earth for eventual contact with alien civilizations while maintaining global stability. That preparation now faces its first genuine test."
+
+Trump stood, pacing to the main display. The red icons of the Ryzak fleet hung there, ominous and growing.
+
+> "What happens if we lose?"
+
+The room went very quiet.
+
+> "Optimistically?" HARBINGER said. "The Ryzak occupy major population centers, establish military governance, and integrate Earth into their empire as a subject world. Pessimistically? If resistance proves too costly, they will reduce Earth to a compliant state through whatever means necessary, including orbital bombardment of resistant areas."
+
+> "And if we win?"
+
+> "If we hold for sixteen hours," HARBINGER said, "Federation reinforcements will arrive from allied civilizations. At that point, the Ryzak fleet becomes tactically untenable and will be forced to retreat or face destruction. However, I must stress—our objective is not victory. Our objective is survival. We need to hold long enough for help to arrive."
+
+Trump turned back to the table.
+
+> "Odds?"
+
+> "Without Earth assets: twelve percent survival probability. With full coordination of all available Earth forces: seventy-three percent. The difference, Mr. President, is whether or not you authorize deployment of American combat assets."
+
+General Guetlein from Space Force spoke up.
+
+> "Sir, I've reviewed the tactical data HARBINGER provided. This is real. The threat assessment is real. And our pilots—they're ready for this. They might not have known why they were training, but they've been preparing for exactly this scenario."
+
+> "How long until they're here?" Trump asked. "This Ryzak fleet."
+
+> "Twenty-six hours, fourteen minutes," HARBINGER replied. "I need authorization to begin recall procedures for all Talon units. Every hour of preparation increases survival probability."
+
+Trump looked at his assembled military leadership. General Brown met his eyes.
+
+> "Sir, this is the recommendation of the Joint Chiefs. We need those aircraft in space. We need those pilots in the fight."
+
+For a long moment, Trump stood silent, his expression unreadable. Then he turned to Wiles.
+
+> "Get me the Speaker of the House. Get me Schumer. Get me the intelligence committee chairs. I don't care what time it is." He looked back at HARBINGER's shifting geometric form. "If we're doing this, Congress needs to know. Not asking permission—they'll get a briefing, not a debate. But they need to know."
+
+> "Mr. President—" General Brown started.
+
+> "Charlie, we're about to send American pilots to fight aliens. In space. Using aircraft built with alien technology. If I'm authorizing this, Congress gets briefed. Period." He turned back to the display. "HARBINGER, you have authorization to begin recall procedures for all United States Talon units. All pilots, all support personnel, everything you need. General Allvin, coordinate with this... entity. Get our people ready."
+
+> "Yes, sir," Allvin said, already reaching for his phone.
+
+> "General Brown, I want hourly updates. Wiles, start preparing a statement. We may need to brief the public before this is over."
+
+> "Sir," Wiles said carefully, "if we brief the public about an alien invasion—"
+
+> "Then they panic and we deal with it," Trump interrupted. "Better they panic knowing the truth than die in ignorance." He looked at HARBINGER. "That's what your Commander Chen said, isn't it? Better Earth knows the truth and survives?"
+
+> "Correct, Mr. President. Commander Chen made that assessment approximately two hours ago when activating Earth response protocols."
+
+> "Smart woman." Trump moved toward the door, then stopped. "One more thing. HARBINGER, was it?"
+
+> "Yes, Mr. President."
+
+> "Are we going to win this?"
+
+The geometric form pulsed, its blue-silver patterns shifting in what might have been consideration.
+
+> "That depends on how well we coordinate in the next twenty-six hours, how effectively our pilots perform, and whether the Ryzak make tactical errors we can exploit. The mathematics favor survival if all elements execute properly. But this will be the most significant military engagement in human history, against an enemy that has conquered dozens of civilizations."
+
+The AI paused, its form steadying.
+
+> "However, Mr. President, I have analyzed human military history extensively. Your species has a unique talent for survival against overwhelming odds. The Ryzak believe they are facing a primitive civilization. They are about to discover they are mistaken."
+
+Trump nodded slowly.
+
+> "Then let's prove them wrong." He pointed at General Allvin. "Get our people ready. We've got twenty-six hours to prepare for the fight of our lives."
+
+He strode from the Situation Room, Wiles scrambling to keep up. Behind him, the Joint Chiefs were already moving, phones out, orders being issued. On every screen, HARBINGER's geometric form pulsed steady blue-silver, coordinating the defense of a planet that had just learned it wasn't alone in the universe.
+
+The countdown continued.
+
+**ESTIMATED RYZAK ARRIVAL: 26 HOURS, 11 MINUTES**
