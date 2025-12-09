@@ -458,7 +458,11 @@ Webb's fingers moved across the interface. Icons appeared throughout the inner s
 
 > "Talons: thirty-one operational, four in maintenance at Lunar Base. Wraiths: eight operational, two undergoing refit. Corvettes: three. The destroyer *Sentinel* is in dock at Station One for engine replacement. The frigate *Resolute* is on patrol in the asteroid belt but her shields are running at sixty percent. And we have the station's defensive platforms."
 
-> "Defensive platforms won't matter," Chen said flatly. "Ryzak battleships will crack them in the opening salvo. And *Sentinel* can't maneuver without engines."
+He paused, expanding the view to show Jupiter orbit.
+
+> "Jovian Shipyards has three battleships. The *Typhoon* is fully operational. The *Lord Cardigan* and *Gallipoli* are both in mid-refit—weapons systems offline, shield generators being replaced, crew at half-strength."
+
+> "Defensive platforms won't matter," Chen said flatly. "Ryzak battleships will crack them in the opening salvo. *Sentinel* can't maneuver without engines. And two battleships in refit aren't much better than scrap metal."
 
 She studied the display, her mind racing through scenarios. Every simulation, every tactical briefing, every war game she'd participated in over the years. None of them had modeled this scenario. The Federation had always assumed the Xenari would maintain control of the jump beacon, that any Ryzak incursion would be detected and intercepted before reaching Sol.
 
@@ -550,6 +554,14 @@ SUNTZU's angular form pulsed agreement.
 
 > "Correct tactical assessment. We do not need to win. We need to survive. Ryzak doctrine emphasizes decisive engagement. If we deny them quick victory, force extended combat, reduce their strategic momentum—Federation reinforcements will arrive with overwhelming force."
 
+SUNTZU's form flickered as it processed additional data.
+
+> "Additional strategic asset: Jovian Shipyards. Two battleships currently in refit status. If we prioritize emergency deployment protocols, rush critical systems online, we can deploy *Lord Cardigan* and *Gallipoli* approximately three to four hours after Ryzak emergence. They will not be optimal—reduced crew efficiency, secondary systems incomplete—but operational battleship-grade firepower."
+
+> "And *Typhoon*?" Chen asked.
+
+> "Fully operational. Can take defensive position immediately. Three battleships alter Ryzak tactical calculus significantly. Their carriers will need to dedicate strike craft to capital ship suppression rather than fighter superiority, and their battleships will need to primary ours, leaving them unable to engage the station or smaller vessels."
+
 > "Probability of survival for sixteen hours?" Chen asked.
 
 > "With Earth assets and optimal coordination: seventy-three percent," HARBINGER said. "The timeline favors defense. Every hour we hold reduces Ryzak tactical options and increases probability of reinforcement arrival."
@@ -592,6 +604,6 @@ Chen didn't respond. She was watching the countdown timer that SUNTZU had placed
 
 **ESTIMATED RYZAK ARRIVAL: 27 HOURS, 43 MINUTES**
 
-The clock was running. Out in the galaxy, Federation ships were warping gate-to-gate, rushing to get to the closest available jump bridge to get them home. Somewhere, a Ryzak supercarrier was already spooling to create a wormhole bridging lightyears to drop their ships into Sol. On Earth, phones would soon start to ring, and high-ranking people would be getting some unexpected visits. The dice were cast and the pieces dropping into place.
+The clock was running. Out in the galaxy, Federation ships were warping gate-to-gate, rushing to the closest available jump bridge to get them home. Somewhere, a Ryzak supercarrier was already spooling to create a wormhole bridging lightyears to drop their ships into Sol. On Earth, phones would soon start to ring, and high-ranking people would be getting some unexpected visits. The dice were cast and the pieces dropping into place.
 
 Earth's awakening had begun.
