@@ -909,3 +909,159 @@ He ended the call before she could respond, before he could say something that w
 He had eighteen hours to prepare.
 
 Time to get to work.
+
+### Jovian Shipyards
+
+The shipyards hung in orbit above Jupiter's turbulent atmosphere, a sprawling network of construction frames, docking clamps, and pressurized work modules. Normally, the facility operated on carefully planned schedules, with maintenance crews working standard shifts on vessels that had months to reach operational status.
+
+Now, every light in the facility burned at maximum intensity, and over three hundred personnel swarmed over three Federation battleships like ants on a carcass.
+
+Chief Engineer Marcus Webb stood in the command center overlooking Bay Seven, where the destroyer *Sentinel* sat clamped in her maintenance frame. Through the transparent aluminum viewport, he could see the ship's exposed engine compartment, a gaping wound in her stern where the main drive assembly should have been.
+
+> "Status on the engine swap," he said into his comm.
+
+> "We've got the Kryllian surplus drive unit moving into position now," came the response from Lieutenant Sarah Chen, currently suited up and coordinating the external teams. "It's not pretty, Chief. This thing is forty percent larger than the original spec."
+
+> "Will it fit?"
+
+> "We're making it fit. Cutting away structural members now. We'll reinforce with emergency bracing, but this is going to compromise the hull integrity around the engine mount."
+
+Marcus pulled up the engineering schematics on his display. The Kryllian drive was indeed oversized, designed for a heavy freighter rather than a destroyer. But it would generate thrust, and right now that was all that mattered.
+
+> "How long until it's installed?"
+
+> "Twelve hours if everything goes perfectly. Fourteen realistically."
+
+> "You have ten. Cut every corner that won't kill the crew. We need *Sentinel* mobile."
+
+There was a pause.
+
+> "Understood, Chief. We'll get it done."
+
+Marcus switched channels, looking across the facility to Bay Three, where the battleship *Gallipoli* sat in her refit cradle. Unlike *Sentinel*, her engines were functional. The problem was her weapons.
+
+> "Bay Three, this is Webb. Give me an update on *Gallipoli*'s main batteries."
+
+> "Webb, this is Commander Patricia Hayes." Her voice carried the strain of someone who'd been working for six hours straight. "We've got the port-side railgun array back online. Starboard array is another story—the targeting systems are completely stripped for overhaul. We're pulling components from *Lord Cardigan* to get them operational."
+
+> "What about the missile tubes?"
+
+> "Four forward tubes are loaded and operational. The broadside launchers are empty—we don't have munitions for them. We sent that entire stock back to supply three weeks ago for inspection."
+
+Marcus's jaw tightened. A battleship with half her weapons offline was better than a battleship that couldn't fight at all, but not by much.
+
+> "Can you get the starboard railguns online?"
+
+> "Maybe. We're literally cannibalizing *Lord Cardigan*'s fire control systems. If we prioritize *Gallipoli*, we can probably have both railgun arrays functional in eight hours. But that means *Cardigan* will be firing manually."
+
+> "Do it. *Gallipoli* needs to be our primary gunship. And Hayes—transfer *Cardigan*'s torpedo stock to *Gallipoli* while you're at it. If *Gallipoli* has working fire control, she needs the munitions to use it."
+
+> "Understood. That'll give us full broadside capability once the transfer is complete."
+
+He switched channels again, this time to Bay Five where the battleship *Lord Cardigan* sat silent and dark, her shields completely offline.
+
+> "Bay Five, Webb. Where are we on the shield generators?"
+
+> "Chief, this is Lieutenant Yuki Tanaka." The young engineer's voice was tight with stress. "We've got a problem. The primary generator array is completely disassembled. We're talking about three weeks of work minimum to get it back online properly."
+
+> "We don't have three weeks. We have hours."
+
+> "I know, sir. So here's what we're doing—we're pulling the shield generators from the freighter *Abundant Hope* in Bay Twelve. They're civilian-grade, about sixty percent the output of military spec, but they'll work."
+
+> "How long?"
+
+> "The generators themselves we can install in four hours. But the power conduits are a nightmare. We're having to jury-rig connections because the civilian units don't match our military hardpoints. We're using emergency clamps and bypass routing. It's ugly, sir."
+
+> "Will it hold?"
+
+There was a pause.
+
+> "Honestly? I don't know. The connections aren't rated for combat stress. If *Cardigan* takes a hard hit, we could lose shields entirely. Or the feedback could fry the generators. Or—"
+
+> "Lieutenant." Marcus's voice cut through the spiral. "Will you have shields up in ten hours?"
+
+> "Yes, sir. Some shields. Sixty percent coverage, maybe less. And they might fail if we take concentrated fire."
+
+> "Then that's what we work with. Get it done."
+
+> "Aye, sir. And Chief? The gunners should know—without fire control, they're going to be eyeballing their shots. No targeting solutions, no ballistic computers. Just iron sights and Kentucky windage against moving targets in three-dimensional space."
+
+Marcus closed his eyes briefly. Battleship railguns firing manually against Ryzak warships. It was barely better than throwing rocks.
+
+> "Understood. I'll make sure the gunnery crews know what they're getting into. Webb out."
+
+Marcus closed the channel and stared out at the three battleships. *Typhoon* sat in Bay One, fully operational, her crew already aboard running combat drills. She was ready. But *Sentinel* had no engines, *Gallipoli* had half her weapons offline, and *Lord Cardigan* was being held together with spit, prayer, and jury-rigged civilian shields.
+
+And in less than twenty-six hours, all four vessels would be facing two Ryzak combat groups.
+
+His comm chirped. Commander Sarah Chen from Galileo Station.
+
+> "Chief Webb, this is Station Command. Status update?"
+
+> "Commander, we're working miracles out here, but they're messy miracles. *Sentinel* will be mobile but compromised. *Gallipoli* will have weapons but we had to cannibalize *Cardigan*'s fire control to make it work. *Cardigan* will have shields but they're jury-rigged civilian units, and her gunners will be firing manually—eyeballing shots against moving targets."
+
+> "What's your confidence level?"
+
+Marcus looked at the ships again. At the workers swarming over them, cutting, welding, installing, testing. At the sparks of cutting torches and the glow of welding arcs. At three hundred people who hadn't slept and wouldn't sleep until the job was done.
+
+> "Commander, if we were doing this by the book, I'd say zero confidence. We're violating every safety protocol, every engineering standard, every regulation in the manual. Any inspector would shut us down immediately."
+
+> "But?"
+
+> "But my people are the best in the Federation. They're working with fire in their bellies and no margin for error. We'll have three battleships ready for combat. They won't be pretty, and they won't be perfect, but they'll fight."
+
+> "That's all we need, Chief. How can Station support you?"
+
+> "Send us every spare power cell you have. Every weapons component. Every shield emitter. Hell, send us *Cardigan*'s entire torpedo magazine—we're transferring it to *Gallipoli* since she's got the working fire control. And coffee. Lots of coffee."
+
+> "Already on the way. And Chief?"
+
+> "Yes, ma'am?"
+
+> "Thank your people for me. They're buying Earth time to live."
+
+> "I will, ma'am. Webb out."
+
+He opened the facility-wide channel.
+
+> "All hands, this is Chief Webb. I know you're tired. I know you're working beyond anything we've ever asked of you. But I need you to know what's at stake here." He paused, choosing his words carefully. "In less than a day, a hostile fleet will arrive at Jupiter. They're coming to take Earth. To occupy our home. To subjugate our families."
+
+Across the facility, he saw workers pause, looking up at the speakers.
+
+> "The four ships we're working on right now—they're not just metal and circuits. They're the difference between Earth remaining free and Earth falling to an alien empire. Every weld you complete, every system you bring online, every shortcut you make work—you're saving lives. You're protecting families. You're defending everything we've built."
+
+He looked at *Sentinel*'s exposed engines, at *Cardigan*'s weapon arrays, at *Gallipoli*'s emergency shield installation.
+
+> "We have ten hours to finish what we started. Ten hours to give these ships a fighting chance. I know it's not enough time. I know we're asking the impossible. But I also know that every single person in this facility is capable of miracles when they need to be."
+
+He paused.
+
+> "So let's show these Ryzak bastards what human engineering can do when our backs are against the wall. Let's give them four battleships they'll never forget. Now get back to work—we've got a deadline."
+
+The response came not in words but in renewed activity. Cutting torches flared brighter. Welding arcs intensified. Suited figures moved with fresh urgency across the hulls.
+
+Marcus turned back to his displays, pulling up the master timeline. Ten hours to complete three separate emergency refit operations simultaneously. It should have been impossible.
+
+But his people were already doing it.
+
+In Bay Seven, the Kryllian drive unit maneuvered into position, guided by six suited engineers with magnetic clamps. In Bay Three, technicians swarmed over *Gallipoli*'s starboard weapon arrays, connecting salvaged fire control systems with desperate speed. In Bay Five, the civilian shield generators from *Abundant Hope* hung suspended over *Lord Cardigan*'s hull, ready for installation.
+
+Three ships that weren't ready.
+
+Three ships that had to be.
+
+And ten hours to make it happen.
+
+Marcus pulled up the engineering schematics for all three vessels and started identifying additional shortcuts they could take. Every system that wasn't critical to combat operations could be sacrificed. Every regulation that didn't directly impact crew survival could be ignored.
+
+They were going to war in ships held together by emergency welds and borrowed components.
+
+But they were going to war.
+
+And that was all that mattered.
+
+---
+
+The countdown continued.
+
+**ESTIMATED RYZAK ARRIVAL: 25 HOURS, 47 MINUTES**
