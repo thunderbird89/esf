@@ -1,7 +1,11 @@
-# Knock Knock
-
-*Date: 2027-03-08*
-
+---
+layout: story
+type: story
+line: main
+title: Knock Knock
+permalink: /stories/knock-knock
+timeline: 2027-03-08
+---
 ## Chapter 1: The Theft
 
 ### The Watering Hole
