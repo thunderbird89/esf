@@ -1273,3 +1273,355 @@ In Bay Three, weapons crews rolled torpedo pallets toward *Gallipoli*'s magazine
 The Ryzak were coming.
 
 And the Federation was ready to knock back.
+
+### Galileo Station
+
+Commander Sarah Chen stood in the operations center, watching the deployment status for the last batch of defense platforms. Six automated weapon stations, each one little more than a railgun mount with a power cell and basic targeting computer, were being pushed out of the station's cargo bay by suited engineers.
+
+> "Platform Delta-Six is away," Lieutenant Marcus Webb reported from his console. "Thrusters firing. Moving to position."
+
+> "Acknowledged. How many does that make?"
+
+> "Eighteen total, ma'am. We've got them spread in a loose sphere around the beacon, between fifty and a hundred kilometers out. They're not going to win any battles, but they'll give the Ryzak more targets to track."
+
+Chen nodded, studying the tactical display. Eighteen defense platforms against two Ryzak combat groups was laughable on paper. Each platform had a single railgun, limited ammunition, and shields that would fail after maybe two hits from a Ryzak destroyer. But that wasn't the point.
+
+The point was to make the Ryzak targeting solutions more complicated. Every platform they shot at was attention they weren't directing at Federation ships. Every second they spent acquiring and eliminating automated defenses was time for human pilots to maneuver and strike.
+
+> "What's their ammunition loadout?" Chen asked.
+
+> "Forty rounds per platform. They'll burn through it in about ninety seconds of sustained fire. After that, they're just expensive decoys."
+
+> "Ninety seconds of fire is ninety seconds we don't have to provide," Chen said. "Every bit helps."
+
+Her communications console chimed. Priority channel from deep space.
+
+> "Commander Chen, this is Admiral Trager, Third North Fleet."
+
+Chen activated the channel. The transmission lag was noticeable—Third North Fleet was still seventeen systems away, racing toward the Xenari jump bridge at speeds that were probably cooking their drive systems.
+
+> "Admiral Trager. Good to hear from you. What's your ETA?"
+
+There was a three-second delay before Trager's response came through.
+
+> "Nine hours to the jump bridge, Commander. I know that's not what you want to hear. We're eight hours behind schedule for the fight."
+
+> "Eight hours, eight days—doesn't matter, Admiral. We hold until you arrive or we don't hold at all."
+
+Another delay.
+
+> "We're running our drives at one-fifteen percent. I've got two destroyers with stress fractures in their warp coils, but they're maintaining speed. We'll arrive at full combat readiness and engage immediately."
+
+Chen looked at the countdown timer. Less than an hour until the Ryzak emerged. Eight hours of fighting before Third North Fleet could relieve them. Possibly more if the battle didn't go well.
+
+> "Understood, Admiral. I'm uploading our tactical situation now. You'll see we've got limited capital ship assets—four battleships, one of which won't be operational until an hour after the shooting starts. Two of the others are... compromised. We're relying heavily on fighters and corvettes to engage their screen while our battleships focus on their heavy assets."
+
+She paused, choosing her words carefully.
+
+> "Admiral, if Galileo Station isn't wreckage by the time you arrive, you better be ready for all guns blazing. We're going to need every ship you have, and we're going to need them hitting hard the moment you clear the bridge."
+
+The delay stretched. Chen could picture Trager on her bridge, reviewing the tactical data, calculating the odds.
+
+> "Commander, when we arrive, the Ryzak are going to find out what happens when you threaten Earth. Third North Fleet will engage with everything we have. You hold that line for eight hours, and I promise you—we'll make them regret showing up."
+
+> "That's all we need, Admiral. Chen out."
+
+She closed the channel and turned back to the tactical display. The defense platforms were spreading into their assigned positions, small icons scattered across the battle space like seeds. Inadequate. Insufficient. But better than nothing.
+
+> "Commander," Lieutenant Rodriguez called from the sensor station. "I'm picking up increased activity from the jump beacon. Power signatures spiking."
+
+Chen's pulse quickened.
+
+> "How long?"
+
+> "Unknown, ma'am. Could be minutes, could be an hour. The beacon's warming up, but we can't tell when the Ryzak will actually activate the bridge."
+
+> "All stations, this is Commander Chen. We're seeing beacon activity. All combat personnel to stations. All civilian personnel to shelters. This is not a drill."
+
+Throughout the station, alarm klaxons began to sound. Chen watched as status indicators shifted from amber to green across her board—weapons systems coming online, shield generators spinning up, crew stations reporting ready.
+
+> "HARBINGER, you reading this?"
+
+The AI's distinctive geometric form appeared on one of the screens, pulsing steady blue.
+
+> "Confirmed, Commander Chen. Beacon power signature indicates imminent transit. Estimate fifteen to thirty minutes until emergence. All Federation forces are moving to final defensive positions. Earth's Talon squadrons are beginning orbital insertion now."
+
+> "What about *Gallipoli* and *Lord Cardigan*?"
+
+> "*Gallipoli* will launch in forty-seven minutes. *Lord Cardigan* in ninety-three. Both ships will enter an active combat zone."
+
+> "They knew what they signed up for," Chen said quietly. She pulled up the fleet disposition one more time. Two battleships, one destroyer, three corvettes, eight Talon squadrons, three dozen interceptors, and eighteen automated defense platforms.
+
+Against two Ryzak combat groups.
+
+She'd run the simulations a hundred times. The math was brutal. But mathematics didn't account for human determination, for desperation, for the fact that they were defending their homeworld.
+
+> "All hands," she said into the station-wide comm. "This is Commander Chen. In approximately thirty minutes, a hostile fleet will emerge at the jump beacon. They outnumber us. They outgun us. They think we're primitives who'll fold at the first show of force."
+
+She paused, looking at the faces in the operations center. Young officers, experienced crew, all of them volunteers who'd spent their lives preparing Earth for this moment.
+
+> "They're wrong. We've spent eighty years building the Federation, training our forces, preparing for the day when Earth would have to stand on its own. That day is here. We hold this system for eight hours. We protect our homeworld until reinforcements arrive. And we show these Ryzak bastards that humanity doesn't surrender."
+
+Her voice hardened.
+
+> "All stations report ready. Weapons free upon enemy emergence. And remember—we're not just buying time. We're buying Earth's future. Don't waste a single second of it."
+
+The countdown timer ticked downward.
+
+**27 MINUTES, 34 SECONDS**
+
+In the operations center, every screen showed the same thing: the jump beacon, hanging in space, its power signature climbing steadily.
+
+Waiting for the knock.
+
+### Ryzak Staging Point, Border Space
+
+The supercarrier *Worldbreaker* hung in the void, a massive slab of Ryzak engineering three kilometers long and bristling with weapons. Around her, the subjugation fleet waited in formation—two combat groups arrayed in perfect military precision. Two carriers, four battleships, supporting cruisers, destroyers, and frigates. Thirty-four warships ready to jump.
+
+On the bridge of the *Worldbreaker*, High Admiral Kraveth stood before the command dais, his scaled hands clasped behind his back. The stolen Xenari encryption keys had been loaded into the navigation systems hours ago. Now came the moment of execution.
+
+> "Communications," Kraveth said, his voice a low rumble. "Transmit the activation sequence."
+
+The communications officer's claws moved across the control interface.
+
+> "Transmitting now, Admiral. Authentication codes accepted. Sol system beacon is responding."
+
+On the main display, telemetry data began flowing in from across light-years. The jump beacon in Sol system, two thousand light-years away, was acknowledging the command codes. Power signatures spiking. Spatial coordinates locked. The bridge was being prepared.
+
+> "Beacon status?" Kraveth asked.
+
+> "Active, Admiral. Cynosural field will be established in twenty-six minutes. Jump window will remain stable for thirty minutes after activation."
+
+Kraveth's mandibles clicked in satisfaction. The Xenari encryption had worked perfectly. The beacon thought it was receiving legitimate traffic control commands from authorized vessels. By the time the Xenari realized the breach, the Ryzak fleet would already be in Sol system.
+
+> "Helm, bring jump drives to full power. All ships are to maintain formation. We bridge in twenty-five minutes, on my mark."
+
+> "Yes, Admiral."
+
+Kraveth looked at the fleet disposition. Two carriers—*Stormbreaker* and *Doombringer*—would jump first, deploying their strike craft immediately to establish space superiority. The four battleships would follow, their heavy weapons ready to engage any capital ships the Federation might have present. The supporting vessels would screen and pursue.
+
+Simple. Brutal. Effective.
+
+> "Navigation, confirm jump calculations."
+
+> "Confirmed, Admiral. We are locked on the Sol beacon. Emergence point will be within ten kilometers of the beacon structure. All vessels have received jump coordinates."
+
+Kraveth allowed himself a moment of anticipation. The Federation had been a thorn in the Ryzak Empire's side for too long. Their mysterious operatives, their unexpected technological capabilities, their interference in Ryzak operations. All of it traced back to Sol system, to the primitive human homeworld.
+
+No longer.
+
+Today, Earth would learn what it meant to face the Ryzak Empire. Today, humanity would be brought to heel.
+
+> "All vessels report ready, Admiral," his tactical officer announced. "Fleet is in position. Jump drives are spooling up."
+
+> "Excellent. Begin final countdown. Bridge activation in twenty-four minutes."
+
+Ahead of the supercarrier, space began to bend. The jump drives were warping local space-time, preparing to create a stable wormhole that would connect to the beacon's cynosural field. It was technology the Ryzak had conquered through force—taken from other civilizations, adapted, weaponized.
+
+And now it would deliver them to Earth.
+
+Kraveth watched the countdown on his display. Twenty-three minutes. Twenty-two. Twenty-one.
+
+The fleet hung in formation, perfectly still, waiting for the bridge to open.
+
+Waiting to jump.
+
+### Galileo Station
+
+> "Commander!" Lieutenant Rodriguez's voice cut through the operations center. "Beacon power surge! It's receiving external commands!"
+
+Chen spun to the sensor display. The jump beacon's power signature had spiked dramatically, its systems activating in sequence.
+
+> "Can you block the signal?"
+
+> "Negative, ma'am. The authentication codes are still valid, the new encryption keys haven't propagated to our beacon yet. It still accepts the old codes as legitimate traffic. It's preparing to establish a cynosural field."
+
+Chen's jaw tightened.
+
+> "How long?"
+
+> "Field activation in twenty-four minutes. Jump window opens immediately after."
+
+> "All stations, this is Commander Chen. They're activating the beacon. Twenty-four minutes until hostile fleet emergence. All combat assets move to final positions now. This is it."
+
+Throughout Sol system, Federation forces acknowledged the alert. The battleship *Typhoon* and destroyer *Sentinel* adjusted their positions, their weapons already trained on the beacon's coordinates. Talon squadrons spread into attack formations. The three corvettes moved to flanking positions. Eighteen defense platforms locked their targeting systems on the emergence point.
+
+On Earth, pilots climbed into their Talons, running through final pre-flight checks. The plan was to keep Earth's forces in reserve around the planet initially, letting the Federation assets engage first. But they could reach the battle space in minutes if needed.
+
+> "HARBINGER," Chen said. "Confirm all forces are in position."
+
+The AI's geometric form pulsed on the screen.
+
+> "All Federation forces report ready. Earth Talon squadrons are standing by in reserve around the planet. They can reach engagement altitude in approximately four minutes if required. *Gallipoli* launches in twenty-one minutes. *Lord Cardigan* in sixty-seven minutes."
+
+> "Keep Earth's forces in reserve for now. Let the Ryzak think they're only facing Federation assets."
+
+> "Understood, Commander."
+
+Chen looked at the tactical display. Two battleships. One destroyer. Three corvettes. Eight Federation Talon squadrons. Eighteen automated platforms.
+
+Against two Ryzak combat groups.
+
+The math was brutal. But they'd known that from the beginning.
+
+> "All stations stand by," she said. "Weapons free on emergence. Primary targets are the Ryzak battleships. Don't waste shots on the small craft—let our fighters handle them. Capital ships focus on capital ships."
+
+The countdown continued.
+
+**20 MINUTES**
+
+### Monte Real Air Base, Portugal
+
+Lieutenant Miguel Freitas ran his hand along the Talon's fuselage, the smooth composite material warm under his palm. Around him, 24 other pilots were doing the same—final checks, personal rituals, quiet moments before climbing into the cockpit.
+
+He'd been one of the first Earth pilots to fly a Talon three years ago. Back then, it had been presented as an experimental international partnership aircraft. Advanced, yes, but theoretically within human engineering capability.
+
+Now he knew the truth. The Talon's capabilities weren't theoretical. They were alien technology adapted for human hands. And in less than twenty minutes, he'd be flying it against an actual alien invasion fleet.
+
+> "Freitas," Captain Ramos called from her aircraft. "You ready for this?"
+
+Miguel looked up at the Talon. Sleek, deadly, capable of reaching orbit in minutes and fighting in hard vacuum. He thought of his sister in Lisbon. His parents in Porto. Maria, who still thought he was just a regular fighter pilot.
+
+> "Ready as I'll ever be, ma'am."
+
+He climbed the ladder and settled into the cockpit. On his HUD, the tactical feed from Galileo Station appeared—Federation forces positioning around the beacon, the cynosural field forming.
+
+Strike Package Delta, his four-Talon element, would support Federation corvette operations when—if—they were called up from reserve.
+
+If.
+
+Miguel ran through his pre-flight checklist, hands moving with practiced precision. Engine status: green. Weapons: loaded and armed. Life support: nominal.
+
+He was ready.
+
+### Kadena Air Base, Okinawa
+
+Major Ellie Morse finished her walk-around inspection of the Talon, her practiced eye catching every detail. She'd been one of the first American pilots to have contact with these aircraft two years ago, brought in to evaluate them for Air Force integration. Back then, she'd thought they were just really advanced fighters.
+
+Then came the briefing twelve hours ago. The one where HARBINGER appeared on every screen and told them they'd be fighting aliens. In space. To defend Earth.
+
+She'd had better Tuesdays.
+
+> "Major Morse," her wingman, Captain Jake Torres, called from the adjacent Talon. "You seeing the feed from Station Command?"
+
+> "Yeah. Twenty minutes until they come through."
+
+> "And we're sitting here on the ground."
+
+> "Reserve force, Captain. We go up if they need us. Otherwise, we stay ready and wait for the call."
+
+Ellie climbed into her cockpit, the familiar routine calming her nerves. She'd flown combat missions in Syria, led training exercises across the Pacific, tested experimental aircraft that pushed every limit. But this was different.
+
+This was defending her planet.
+
+She powered up her systems, watching the Talon come to life around her. On her secure comm channel, a message pinged—text only, delayed transmission from earlier in the day.
+
+**FROM: MAJ TANAKA, JASDF**
+**TO: MAJ MORSE, USAF**
+**SUBJECT: SEE YOU UP THERE**
+
+**Ellie - If we're both flying today, drinks are on whoever gets the first kill. Try to keep up. - Okuu**
+
+Ellie smiled despite the tension. She and Major Tanaka Utsuho—"Okuu" to her friends, nicknamed after some anime character Ellie had never quite understood—had been pen pals ever since the Talon integration program began. They'd compared notes on the aircraft's quirks, shared stories about their respective commands, complained about bureaucracy.
+
+Now they'd be fighting side by side. Sort of. If the Japanese squadrons were called up from reserve at the same time.
+
+> "All pilots, this is Kadena Tower. Stand by for potential scramble order. Maintain combat readiness. Station Command is monitoring the situation."
+
+Ellie settled into her seat, hands on the controls, eyes on the tactical display.
+
+Waiting.
+
+### Hyakuri Air Base, Japan
+
+Major Tanaka Utsuho—callsign "Okuu," much to the confusion of anyone outside the Japanese Air Self-Defense Force—cycled through her Talon's weapons systems one more time. Four air-to-air missiles. Two railgun pods. Full ammunition load. Everything green.
+
+She'd sent that message to Ellie Morse six hours ago, before comms went into lockdown. Drinks on whoever gets the first kill. It was bravado, mostly. But also truth. She and Ellie had been comparing flight hours and kill simulations for years. Time to see who was really better.
+
+Assuming they both survived.
+
+> "Okuu," her wingman, Captain Sato, called over the squadron channel. "You think they'll actually call us up?"
+
+> "Maybe. Maybe not. But we'll be ready either way."
+
+She looked at the tactical feed on her HUD. Federation forces were tiny compared to the Ryzak fleet composition HARBINGER had provided. Two battleships. Three corvettes. Some Talon squadrons. Against two carriers, four battleships, and dozens of supporting craft.
+
+The math was terrible.
+
+But Okuu had learned over her career that math didn't account for human stubbornness. She'd flown missions with worse odds. Not much worse, admittedly, but worse.
+
+> "All pilots, stand by," the tower announced. "Hostile emergence in fifteen minutes. Maintain ready status."
+
+Okuu's hands rested lightly on the controls. The Talon hummed around her, ready to leap into the sky at a moment's notice. Four minutes to orbit, HARBINGER had said. Four minutes from sitting on the runway to fighting in space.
+
+She'd done faster scrambles. Barely.
+
+Her thoughts drifted to Ellie Morse in Okinawa, to the Portuguese pilots at Monte Real, to all the other Earth pilots sitting in their Talons right now, waiting for the call.
+
+They'd all been training for this without knowing it. The unusual flight profiles. The sealed orders. The simulation scenarios that seemed just beyond realistic.
+
+It had all been real.
+
+And now came the test.
+
+### Galileo Station
+
+**10 MINUTES**
+
+On the main display, the beacon's power signature climbed steadily. Around it, Federation forces held their positions in tense silence. In the operations center, every console showed green status indicators. Weapons charged. Shields at maximum. Crews at combat stations.
+
+**5 MINUTES**
+
+Chen's hands gripped the edge of her console. This was it. Eighty years of preparation. Decades of covert operations. Years of technology transfer and training. All of it came down to the next few hours.
+
+> "Commander," Rodriguez said quietly. "Cynosural field forming."
+
+On the display, around the beacon in a ten-kilometer sphere, a shimmer appeared in space. Like heat haze, like a mirage, space itself was bending to accommodate the incoming bridge.
+
+> "Cynosural field active," the station's AI announced, its synthesized voice calm and precise.
+
+Chen keyed the fleet-wide channel.
+
+> "All forces, this is Station Command. Field is active. Hostile emergence imminent. Hold your positions. Hold your fire until we have confirmed targets. And remember—we're defending Earth. Make every shot count."
+
+**3 MINUTES**
+
+**2 MINUTES**
+
+**1 MINUTE**
+
+The operations center was silent except for the soft hum of electronics and the quiet breathing of the crew. On every screen, the cynosural field pulsed and shimmered, waiting to receive the incoming fleet.
+
+Chen took a deep breath.
+
+> "Thirty seconds," Rodriguez reported.
+
+She thought of Earth below. Of billions of people who had no idea what was about to happen. Of the pilots climbing toward orbit in their Talons. Of the engineers on *Gallipoli* and *Lord Cardigan* racing to finish their final checks. Of Admiral Trager's fleet, eight hours away, pushing their drives beyond all limits.
+
+All of them depending on the next few hours.
+
+> "Fifteen seconds."
+
+The shimmer in space intensified. The cynosural field was stabilizing, preparing to receive mass.
+
+> "Ten seconds."
+
+Chen straightened, her voice calm.
+
+> "Here they come. Knock-knock, motherfuckers."
+
+**5**
+
+**4**
+
+**3**
+
+**2**
+
+**1**
+
+**0**
+
+The cynosural field erupted with light.
+
+And the Ryzak fleet emerged into Sol.
