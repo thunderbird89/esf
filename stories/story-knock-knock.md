@@ -1167,3 +1167,109 @@ And a homeworld that needed them eight hours ago.
 ---
 
 **ESTIMATED RYZAK ARRIVAL: 25 HOURS, 47 MINUTES**
+
+## Chapter 3: Knock Knock
+
+### Jovian Shipyards
+
+Chief Engineer Marcus Webb stood in the command center, watching the departure sequence for the battleship *Typhoon*. Her engines flared brilliant blue as the docking clamps released, and she began her slow, deliberate pull away from the shipyard, her massive form silhouetted against Jupiter's turbulent atmosphere.
+
+One hour.
+
+That's all the time they had left before the Ryzak fleet arrived at the jump beacon. One hour to get the combat-ready ships into position, and hopefully a few more to get the others finished.
+
+> "*Typhoon* is away," Lieutenant Sarah Chen reported from her station. "Proceeding to defensive position Alpha-Seven, seventy-five kilometers from the beacon."
+
+> "Acknowledged. Status on *Sentinel*?"
+
+> "Final crew boarding now. Engineering reports the Kryllian drive is online and stable. It's ugly, Chief, but it works. They'll be ready to launch in ten minutes."
+
+Marcus pulled up the tactical display. The jump beacon hung in space near Jupiter's orbit, a spindly structure about a hundred and fifty meters long that could fold space itself, creating a bridge across light-years. Normally it was a carefully controlled piece of infrastructure, with scheduled transits and security protocols.
+
+In one hour, it would become a chokepoint.
+
+Every Federation vessel in the system was converging on the beacon. The battleship *Typhoon* with her full weapon loadout and shields. The destroyer *Sentinel* with her jury-rigged drive. Eight Talon squadrons from various Federation bases throughout the system. Three dozen interceptors that had been running patrol routes or maintenance cycles. Three Federation corvettes built for close-support operations.
+
+All of them positioning themselves for the fight of their lives.
+
+> "What's the tactical plan?" Commander Patricia Hayes asked from Bay Three, where *Gallipoli* sat with weapons crews still loading torpedo tubes.
+
+> "Station Command is coordinating with HARBINGER," Marcus said. "Primary targets are the Ryzak battleships. Two carriers means they'll deploy hundreds of strike craft, but the battleships are what can crack our capital ships. If we can take them out early, we limit the fleet's overall damage output."
+
+> "How do we kill two battleships with what we've got?"
+
+> "Focused fire. *Typhoon* and *Sentinel* will concentrate on the first battleship while our Talons and corvettes engage their screen. The plan is to punch through and mission-kill it before they can bring their full force to bear. Then we shift to the second one."
+
+> "That's assuming the Ryzak cooperate with our plan."
+
+> "It's assuming we survive long enough to make them regret showing up," Marcus corrected.
+
+He switched his view to Bay Five, where the battleship *Lord Cardigan* sat in her cradle. The civilian shield generators were installed, their jury-rigged connections glowing faintly with power flow. Technicians were still running final tests, checking the emergency bypass routing that held the whole system together.
+
+> "Bay Five, Webb. What's *Cardigan*'s status?"
+
+> "Chief, this is Lieutenant Tanaka." The young engineer's voice carried exhaustion and pride in equal measure. "Shields are up and holding. We're reading sixty-two percent coverage, which is better than we projected. The connections are stable for now, but if she takes a direct hit to the shield generators, we could lose everything."
+
+> "Understood. Can she fight?"
+
+> "She can absorb damage, sir. That's what she's built for. The guns will be firing manually, but we've got crews drilling on the manual targeting systems. They're not going to win any accuracy awards, but they can throw rounds downrange."
+
+> "That's all we need. How long until she's ready to launch?"
+
+> "Two hours, sir. We're still loading munitions and running the crew through emergency drills. These aren't her regular crew—we're pulling from whoever's available."
+
+Marcus looked at the countdown timer. Two hours would put *Cardigan*'s launch at one hour after the Ryzak arrived. She'd be joining a battle already in progress.
+
+He switched to Bay Three.
+
+> "Hayes, what's *Gallipoli*'s status?"
+
+> "Better than *Cardigan*'s," Hayes replied. "Fire control is online and tested. Both railgun arrays are operational. We're loading the last of the torpedo magazines now—*Cardigan*'s entire stock plus our own. We'll have full broadside capability."
+
+> "Time to launch?"
+
+> "Ninety minutes if we push it. The crew needs time to run integration checks with the salvaged fire control systems, but we can compress that if necessary."
+
+> "Compress it. I want *Gallipoli* in the fight as soon as possible. Even if it's just to add her guns to the mix."
+
+> "Understood, Chief. We'll be ready."
+
+Marcus closed the channel and stared at the tactical display. In Bay One, *Typhoon* was clear and moving to her defensive position. In Bay Seven, *Sentinel* would launch in minutes with her oversized drive and compromised hull. In Bay Three and Bay Five, *Gallipoli* and *Lord Cardigan* were being loaded with ammunition, their crews scrambling to learn systems that had been installed hours ago.
+
+Four battleships to face two Ryzak combat groups.
+
+It should have been suicide.
+
+But Marcus had spent twenty years in the Federation, and he'd learned one critical truth: desperate circumstances made people capable of impossible things.
+
+> "All hands," he said into the facility-wide comm. "*Typhoon* is away. *Sentinel* launches in eight minutes. We're now in the final stretch. To the crews on *Gallipoli* and *Lord Cardigan*—you have ninety minutes to finish what you started. Load every torpedo. Check every system. Train every crew station. When you launch, you're going into active combat, and there won't be time for second chances."
+
+He looked out at the shipyard, at the workers moving with focused intensity across the two remaining battleships.
+
+> "To everyone else—our job isn't done when these ships launch. We'll have damaged vessels coming back. We'll have casualties needing medical attention. We'll have ships needing emergency repairs under fire. So stay sharp, stay ready, and remember what we're fighting for."
+
+He paused.
+
+> "One hour until the Ryzak arrive. Let's make sure we're ready to welcome them."
+
+On the tactical display, *Sentinel* began her launch sequence, her jury-rigged Kryllian drive spooling up with a distinctive power signature that would have failed any inspection. But she moved, pulling away from the shipyard with unexpected grace despite her compromised systems.
+
+> "*Sentinel* is away," Chen reported. "Proceeding to defensive position Beta-Four. Captain Okonkwo reports all systems nominal. Well, as nominal as they can be with that drive configuration."
+
+> "That's what I like to hear," Marcus said.
+
+He pulled up the fleet disposition. Federation forces were spreading across the battle space, taking up positions around the jump beacon. The plan was simple in concept: meet the Ryzak as they emerged, hit them with everything available, and buy time for Earth's forces to reach orbit and for the damaged battleships to join the fight.
+
+Simple in concept.
+
+Desperate in execution.
+
+Marcus looked at the countdown timer one more time.
+
+**59 MINUTES, 12 SECONDS**
+
+In Bay Three, weapons crews rolled torpedo pallets toward *Gallipoli*'s magazine. In Bay Five, *Lord Cardigan*'s new shield generators hummed with barely-contained power. Throughout the shipyard, hundreds of personnel moved with purpose, knowing that every minute mattered.
+
+The Ryzak were coming.
+
+And the Federation was ready to knock back.
