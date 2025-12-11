@@ -327,3 +327,189 @@ The numbers were still against the Federation. The Ryzak still had overwhelming 
 But the momentum had shifted.
 
 And for the first time since the battle started, it wasn't clear the Ryzak were going to win.
+
+---
+
+**TIME TO REINFORCEMENTS: 07:26:18**
+
+### Target Priority
+
+The Ryzak fleet commander made his decision.
+
+*Gallipoli* had appeared from nowhere, delivered devastating fire on the *Blood of Conquest*, and was now coordinating with *Vanguard* to systematically dismantle one of his battleships. Her fire control was perfect, her weapons fully operational, and her shields were fresh. She was the most dangerous combatant on the field.
+
+She had to die.
+
+> "All cruiser elements, vector on the new battleship. Concentrated fire. Destroyers, provide screening and point defense suppression."
+
+The response was immediate. Four heavy cruisers—*Reaper's Edge*, *Blood Drinker*, *Fang of War*, and *Death's Herald*—broke from their screening positions and accelerated hard toward *Gallipoli*, their particle beam arrays already charging. They moved with coordinated precision, splitting to attack from multiple vectors, making it impossible for the battleship to face them all simultaneously.
+
+Aboard *Gallipoli*, the tactical alarms shrieked.
+
+> "Captain, we have four cruisers breaking formation—they're vectoring on us from bearings zero-four-five, one-two-zero, two-three-five, and three-one-zero. Range closing rapidly."
+
+Captain James Harrison watched the tactical display, his jaw tight. The cruisers were splitting his defensive fire, forcing him to choose which threats to prioritize. And behind them, destroyers were moving up to support, their lighter weapons adding to the incoming barrage.
+
+> "Helm, evasive pattern charlie. Rotate to present port shields to the closest threats. Weapons, split batteries—primary focus on the *Blood of Conquest*, secondary batteries engage those cruisers."
+
+The *Gallipoli* began to rotate, her massive bulk responding sluggishly to the thruster burns. She was a battleship, not a fighter—built to absorb punishment and dish it out, not to dance. The maneuver bought time, but not much.
+
+The cruisers opened fire.
+
+Particle beams lanced across the void from four different vectors, brilliant lines of ionized matter converging on *Gallipoli*'s position. The battleship's shields flared white-hot as they struggled to dissipate the concentrated energy. One beam, then two, then four, then eight—the cruisers were firing in sequence, never giving the shields time to recover.
+
+> "Shields at seventy-eight percent," the tactical officer called out. "Port quadrant taking heaviest fire. Rerouting power."
+
+> "Secondary batteries, engage those cruisers. I want them suppressed."
+
+*Gallipoli*'s lighter railguns spoke, sending rounds toward the attacking cruisers. One impact caught *Reaper's Edge* on her forward shields, the defensive field buckling but holding. Another round missed *Blood Drinker* by two hundred meters. The fire was effective enough to make them maneuver, but not enough to break off the attack.
+
+The destroyers joined in.
+
+Lighter particle beams added to the barrage, targeting *Gallipoli*'s shield generators directly, trying to create weak points for the cruisers to exploit. The battleship's point defense was active, railgun turrets tracking and firing at incoming rounds, but there were too many threats, too many angles.
+
+> "Shields at sixty-one percent," the tactical officer reported, her voice tight. "Port shield generator is overheating. Engineering reports stress fractures in the mounting assembly."
+
+> "Rotate ship. Present starboard shields."
+
+The *Gallipoli* rolled, attitude thrusters firing hard, but the maneuver was predictable. The cruisers adjusted their fire vectors, tracking the battleship's movement, maintaining their concentrated barrage. They were working as a team now, coordinated, relentless.
+
+Another wave of particle beams hammered home. Then another.
+
+> "Shields at forty-four percent. Port generator is offline—catastrophic failure. Compensating with secondary systems."
+
+Harrison's hands gripped the armrests of his command chair. They were taking punishment faster than they could respond. The *Gallipoli* was tough, built to survive exactly this kind of focused fire, but there were limits.
+
+> "Weapons, forget the cruisers. All batteries on *Blood of Conquest*. If we're going down, we're taking that battleship with us."
+
+Both railgun arrays rotated back to their primary target. The *Blood of Conquest* was still fighting, still dangerous despite the damage she'd taken. *Gallipoli*'s guns spoke again, tungsten-carbide rounds screaming across the distance, punching through weakened shields, carving into armor.
+
+But the cruisers weren't letting up.
+
+*Death's Herald* maneuvered into a flanking position, its full broadside bearing on *Gallipoli*'s aft quarter. Its particle beams lanced out, six weapons firing simultaneously. The battleship's shields flared, flickered, and failed in that sector.
+
+The follow-up shots punched through bare armor.
+
+Plating buckled. Bulkheads ruptured. The hits weren't penetrating deep—not yet—but they were carving channels through the outer hull, compromising structural integrity, destroying sensor arrays and point defense turrets.
+
+> "Hull breach, sections fourteen through eighteen," damage control reported. "Emergency containment holding. We've lost point defense coverage on the aft quarter."
+
+> "Shields at twenty-eight percent. We can't take much more of this."
+
+Then *Fang of War* landed a perfect shot.
+
+Its particle beam punched through *Gallipoli*'s failing shields and hit the battleship's engine assembly dead-on. The impact vaporized armor plating, carved into the drive assembly, and found the power conduits feeding the main thrusters.
+
+The engine section erupted in a cascade of secondary explosions.
+
+> "Direct hit to main engines!" Engineering's voice came through, barely audible over alarms. "Primary drive is offline—complete power loss to propulsion. Backup systems are... they're gone, Captain. Maneuvering thrusters only."
+
+Harrison watched as his velocity indicator dropped to zero relative to the beacon. The *Gallipoli* was still firing, her weapons still operational, but she couldn't maneuver. Couldn't evade. Couldn't rotate to spread damage across her shields.
+
+She was a stationary target.
+
+> "All batteries, continuous fire," Harrison ordered, his voice calm despite the situation. "We may not be able to move, but we can still shoot. Concentrate on *Blood of Conquest*. Weapons free. Fire until the guns melt."
+
+The *Gallipoli*'s railguns continued their steady drumbeat, pouring fire into the damaged Ryzak battleship. The cruisers kept hammering at her, their particle beams carving deeper into her armor, but Harrison's crew didn't flinch.
+
+If they were going to be a fixed gun platform, they'd be the deadliest one in the system.
+
+---
+
+**TIME TO REINFORCEMENTS: 07:21:34**
+
+### Reaper Flight
+
+Lieutenant Sarah Chen—callsign "Reaper"—watched her tactical display as the Ryzak cruisers swarmed *Gallipoli*. The battleship was taking a beating, her shields failing, her engines gone. She was still fighting, but she was hurt.
+
+And the Talons could help.
+
+> "Reaper Flight, this is Lead. The cruisers are occupied. Destroyers are screening them, but they're focused on *Gallipoli*. We've got a window."
+
+> "Copy, Lead," came the response from Reaper-Two. "What's the play?"
+
+> "Missiles. We go in fast, launch from medium range, and break off before their point defense can track us. Two destroyers are screening *Reaper's Edge*—they're our targets."
+
+> "Roger. Reaper Flight, arm missiles. Follow Lead's vector."
+
+Chen rolled her Talon onto a new heading, her engine burning hard as she accelerated toward the edge of the furball. Behind her, three wingmen matched her course. They were moving perpendicular to the main engagement, using the debris from the destroyed *Devourer's Pride* as partial cover.
+
+The Ryzak destroyers were good ships, well-armed and well-shielded. But they were distracted, their attention focused on suppressing *Gallipoli*'s point defense, their sensors tracking the big threats. A four-ship element of Talons, approaching from an oblique angle, using debris cover—they might not even see them coming.
+
+Chen checked her weapons display. Four missiles, each one carrying a shaped-charge warhead designed to punch through capital ship shields. Against a destroyer, they'd be devastating if they connected.
+
+> "Range ten thousand. Missiles locked. Reaper Flight, confirm locks."
+
+> "Two, locked."
+
+> "Three, locked."
+
+> "Four, locked."
+
+> "On my mark. Three... two... one... fox three!"
+
+Sixteen missiles leaped from the Talons' weapon bays, their drives igniting as they accelerated toward the two destroyers. The weapons spread slightly, each one tracking independently, following evasive patterns to make interception harder.
+
+For three seconds, the destroyers didn't react. Their sensors were looking the wrong direction, their point defense was engaged elsewhere, and the Talons had launched from outside their optimal detection envelope.
+
+Then their threat receivers screamed warnings.
+
+The lead destroyer—*Vengeful Strike*—tried to maneuver, its attitude thrusters firing hard, trying to present its heaviest shields toward the incoming missiles. Its point defense turrets rotated, tracking, firing. The first missile died in a burst of plasma. The second. The third.
+
+The fourth and fifth punched through.
+
+The shaped-charge warheads detonated against the destroyer's shields, the explosions focused into tight cones of plasma that carved through the defensive field like a cutting torch through paper. The shields failed. The follow-up missiles hit bare hull.
+
+Armor buckled, then ruptured. The destroyer's port side erupted in a cascade of secondary explosions as magazines cooked off. The ship rolled, venting atmosphere, already losing power to critical systems.
+
+The second destroyer—*Hunter's Pride*—had three additional seconds to respond. Its point defense was more effective, tracking and destroying five missiles before they reached optimal range. But seven missiles made it through.
+
+The barrage overwhelmed the destroyer's shields in a single concentrated strike. Three shaped-charge warheads detonated simultaneously against its forward section, the plasma cones punching through shields, armor, and bulkheads. The bridge section simply ceased to exist, vaporized in the focused detonations.
+
+The destroyer tumbled, its reactor already spiking toward catastrophic failure, its spine broken.
+
+> "Reaper Lead, splash two," Chen called out, already rolling her Talon into evasive maneuvers. "Breaking off. Reaper Flight, follow my heading."
+
+The four Talons burned hard, vectoring away from the engagement zone before the remaining Ryzak ships could respond. Behind them, *Vengeful Strike* continued to tumble, still technically intact but mission-killed, its crew evacuating in escape pods. *Hunter's Pride* exploded eight seconds later, its reactor containment failing, the fireball briefly illuminating the entire battle space.
+
+Aboard *Typhoon*, Captain Reeves watched the tactical display update.
+
+> "Two destroyers down. Talon element is disengaging. *Gallipoli* is still taking fire, but the pressure on her point defense just decreased."
+
+She keyed the fleet channel.
+
+> "*Gallipoli*, this is *Typhoon*. What's your status?"
+
+Captain Harrison's voice came back, strained but steady.
+
+> "We're stationary, *Typhoon*. Engines are gone. Shields are at twelve percent and dropping. But our guns are still operational, and we're still putting rounds on target. We're not dead yet."
+
+> "Acknowledged, *Gallipoli*. Continue firing. We're working on getting you support."
+
+Reeves closed the channel and looked at her tactical officer.
+
+> "How long until *Blood of Conquest* breaks?"
+
+> "She's on the edge, ma'am. Between *Gallipoli*, *Vanguard*, and our fire, she can't hold much longer. Maybe ninety seconds."
+
+> "And *Gallipoli* won't last ninety seconds against that cruiser barrage."
+
+> "No, ma'am. She won't."
+
+Reeves made the calculation. One Federation battleship, crippled and stationary, still fighting. One Ryzak battleship, heavily damaged, on the verge of destruction. Four Ryzak cruisers, coordinating their fire, systematically destroying *Gallipoli*.
+
+The math was brutal.
+
+But *Gallipoli* had bought them time. And time was all they needed.
+
+> "All batteries, maximum rate of fire. Target *Blood of Conquest*. I want that battleship dead before they finish off *Gallipoli*."
+
+The *Typhoon*'s guns roared, pouring fire into the dying Ryzak battleship. On the display, *Gallipoli*'s icon flickered as her shields failed completely, as particle beams carved into her hull, as her armor slowly gave way under the relentless barrage.
+
+But her guns never stopped firing.
+
+And somewhere in the back of Reeves's mind, a countdown timer continued its steady march.
+
+Seven hours, twenty-one minutes, thirty-four seconds until reinforcements arrived.
+
+*Gallipoli* just had to hold long enough for that number to matter.
