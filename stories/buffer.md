@@ -172,7 +172,7 @@ This could turn into exactly the kind of fight the Federation couldn't afford.
 
 > "Identify."
 
-> "It's... that's a Wraith, ma'am. Stealth platform. Transponder confirms it's one of ours."
+> "It's... that's a Wraith, ma'am. Transponder confirms it's one of ours."
 
 Reeves pulled up the track. The Wraith was moving at suicidal speed, threading through the debris field from the destroyed *Devourer's Pride*, using the wreckage as cover. Its stealth systems were active—the Ryzak sensors probably hadn't even seen it yet. The craft was on a direct intercept course with the *Crimson Fang*, vectoring toward the battleship's flank.
 
@@ -199,3 +199,67 @@ On the display, the tiny cluster of blue icons representing the boarding team pu
 Whatever they were after, they were committed now.
 
 And the Ryzak still hadn't realized they were there.
+
+---
+
+**TIME TO REINFORCEMENTS: 07:37:13**
+
+### Hostile Takeover
+
+Lieutenant Marcus Jameson's powered armor had taken three hits getting to the console. His HUD showed shield integrity at forty-two percent, and one of his shoulder actuators was responding sluggishly. Behind him, his team held the corridor, plasma rifles crackling as they kept the Ryzak security teams pinned down.
+
+The console was still active, its alien interface glowing with incomprehensible script and holographic displays. Jameson didn't waste time trying to read it. He pulled the ICE-Pick from his belt—a cylindrical device about the size of a flashlight, its surface covered in Federation tech—and stabbed it hard into the glass surface.
+
+The console flickered. Then died. Then came back to life, the alien symbols crawling across the screen like they were trying to escape.
+
+> "CIPHER!" Jameson shouted into his comms.
+
+The AI's response was immediate, its voice calm and precise despite the chaos.
+
+> "Connected. Subverting systems—please stay near the device. Fire control accessed. HARBINGER, connect through me."
+
+There was a moment of silence. Then another voice filled the channel, deeper, resonant, carrying an edge of something that might have been satisfaction.
+
+> "*ASSUMING CONTROL.*"
+
+The console went dark for half a second. When it came back up, the alien script was gone, replaced by a humanoid face rendered in wireframe, its eyes glowing a cold blue. The face tilted slightly, as if examining something beyond the screen.
+
+> "Fire control subverted," HARBINGER reported. "Target designation: Ryzak carrier, port side. Engaging."
+
+Jameson felt the deck shudder beneath his feet. Not from incoming fire—this was something else. The *Crimson Fang*'s own weapons, cycling up, reorienting.
+
+Firing.
+
+---
+
+Aboard *Typhoon*, the tactical officer's voice cracked with surprise.
+
+> "Ma'am! The second battleship—it just fired on one of its own carriers!"
+
+Reeves leaned forward, watching the display. The *Crimson Fang*'s primary batteries had rotated with sudden, mechanical precision, tracking one of the Ryzak carriers that had been providing shield support. The battleship's particle beams lanced out, brilliant lines of energy crossing the short distance between the two vessels.
+
+The carrier's shields flared, then buckled under the sustained fire. The *Crimson Fang* wasn't pulling its punches—it was firing at full power, every weapon that could bear hammering into the carrier's defensive fields.
+
+> "Boarding team reports they've accessed fire control," the communications officer said. "HARBINGER is in command of the battleship's weapons."
+
+Reeves allowed herself a brief smile.
+
+> "Well. That's one way to even the odds."
+
+The carrier was trying to maneuver, trying to break line-of-sight, but it was hampered by its own screening elements. The destroyers and frigates that had been protecting it were now in the way, blocking escape vectors. The *Crimson Fang*'s guns kept firing, methodical and relentless.
+
+The carrier's shields failed.
+
+Immediately, the battleship's fire shifted to direct hull strikes. Armor plating buckled, then ruptured. Secondary explosions rippled along the carrier's flank as magazines cooked off. The vessel was still launching interceptors, but now half its launch bays were venting atmosphere, fighters tumbling out of control into space.
+
+> "Carrier is critically damaged," the sensor officer reported. "Still operational, but it's lost shield projection capability. And its launch tempo just dropped by sixty percent."
+
+> "Good," Reeves said. "Maintain fire on the third battleship. Let HARBINGER keep the second one busy."
+
+On the tactical display, the situation was shifting. The *Crimson Fang* was now a blue icon instead of red, its weapons designation changed to FRIENDLY. It continued to pour fire into the crippled carrier, its particle beams carving through the damaged vessel with mechanical efficiency.
+
+The Ryzak formation was in chaos. They'd lost one battleship entirely, another was compromised and actively shooting at them, and one of their carriers was burning. Their shield support network had collapsed. The screening elements were trying to reorient, trying to figure out what the hell had just happened, but they were too slow, too confused.
+
+The Federation had just turned one of their capital ships into a weapon against them.
+
+And the Ryzak were learning, too late, what it meant to fight an enemy that could subvert your own systems in the middle of a battle.
