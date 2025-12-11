@@ -263,3 +263,67 @@ The Ryzak formation was in chaos. They'd lost one battleship entirely, another w
 The Federation had just turned one of their capital ships into a weapon against them.
 
 And the Ryzak were learning, too late, what it meant to fight an enemy that could subvert your own systems in the middle of a battle.
+
+---
+
+**TIME TO REINFORCEMENTS: 07:31:45**
+
+### Reinforcements Arrive
+
+The warp signature appeared first—a ripple in space-time that made sensors scream warnings for half a second before resolving into something solid. Then the battleship *Gallipoli* dropped out of warp seventy kilometers from the beacon, her massive bulk bleeding off velocity with thruster burns that lit up the tactical display.
+
+She didn't slow down to orient. She didn't wait to establish proper firing solutions. She just opened up.
+
+Both railgun arrays—port and starboard—spoke in perfect synchronization, the salvaged fire control systems from *Lord Cardigan* proving their worth. Tungsten-carbide penetrators screamed across the distance toward the third Ryzak battleship, *Blood of Conquest*, which was still trading fire with *Vanguard* and trying to maneuver away from the chaos of the compromised *Crimson Fang*.
+
+The first salvo caught *Blood of Conquest* mid-turn, her shields already stressed from sustained fire. Four rounds punched through the weakened defensive field, slamming into her port quarter. Armor buckled. Plating deformed. The impacts sent the battleship into a slow, uncontrolled roll as attitude thrusters struggled to compensate.
+
+> "Direct hits," *Gallipoli*'s tactical officer reported over the command net. "Target's shields failing in sectors four through seven. Reloading—firing again."
+
+The second salvo followed eight seconds later, this time aimed at the weakened sections. The fire control was perfect, each round tracking to impact the same compromised areas. More armor failed, more internal systems ruptured. Then *Gallipoli*'s missile tubes spoke, launching a full broadside spread of torpedoes—*Lord Cardigan*'s entire stock, now loaded into *Gallipoli*'s tubes.
+
+Twelve torpedoes, each carrying shaped-charge warheads designed to punch through capital ship armor, streaked across the void. *Blood of Conquest*'s point defense came alive, trying to intercept, but the screening fire was degraded, its targeting systems damaged. Eight torpedoes made it through.
+
+The battleship's midsection erupted in a cascading series of explosions, internal bulkheads failing, compartments venting. The ship's power signature flickered, its shields dropped entirely for three seconds, then struggled back to partial strength. It was still fighting, still firing, but it was hurt badly.
+
+Aboard *Typhoon*, Captain Reeves watched the tactical display update with grim satisfaction.
+
+> "*Gallipoli* is engaging. Effective fire on the third battleship. *Vanguard*, coordinate with *Gallipoli*—I want that target neutralized."
+
+> "Acknowledged," came the response from *Vanguard*'s captain. "Shifting fire now."
+
+Two Federation battleships focusing on one Ryzak capital ship. The math was suddenly much more favorable.
+
+---
+
+Then *Lord Cardigan* arrived.
+
+She came out of warp at a different vector, her civilian shield generators glowing faintly blue as they struggled to stabilize after the transition. She was uglier than *Gallipoli*, her hull showing the stress of emergency installation work, power conduits visible where armor plating should have covered them. But she was operational, and she was angry.
+
+Her target wasn't a battleship. It was the second Ryzak carrier—the one that *Crimson Fang* hadn't managed to cripple, the one still launching interceptors at a steady tempo, still screening with its escorts.
+
+*Lord Cardigan*'s main batteries opened fire, but these weren't the precise, computer-guided shots that *Gallipoli* and *Typhoon* could deliver. These were manual shots, aimed by gunners using iron sights and instinct, calculating vectors and deflection angles in their heads or with slide rules while the ship maneuvered beneath them.
+
+The first volley scattered wide. One round came within two hundred meters of the carrier's shields. Two more missed by half a kilometer. The fourth somehow managed to clip a destroyer that had wandered into the line of fire, its shields flaring as the round skipped off at an angle.
+
+But the gunners were learning fast, adjusting, compensating. The second volley was tighter. One round actually impacted the carrier's shields dead-on, the defensive field flaring brilliant white as it absorbed the kinetic energy. Another round followed, then a third. The impacts were random, unpredictable, impossible for the carrier's tactical computer to model because there was no pattern to predict. Just human eyes and human judgment, throwing steel at a target and seeing what stuck.
+
+The carrier's shields were taking damage—not catastrophic damage, just steady wear, each impact draining power reserves, each hit forcing the generators to work harder. *Lord Cardigan* wasn't going to kill the carrier quickly. She might not kill it at all.
+
+But she was making it hurt, and more importantly, she was making it deal with her. The carrier had to maneuver, had to direct point defense to intercept incoming rounds, had to allocate shield power to the sectors being hit. It couldn't ignore *Lord Cardigan*, even though the battleship's fire was wildly inaccurate.
+
+> "*Lord Cardigan* is engaging the second carrier," Reeves's tactical officer reported. "Accuracy is... poor, ma'am. Maybe fifteen percent hit rate. But she's getting their attention."
+
+> "That's all we need," Reeves said. "Every second that carrier spends worrying about *Cardigan* is a second it's not projecting shields to their battleships or coordinating their fighters."
+
+On the display, *Lord Cardigan* continued her harassment fire, her jury-rigged civilian shields holding steady despite return fire from the carrier's screening elements. A destroyer tried to interpose itself, and one of *Cardigan*'s wild shots actually caught it amidships, the shield failure catastrophic enough to send the destroyer tumbling out of formation trailing debris.
+
+Pure luck. But the Ryzak didn't know that.
+
+The tactical situation was shifting minute by minute. The Ryzak had started with four battleships and two carriers. Now they had one battleship destroyed, one compromised and actively shooting at them, one taking concentrated fire from two Federation battleships, and one of their carriers crippled while the other was being harassed by a jury-rigged mess of a ship that somehow refused to die.
+
+The numbers were still against the Federation. The Ryzak still had overwhelming force in their destroyers, frigates, and cruisers. Their interceptors were still swarming, still pressuring the Talons.
+
+But the momentum had shifted.
+
+And for the first time since the battle started, it wasn't clear the Ryzak were going to win.
