@@ -695,3 +695,181 @@ Six hours, fifty-six minutes.
 They could do this.
 
 They had to.
+
+---
+
+**TIME TO REINFORCEMENTS: 06:52:14**
+
+### Stalemate
+
+The *Crimson Fang*—now under HARBINGER's control—had finished destroying the first carrier. The Ryzak vessel was a drifting hulk, atmosphere venting from dozens of breaches, half its launch bays demolished, fires burning in compartments exposed to vacuum. It was still technically intact, but it would never launch another fighter.
+
+That left one carrier operational. And it was making all the difference.
+
+Captain Reeves watched her tactical display with growing frustration. The fourth Ryzak battleship—*Wrath of Dominion*—had been taking sustained fire from all three Federation battleships for the past six minutes. By all rights, it should have been breaking apart by now, its shields failing, its armor compromised.
+
+Instead, its shields were holding steady. Recovering, even.
+
+> "Explain this to me," Reeves said, her voice tight. "We've got three battleships pouring fire into that target. Why isn't it dying?"
+
+The tactical officer highlighted the power distribution overlay.
+
+> "The second carrier, ma'am. It shifted all shield projection capability to the *Wrath of Dominion* once we destroyed *Blood of Conquest*. With only one battleship to support instead of two, the power transfer is more concentrated. They're feeding it faster than we can drain it."
+
+Reeves pulled up the energy readings. The carrier—*Storm Bringer*—had moved into optimal support position, its shield generators running at maximum output, a steady beam of energy connecting it to the battleship. The *Wrath of Dominion* was still taking damage, but the math had changed. Where before the Federation's concentrated fire could overwhelm shield regeneration, now it could only match it.
+
+And in a battle of attrition, time favored whoever could last longer.
+
+> "What about the compromised battleship? Can HARBINGER redirect *Crimson Fang*'s fire to help us?"
+
+> "Negative, ma'am. The boarding team reports that ship's shields are offline—they took too much damage in the engagement. She's got weapons, but no defensive capability. If we move her closer to engage, the Ryzak will tear her apart."
+
+> "And *Lord Cardigan*?"
+
+> "Still harassing the carrier, but her accuracy is too poor to break through shields. She's buying us time by forcing them to divert attention, but she can't deliver killing blows."
+
+Reeves made the calculation. Three Federation battleships against one Ryzak battleship that was being actively sustained by a carrier. Their railguns could hurt it, but they couldn't kill it. Not quickly enough.
+
+And the Ryzak fleet commander had just realized the same thing.
+
+> "Ma'am, enemy fleet is repositioning," the sensor officer called out. "The three cruisers are... they're vectoring on us. Multiple destroyers forming up with them."
+
+Reeves felt ice in her stomach.
+
+The Ryzak had learned from their mistake with *Gallipoli*. They couldn't break through the Federation's capital ship firepower as long as all three battleships were operational. But if they could eliminate the most dangerous one, force it out of the fight—
+
+The tactical assessment was already updating on her display, threat vectors converging on *Typhoon*'s position.
+
+> "They're targeting us," she said quietly. "Three cruisers, five destroyers. Concentrated fire protocol."
+
+Her XO, Commander James Morrison, moved to her side.
+
+> "Ma'am, we're already at sixty-two percent shields from the sustained engagement. If they focus us the way they focused *Gallipoli*—"
+
+> "I know." Reeves's jaw tightened. "Helm, evasive pattern epsilon. Weapons, split fire—keep pressure on the *Wrath of Dominion* but engage those cruisers as they close. And get me a damage control team standing by. We're about to take a beating."
+
+The Ryzak formation was moving with coordinated precision now. The three cruisers—*Reaper's Edge*, *Blood Drinker*, and *Fang of War*—accelerated hard, splitting to attack from multiple vectors. Behind them, five destroyers matched their course, weapons charging, ready to add their lighter particle beams to the barrage.
+
+They'd learned. They'd adapted. And now they were coming for blood.
+
+---
+
+The first wave of particle beams hit *Typhoon* from three directions simultaneously.
+
+The battleship's shields flared brilliant white, already stressed from an hour of sustained combat. Reeves felt the ship shudder under her feet as the defensive fields struggled to dissipate the concentrated energy.
+
+> "Shields at fifty-four percent," the tactical officer reported. "Multiple impacts, port and starboard quadrants."
+
+> "Return fire. I want those cruisers suppressed."
+
+*Typhoon*'s secondary batteries spoke, railgun rounds and missiles streaking toward the attacking cruisers. One salvo caught *Reaper's Edge* on her forward shields, forcing her to maneuver. Another forced *Blood Drinker* to adjust course. But they weren't breaking off—they were just being more careful, coordinating their approach.
+
+The destroyers opened fire.
+
+Lighter particle beams lanced across the void, adding to the barrage. They weren't as powerful as the cruisers' weapons, but there were five of them, and they were targeting specific sections of *Typhoon*'s shields, trying to create weak points.
+
+> "Shields at forty-seven percent. Forward generators are running hot."
+
+Another wave of fire from the cruisers. Then another. They were firing in sequence now, coordinated, never giving *Typhoon*'s shields time to recover. The pattern was deliberate, methodical, the same tactics they'd used to destroy *Gallipoli*.
+
+Reeves watched her shield integrity dropping: 47%... 43%... 39%...
+
+> "Engineering, reroute all available power to shields. Strip it from weapons if you have to."
+
+> "Already doing it, ma'am. But we're taking damage faster than we can compensate."
+
+*Fang of War* maneuvered into optimal position, its full broadside bearing on *Typhoon*'s weakened forward quarter. Six particle beams lanced out simultaneously, converging on the same stressed section of shield.
+
+The forward shield generator failed.
+
+> "Forward shields down!" the tactical officer shouted. "Rerouting through backup systems—"
+
+A destroyer's particle beam punched through the gap before the backup could initialize. The beam carved into *Typhoon*'s armor, vaporizing plating, penetrating to the first internal bulkhead before the backup shield finally engaged.
+
+> "Hull breach, section seven! Emergency containment in place. Forward sensor array is damaged—we've lost resolution on targets bearing zero-two-zero through zero-four-zero."
+
+The ship shuddered as another concentrated barrage hammered home. The shields were holding, but barely. Reeves could see the power distribution readouts—they were redlining, pulling from every available system to feed the shield generators.
+
+> "Shields at thirty-one percent, ma'am."
+
+Twenty-nine percent.
+
+Twenty-six percent.
+
+> "Captain," Morrison said quietly. "If we stay here, they're going to tear us apart. We need to disengage."
+
+Reeves looked at the tactical display. *Vanguard* and *Sentinel* were still pouring fire into the *Wrath of Dominion*, but without *Typhoon* adding her guns, they weren't making progress. The Ryzak battleship's shields were holding, sustained by the carrier's power transfer.
+
+But Morrison was right. If *Typhoon* stayed in the fight, she'd suffer the same fate as *Gallipoli*. And losing a second battleship would shift the balance too far.
+
+> "Helm, break off. Set course for Jovian Shipyards, maximum velocity. Weapons, covering fire as we disengage—I want those cruisers focused on us, not on *Vanguard* and *Sentinel*."
+
+> "Aye, ma'am."
+
+*Typhoon* rotated, her main engines burning hard, accelerating away from the engagement zone. Her weapons continued firing as she withdrew, railguns and missiles keeping the Ryzak cruisers honest, forcing them to maintain defensive posture.
+
+A parting shot from *Reaper's Edge* caught *Typhoon*'s aft shields, the defensive field flickering dangerously.
+
+> "Shields at nineteen percent!"
+
+> "Keep us moving. Engineering, damage assessment—what shape are we in?"
+
+The chief engineer's voice came through, strained.
+
+> "We've got hull breaches in three sections, forward sensor array is barely functional, two secondary batteries are offline, and our shield generators are on the edge of thermal failure. We need to get out of this fight, Captain. If we take one more concentrated barrage, we're done."
+
+Reeves watched the tactical display as *Typhoon* pulled away, the distance to the Ryzak formation increasing. The cruisers were pursuing, but cautiously—they'd learned not to overextend. They were content to let *Typhoon* go, mission accomplished.
+
+They'd forced the most powerful Federation battleship out of the fight.
+
+> "ETA to Jovian Shipyards?"
+
+> "Thirty-four minutes at current velocity, ma'am."
+
+> "Get us there. And signal the yards—tell them we're coming in hot and we need emergency repairs. Priority items: shield generators, forward sensors, hull breaches, weapons systems. In that order."
+
+She turned to Morrison.
+
+> "You have the conn. Get us to the yards safely. I need to coordinate with *Vanguard* and *Sentinel*."
+
+Morrison nodded, moving to the command chair. Reeves pulled up the fleet channel.
+
+> "*Vanguard*, *Sentinel*, this is *Typhoon*. We're withdrawing for emergency repairs. You're the primary capital ships on station. HARBINGER, status of the compromised battleship?"
+
+The AI's distinctive voice came through immediately.
+
+> "Boarding team maintains control of *Crimson Fang*. Weapons are operational but shields are offline. Current position is defensible but vessel cannot maneuver aggressively without risk of destruction."
+
+> "Understood. *Vanguard*, *Sentinel*—continue pressure on the *Wrath of Dominion*. Don't let that carrier sustain it unopposed. Corvettes, continue harassment operations against the screening elements. Talons, maintain fighter superiority and look for opportunities against the carrier."
+
+A pause, then Captain Anderson's voice from *Vanguard*.
+
+> "Acknowledged, *Typhoon*. We'll hold the line. You get those shields back online."
+
+> "Count on it. *Typhoon* out."
+
+Reeves looked at the tactical display one more time. The *Typhoon* was pulling away from the battle, her icon moving toward Jupiter. Behind her, *Vanguard* and *Sentinel* continued their duel with the *Wrath of Dominion*, railguns firing, taking return fire from the Ryzak cruisers and destroyers.
+
+The Federation had lost *Gallipoli*. They'd lost twelve Talons. And now their most powerful battleship was out of action for at least the next hour.
+
+The math was getting worse.
+
+> "Time to reinforcements?" Reeves asked quietly.
+
+> "Six hours, forty-eight minutes, ma'am."
+
+Almost seven hours. And *Typhoon* would be at the yards for at least thirty to forty minutes of that, maybe longer depending on the damage.
+
+Reeves settled into a secondary station, pulling up damage reports, coordinating with the engineering teams. The fight was continuing without them, and every minute *Typhoon* was out of action was a minute *Vanguard* and *Sentinel* had to hold alone.
+
+She looked at the chronometer.
+
+Six hours, forty-eight minutes.
+
+They'd made it through the first hour. Six and a half more to go.
+
+The Ryzak had demonstrated they could adapt, could learn, could force Federation capital ships out of the fight through concentrated fire. They'd leveled the playing field.
+
+Now it was a question of whether the Federation could hold long enough for Third North Fleet to arrive.
+
+And whether there would be anything left to save when they did.
