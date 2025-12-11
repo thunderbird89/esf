@@ -1086,3 +1086,216 @@ The Ryzak were about to learn that Earth had arrived.
 
 **TIME TO REINFORCEMENTS: 06:25:13**
 
+### First Blood
+
+Lieutenant Miguel Freitas's targeting system locked on a Ryzak interceptor at eight thousand meters, the alien craft's angular frame highlighted in red on his HUD. The fighter was turning toward him, weapons charging, but Miguel was faster.
+
+He squeezed the trigger.
+
+The plasma lance shot out, a brilliant line of superheated matter crossing the distance in a heartbeat. The Ryzak's shields flared white, then failed. The lance punched through the cockpit section, coring the craft. It tumbled away, already breaking apart.
+
+Miguel's first kill. An alien fighter, in space, defending Earth.
+
+He didn't have time to process it.
+
+> "Delta-Two, splash one. Engaging new target."
+
+Captain Ramos's voice came through, tight with focus.
+
+> "Delta Lead, confirm kill. Good shooting. Delta Flight, stay tight, don't get separated."
+
+The Portuguese squadron drove into the Ryzak formation like a spear, plasma lances firing, missiles launching. Around them, the American and Japanese squadrons were doing the same, each element hitting from a different vector.
+
+The effect was immediate and devastating.
+
+The Ryzak interceptors had been pressing hard against the depleted Federation Talons, maintaining numerical superiority through sheer volume. But they'd been fighting for nearly ninety minutes, their pilots were fatigued, their weapons were depleted, and their formation was loose.
+
+Sixty-one fresh fighters, coordinated and aggressive, hit them like a sledgehammer.
+
+Major Ellie Morse rolled her Talon onto a target, fired, watched it die, and immediately acquired another. Her wingman splashed two more in quick succession. The American squadron was moving through the Ryzak formation like sharks through a school of fish.
+
+> "Viper-Three, splash three and four. These guys are slow—they can't track us."
+
+> "Stay focused," Morse replied. "Don't get cocky. There are still a lot of them."
+
+She was right. Despite the sudden reversal, despite the losses, the Ryzak had numbers. For every interceptor the Earth pilots destroyed, there seemed to be two more behind it. The carrier was still launching, still feeding craft into the engagement zone.
+
+But the momentum had shifted.
+
+Major Tanaka Utsuho—"Okuu"—led her Japanese squadron in a slashing attack through the Ryzak right flank. Her element destroyed five interceptors in thirty seconds, plasma lances and missiles working in perfect coordination.
+
+> "Hell Ravens, reform on me. Don't chase—stay disciplined. Let them come to us."
+
+The doctrine was working. The Earth pilots had trained for this, drilled the tactics until they were instinctive. Stay in formation, support your wingman, engage decisively and break off before the enemy could respond.
+
+The Ryzak were trying to adapt, trying to counter, but they were fighting on fumes against fresh pilots in superior aircraft.
+
+---
+
+Aboard Galileo Station, Commander Sarah Chen watched the tactical display with grim satisfaction. The arrival of Earth's squadrons had changed everything. The Ryzak interceptor advantage was evaporating, their numbers dropping rapidly as the coordinated Earth attack tore through them.
+
+> "Federation Talon elements, this is Station Command. Earth forces are engaged and holding. All Federation squadrons are cleared to rotate through Jovian Shipyards for emergency resupply. Execute immediately."
+
+The response was immediate. The exhausted Federation pilots, many flying on empty weapons bays and damaged systems, began breaking off from the engagement. Their jump drives spooled up, and they vanished in ripples of twisted space, heading for the shipyards.
+
+For the first time in nearly two hours, they had breathing room.
+
+Chen pulled up the fleet status summary, her expression darkening as she reviewed the numbers.
+
+Federation Talons: 27 operational but depleted, rotating to resupply. 13 destroyed.
+
+Earth Talons: 61 engaged, fresh weapons and systems.
+
+Total allied fighters: 88 operational.
+
+Ryzak interceptors: Estimated 70-80 still in engagement zone, with carrier continuing to launch.
+
+The math was still brutal. Even with Earth's reinforcements, they were outnumbered. The Ryzak had more fighters in the battle space, and their carrier could keep launching for hours yet.
+
+This wasn't a victory. It was a reprieve.
+
+> "HARBINGER, analysis. Can we hold with current force composition?"
+
+The AI's geometric form appeared on her screen, pulsing thoughtfully.
+
+> "Current engagement projections show Earth forces maintaining local superiority for approximately forty-seven minutes, accounting for ammunition expenditure and pilot fatigue. However, Ryzak carrier launch tempo has not decreased. They are replacing losses faster than we can inflict them."
+
+> "So we're still losing the attrition battle."
+
+> "Correct. The arrival of Earth forces has stabilized the situation temporarily, but the fundamental mathematics remain unfavorable. We have approximately eighty-eight fighters against seventy-plus interceptors, with the Ryzak able to launch an additional fifty to sixty craft before their carrier's magazine is depleted."
+
+Chen looked at the tactical display, watching the swirling dogfight play out. Blue icons and red icons, merging and separating, each exchange leaving fewer fighters in the battle space.
+
+> "What about the capital ship engagement?"
+
+> "*Vanguard* and *Sentinel* continue to engage the *Wrath of Dominion*, but the carrier's shield projection is sustaining the battleship. *Typhoon* is at Jovian Shipyards undergoing emergency repairs, ETA to return to combat is forty-three minutes. *Lord Cardigan* continues harassment of the carrier but is taking accumulated damage."
+
+> "How much longer can *Cardigan* hold?"
+
+HARBINGER's geometric form flickered.
+
+> "Unknown. Her shields are compromised, her jury-rigged systems are failing. The Ryzak screening elements are beginning to focus fire on her. Estimate she will be forced to disengage within the next ten to fifteen minutes."
+
+Chen's jaw tightened. They'd held for two hours. They had nearly five more to go before Third North Fleet arrived. And the Ryzak were grinding them down, ship by ship, fighter by fighter.
+
+> "Keep me updated. And HARBINGER—coordinate with the Earth squadrons. Make sure they understand they're not invincible. Those pilots are green, and they're going to make mistakes."
+
+> "Acknowledged, Commander."
+
+Chen turned back to the tactical display, watching the battle unfold. The Earth pilots were performing better than anyone had expected, better than they had any right to given that this was their first real combat.
+
+But "better than expected" wasn't the same as "good enough to win."
+
+And the clock kept ticking.
+
+**TIME TO REINFORCEMENTS: 06:19:37**
+
+### Accumulation
+
+The battleship *Lord Cardigan* had been fighting for two hours straight with jury-rigged civilian shields and gunners using manual targeting. She'd harassed the Ryzak carrier, forced it to maneuver, destroyed two destroyers through sheer luck and volume of fire.
+
+But her luck was running out.
+
+Captain William Shaw stood on his bridge, watching the shield integrity readouts drop with each passing minute. The civilian generators they'd installed at Jovian Shipyards were never designed for sustained combat. The emergency bypass connections were failing one by one, the jury-rigged power conduits overheating.
+
+> "Shields at thirty-eight percent," the tactical officer reported. "Port generator is offline. Starboard generator is running at one hundred forty percent rated capacity and climbing."
+
+> "Reroute power from non-essential systems," Shaw ordered. "Life support, secondary lighting, crew quarters—strip it all. Feed those shields."
+
+> "Aye, sir."
+
+The *Cardigan* shuddered as another volley of particle beams struck her shields. The Ryzak screening elements—two cruisers and four destroyers—had finally decided she was enough of an annoyance to warrant concentrated attention. They were coordinating their fire now, methodically wearing down her defenses.
+
+> "Shields at thirty-one percent. Starboard generator temperature is redlining. Engineering reports imminent failure."
+
+Shaw looked at the tactical display. The carrier—*Storm Bringer*—was maintaining its shield projection to the *Wrath of Dominion*, keeping the Ryzak battleship alive despite concentrated fire from *Vanguard* and *Sentinel*. *Lord Cardigan* had been harassing it for nearly two hours, forcing it to divide its attention, preventing it from focusing entirely on shield projection.
+
+But they'd done all they could do. The math was clear.
+
+> "Helm, set course for Jovian Shipyards. Maximum velocity. Weapons, continuous fire until we're out of range. Let's make them remember us."
+
+> "Aye, sir."
+
+The *Lord Cardigan* began to turn, her massive bulk rotating ponderously, her engines preparing to burn hard. Her railgun batteries continued firing even as she maneuvered, rounds screaming toward the carrier and its escorts with wild, unpredictable trajectories.
+
+One shot actually connected with a destroyer's shields, the impact stressing the defensive field. Another missed by three hundred meters. A third somehow clipped the carrier's aft quarter, the round skipping off shields at an angle.
+
+Pure luck, every single one. But it was making the Ryzak nervous.
+
+> "Engineering to bridge. Starboard shield generator just failed. Complete thermal burnout. We're down to backup systems only."
+
+> "Acknowledged. How long until we can jump?"
+
+> "Drive is spooling up now. Thirty seconds."
+
+The Ryzak cruisers intensified their fire, sensing the Federation battleship was trying to escape. Particle beams lanced across the void, hammering into *Cardigan*'s failing shields. The backup generators were struggling, flickering, barely holding.
+
+> "Shields at eighteen percent. Backup generators are overloading."
+
+Shaw watched the jump drive status: twenty seconds. Fifteen. Ten.
+
+A concentrated barrage from both cruisers struck simultaneously. The shields flared, held for half a second, then collapsed entirely.
+
+The follow-up shots punched through bare armor.
+
+Plating buckled. Bulkheads ruptured. The hits weren't deep penetrations—*Cardigan* was too tough for that—but they were carving channels through her outer hull, destroying weapons mounts, sensor arrays, point defense turrets.
+
+> "Hull breaches, sections nine, twelve, and fifteen. Emergency containment holding. We've lost two secondary batteries."
+
+The jump drive indicator turned green.
+
+> "Helm, execute jump. Now."
+
+Space twisted around the *Lord Cardigan*, and she vanished, leaving the engagement zone in a ripple of distorted space-time. The Ryzak cruisers continued firing for three seconds at empty space before their targeting systems recognized the Federation battleship was gone.
+
+Shaw allowed himself a moment to breathe.
+
+> "Damage report."
+
+> "Hull breaches in three sections, shields completely offline, starboard generator is slag, port generator is barely functional. Two secondary batteries destroyed, point defense coverage reduced by forty percent. We're alive, sir, but we're not combat effective."
+
+> "Get us to the shipyards. Emergency docking procedures. Tell them we need shield generators, armor patches, and weapons replacements. And tell them we'll be back."
+
+Shaw looked at his communications officer.
+
+> "Open a channel. All frequencies. Let's give everyone something to remember us by."
+
+> "Channel open, sir."
+
+Shaw nodded to the systems operator, who'd been waiting for this order since they'd started the engagement. The operator's hands moved across the console, pulling up a file that had been loaded into the ship's systems before they'd even left Jovian Shipyards.
+
+The opening notes of Iron Maiden's *The Trooper* began to play over the comm links—loud, defiant, unmistakably human.
+
+Shaw's voice cut through the music, carrying across every tactical channel in the engagement zone.
+
+> "All Federation and Earth forces, this is *Lord Cardigan*. We're withdrawing for repairs, but we're not done yet. Keep fighting. Keep shooting. And remember—we're defending Earth. They picked the wrong planet."
+
+The music swelled, Eddie's distinctive guitar riff cutting through the chaos of battle.
+
+*You'll take my life, but I'll take yours too*
+*You'll fire your musket, but I'll run you through*
+
+Throughout the engagement zone, pilots heard it. Federation crews heard it. Earth's fresh squadrons heard it. Even the Ryzak, monitoring human communications, heard the strange, aggressive sounds of an alien music form.
+
+Lieutenant Miguel Freitas heard it as he rolled onto another target, and despite the fear, despite the exhaustion, despite everything, he smiled.
+
+Major Ellie Morse heard it and pushed her throttle forward harder, diving into the furball with renewed aggression.
+
+Major Tanaka heard it and keyed her squadron channel.
+
+> "Hell Ravens, you heard the battleship. They bought us time. Let's make it count."
+
+Aboard *Vanguard*, Captain Anderson heard it and allowed himself a brief smile before returning his attention to the *Wrath of Dominion*.
+
+And aboard Galileo Station, Commander Sarah Chen heard it and felt something that might have been hope, or might have been defiance, or might have been the simple human refusal to quit even when the odds were impossible.
+
+*The Trooper* continued to play as *Lord Cardigan* warped toward the shipyards, her hull scarred, her shields down, but her guns silent only because she'd run out of targets in range.
+
+The Ryzak had forced another Federation battleship out of the fight.
+
+But that battleship had left on her own terms, with music playing and her guns still hot.
+
+And somehow, that mattered.
+
+**TIME TO REINFORCEMENTS: 06:12:44**
+
