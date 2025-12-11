@@ -513,3 +513,185 @@ And somewhere in the back of Reeves's mind, a countdown timer continued its stea
 Seven hours, twenty-one minutes, thirty-four seconds until reinforcements arrived.
 
 *Gallipoli* just had to hold long enough for that number to matter.
+
+---
+
+**TIME TO REINFORCEMENTS: 07:18:47**
+
+### Final Stand
+
+The *Gallipoli* lasted another three minutes.
+
+Her guns never stopped firing, even as the cruisers closed in, even as her shields failed completely, even as particle beams carved through her armor like a hot knife through butter. The railgun batteries continued their methodical work, each salvo aimed with perfect precision at the *Blood of Conquest*, each round punching into the Ryzak battleship's weakened hull.
+
+But it wasn't enough.
+
+The *Blood of Conquest* was tough, built to absorb punishment, and despite the concentrated fire from three Federation battleships, she was still holding together. Her shields were gone, her armor was compromised, half her weapons were offline, but her reactor was stable and her structural integrity was intact.
+
+*Gallipoli* didn't have that luxury.
+
+The four Ryzak cruisers had found their rhythm, firing in sequence, each beam strike landing on already-weakened sections. Armor plating buckled, then failed. Internal bulkheads collapsed. Systems died one by one—power distribution, life support, damage control.
+
+Captain Harrison watched his tactical display flicker, the feeds dying as sensors were destroyed. Around him, his bridge crew worked with desperate focus, rerouting power, compensating for failures, keeping the guns firing.
+
+> "Engineering reports main power conduit is failing," the tactical officer called out, her voice tight. "We're losing power to the primary batteries."
+
+> "Reroute through secondary systems," Harrison ordered. "Strip power from life support if you have to. Keep those guns firing."
+
+> "Aye, sir."
+
+The *Gallipoli* shuddered as another concentrated barrage found her midsection. The particle beams carved through compromised armor, through emergency bulkheads, through the skeletal framework that held the ship together.
+
+Something critical gave way.
+
+> "Structural failure, sections nine through fifteen," damage control reported, alarm bells ringing through the connection. "We're losing hull integrity. Recommend immediate—"
+
+The transmission cut off as the section vented to space.
+
+Harrison looked at the tactical display one more time. The *Blood of Conquest* was still there, still fighting, still dangerous. They'd hurt her badly, carved deep wounds into her hull, but they hadn't killed her.
+
+And *Gallipoli* was out of time.
+
+> "All hands," Harrison said into the ship-wide comm, his voice calm and steady. "This is the Captain. Abandon ship. I repeat, abandon ship. All personnel to escape pods immediately. It's been an honor serving with you."
+
+He closed the channel and looked at his bridge crew.
+
+> "That includes you. Get to the pods. Now."
+
+> "Sir—" the tactical officer began.
+
+> "That's an order, Lieutenant. Go."
+
+The bridge crew moved, disciplined even in crisis, heading for the escape pod clusters. Harrison remained at his station, watching the displays as his ship died around him. The guns were still firing, automated systems completing their programmed tasks even as the ship came apart.
+
+*Death's Herald* maneuvered into optimal firing position, its full broadside bearing on *Gallipoli*'s reactor section. The cruiser's weapons cycled up for one final, concentrated strike.
+
+Harrison keyed the fleet channel one last time.
+
+> "*Typhoon*, this is *Gallipoli*. We're going down, but we took our shot. Make it count."
+
+The response came immediately, Captain Reeves's voice tight with emotion.
+
+> "Acknowledged, *Gallipoli*. You held the line. We'll finish this."
+
+Harrison closed his eyes.
+
+The particle beams lanced out, six weapons firing simultaneously, converging on the battleship's reactor. The containment field, already stressed beyond limits, failed catastrophically.
+
+The *Gallipoli* came apart in a brilliant flash, the fusion reactor detonating with the force of a small star. The explosion tore the battleship into fragments, the blast wave expanding outward in a sphere of vaporized metal and superheated plasma.
+
+The shockwave caught *Death's Herald* before the cruiser could maneuver clear.
+
+The Ryzak ship was less than five thousand meters from the *Gallipoli* when she exploded—close enough for the blast wave to hit with devastating force. The cruiser's shields, already depleted from the extended engagement, buckled under the sudden pressure. The wave of superheated debris hammered into the hull, stripping away armor, collapsing sensor arrays, tearing through external equipment.
+
+*Death's Herald* tumbled, her attitude control systems failing, her shields down, her weapons offline. She was alive, but crippled, unable to maneuver or defend herself.
+
+And two Federation corvettes had been waiting for exactly this moment.
+
+---
+
+**TIME TO REINFORCEMENTS: 07:16:22**
+
+### Opportunists
+
+Commander Patricia Hayes, commanding the corvette *Relentless*, watched the tactical display as *Gallipoli* died. The explosion was visible even at seventy kilometers—a brief, brilliant star that outshone Jupiter behind it.
+
+> "Sensors, status on that cruiser—*Death's Herald*."
+
+> "Reading multiple system failures, ma'am. Shields are down. Power signatures are erratic. She's tumbling—I don't think she has attitude control."
+
+Hayes looked at the tactical plot. The cruiser was wounded, defenseless, and separated from the rest of the Ryzak formation by the expanding debris field from *Gallipoli*'s destruction. The other three cruisers were pulling back, regrouping around the *Blood of Conquest*.
+
+*Death's Herald* was alone.
+
+> "Helm, plot intercept course. Weapons, arm all missile tubes and charge plasma lances. *Valiant*, this is *Relentless*—you seeing what I'm seeing?"
+
+The response came from the second corvette, Commander Michael Torres's voice carrying grim satisfaction.
+
+> "Copy, *Relentless*. Crippled cruiser, isolated from formation, shields down. I'm reading the same thing you are."
+
+> "Then let's finish what *Gallipoli* started. Follow my approach vector. We go in fast, hit hard, and break off before the other cruisers can respond."
+
+> "Roger that. *Valiant* is with you."
+
+The two corvettes accelerated hard, their engines burning at maximum thrust, vectoring toward the tumbling Ryzak cruiser. They were small ships, built for speed and precision strikes rather than sustained combat, but against a crippled capital ship with no shields and no maneuvering capability, they were deadly.
+
+*Relentless* opened fire first.
+
+Six plasma lances, fired in rapid sequence, crossed the distance in heartbeats. Without shields to absorb the energy, the superheated plasma carved directly into *Death's Herald*'s hull. Armor vaporized. Internal bulkheads melted. The cruiser's wounded systems sparked and died as the plasma burned through critical infrastructure.
+
+*Valiant* followed three seconds later, her own plasma lances adding to the barrage. More armor failed, more systems died. The cruiser was trying to respond, trying to bring point defense online, but her weapons couldn't track, couldn't target, couldn't engage.
+
+Then the missiles hit.
+
+Sixteen weapons, launched from both corvettes, tracking the helpless cruiser. *Death's Herald*'s point defense was offline, her countermeasures were depleted, and she couldn't maneuver. The missiles impacted in a rippling cascade of explosions, each shaped-charge warhead detonating against bare hull, punching deep into the ship's interior.
+
+The cruiser's spine broke.
+
+The structural framework that held the ship together failed catastrophically, the forward section shearing away from the aft in a spray of debris and venting atmosphere. Secondary explosions rippled through both halves as power conduits severed, as fuel lines ruptured, as magazines cooked off.
+
+*Death's Herald* was dead.
+
+> "Target destroyed," Hayes's weapons officer reported. "Debris field expanding."
+
+> "Acknowledged. Helm, evasive maneuvers. Get us clear before the other cruisers notice we're here."
+
+The two corvettes burned hard, vectoring away from the engagement zone, using the debris from both *Gallipoli* and *Death's Herald* as cover. Behind them, the remaining three Ryzak cruisers were already reorienting, their sensors tracking the Federation ships, but the corvettes were fast and the debris field was dense.
+
+By the time the Ryzak could target them, they were gone.
+
+Aboard *Typhoon*, Captain Reeves watched the tactical display update. *Gallipoli* was destroyed. One Ryzak cruiser was gone. The *Blood of Conquest* was still fighting, though barely.
+
+> "Update the tactical assessment," she said quietly. "What's our current status?"
+
+The tactical officer pulled up the summary.
+
+> "Federation: *Typhoon*, *Vanguard*, *Sentinel*—all operational but shields depleted. *Lord Cardigan* is still harassing the second carrier. Three corvettes operational. Talon squadrons have taken losses but are still combat-effective. We're down to thirty-six fighters from the original forty-eight."
+
+> "Ryzak?"
+
+> "One battleship destroyed, one compromised and under our control, one heavily damaged but still fighting. One carrier crippled, one operational but degraded. Three cruisers operational, one destroyed. They've lost approximately eight destroyers and frigates, plus over a hundred interceptors."
+
+Reeves did the math. The Federation had taken losses, but the Ryzak had taken more. The momentum was still with them, but it was a close thing.
+
+> "How long until *Blood of Conquest* breaks?"
+
+> "She's holding on by sheer stubbornness, ma'am. Another ninety seconds of concentrated fire should do it."
+
+> "Then let's not waste *Gallipoli*'s sacrifice. All batteries, target *Blood of Conquest*. Coordinate with *Vanguard* and *Sentinel*. I want that battleship dead."
+
+The Federation battleships adjusted their firing solutions, their railguns tracking the wounded Ryzak vessel. All three ships fired simultaneously, tungsten-carbide rounds screaming across the void.
+
+This time, the *Blood of Conquest* couldn't hold.
+
+Her compromised armor failed, the penetrators carving through to critical systems. Her reactor spiked, the containment field destabilizing. Emergency systems tried to compensate, tried to contain the cascade, but it was too late.
+
+The *Blood of Conquest* exploded, her reactor detonation tearing the ship apart from the inside out. The blast was smaller than *Gallipoli*'s death—more controlled, the containment field managing to direct some of the energy—but the result was the same. The battleship ceased to exist, replaced by an expanding sphere of debris and radiation.
+
+> "Target destroyed," the weapons officer reported.
+
+Reeves nodded slowly. Two Ryzak battleships dead, one compromised, one carrier crippled, four cruisers down to three. The Ryzak had lost their numerical advantage in capital ships.
+
+But the fight was far from over. They still had overwhelming numbers in smaller vessels, and their remaining carrier was still launching interceptors. The battle had shifted, but it hadn't turned.
+
+> "Time to reinforcements?" Reeves asked.
+
+> "Six hours, fifty-six minutes, ma'am."
+
+Nearly seven hours. They'd been fighting for less than an hour, and they had to hold for seven more.
+
+Reeves looked at the tactical display, at the scattered icons representing Federation forces, at the red mass of Ryzak ships still pressing the attack.
+
+*Gallipoli* had bought them time. Captain Harrison and his crew had held the line, had kept fighting until the ship came apart around them.
+
+Now it was up to the rest of them to make sure that sacrifice meant something.
+
+> "All ships, this is *Typhoon*. We've neutralized their battleship advantage. Now we grind them down. Focus fire on cruisers and screening elements. Keep their interceptors contained. And remember—we don't need to destroy them all. We just need to survive long enough for reinforcements to arrive."
+
+She closed the channel and settled back into her command chair.
+
+Six hours, fifty-six minutes.
+
+They could do this.
+
+They had to.
