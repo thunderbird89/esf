@@ -873,3 +873,216 @@ The Ryzak had demonstrated they could adapt, could learn, could force Federation
 Now it was a question of whether the Federation could hold long enough for Third North Fleet to arrive.
 
 And whether there would be anything left to save when they did.
+
+---
+
+**TIME TO REINFORCEMENTS: 06:42:31**
+
+### Attrition
+
+The Federation Talons were dying.
+
+Not in dramatic explosions or sudden catastrophic failures. They were dying slowly, worn down by an enemy that refused to quit. The Ryzak interceptors kept coming, wave after wave, launching from the carrier's remaining functional bays. The Federation pilots were better trained, better equipped, and better coordinated—but they were outnumbered, and in a fight of attrition, numbers eventually won.
+
+Lieutenant Sarah Chen—callsign "Reaper"—rolled her Talon into a hard break, a Ryzak interceptor screaming past her canopy close enough to see the alien pilot inside. Her weapons had been depleted fifteen minutes ago. She was flying on fumes, using her superior maneuverability to stay alive, to draw fire, to keep the enemy off her squadron mates who still had ammunition.
+
+> "Reaper-Three, you're clear. Bandit on your six is splashed."
+
+> "Copy, Lead. I'm winchester. Plasma lances depleted, missiles gone. RTB for resupply."
+
+> "Acknowledged. Jump to Jovian Shipyards, get rearmed, get back here. Clock's ticking."
+
+Reaper-Three broke from the engagement, his Talon's jump drive spooling up. Space twisted around the craft, and it vanished—a two-minute round trip to the shipyards and back, but he'd need at least ten to fifteen minutes on the ground for rearm and refuel before he could return to the fight.
+
+Chen checked her tactical display. Of the original forty-eight Federation Talons that had started the engagement, twenty-seven were still in the battle space. Another eight were at Jovian Shipyards going through frantic resupply operations, crews working at emergency speed to reload weapons and patch damage. Thirteen had been destroyed outright, their pilots either dead or recovered by search and rescue craft.
+
+The rotation system was keeping them alive, barely. Talons could jump out, rearm in the shipyards, and jump back in under two minutes of travel time. But the shipyard crews could only work so fast, and every Talon that jumped out for resupply was one less fighter in the engagement space.
+
+And the Ryzak interceptors kept coming.
+
+> "All Talon elements, this is Reaper Lead. We're rotating through resupply but we can't keep pace. They're launching faster than we can reload. I'm seeing ammunition depletion across multiple squadrons."
+
+The response from *Vanguard*'s tactical coordinator was immediate, and grim.
+
+> "Acknowledged, Reaper Lead. We're reading the same. Stand by."
+
+Chen watched another Talon—Falcon-Four—break away from the furball, engines burning hard as his jump drive engaged. The pilot's voice came through, exhausted.
+
+> "Falcon-Four jumping to yards. Third resupply run. I'll be back in fifteen."
+
+> "Copy, Falcon-Four. Good hunting."
+
+But the math was brutal. Even with the rotation system, even with the shipyard crews working around the clock, the Federation couldn't sustain this tempo. For every Talon that jumped out to rearm, the Ryzak gained local superiority for those critical minutes.
+
+Chen's threat receiver screamed. She yanked the stick hard, rolling into evasive maneuvers, feeling the g-forces compress her into the seat. A Ryzak interceptor flashed past, its weapons tracking but missing by meters.
+
+Her weapons display showed empty. She'd been flying for twelve minutes without ordnance, pure evasion, drawing fire and providing targeting data for her wingmen. It was time to rotate out.
+
+> "Reaper Lead is winchester. Jumping to yards for resupply. Reaper-Two, you have the squadron."
+
+> "Copy, Lead. We'll hold."
+
+Chen selected the jump coordinates, felt the drive engage, and watched space twist around her canopy. The engagement zone vanished, replaced by the structured chaos of Jovian Shipyards, where ground crews were already waving her toward a loading bay.
+
+Two minutes total jump time. Fifteen minutes for resupply and systems check. Then back into the meat grinder.
+
+> "All Talons, this is Station Command. We need help. Reinforcements are inbound."
+
+---
+
+**TIME TO REINFORCEMENTS: 06:38:17**
+
+### The Call
+
+Commander Sarah Chen stood in Galileo Station's operations center, staring at the tactical display. The numbers were stark and getting worse by the minute.
+
+Federation Talons: 27 in engagement space, 8 rotating through resupply, 13 destroyed. Total combat effectiveness down 47% from initial strength.
+
+Ryzak interceptors: Still launching from the carrier, estimates putting active craft at 80+.
+
+The rotation system through Jovian Shipyards was buying time, but it wasn't sustainable. The Federation couldn't maintain fighter superiority against these odds, not with the resupply bottleneck. And if they lost the fighter engagement, the Ryzak interceptors would start hitting *Vanguard*, *Sentinel*, and the corvettes.
+
+They'd held for nearly an hour. They'd bloodied the Ryzak fleet badly. But they were running out of options.
+
+Chen pulled up the communication protocols.
+
+> "HARBINGER, are you monitoring?"
+
+The AI's geometric form materialized on her screen immediately.
+
+> "Affirmative, Commander Chen. I am tracking the fighter engagement degradation. Current resupply rotation rate is insufficient to maintain combat strength."
+
+> "We need reinforcements. What's the status of Earth's Talon squadrons?"
+
+> "All Earth-based squadrons have been on standby since the engagement began. Portugal: twenty-five aircraft. United States: twenty aircraft. Japan: sixteen aircraft. All pilots are in their craft, all systems are hot, and they are prepared for immediate deployment."
+
+Chen took a breath. The Earth pilots had been briefed twelve hours ago, when HARBINGER appeared on every screen and told them aliens were coming. They knew what was at stake. They knew what they'd face.
+
+Now it was time to prove they were ready.
+
+> "Authorization code Chen-Alpha-Seven. Deploy all Earth Talon squadrons immediately. Transmit jump coordinates for engagement zone."
+
+> "Understood, Commander. Transmitting now."
+
+Chen watched the communication status update. Encrypted signals, using quantum-paired channels, transmitted simultaneously to Monte Real Air Base in Portugal, Groom Lake in Nevada, Kadena Air Base in Okinawa, and Hyakuri Air Base in Japan.
+
+The message was simple:
+
+**PRIORITY ALPHA. THIS IS NOT A DRILL. ALL TALON SQUADRONS SCRAMBLE IMMEDIATELY. COORDINATES TRANSMITTED. COMBAT DEPLOYMENT. ENGAGE ON ARRIVAL.**
+
+On Earth, thousands of kilometers below, pilots were already moving. They'd been sitting in their cockpits for hours, waiting for this moment. Ground crews were pulling chocks. Engines were lighting up.
+
+And in less than five minutes, Earth's defenders would join the fight.
+
+> "HARBINGER, coordinate the deployment. Get them formed up above the atmosphere and jump them directly into the engagement zone."
+
+> "Acknowledged, Commander. Coordinating now."
+
+Chen looked at the tactical display one more time. Twenty-seven Federation Talons in the engagement space, trying to hold against eighty Ryzak interceptors.
+
+Help was coming.
+
+It just had to arrive in time.
+
+---
+
+**TIME TO REINFORCEMENTS: 06:34:52**
+
+### Scramble
+
+At Monte Real Air Base, Lieutenant Miguel Freitas was already in his Talon's cockpit, had been for hours, monitoring the tactical feed from the battle above. He'd watched *Gallipoli* die. He'd watched *Typhoon* withdraw. He'd watched the Federation Talons fight and die against impossible odds.
+
+Twelve hours ago, HARBINGER had appeared on every screen in the briefing room and told them the truth. Aliens were real. Aliens were coming. And Earth was going to war.
+
+Miguel had known HARBINGER for three years—or known *of* the AI, at least. When the Talons first arrived in Portugal, HARBINGER had been the voice explaining the technology, walking pilots through the capabilities, teaching them how to fight in vacuum. The AI's presence had been constant but distant, a teacher more than a companion.
+
+Now that voice was about to send them into combat.
+
+The alert tone cut through his headset.
+
+**PRIORITY ALPHA. THIS IS NOT A DRILL. ALL TALON SQUADRONS SCRAMBLE IMMEDIATELY.**
+
+Miguel's hands moved on pure training, muscle memory from hundreds of sorties taking over. Throttles forward, systems check, weapons armed—
+
+> "All Portuguese Talons, this is Tower. You are cleared for immediate takeoff. Vector three-five-zero, climb to orbital insertion altitude. Execute."
+
+The Talon's engines screamed to life, the fusion drive spooling up with a sound that Miguel felt in his chest. Around him, twenty-four other Talons were doing the same, the entire squadron lighting up simultaneously.
+
+> "Strike Package Delta, this is Delta Lead. Form on me. We're going up."
+
+Miguel released the brake and the Talon leaped forward, acceleration pressing him back into his seat. The runway blurred beneath him, then fell away as the aircraft clawed for altitude. Beside him, Captain Teresa Ramos's Talon matched his climb.
+
+The sky above was clear, brilliant blue fading to the black of space as they climbed. Miguel's altimeter spun upward—ten thousand meters, twenty thousand, thirty thousand. The air was thinning, but the fusion drive pushed harder.
+
+Fifty thousand meters. The curvature of Earth was visible now, Portugal's coastline spreading out beneath him. Seventy thousand meters. One hundred thousand.
+
+The sky was black. Stars were visible, steady and unblinking. His aircraft's systems transitioned smoothly from atmospheric flight to vacuum operations.
+
+Miguel Freitas was in space.
+
+And he wasn't alone.
+
+---
+
+At Groom Lake, Major Ellie Morse led the American squadron into the climb, twenty Talons rising from the Nevada desert. The transition to vacuum was smooth, practiced, exactly as briefed.
+
+> "All US Talons, this is Viper Lead. Form up at rally point alpha. We've got friends joining us."
+
+At Kadena, eight operational Talons screamed off the runway, climbing hard toward orbit. Major Morse checked her tactical display, watching as icons began appearing—Portuguese craft climbing out of Europe, Japanese fighters rising from Hyakuri.
+
+At Hyakuri Air Base, Major Tanaka Utsuho—"Okuu"—pushed her throttle to maximum, feeling the Talon respond. Beside her, fifteen other Japanese pilots climbed in formation.
+
+> "JASDF Talons, this is Raven Lead. Vector two-eight-five, climb to one hundred twenty thousand meters. Link up with allied forces."
+
+Okuu watched her altimeter climb. She'd been briefed twelve hours ago about what was coming. She'd had time to process it, to accept it, to prepare herself mentally for what she was about to face.
+
+Her hands were steady on the controls.
+
+---
+
+**TIME TO REINFORCEMENTS: 06:28:11**
+
+### Formation
+
+At one hundred and twenty thousand meters above Earth's surface, sixty-one Talons from four nations formed up in a loose sphere. Most of the pilots had never met, had never flown together, but they'd all received the same briefing twelve hours ago. They knew what they were facing. They knew the stakes.
+
+Lieutenant Miguel Freitas's tactical display showed them all—blue icons scattered across his screen, each one representing a pilot from a different nation. Strangers, yes, but united by a common purpose.
+
+They were Earth's defenders.
+
+HARBINGER's voice cut through the tactical net, deep and familiar.
+
+> "All Earth Talon squadrons, this is HARBINGER. Jump coordinates are locked into your navigation systems. You will emerge directly into the engagement zone, approximately fifteen thousand meters from the primary furball."
+
+Miguel had heard this voice countless times during training. But hearing it now, knowing what waited at the other end of that jump, was different.
+
+> "Ryzak interceptors will be immediately hostile. Engage on sight. Maintain formation discipline. Federation forces are with you. I am with you. And Earth is watching."
+
+Miguel checked his weapons display. Full loadout. Plasma lances charged. Missiles armed. Shields at one hundred percent.
+
+> "Warp drives active."
+
+Everything became a luminous tunnel as the Talons jumped forward bending space ahead of them. And then, they were there.
+
+Jupiter filled Miguel's canopy, massive and brilliant. The engagement zone was ahead, marked by weapons fire, by explosions, by scattered debris.
+
+And everywhere, red icons. Ryzak interceptors, dozens of them, turning to face the new arrivals.
+
+HARBINGER's voice cut through the tactical net, calm and precise.
+
+> "All Earth Talons, you have arrived. Weapons free. Engage at will."
+
+Miguel armed his weapons, selected his first target, and pushed his throttle forward.
+
+Twenty-five Portuguese Talons followed him.
+
+Twenty American Talons dove from above, Major Morse's voice cutting through the net: "Viper Squadron, engage!"
+
+Sixteen Japanese Talons rolled into attack formation, Major Tanaka's crisp acknowledgment: "Hell Ravens, moving to intercept!"
+
+Sixty-one fresh Talons, full weapons loadout, pilots ready for their first kills.
+
+The Ryzak were about to learn that Earth had arrived.
+
+**TIME TO REINFORCEMENTS: 06:25:13**
+
