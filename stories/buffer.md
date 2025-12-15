@@ -1650,3 +1650,213 @@ And four hours still remained until Third North Fleet could arrive.
 The tactical situation had just become critical.
 
 **TIME TO REINFORCEMENTS: 04:12:07**
+
+### Desperate Measures
+
+Commander Sarah Chen stood in Galileo Station's operations center, staring at the tactical display with mounting dread. The icon representing *Vanguard* was moving away from the engagement zone, trailing damage indicators. *Sentinel* followed close behind. Both battleships were withdrawing, their hulls compromised, their combat effectiveness reduced to near zero.
+
+Which left the engagement zone defended by Talons, three corvettes, and eighteen automated defense platforms that were already running low on ammunition.
+
+Against one Ryzak battleship, one carrier, and their remaining screening elements.
+
+> "Fleet status update," Chen said quietly.
+
+Lieutenant Marcus Webb pulled up the summary, his expression grim.
+
+> "All Federation battleships withdrawn or destroyed. *Typhoon* is still at Jovian Shipyards undergoing emergency repairs, ETA thirty-two minutes. *Vanguard* and *Sentinel* are en route to the yards, both critically damaged. Talon squadrons are still engaged but running low on ammunition. We're rotating them through resupply, but the tempo is unsustainable."
+
+Chen looked at the Ryzak formation on the display. The *Wrath of Dominion* sat at the center, shields still being sustained by the carrier *Storm Bringer*. Cruisers and destroyers formed a protective screen. The remaining bombers had returned to the carrier, presumably rearming for another strike.
+
+> "What's their tactical posture?"
+
+> "Defensive, ma'am. They're holding position, not advancing. It's like they're... waiting for something."
+
+Chen's jaw tightened. Waiting. The Ryzak had achieved local superiority, forced the Federation capital ships out of the engagement zone, and now they were consolidating their position.
+
+For what?
+
+Her communications console chimed. Priority channel from HARBINGER.
+
+> "Commander Chen, I must advise you of a developing situation."
+
+The AI's geometric form appeared on her screen, pulsing an urgent blue-white.
+
+> "Go ahead, HARBINGER."
+
+> "The Ryzak fleet is repositioning. Vector analysis suggests they are preparing for system departure. Projected course suggests they intend to proceed to Earth."
+
+Chen felt ice settle in her chest.
+
+> "They're going for the planet. They know we can't stop them."
+
+> "Correct. With Federation capital ship assets neutralized, the Ryzak possess overwhelming firepower advantage against terrestrial targets. Talon squadrons cannot prevent orbital bombardment operations."
+
+Chen pulled up the navigation overlay, watching as HARBINGER's projection traced the Ryzak fleet's likely course. From the beacon to Earth. A straight line. No obstacles. No defenses capable of stopping them.
+
+Chen looked at the reinforcement timer.
+
+**TIME TO REINFORCEMENTS: 04:11:33**
+
+Four hours until Third North Fleet arrived. The Ryzak could reach Earth in less than that. They could establish orbital positions, begin bombardment operations, and Earth's defenses—conventional military forces with no experience fighting capital ships—would be helpless.
+
+Billions of people. Defenseless.
+
+> "Ma'am," Webb called out, his voice tight. "The Ryzak formation is moving. They're... they're accelerating. Vector confirms—they're heading for Earth."
+
+Chen watched the red icons on the display begin to move, pulling away from the beacon, orienting toward the inner system. The battleship, the carrier, all the screening elements. Moving together, accelerating steadily.
+
+> "Warp signatures building," the sensor operator added. "They're preparing to jump. Ma'am, they're leaving. They're going to Earth."
+
+The operations center fell silent. Every officer, every technician, every person in the room understood what that meant. The Ryzak had won the engagement at the beacon. Now they were moving to the real objective.
+
+Earth.
+
+> "Ma'am," Webb said quietly. "The ships are accelerating for warp. It's over, ma'am."
+
+Chen stared at the display, at the red icons picking up speed, at the warp drive signatures building in intensity. Her fists clenched at her sides.
+
+> "Nothing's over while we're breathing!"
+
+The operations center fell silent, every head turning toward her. Chen straightened, her mind racing through options, through contingencies, through every possible asset they had left.
+
+And then she remembered.
+
+The briefing from three months ago. The theoretical weapon system. The one that had never been tested, never been activated, never been used because the calculations suggested it might work but nobody was sure. The one that engineering had classified as "experimental and potentially catastrophic."
+
+FLYCATCHER.
+
+> "HARBINGER," Chen said, her voice steady despite the adrenaline flooding her system. "What's the status of the FLYCATCHER system?"
+
+There was a pause. The AI's geometric form flickered, processing.
+
+> "FLYCATCHER is installed and theoretically operational. However, Commander, I must remind you that the system has never been tested under combat conditions. The theoretical models suggest significant risk—"
+
+> "I don't need the safety briefing. I need to know if it will work."
+
+Another pause.
+
+> "Theoretical probability of successful activation: seventy-two percent. Probability of catastrophic failure resulting in station destruction: eighteen percent. Probability of partial success with unknown consequences: ten percent."
+
+> "And if it works, what's the effective range?"
+
+> "Projected disruption field radius: two hundred fifty kilometers, centered on Galileo Station. All vessels within this sphere will be unable to form stable warp tunnels. Duration is dependent on power reserves—estimated operational time is four hours before primary systems begin to fail."
+
+Chen looked at the tactical display. The Ryzak fleet was still accelerating, warp signatures building. In less than two minutes, they'd jump. And once they were in warp, nothing could stop them from reaching Earth.
+
+Four hours until reinforcements arrived.
+
+Four hours of FLYCATCHER operational time.
+
+The math was brutal. But it was the only option left.
+
+> "All stations, this is Commander Chen. Prepare for emergency protocol FLYCATCHER activation. Engineering, bring the gravity generators to full power and stand by for field inversion. All personnel, secure loose equipment and prepare for zero-gravity operations."
+
+Webb looked at her, his eyes wide.
+
+> "Ma'am, are you sure? If this fails—"
+
+> "If this fails, we're in the same situation we're in now. If it works, we buy four hours. That's all we need."
+
+She turned to the communications console.
+
+> "All Federation and Earth forces, this is Galileo Station. We are activating emergency countermeasures in sixty seconds. All vessels within two hundred fifty kilometers of the station will be unable to form warp tunnels. This includes friendly forces. Acknowledge and prepare for extended combat operations."
+
+The responses came back immediately from the Talon squadrons, from the corvettes, from *Vanguard* and *Sentinel* as they pulled away from the engagement zone. Confusion, questions, but ultimately acknowledgment.
+
+Chen pulled up the FLYCATCHER control interface. The system was housed deep in Galileo Station's core, wrapped around the primary gravity generator. The concept was elegant in its simplicity: take the generator that created artificial gravity throughout the station and invert its field projection, creating a sphere of chaotic gravitational noise that would prevent warp tunnel formation.
+
+The side effect was that gravity aboard the station would drop to zero. Everything not secured would become a projectile. Every system would need to operate in microgravity. And if the power draw was miscalculated, if the field became unstable, the generator could tear itself apart and take the station with it.
+
+But if it worked, the Ryzak fleet would be trapped. Unable to warp. Unable to reach Earth.
+
+Forced to fight for four more hours until Third North Fleet arrived.
+
+> "Engineering reports ready, ma'am," Webb said. "Gravity generators at full power. Field inversion protocols loaded. Awaiting your command."
+
+Chen took a breath. On the tactical display, the Ryzak warp signatures were reaching critical levels. Thirty seconds until they jumped.
+
+She thought of Earth, of billions of people who had no idea what was happening, who would wake up tomorrow to either freedom or subjugation depending on what happened in the next few minutes.
+
+> "HARBINGER, transmit activation code. All hands, brace for zero gravity."
+
+The AI's geometric form pulsed once.
+
+> "Activation code transmitted. FLYCATCHER engaging in three... two... one..."
+
+Deep in Galileo Station's core, the gravity generator's field inverted.
+
+The change was instantaneous. Every object not secured to a surface suddenly had no weight. Coffee cups floated away from desks. Data pads drifted upward. Personnel grabbed handholds, magnetic boots activating automatically, securing them to the deck plates.
+
+But the real effect was external.
+
+A sphere of distorted space-time expanded outward from the station at the speed of light, two hundred fifty kilometers in radius, a bubble of chaotic gravitational noise. Not a physical barrier—ships could still maneuver through it, still fire weapons, still operate normally.
+
+But warp drives required stable space-time to function. They needed to fold reality in precise, calculable ways. The FLYCATCHER field made that impossible. Every point in space within the sphere was experiencing random gravitational fluctuations, making it impossible to form the stable tunnel needed for faster-than-light travel.
+
+Aboard the *Wrath of Dominion*, alarms shrieked.
+
+The battleship's warp drive, fully charged and ready to engage, suddenly detected catastrophic instability in the surrounding space-time. Safety protocols engaged automatically, dumping power, shutting down the drive before it could tear the ship apart.
+
+Across the Ryzak fleet, the same thing happened. Every ship, from the carrier *Storm Bringer* to the smallest destroyer, experienced simultaneous warp drive failure. Not damage—the drives were fine. But the space around them had become impossible to navigate at faster-than-light speeds.
+
+They were trapped.
+
+And so was everyone else within two hundred fifty kilometers of Galileo Station.
+
+The Federation Talons, still engaged with Ryzak interceptors, suddenly found their emergency jump-out protocols unavailable. The corvettes couldn't retreat to safe distance. Even *Vanguard* and *Sentinel*, limping toward Jovian Shipyards, discovered their warp drives were non-functional as long as they remained within the disruption sphere.
+
+Everyone was stuck.
+
+No jumping out. No jumping in. No warp travel of any kind.
+
+Just conventional drives, weapons, and shields.
+
+For the next four hours.
+
+Commander Chen floated in Galileo Station's operations center, her magnetic boots keeping her anchored to the deck, and watched the tactical display. The Ryzak fleet had stopped accelerating toward Earth. Their warp signatures had collapsed. They were trapped in the engagement zone.
+
+Together with every Federation and Earth asset in the system.
+
+> "FLYCATCHER is active," HARBINGER reported. "Disruption field stable at two hundred fifty kilometers radius. Ryzak fleet vector change detected—they are reorienting toward the station."
+
+Of course they were. Chen had just trapped them, prevented them from reaching Earth. They couldn't ignore that.
+
+> "Power reserves?" Chen asked.
+
+> "Current draw is within acceptable parameters. Estimated operational time: four hours, seven minutes. Sufficient to maintain field until Third North Fleet arrival."
+
+Four hours, seven minutes.
+
+Chen looked at the red icons on the display, now turning, now vectoring back toward Galileo Station. The Ryzak weren't retreating. They were coming to destroy the source of the disruption field.
+
+They were coming for the station.
+
+> "All hands," Chen said into the station-wide comm, her voice calm despite floating in zero gravity with a Ryzak battle fleet bearing down on them. "This is Commander Chen. We have activated FLYCATCHER. The Ryzak cannot reach Earth. They cannot escape. And in four hours, Third North Fleet will arrive with overwhelming force."
+
+She paused, looking around the operations center at her crew floating at their stations, working in microgravity, preparing for what came next.
+
+> "Our job is to survive until they get here. All defensive systems to full combat readiness. All personnel to battle stations. We're going to show the Ryzak what it means to corner a Federation station."
+
+She closed the channel and turned to Webb.
+
+> "Time to reinforcements?"
+
+> "Four hours, six minutes, ma'am."
+
+Chen looked at the tactical display one more time. The Ryzak fleet was accelerating toward them now, no longer trying to reach Earth, focused entirely on destroying Galileo Station and the disruption field it was projecting.
+
+One station. Minimal defenses. Against a Ryzak battle fleet.
+
+For four hours.
+
+> "HARBINGER," Chen said quietly. "Alert all Talon squadrons. Tell them to form up around the station. We're about to become the most important target in the solar system."
+
+> "Acknowledged, Commander. Transmitting now."
+
+The geometric form pulsed, and across the engagement zone, every Federation and Earth pilot received the same message:
+
+Defend Galileo Station. At all costs. For four hours.
+
+And if the station fell, Earth fell with it.
+
+**TIME TO REINFORCEMENTS: 04:06:18**
