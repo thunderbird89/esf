@@ -1376,3 +1376,91 @@ He closed the channel and activated the jump drive. The battleship's massive eng
 Shaw thought of his crew, safely evacuated at Jovian Shipyards. Of Commander Hayes, who'd served with distinction and deserved to survive this war. Of the Earth he'd never see again, but would defend with his last breath.
 
 The warp drive reached full charge, and the *Lord Cardigan* launched forward in a tunnel of compressed space.
+
+---
+
+The carrier *Worldbreaker* hung in the void, crippled and burning. Half its launch bays were torn open, venting atmosphere in crystalline plumes that caught Jupiter's distant light. Fires burned in compartments exposed to vacuum, fed by oxygen still leaking from ruptured life support conduits. The vessel's spine was compromised, structural members visible through gaps in the hull plating where *Crimson Fang*'s weapons had carved deep wounds.
+
+Ryzak crew were evacuating in a steady stream, escape pods launching every few seconds, small bright points of thrust vectoring away from the dying ship. The carrier's reactor was still stable, but the damage was catastrophic. The vessel would never fight again.
+
+Then space twisted.
+
+It began as a ripple, a distortion in the fabric of reality itself, appearing sixty meters inside the carrier's hull. The warp tunnel was opening, space-time folding to accommodate the incoming vessel, and the terminus point was locked precisely where Captain Shaw had set it—in the carrier's midsection, deep within the superstructure, surrounded by bulkheads and compartments and the skeletal framework that held the massive ship together.
+
+The *Lord Cardigan* emerged.
+
+Time seemed to slow, each microsecond stretching into subjective eternity as fifteen hundred meters of Federation battleship materialized inside Ryzak architecture.
+
+The bow appeared first, the reinforced prow designed to deflect micrometeorites and debris at high velocity. It emerged moving at relativistic speeds—the residual velocity imparted by the warp transition, a fraction of lightspeed translated into conventional space. The prow materialized occupying the same physical coordinates as a Ryzak bulkhead, and physics made its preference clear.
+
+The bulkhead ceased to exist.
+
+Not shattered, not torn apart—simply *ceased*. The molecular bonds holding the Ryzak alloy together encountered an object attempting to occupy the same space, and the fundamental forces of reality rejected that impossibility. The matter didn't have time to compress, didn't have time to shear. It just stopped being in that location, its atoms scattered at the quantum level, disrupted beyond any possibility of cohesion.
+
+The battleship continued forward, momentum carrying it deeper into the carrier's hull.
+
+More bulkheads vanished. Compartments full of equipment, ammunition, supplies—all of it encountering the impossible intrusion of a capital ship materializing inside them. Structural members that could support thousands of tons of force simply disappeared where the *Lord Cardigan*'s mass overlapped them. The carrier's internal architecture was being erased, frame by frame, as the battleship carved through it.
+
+But the *Lord Cardigan* was dying too.
+
+Her bow crumpled, the reinforced plating designed to withstand weapons fire encountering forces it was never built to handle. The forward sections compressed like an accordion, each meter of penetration costing the battleship her own structure. Armor plating buckled inward, then failed. The forward torpedo tubes collapsed, their magazines detonating in sympathetic explosions that added to the catastrophic damage.
+
+Deeper still, the battleship plowed into the carrier's engineering section.
+
+The Ryzak power conduits, thick cables carrying energy from the reactor to the ship's systems, were sheared through. Raw power arced across the severed connections, brilliant white-hot plasma leaping between contacts before the automatic cutoffs could engage. Fuel lines ruptured, spraying volatile chemicals that ignited instantly in the presence of the electrical discharge.
+
+The carrier's spine—the central structural member running the length of the vessel—encountered the *Lord Cardigan*'s forward superstructure. Both were designed to be the strongest parts of their respective ships. Both were built to withstand forces that would tear lesser structures apart.
+
+Neither survived the impact.
+
+The spine shattered, stress fractures racing along its length in both directions, branching like lightning through metal. The carrier's structural integrity failed catastrophically, the framework that distributed force across the hull giving way in sections. The forward third of the ship began to separate, the connection points failing one by one, bulkheads tearing free, compartments venting.
+
+But the *Lord Cardigan* was breaking too.
+
+Her forward sections were gone, crushed and scattered. The bridge where Captain Shaw sat—where he had sat—was compressed into a space too small to contain it, every system failing simultaneously, every surface collapsing inward. The middle sections were crumpling, each frame buckling as it encountered resistance, the battleship's own momentum working against her structural members.
+
+And then the reactor containment failed.
+
+The *Lord Cardigan*'s fusion core, already damaged from the earlier engagement, already stressed by the carrier's weapons fire, now faced forces it could never have been designed to withstand. The magnetic containment field, the invisible cage that held a miniature star in check, flickered and died.
+
+The fusion reaction, no longer constrained, expanded.
+
+It happened in nanoseconds, but in the stretched subjective time of the catastrophe, each stage was distinct. The plasma—hydrogen heated to millions of degrees, compressed to the point where nuclei fused—expanded outward in a sphere. It encountered the reactor housing first, the reinforced walls designed to contain exactly this scenario. They held for a fraction of a second, directing the expanding plasma down the emergency venting channels.
+
+But this wasn't a controlled shutdown. This was total containment failure.
+
+The plasma burned through the reactor housing in microseconds. It carved through the surrounding compartments, through crew quarters that were empty, through weapons magazines that weren't. The first magazine detonation added conventional explosives to the expanding fireball. Then another. Then a dozen more, the *Lord Cardigan*'s remaining ammunition cooking off in a cascading sequence of secondary explosions.
+
+The battleship came apart from the inside.
+
+The expanding plasma found the carrier's reactor next. The Ryzak containment system, still functional despite the catastrophic damage, detected the incoming energy wave and attempted an emergency shutdown. Magnetic fields intensified, trying to maintain cohesion, trying to prevent exactly what was about to happen.
+
+It wasn't enough.
+
+The wave of superheated plasma from the *Lord Cardigan*'s reactor struck the carrier's containment field and overwhelmed it. The Ryzak reactor's magnetic cage collapsed, and a second fusion reaction lost containment. Two miniature stars, now unconstrained, merged into a single expanding sphere of plasma hotter than the surface of Earth's sun.
+
+The combined detonation propagated outward in all directions simultaneously.
+
+Through the carrier's remaining structure, finding fuel reserves and ammunition stores, each new source of combustible material adding to the growing fireball. Through the *Lord Cardigan*'s aft sections, the battleship's stern separating from what remained of the forward hull, tumbling away even as it vaporized. Through the debris field already surrounding both ships, smaller fragments flash-heating to incandescence before sublimating into plasma themselves.
+
+The light was brilliant beyond description. Every wavelength from radio to gamma, the full electromagnetic spectrum released in a single pulse that traveled outward at the speed of light. The visible component—the light that human and Ryzak eyes could detect—was a brief, terrible white that outshone Jupiter itself for three full seconds.
+
+From Galileo Station, seventy kilometers away, every external sensor automatically filtered the brightness, preventing the blast from saturating the detectors. The flash appeared as a new star in the tactical display, so bright it cast shadows in the operations center despite the distance.
+
+From the engagement zone, every pilot saw it. Federation Talons, Earth squadrons, Ryzak interceptors—all of them registered the detonation on their sensors, the massive energy spike that temporarily overwhelmed their detection systems.
+
+And then, as quickly as it had appeared, the light began to fade.
+
+The expanding plasma sphere cooled as it grew, radiating energy into the void, its temperature dropping from millions of degrees to thousands to hundreds. The brilliant white faded to orange, then red, then infrared invisible to the naked eye.
+
+When the sensors cleared and could resolve the space where the carrier had been, there was nothing.
+
+No carrier. No battleship. No debris larger than a few meters across. Just an expanding sphere of vaporized metal and superheated gas, spreading out into the black, cooling and dissipating, joining the countless other particles drifting through the void.
+
+The *Lord Cardigan* and the Ryzak carrier *Worldbreaker* had ceased to exist, their matter scattered across thousands of cubic kilometers, their structures reduced to their component atoms.
+
+And in the silence that followed, as sensors recalibrated and tactical displays updated, as the brilliant afterimage faded from human and alien retinas alike, one fact became clear to everyone who had witnessed it:
+
+Captain William Shaw had taken his broken battleship and ended the war's largest remaining Ryzak carrier in the single most destructive close-range engagement in the battle's history.
+
+**TIME TO REINFORCEMENTS: 06:07:19**
