@@ -1299,3 +1299,80 @@ And somehow, that mattered.
 
 **TIME TO REINFORCEMENTS: 06:12:44**
 
+### Charge of the Light Brigade
+
+The *Lord Cardigan* materialized at Jovian Shipyards in a shimmer of twisted space, her scarred hull trailing frozen atmosphere from three separate breaches. Emergency crews were already moving toward her docking position before the ship had finished decelerating.
+
+Captain Shaw stood on his bridge, watching the damage control reports scroll across his displays. Hull breaches in three sections. Shields completely offline. Two secondary batteries destroyed. Point defense coverage reduced by forty percent.
+
+She was a wreck. But her engines still worked. Her jump drive still functioned. And her main railgun batteries, despite everything, were still operational.
+
+Shaw keyed the ship-wide comm.
+
+> "All hands, this is the Captain. Disembark. That's an order. Engineering, damage control, gunnery crews—everyone. You have five minutes to get to the airlocks. Move."
+
+There was a moment of stunned silence across the ship.
+
+> "Sir?" his XO, Commander Patricia Hayes, said quietly. "What are you—"
+
+> "You heard the order, Commander. Get the crew off this ship. Now."
+
+Hayes looked at him, her expression shifting from confusion to understanding to something that might have been horror.
+
+> "Is he going to...?" the tactical officer muttered to the sensor operator.
+
+> "Yeah," the sensor operator replied, already moving toward the exit. "He's going to."
+
+Hayes didn't move. She stood there, staring at Shaw.
+
+> "Sir, you can't—"
+
+> "Commander, I'm not asking. I'm ordering. Get the crew to safety. They've earned it."
+
+> "And you?"
+
+Shaw turned to face her, his expression calm.
+
+> "*Lord Cardigan* has one more trip in her. And I'm going to make sure she gets there."
+
+Hayes opened her mouth to argue, then closed it. She'd served with Shaw for three years. She knew that tone. Knew that look. There was no arguing with him now.
+
+> "It's been an honor, sir."
+
+> "The honor's been mine, Commander. Now get off my ship. You have four minutes."
+
+Hayes saluted, then turned and ran for the exit. Around the bridge, the remaining crew were already moving, heading for the airlocks. Shaw watched them go, then turned back to his displays.
+
+The evacuation took three minutes and forty-two seconds. Shaw watched the personnel indicators drop to zero on every section of the ship except the bridge. The airlocks sealed. The docking clamps released. Emergency crews at the shipyards were already pulling back, sensing something was about to happen.
+
+Shaw moved to the helm station and sat down, his hands settling on the controls. The interface was simple enough—he'd piloted smaller craft before, back when he was a lieutenant. A battleship wasn't that different. Just bigger. Much bigger.
+
+He pulled up the navigation computer, plotting a course back to the engagement zone. The system calculated the jump coordinates automatically, displaying the destination on his tactical overlay.
+
+Then he adjusted the terminus point.
+
+The navigation computer immediately flashed a warning in angry red text:
+
+**WARNING: WARP TERMINUS INSIDE SOLID OBJECT**
+**COLLISION PROBABILITY: 100%**
+**RECOMMEND COURSE ADJUSTMENT**
+
+Shaw stared at the warning for a moment, then reached out and overrode it. The system protested with another warning, then another. He overrode them all, manually confirming each safety interlock, each emergency protocol.
+
+The terminus point locked in. The crippled Ryzak carrier—the one that *Crimson Fang* had torn apart earlier in the engagement. The vessel was still technically intact, still venting atmosphere, still burning in compartments exposed to vacuum. Its shields were down. Its crew was evacuating.
+
+And *Lord Cardigan* was going to jump directly into its midsection.
+
+Shaw pulled up the communications console, setting it to broadcast on all Federation channels.
+
+> "All Federation and Earth forces, this is Captain William Shaw, *Lord Cardigan*. To the crew who served with me—you made this ship proud. To everyone still fighting out there—hold the line. Earth is counting on you."
+
+He paused, his hands steady on the controls.
+
+> "*Lord Cardigan*, out."
+
+He closed the channel and activated the jump drive. The battleship's massive engines began to spool up, power building in the drive coils, space-time beginning to bend around the ship's hull.
+
+Shaw thought of his crew, safely evacuated at Jovian Shipyards. Of Commander Hayes, who'd served with distinction and deserved to survive this war. Of the Earth he'd never see again, but would defend with his last breath.
+
+The warp drive reached full charge, and the *Lord Cardigan* launched forward in a tunnel of compressed space.
