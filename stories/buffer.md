@@ -1464,3 +1464,189 @@ And in the silence that followed, as sensors recalibrated and tactical displays 
 Captain William Shaw had taken his broken battleship and ended the war's largest remaining Ryzak carrier in the single most destructive close-range engagement in the battle's history.
 
 **TIME TO REINFORCEMENTS: 06:07:19**
+
+### The Wrath Endures
+
+Aboard *Vanguard*, Captain Anderson watched the tactical display update as the brilliant flash faded from his sensors. The carrier icon blinked out, replaced by a debris field marker. One Ryzak carrier eliminated. Only one remained operational.
+
+> "*Lord Cardigan* confirmed destroyed," the sensor operator reported, his voice subdued. "Both vessels completely vaporized. No survivors."
+
+> "Tactical assessment," Anderson said quietly. "How does this change the engagement?"
+
+The tactical officer pulled up the revised fleet composition.
+
+> "The remaining Ryzak carrier—*Storm Bringer*—can no longer maintain shield projection to their battleship and full launch tempo simultaneously. They'll have to choose between sustaining the *Wrath of Dominion* or continuing to deploy interceptors."
+
+> "And which are they choosing?"
+
+> "Neither yet, sir. They're... reconfiguring. Pulling back screening elements, tightening formation."
+
+Anderson studied the display. The Ryzak fleet was adjusting, the remaining carrier repositioning, the battleship *Wrath of Dominion* maintaining its defensive stance while cruisers and destroyers formed a tighter screen.
+
+They were adapting again. Learning.
+
+> "How long until *Typhoon* returns?"
+
+> "Thirty-eight minutes, sir. Jovian Shipyards reports they're rushing the repairs, but she won't be at full capability."
+
+Thirty-eight minutes. Anderson looked at his own ship's status. *Vanguard* had been in continuous combat for over two hours. Shields were at forty-seven percent and slowly regenerating. Three secondary batteries were offline. Point defense coverage was degraded. The destroyer *Sentinel* was in similar condition, her jury-rigged Kryllian drive performing adequately but her overall combat effectiveness reduced.
+
+Two Federation battleships against one Ryzak battleship being sustained by a carrier.
+
+The math should have favored the Federation. Should have.
+
+But the stalemate had held for nearly forty minutes now, both sides pouring fire into each other, neither able to achieve a decisive advantage. *Vanguard* and *Sentinel* couldn't break through the shield projection fast enough, and the *Wrath of Dominion* couldn't maneuver aggressively enough to force either Federation ship out of the fight.
+
+> "Sir, new contact," the sensor operator called out. "Multiple launches from *Storm Bringer*. Not interceptors—these are bigger. Reading them as bomber-class craft."
+
+Anderson felt ice settle in his stomach.
+
+> "How many?"
+
+> "Twelve. They're forming up behind the screening elements. Torpedo profiles, heavy munitions loadout."
+
+Bombers. Capital ship killers. The Ryzak had been holding them in reserve, and now they were deploying them.
+
+> "Time to intercept range?"
+
+> "Four minutes at current velocity. They're staying behind their screen, using the cruisers and destroyers for cover."
+
+Anderson pulled up the tactical plot. The bombers were moving in formation, protected by the Ryzak screening elements. The Federation Talons were engaged with interceptors, still outnumbered despite the arrival of Earth's squadrons. The corvettes were scattered across the engagement zone, harassing targets of opportunity.
+
+Nobody was in position to stop twelve bombers from reaching *Vanguard*.
+
+> "Helm, evasive pattern gamma. Point defense, prioritize anti-bomber protocols. *Sentinel*, this is *Vanguard*—we have bombers inbound, vector two-seven-three. Recommend evasive maneuvers."
+
+The response from *Sentinel*'s captain came immediately.
+
+> "Acknowledged, *Vanguard*. We see them. Maneuvering now."
+
+Both Federation ships began to move, thrusters firing, changing course to complicate the bombers' attack runs. But battleships were large, slow targets. Evasive maneuvers helped, but they wouldn't be enough against dedicated bomber craft.
+
+> "Alert all Talon squadrons," Anderson ordered. "We need fighter cover on *Vanguard* and *Sentinel* immediately."
+
+---
+
+Lieutenant Miguel Freitas heard the call and checked his tactical display. His element was engaged with Ryzak interceptors thirty thousand meters from the Federation battleships, trading shots in the ongoing furball that had consumed the engagement zone.
+
+> "Delta Flight, this is Delta Lead. *Vanguard* is calling for bomber intercept. Break off current engagement, vector one-one-five."
+
+> "Delta-Two, copy. Breaking now."
+
+> "Delta-Three, with you."
+
+> "Delta-Four, on your six."
+
+The four Portuguese Talons disengaged from the interceptor fight, their engines burning hard as they accelerated toward the new threat. Miguel's HUD showed the bomber formation—twelve heavy craft, each one carrying torpedo loads that could cripple a battleship.
+
+He also saw the Ryzak screening elements between his flight and the bombers. Three destroyers, positioned specifically to prevent exactly what he was attempting.
+
+> "Delta Flight, we've got a screen. Destroyers at bearing zero-nine-zero. We'll need to punch through."
+
+> "Delta-Two, I'm reading point defense active. They're expecting us."
+
+Miguel's tactical computer updated with intercept solutions. The destroyers were well-positioned, their point defense fields overlapping, creating a zone of fire that would be costly to penetrate. But the bombers were continuing their approach to *Vanguard*, and if they reached launch range unopposed, the battleship would take catastrophic damage.
+
+> "Delta Flight, we go through. Arm missiles, full spread on the lead destroyer. Fire on my mark."
+
+Four Talons, sixteen missiles total. Against a destroyer with active point defense and supporting escorts.
+
+Miguel armed his weapons and pushed his throttle forward.
+
+---
+
+Aboard *Vanguard*, Captain Anderson watched the tactical display as multiple Talon elements broke from the interceptor engagement and vectored toward the bomber formation. Portuguese, American, Japanese—all of them responding to the call, trying to reach the bombers before they could launch.
+
+But the Ryzak screen was holding. The destroyers' point defense was active, creating kill zones that the Talons would have to fly through. Some would make it. Some wouldn't.
+
+> "Bombers at two minutes to launch range," the tactical officer reported.
+
+> "All batteries, engage the screening elements. I want those destroyers suppressed."
+
+*Vanguard*'s railguns spoke, tungsten-carbide rounds screaming toward the Ryzak destroyers. The destroyers' shields flared as they absorbed the impacts, but they held. The cruisers behind them were adding their own fire support, particle beams lancing toward *Vanguard*, forcing the battleship to split her attention between offensive and defensive operations.
+
+The bombers continued their approach, now ninety seconds from launch range.
+
+On the tactical display, Anderson watched the Portuguese element—Delta Flight—launch their missiles at the lead destroyer. Sixteen weapons, spreading as they tracked toward the target. The destroyer's point defense engaged, railgun turrets tracking, firing. The first missile died, then the second, then four more.
+
+But ten made it through.
+
+The destroyer's shields buckled under the concentrated strike, the defensive field failing in two sections. The follow-up missiles punched through bare hull, shaped-charge warheads detonating against armor. The destroyer rolled, venting atmosphere, its formation position compromised.
+
+The Portuguese Talons dove through the gap, their plasma lances firing as they engaged the bomber formation directly.
+
+Three bombers died in the first exchange, their heavy frames unable to maneuver like interceptors, unable to evade the concentrated fire from four Talons. A fourth bomber's shields failed, its wing sections shearing away under sustained fire.
+
+But there were still eight bombers, and they were in launch range.
+
+> "Bombers launching torpedoes!" the sensor operator called out. "Multiple weapons, inbound on our position!"
+
+The tactical display lit up with red icons—capital ship torpedoes, each one carrying warheads designed to punch through battleship armor. Twenty-four weapons total, spread across two salvos targeting both *Vanguard* and *Sentinel*.
+
+> "Point defense, engage! All batteries, maximum rate!"
+
+*Vanguard*'s point defense turrets came alive, railguns tracking the incoming torpedoes, firing in rapid sequence. The first torpedo died at eight thousand meters, its warhead detonating prematurely. The second and third followed. But there were too many, coming from too many vectors.
+
+Four torpedoes penetrated the point defense screen.
+
+The first struck *Vanguard*'s port shields, the defensive field flaring brilliantly as it struggled to dissipate the shaped-charge detonation. The shield held, but barely. The second torpedo hit the same section three seconds later, and the shields failed.
+
+The third torpedo punched through bare armor.
+
+The shaped-charge warhead detonated against *Vanguard*'s hull, the plasma jet carving through armor plating, through the first bulkhead, through the second. The penetration reached a secondary magazine, and the stored munitions cooked off in a cascade of explosions.
+
+The battleship shuddered violently, alarms shrieking across every station.
+
+> "Direct hit, port side, sections twelve through fifteen!" damage control reported. "Multiple compartment breaches, secondary explosions, fires in three sections. We've lost two secondary batteries and the aft port shield generator."
+
+The fourth torpedo hit moments later, striking the already-damaged section, driving deeper into the battleship's interior. More explosions, more breaches, more systems failing.
+
+Anderson gripped his command chair as the ship bucked beneath him.
+
+> "Damage report!"
+
+> "Port side is compromised, sir. We've got structural damage to the main frame, shields are failing in multiple quadrants. Engineering reports—" the officer's voice cut off as another alarm sounded. "Sir, we've got containment warnings in the reactor section. The damage is affecting coolant flow."
+
+> "Can they stabilize it?"
+
+> "They're trying, sir, but if we take another hit in that area—"
+
+Anderson looked at the tactical display. *Sentinel* had taken torpedo hits as well, her shields failing, her hull showing damage indicators across multiple sections. Both Federation battleships were hurt, their combat effectiveness degrading rapidly.
+
+And the Ryzak bombers were still out there, repositioning for another attack run.
+
+> "Sir, recommend we withdraw," his XO said quietly. "If we stay in the fight, we risk losing both ships."
+
+Anderson stared at the display. The *Wrath of Dominion* was still there, still sustained by the carrier's shield projection, still fighting. If *Vanguard* and *Sentinel* withdrew, the Ryzak battleship would be free to target the corvettes, or worse, to begin bombardment operations against the Federation's remaining assets.
+
+But if they stayed, they'd die.
+
+> "Time to reinforcements?" Anderson asked.
+
+> "Four hours, twelve minutes, sir."
+
+Four hours. They'd held for nearly three already. Four more seemed impossible.
+
+Another proximity alarm shrieked. The bombers were lining up for a second attack run.
+
+> "Helm, set course for Jovian Shipyards. Maximum velocity. *Sentinel*, this is *Vanguard*—we're withdrawing for emergency repairs. Recommend you do the same."
+
+There was a pause, then *Sentinel*'s captain responded.
+
+> "Acknowledged, *Vanguard*. We're with you."
+
+Both battleships began to turn, their engines burning hard, accelerating away from the engagement zone. The Ryzak bombers pursued for several thousand meters, but without their screening elements' support, they were vulnerable to the Talon squadrons. Two more bombers died to concentrated fire before the survivors broke off and returned to the carrier.
+
+Anderson watched the tactical display as *Vanguard* pulled away from the battle, her damaged hull trailing frozen atmosphere, her shields flickering.
+
+They'd held the line for three hours. They'd bloodied the Ryzak fleet, eliminated two carriers, destroyed multiple battleships and cruisers.
+
+But now the Federation's last two operational battleships were withdrawing, damaged and unable to continue the fight.
+
+The Ryzak *Wrath of Dominion*, despite everything, despite the concentrated fire, despite the losses around it, remained operational.
+
+And four hours still remained until Third North Fleet could arrive.
+
+The tactical situation had just become critical.
+
+**TIME TO REINFORCEMENTS: 04:12:07**
