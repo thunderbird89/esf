@@ -2248,3 +2248,161 @@ The *Wrath of Dominion* fired again. Shields at thirty-three percent.
 But now it didn't matter. The clock was running, and it was running in the Federation's favor.
 
 **TIME TO REINFORCEMENTS: 00:04:37**
+
+### Overwhelming Force
+
+Four minutes and thirty-seven seconds.
+
+Major Tanaka Utsuho—"Okuu"—had been in her Talon's cockpit for over three hours, her flight suit recycling sweat, her hands steady on the controls despite the exhaustion. The Hell Ravens had lost three pilots over the siege. Three empty slots in the formation that would need to be filled by replacements who would never know the people who'd flown in those positions.
+
+Then HARBINGER's voice cut through every channel simultaneously.
+
+> "All forces, bridge activation in ten seconds. Third North Fleet emerging. Clear the beacon approach vector."
+
+Okuu pulled her Talon away from the engagement, vectoring clear of the space around the cynosural beacon. She'd heard about jump bridges in the briefings, read the technical specifications, understood the theory. But she'd never seen one activate. None of the Earth pilots had.
+
+The Ryzak fleet continued firing at Galileo Station, seemingly unaware or unconcerned with the beacon activation. Maybe they thought it was just another supply run. Maybe they didn't care.
+
+Okuu watched her tactical display, counting down.
+
+Five seconds.
+
+Three.
+
+One.
+
+Space *folded*.
+
+There was no other word for it. Reality bent in ways that shouldn't be possible, light twisting into angles that hurt to look at, a distortion that made her instruments scream warnings about gravitational anomalies that couldn't exist. The cynosural bridge opened like someone had torn a hole through the fabric of space itself.
+
+And through it came ships.
+
+**TIME TO REINFORCEMENTS: 00:00:00**
+
+The first vessel emerged from the impossible geometry, resolving from visual distortion into solid matter. *In Amber Clad*, her IFF system identified. A carrier, massive and angular, launch bays already opening, strike wings preparing to deploy. Federation design, human construction, moving with purpose as it cleared the bridge.
+
+Then a battleship. *Final Argument*. Four hundred meters of armored hull bristling with weapons, shields already glowing with power, railguns tracking toward the Ryzak formation.
+
+Another battleship. *Righteous Fury*. Then *Resolute Will*. Then *Hammer of Dawn*.
+
+Four battleships, each one a fortress of weapons and armor, emerging one after another through the bridge that bent physics into impossible shapes.
+
+Behind them came cruisers. *Defiant*. *Unyielding*. *Stalwart*. Seven in total, smaller than the battleships but no less deadly, their weapons already hot, their crews ready.
+
+Then destroyers. Eight fast attack craft spreading out in a protective screen, point defense systems tracking, engines burning.
+
+Nineteen warships materialized from nothing in less than thirty seconds.
+
+Okuu stared through her canopy, watching the ships emerge, watching the bridge collapse back into normal space as the last destroyer cleared the threshold. She'd read about this. She'd seen the specifications. But reading and seeing were different things entirely.
+
+These ships had just traveled light-years in seconds through a tunnel in space-time.
+
+And they were human ships. Built by humans. Crewed by humans.
+
+> "Hell Ravens, did you..." one of her pilots started, then stopped. There weren't words for what they'd just witnessed.
+
+> "I see them," Okuu said quietly. "They're ours. They're humans, like us. And they're here to help."
+
+On the tactical display, the Federation fleet was already moving. No delay, no hesitation. Four battleships accelerating toward the Ryzak formation, their heavy railguns already charging for long-range engagement.
+
+> "All Federation and Earth forces, this is Admiral Trager. Clear firing lanes. We're engaging immediately."
+
+Okuu pulled her Talon back, giving the battleships space. Around her, the Hell Ravens were doing the same, along with every other fighter in the engagement zone. The Talons that had held the line for hours were now pulling back to let the capital ships do their work.
+
+The Federation battleships opened fire.
+
+Four ships, firing in sequence, their heavy railguns sending tungsten-carbide rounds downrange at velocities that made plasma lances look slow. The rounds crossed the seventy kilometers between the fleet and the Ryzak formation in seconds.
+
+The *Wrath of Dominion*'s shields flared as the first salvo struck. The carrier *Storm Bringer* was still projecting shield support, still sustaining the battleship as it had for the entire engagement.
+
+But it wasn't enough.
+
+Not against four Federation battleships firing simultaneously.
+
+The first salvo stressed the shields. The second salvo, arriving three seconds later, stressed them further. The third salvo punched through.
+
+Tungsten-carbide rounds, each one massing several tons, struck the *Wrath of Dominion*'s bare hull at relativistic velocities. Armor plating that had withstood hours of combat simply failed. The rounds penetrated deep into the battleship's structure, carving through bulkheads, through compartments, through vital systems.
+
+One round found the reactor section.
+
+The *Wrath of Dominion* detonated.
+
+Not catastrophically—the reactor had automatic shutdown protocols, and they engaged before total containment failure. But the damage was done. The battleship's spine broke, the structural framework unable to withstand the penetration and subsequent internal explosions. The ship came apart in three large sections, atmosphere venting, systems failing, escape pods jettisoning in all directions.
+
+Eleven seconds. That's how long the *Wrath of Dominion* survived against Third North Fleet's concentrated fire.
+
+Eleven seconds.
+
+Okuu stared at her display, watching the red icon representing the Ryzak battleship blink out, replaced by debris field markers.
+
+The ship that had been hammering Galileo Station for over three hours. The ship that had forced *Vanguard* and *Sentinel* to withdraw. The ship that had killed pilots from every nation.
+
+Gone in eleven seconds.
+
+> "They just... they deleted it," one of her pilots said, voice carrying disbelief.
+
+> "That's what four battleships can do when they're fresh," Okuu replied, watching the Federation fleet continue its work. "That's what we've been waiting for."
+
+On the tactical display, the Federation cruisers were engaging the Ryzak carrier now, particle beams and missiles lancing across the void. The *Storm Bringer*, which had been sustaining the battleship's shields, was now alone, its screening elements scattered.
+
+Two cruisers concentrated fire on the carrier's shield generators. The defensive fields flickered, failed in sections, came back online with reduced capacity. A third cruiser added its weapons to the barrage.
+
+The carrier's shields collapsed entirely.
+
+Missiles struck bare hull, shaped-charge warheads detonating against armor. Particle beams carved through the carrier's superstructure, burning through launch bays, through fuel reserves, through the ship's vital systems.
+
+The *Storm Bringer* tried to maneuver, tried to gain distance, but it was a carrier—large, slow, designed for launching fighters, not for capital ship combat. The Federation cruisers matched its every move, their targeting computers tracking perfectly, their weapons never stopping.
+
+The carrier's reactor went critical.
+
+The explosion was smaller than the *Worldbreaker*'s detonation—the *Lord Cardigan* had ensured that one would be memorable—but it was still brilliant against the black, still visible from Galileo Station seventy kilometers away.
+
+When the light faded, the carrier was gone.
+
+Two minutes and forty-three seconds. That's how long the Ryzak capital ships survived after Third North Fleet's arrival.
+
+The Ryzak cruisers and destroyers were breaking formation now, trying to scatter, trying to escape. But they were inside the FLYCATCHER field. No warp capability. No jumping out. Just conventional drives against a Federation fleet that outnumbered them three to one.
+
+It wasn't a battle anymore. It was a hunt.
+
+Federation destroyers pursued Ryzak destroyers, their superior speed allowing them to close range and engage with overwhelming firepower. Cruisers targeted Ryzak cruisers, particle beams and railgun rounds finding their marks with methodical precision.
+
+The Ryzak interceptors, suddenly without carrier support, without the battleship's screening fire, found themselves facing not just sixty-one exhausted Talons but also fresh Federation strike wings launching from *In Amber Clad*.
+
+The numerical advantage that had sustained the Ryzak for hours evaporated in minutes.
+
+Okuu watched it unfold on her tactical display, watched red icons blink out one by one, watched the Federation fleet systematically dismantle what remained of the Ryzak invasion force.
+
+Seven hours and fifty-two minutes. That's how long the battle for Sol had lasted, from the moment the Ryzak fleet had emerged at the beacon to now.
+
+And it was ending in less than five minutes.
+
+> "All Talon squadrons, this is Admiral Trager. Stand down from combat operations. Third North Fleet has the situation under control. Return to Galileo Station for debrief and rest. You've earned it."
+
+Okuu felt something in her chest unclench, something she hadn't realized was wound tight for nearly four hours of continuous combat. Stand down. Return to station. It was over.
+
+She keyed her squadron channel.
+
+> "Hell Ravens, you heard the Admiral. We're done. Form up on me. Let's go home."
+
+The Japanese Talons turned toward Galileo Station, engines burning, leaving the battle behind them. Around them, other squadrons were doing the same. Portuguese, American, Federation—all of them vectoring toward the station, all of them standing down.
+
+Behind them, Third North Fleet continued its work, hunting down the last Ryzak vessels, eliminating the threat, ensuring that nothing would threaten Earth.
+
+Okuu looked at her tactical display one more time, at the nineteen blue icons representing the Federation fleet, at the dwindling number of red icons representing what remained of the Ryzak invasion force.
+
+These are ours, she thought. These ships, these crews, these people who just traveled through a hole in space-time and ended an eight-hour siege in minutes.
+
+They're humans, like us.
+
+And they're here to help.
+
+Galileo Station appeared ahead, still there, still intact, its shields down to twenty-eight percent but holding. The station that had become the focal point of humanity's desperate defense, the station that had held the line while waiting for help to arrive.
+
+Help that had finally come.
+
+Okuu guided her Talon toward the docking bay, following the approach vector, ready to step out of her cockpit for the first time in nearly four hours.
+
+The battle for Sol was over.
+
+And humanity had won.
