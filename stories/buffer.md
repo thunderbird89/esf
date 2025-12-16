@@ -2130,3 +2130,121 @@ Forty minutes.
 They just had to survive forty more minutes.
 
 **TIME TO REINFORCEMENTS: 00:39:47**
+
+### The Cavalry
+
+Twenty-three minutes later, the situation had deteriorated further.
+
+Galileo Station's shields were at thirty-seven percent and dropping. The *Wrath of Dominion* had maintained its methodical bombardment, never rushing, never pressing hard enough to trigger a desperate response. Just steady, relentless fire that wore down the defensive fields one particle beam at a time.
+
+Commander Chen floated at her station, watching the shield integrity display with grim focus. Every hit took another percentage point. Sometimes two. The math was holding, but barely.
+
+> "Shields at thirty-six percent," Webb reported. "Estimated failure in twenty-eight minutes."
+
+Chen looked at the chronometer.
+
+**TIME TO REINFORCEMENTS: 00:16:52**
+
+Sixteen minutes until Third North Fleet arrived. Twenty-eight minutes until shield failure. The buffer had grown from nine minutes to twelve. They were going to make it.
+
+Unless something changed.
+
+Then the sensor operator's voice cut through the operations center, sharp and urgent.
+
+> "Commander! Unscheduled inbound activation! The beacon is powering up!"
+
+Chen's head snapped toward the sensor station. The cynosural beacon near Jupiter, the same one the Ryzak had used to jump into the system hours ago, was showing a massive power surge.
+
+Someone was opening a bridge.
+
+> "Ryzak escalation?" Chen demanded, her mind racing through possibilities. Reinforcements? A second wave? Had the Ryzak called for backup?
+
+> "Unknown, ma'am. Inbound encryption key is..."
+
+The communications console chimed with an incoming priority signal. Webb's hands moved across the interface, opening the channel.
+
+> "Galileo Station, this is Admiral Trager aboard *In Amber Clad*, Third North Fleet."
+
+The voice came through clear and strong despite the distance, carrying authority and what might have been satisfaction.
+
+> "Reporting for combat. We're five minutes out from the bridge, and our Xenari friends already have it spooled up for us. We'll be coming through the moment we land on-grid. Hold on, we're coming."
+
+Chen felt something that might have been relief, or might have been disbelief, wash over her. Five minutes. Not sixteen. Five.
+
+They'd shaved eleven minutes off their arrival time.
+
+> "Admiral Trager, this is Commander Chen. Galileo Station reads you loud and clear. Be advised, we have FLYCATCHER active—warp disruption field, two hundred fifty kilometer radius centered on this station. The beacon is inside the field. You'll be jumping directly into the disruption zone."
+
+> "Understood, Station. So we're all stuck together once we arrive. Good. Makes it easier to sort out who's friendly. Tactical update: we're coming in with full combat deployment. Nineteen warships, full ammunition loadout, crews rested and ready. What's your situation?"
+
+Chen pulled up the tactical summary, the display showing the battered state of Galileo Station, the sixty-one remaining Talons scattered across the engagement zone, the Ryzak fleet still hammering at the station's shields.
+
+> "Station shields at thirty-six percent and dropping. We've lost twenty-seven Talons over the past three hours. Ryzak fleet composition: one battleship, one carrier, two cruisers, four destroyers, numerous interceptors. The battleship is being sustained by carrier shield projection—they've been working in tandem for the entire engagement."
+
+> "Copy that. We'll deal with the carrier first, cut off their shield support. *In Amber Clad*'s strike wings are already prepped for immediate launch. ETA to your position: five minutes to bridge transit, then... HARBINGER, you reading this?"
+
+The AI's distinctive voice joined the channel.
+
+> "Affirmative, Admiral. Third North Fleet will emerge at the beacon, approximately seventy kilometers from Galileo Station. All fleet elements will be inside FLYCATCHER disruption field upon arrival. No vessel will be able to engage warp drives. Transit time to engagement range at maximum subluminal velocity: approximately eight minutes."
+
+> "So we're fighting at knife-fighting range with no escape routes. Perfect." Trager's voice carried grim satisfaction. "Thirteen minutes total until we're in weapons range. Station, can you hold that long?"
+
+Chen looked at the shield integrity display. Thirty-six percent. Dropping steadily. Twenty-eight minutes until failure at current rate.
+
+Thirteen minutes until Third North Fleet reached engagement range.
+
+The math worked. Easily.
+
+> "We can hold, Admiral. We've held this long. Thirteen more minutes is nothing."
+
+> "That's what I like to hear. All Federation and Earth forces, this is Admiral Trager. Third North Fleet is five minutes from jumping into Sol. When we arrive, the Ryzak are going to find out what happens when you threaten our homeworld. Hold the line just a little longer. Trager out."
+
+The channel closed, but Chen could hear the message being repeated across every tactical frequency, could imagine every pilot in every Talon hearing those words.
+
+Five minutes. Not sixteen. Five.
+
+They'd done it. They'd held long enough.
+
+> "All hands," Chen said into the station-wide comm, her voice carrying across every section of Galileo Station. "Third North Fleet is five minutes out. Repeat, five minutes until reinforcements arrive. They shaved eleven minutes off their transit time. We're almost there."
+
+She paused, looking around the operations center at her crew, who had been working in zero gravity for over three hours, who had maintained their posts while the station shook under enemy fire, who had done everything asked of them and more.
+
+> "We've held this station against a Ryzak battle fleet for three hours and forty minutes. We can hold for thirteen more minutes. Stay sharp. Stay focused. We're going to see this through."
+
+Another particle beam struck the shields. Thirty-five percent. Then thirty-four.
+
+But now, for the first time in hours, Chen wasn't watching the shield display with dread. She was watching the chronometer.
+
+Five minutes until Third North Fleet jumped into the system.
+
+Eight more minutes until they reached engagement range.
+
+Thirteen minutes total.
+
+They'd already survived more than three hours. Thirteen minutes was nothing.
+
+Chen pulled up the tactical display, watching the blue icons representing the Talon squadrons. Sixty-one fighters, still holding formation around the station, still engaging Ryzak interceptors, still buying time with their lives.
+
+Soon, very soon, they'd have backup.
+
+She keyed the channel to all Talon squadrons.
+
+> "All fighters, this is Station Command. Third North Fleet is five minutes from jumping in. Admiral Trager is bringing nineteen warships, full strike wing complement, and enough firepower to crack a planet. You've done your job. You've held the line. Now we just need to keep the Ryzak busy for a few more minutes until the cavalry arrives."
+
+The responses came back immediately. Delta Flight. Viper Squadron. Hell Ravens. Voices tired but determined, pilots who'd been fighting for over three hours and were ready to fight for thirteen more minutes.
+
+> "Delta Lead acknowledges. We're not going anywhere."
+
+> "Viper Squadron copies. We'll keep them honest."
+
+> "Hell Ravens confirm. Thirteen minutes. We can do thirteen minutes."
+
+Chen closed the channel and returned her attention to the tactical display. The Ryzak fleet was still there, still shooting, still trying to destroy the station. They had no idea what was about to happen.
+
+They had no idea that nineteen Federation warships were five minutes away from jumping into the system with orders to end this battle decisively.
+
+The *Wrath of Dominion* fired again. Shields at thirty-three percent.
+
+But now it didn't matter. The clock was running, and it was running in the Federation's favor.
+
+**TIME TO REINFORCEMENTS: 00:04:37**
