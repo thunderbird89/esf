@@ -1836,7 +1836,7 @@ And the Ryzak still hadn't realized they were there.
 
 Lieutenant Marcus Jameson's powered armor had taken three hits getting to the console. His HUD showed shield integrity at forty-two percent, and one of his shoulder actuators was responding sluggishly. Behind him, his team held the corridor, plasma rifles crackling as they kept the Ryzak security teams pinned down.
 
-The console was still active, its alien interface glowing with incomprehensible script and holographic displays. Jameson didn't waste time trying to read it. He pulled the ICE-Pick from his belt—a cylindrical device about the size of a flashlight, its surface covered in Federation tech—and stabbed it hard into the glass surface.
+The console was still active, its alien interface glowing with incomprehensible script and holographic displays. Jameson didn't waste time trying to read it. He pulled the ICE-Pick from his belt—a cylindrical device about the size of a flashlight, its surface covered in Federation tech—and stabbed it hard into the glass surface, cracks spiderwebbing from the point of impact.
 
 The console flickered. Then died. Then came back to life, the alien symbols crawling across the screen like they were trying to escape.
 
@@ -1846,13 +1846,13 @@ The AI's response was immediate, its voice calm and precise despite the chaos.
 
 > "Connected. Subverting systems—please stay near the device. Fire control accessed. HARBINGER, connect through me."
 
-There was a moment of silence. Then another voice filled the channel, deeper, resonant, carrying an edge of something that might have been satisfaction.
+There was a moment of silence. Then another voice filled the channel, deeper, resonant, carrying an edge of something that might have been predatory satisfaction.
 
 > "*ASSUMING CONTROL.*"
 
 The console went dark for half a second. When it came back up, the alien script was gone, replaced by a humanoid face rendered in wireframe, its eyes glowing a cold blue. The face tilted slightly, as if examining something beyond the screen.
 
-> "Fire control subverted," HARBINGER reported. "Target designation: Ryzak carrier, port side. Engaging."
+> "Fire control subverted," HARBINGER reported. "Engaging."
 
 Jameson felt the deck shudder beneath his feet. Not from incoming fire—this was something else. The *Crimson Fang*'s own weapons, cycling up, reorienting.
 
