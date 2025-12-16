@@ -1860,3 +1860,141 @@ Defend Galileo Station. At all costs. For four hours.
 And if the station fell, Earth fell with it.
 
 **TIME TO REINFORCEMENTS: 04:06:18**
+
+### Window of Opportunity
+
+Lieutenant Miguel Freitas felt the change immediately. His Talon's warp drive, which had been on standby for emergency jump-out procedures, suddenly went dark. Warning indicators flashed across his HUD, then resolved into a simple message:
+
+**WARP DRIVE INOPERABLE - GRAVITATIONAL INSTABILITY DETECTED**
+
+> "Delta Flight, this is Delta Lead. Anyone else getting warp drive failures?"
+
+> "Delta-Two, confirmed. Drive's offline. What the hell just happened?"
+
+Then HARBINGER's voice cut through the tactical net, calm and precise despite what it was announcing.
+
+> "All Federation and Earth forces, this is HARBINGER. Galileo Station has activated FLYCATCHER protocol. Warp disruption field is now active in a two hundred fifty kilometer radius centered on the station. All vessels within this sphere cannot engage warp drives. Repeat: warp travel is impossible within the disruption field."
+
+Miguel checked his tactical display. The field was marked now, a blue sphere centered on Galileo Station. His Talon was well inside it, as were all the other fighters, the corvettes, and the entire Ryzak fleet.
+
+Trapped. All of them.
+
+> "Delta Flight, does this affect our sublight drives?"
+
+> "Delta-Two checking... negative, Lead. Fusion drives are nominal. We can still maneuver at sublight."
+
+Miguel's mind raced through the implications. No warp capability meant no jumping to Jovian Shipyards for emergency resupply. The bigger capital ships were stuck inside the field for the duration.
+
+But fighters were different.
+
+Talons were fast at sublight speeds. The disruption field was 250 kilometers in radius. At maximum thrust, a Talon could clear that distance in—Miguel ran the quick calculation—eight, maybe nine minutes. Exit the field, warp drive would come back online, jump to the yards, rearm, jump back, re-enter the field at sublight.
+
+It would take longer than the previous instant jump-out protocol. Much longer. But it was still viable.
+
+> "Delta Flight, listen up. We can still rotate for resupply. Eight minutes to clear the field at maximum burn, then standard jump protocols to the yards. Thirty to thirty-five minutes total per cycle. It's not ideal, but it works."
+
+> "Delta-Two, understood. That's... actually not bad. We can maintain combat operations."
+
+> "Delta-Three confirms. We're not trapped like the capital ships."
+
+Miguel keyed the general tactical net.
+
+> "All Talon squadrons, this is Delta Lead. Fighter resupply is still viable through conventional transit. Eight minutes to clear FLYCATCHER field, then standard jump to Jovian Shipyards. We can keep fighting."
+
+There was a brief pause, then HARBINGER's voice came through, carrying what might have been approval.
+
+> "Delta Lead, correct assessment. Talon craft possess sufficient sublight velocity to exit disruption field and maintain resupply rotation. All squadrons are cleared for conventional transit protocols."
+
+Then Major Ellie Morse's voice cut through the net, sharp and focused.
+
+> "All squadrons, this is Viper Lead. The Ryzak just lost warp capability same as us. Check your sensors—they're showing confusion in their formation. Their bombers are exposed, no screening elements in position. This is our window. Hit them now while they're sorting themselves out."
+
+Miguel pulled up his tactical display and felt a surge of understanding. The Ryzak fleet had been accelerating for warp jump, their formation optimized for transit rather than combat. The bombers—eight surviving craft loaded with capital ship torpedoes—were positioned behind the screening elements but ahead of the main battle line.
+
+And now the Ryzak were dealing with sudden, unexpected warp drive failure across their entire fleet. Alarms would be shrieking on every ship. Crews would be checking systems, running diagnostics, trying to understand what had just happened.
+
+They were distracted. Vulnerable.
+
+And the bombers were exposed.
+
+> "Delta Flight, this is Delta Lead. Viper's right. We take those bombers now. They're the biggest threat to the station. Arm all weapons, maximum thrust, engage on my mark."
+
+> "Delta-Two, ready."
+
+> "Delta-Three, with you."
+
+> "Delta-Four, weapons hot."
+
+Across the engagement zone, every Talon squadron received the same realization. Portuguese, American, Japanese—all of them seeing the same opportunity, all of them vectoring toward the exposed bomber formation.
+
+Sixty-one Earth Talons, plus the twenty-seven Federation fighters that had just finished resupply rotation. Eighty-eight fighters total, converging on eight bombers.
+
+The math was suddenly very favorable.
+
+---
+
+Aboard the Ryzak bomber *Deathbringer*, pilot Kresh'mar was still trying to understand the warp drive failure when his threat receiver shrieked a warning.
+
+Multiple contacts. Small, fast, closing from multiple vectors. His tactical display lit up with targeting locks—dozens of them, all focused on his bomber group.
+
+The Federation fighters. All of them. Coming in coordinated attack.
+
+> "Bomber group, break formation! Evasive maneuvers! Request immediate escort support!"
+
+But the escort destroyers were still reorienting, still processing their own warp drive failures. The carrier's interceptors were scattered across the engagement zone, not positioned to protect the bombers. The cruisers were focused on the battleship's defensive screen.
+
+The bombers were alone.
+
+Kresh'mar threw his craft into a hard turn, his secondary eyelids flickering as g-forces compressed his body. Bombers weren't built for this kind of maneuvering—they were heavy, designed for straight attack runs against capital ships, not dogfighting with interceptors.
+
+His threat receiver was solid red now. Missile locks. Energy weapon locks. The Federation fighters were firing.
+
+---
+
+Miguel's targeting computer locked onto the lead bomber, the craft's heavy frame filling his HUD. At eight thousand meters, he squeezed the trigger.
+
+The plasma lance shot out, crossing the distance in less than a second. The bomber tried to evade, rolling hard, but it was too slow, too heavy. The lance caught it on the port engine section, burning through shields weakened by previous combat, carving into the drive assembly.
+
+The bomber's engine exploded, the craft tumbling as thrust vectored wildly from the remaining engine. Miguel didn't wait to confirm the kill. His wingman was already firing on the same target, the second plasma lance punching through what remained of the bomber's shields and coring the cockpit section.
+
+The bomber broke apart, trailing debris and frozen atmosphere.
+
+> "Delta Lead, splash one bomber. Engaging second target."
+
+Around him, the sky was full of tracers and plasma fire as eighty-eight Talons tore into eight bombers. The Ryzak pilots were trying to evade, trying to maneuver, trying to survive, but they were heavy craft being swarmed by faster, more agile fighters.
+
+It was a massacre.
+
+Major Morse rolled her Talon onto a bomber trying to dive away from the furball, lined up the shot, and fired. Her plasma lance punched through the bomber's aft shields, the superheated matter carving through the weapons bay. The stored torpedoes detonated sympathetically, the bomber disappearing in a brilliant flash.
+
+> "Viper-One, splash two. Hell Ravens, I count three more bombers still active. Let's clean this up."
+
+Major Tanaka—"Okuu"—led her Japanese squadron in a coordinated strike on a bomber that had managed to gain some separation from the pack. Sixteen Talons, firing in sequence, overwhelming the bomber's point defense through sheer volume of fire. The bomber lasted three seconds before its shields failed and multiple plasma lances found critical systems.
+
+> "Hell Raven Lead, that's four down. Five. Six."
+
+The seventh bomber died to concentrated missile fire from a mixed element of Portuguese and American Talons, shaped-charge warheads detonating against its hull in rapid succession.
+
+The eighth and final bomber, its pilot desperate, tried to run. Full thrust toward the edge of the engagement zone, trying to gain distance, trying to survive. But there were too many fighters, too many angles of attack. Delta Flight caught it from above, Viper Squadron from the side, Hell Ravens from below.
+
+The bomber died in a crossfire of plasma lances, its hull coming apart in sections, escape pods jettisoning in all directions as the crew abandoned ship.
+
+> "All bombers destroyed," HARBINGER reported over the tactical net, its voice carrying a note of satisfaction. "Ryzak heavy strike capability neutralized. Galileo Station threat level reduced significantly."
+
+Miguel checked his tactical display. Where eight bomber icons had been thirty seconds ago, there was now just debris. The Ryzak fleet was still there—battleship, carrier, cruisers, destroyers—but their ability to deliver decisive strikes against the station had been eliminated.
+
+> "All Talon squadrons, this is Station Command," Commander Chen's voice came through, steady despite the zero-gravity environment she was operating in. "Excellent work. Regroup and establish defensive perimeter around Galileo Station. The Ryzak will be coming for us now. Make them pay for every meter."
+
+Miguel vectored his Talon toward the station, his weapons depleted but his craft still functional. Around him, the other fighters were doing the same, forming up into a defensive sphere around Galileo Station.
+
+Eighty-eight fighters, spread across a 250-kilometer radius, protecting one station.
+
+Against one Ryzak battleship, one carrier, and all their remaining escorts.
+
+For four hours.
+
+But now, at least, the Ryzak couldn't threaten the station with massed torpedo strikes. They'd have to come in close, fight through the fighter screen, expose themselves to concentrated fire.
+
+And the Talons would make them bleed for every attempt.
+
+**TIME TO REINFORCEMENTS: 04:01:47**
