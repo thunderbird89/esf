@@ -1998,3 +1998,135 @@ But now, at least, the Ryzak couldn't threaten the station with massed torpedo s
 And the Talons would make them bleed for every attempt.
 
 **TIME TO REINFORCEMENTS: 04:01:47**
+
+### The Long Siege
+
+Three hours and seventeen minutes.
+
+That's how long Galileo Station had been under siege.
+
+Commander Sarah Chen floated at her station in the operations center, magnetic boots keeping her anchored to the deck in the zero-gravity environment. The displays around her showed damage indicators spreading across the station's exterior, shield strength fluctuating, power distribution diagrams glowing amber and red.
+
+The *Wrath of Dominion* had been methodically hammering the station for over three hours, maintaining standoff range where the battleship's particle beams could reach but the station's limited defensive armament couldn't effectively respond. The Ryzak cruisers and destroyers formed a protective screen, engaging any Talons that got too close, forcing the fighters to dance at the edge of effective range.
+
+It was a siege. Slow, grinding, inexorable.
+
+And the station was losing.
+
+> "Commander, another hit on section seven," Lieutenant Webb reported, his voice carrying the strain of hours in zero gravity. "Shields absorbed it, but we're down to sixty-two percent capacity. Engineering is requesting additional power."
+
+Chen pulled up the power distribution overlay. Every system on the station was already running hot, pushed beyond normal operational parameters. The gravity generator that had been inverted to create the FLYCATCHER field was drawing massive amounts of power. Life support, shields, weapons, sensors—all competing for limited reactor output.
+
+> "Reroute from non-essential systems. Environmental controls in the habitation sections, reduce to minimum. Strip power from anywhere that won't kill us immediately."
+
+> "Already done, ma'am. We're pulling from every available source. Engineering reports the powerplants are running at one hundred twenty-five percent of rated capacity."
+
+One hundred twenty-five percent. Chen had worked in engineering before her command track. She knew what that meant. Reactor cores running at temperatures they weren't designed to sustain. Cooling systems struggling to keep up. Power conduits stressed beyond their specifications.
+
+If they maintained this output much longer, systems would start failing. Not from enemy fire—from simple thermal overload.
+
+> "How long can we sustain one-twenty-five?"
+
+Webb consulted his displays, conferring quietly with the engineering station.
+
+> "Engineering estimates... ninety minutes before we start seeing cascading failures. Maybe two hours if we're lucky. They're already seeing stress fractures in the primary coolant loops."
+
+Chen looked at the chronometer.
+
+**TIME TO REINFORCEMENTS: 00:44:18**
+
+Forty-four minutes until Third North Fleet arrived. Ninety minutes until the station's powerplants started failing.
+
+The math worked. Barely.
+
+Another impact shuddered through the station, the particle beam from the *Wrath of Dominion* striking the shields. The defensive field flared brilliant white on the external cameras, dissipating the energy, but Chen could see the power draw spike on her displays.
+
+> "Shields at fifty-eight percent," Webb reported. "That last hit stressed the forward generators. We're compensating with backup systems."
+
+> "Talon status?"
+
+> "Sixty-one operational. We've lost twenty-seven over the past three hours. Most are rotating through resupply at Jovian Shipyards, but the cycle time means we've only got about forty fighters in the engagement zone at any given moment."
+
+Sixty-one operational. Chen remembered when Earth's squadrons had arrived—fresh, eager, untested. Eighty-eight Talons total. Now they were down to sixty-one, and that number kept dropping.
+
+Every fifteen or twenty minutes, another icon would blink out on the tactical display. A Ryzak interceptor would get a lucky shot. A destroyer's point defense would track just fast enough. A pilot would make a mistake, push too hard, misjudge a vector.
+
+The Talons were bleeding. Slowly, steadily, inexorably.
+
+> "Ma'am, we've got another Talon down," the sensor operator called out. "Viper-Seven took concentrated fire from two destroyers. Pilot ejected, search and rescue corvette is moving to recover."
+
+Chen watched the icon disappear from the tactical display. Viper-Seven. She didn't know the pilot's name, didn't know if they were American, Portuguese, Japanese. Didn't matter. They'd been defending the station, and now they were drifting in an escape pod, waiting for pickup.
+
+If the station fell before Third North Fleet arrived, those rescue operations would become meaningless. The Ryzak would hunt down the escape pods at their leisure.
+
+> "Time to reinforcements?" Chen asked, though she'd checked the chronometer less than two minutes ago.
+
+> "Forty-two minutes, ma'am."
+
+Forty-two minutes. Two thousand five hundred twenty seconds. She could count them if she wanted. Count down to salvation or destruction.
+
+Another particle beam struck the shields. Then another. The *Wrath of Dominion* was maintaining a steady tempo of fire, not rushing, not pressing hard. Just methodically wearing down the station's defenses.
+
+The battleship knew the math as well as Chen did. They had time. All they needed to do was keep shooting, keep the pressure on, and eventually the station's shields would fail.
+
+Then the hull. Then the reactor. Then everyone aboard.
+
+> "Commander, HARBINGER is requesting communication," Webb said.
+
+Chen pulled up the AI's interface. The geometric form appeared on her screen, pulsing a steady blue that might have been concern.
+
+> "Commander Chen, I must advise you of a developing situation."
+
+> "More good news?"
+
+> "Shield integrity is declining at current rate of Ryzak fire. Projections indicate shield failure in approximately fifty-three minutes. This is within acceptable margins for Third North Fleet arrival, but there is minimal buffer for unexpected complications."
+
+Chen studied the numbers. Fifty-three minutes until shield failure. Forty-four minutes until Third North Fleet arrived.
+
+Nine minutes of margin. Not much, but enough. If the Ryzak didn't increase their fire rate. If the shields degraded at a constant pace. If nothing else went wrong.
+
+Too many ifs.
+
+> "What happens if they press harder? Concentrate fire?"
+
+> "Shield failure timeline would accelerate. Current Ryzak fire tempo appears calibrated to methodical degradation rather than rapid assault. However, if they recognize our temporal constraints and increase aggression, margin for error disappears entirely."
+
+Chen looked at the tactical display. The *Wrath of Dominion* was maintaining steady fire, not rushing, not pressing. The Ryzak fleet commander was playing it safe, letting time do the work.
+
+But if they realized how close it was, if they understood the Federation reinforcements were less than an hour away...
+
+> "Options to extend shield duration?"
+
+> "We can increase power to shields, but this will accelerate reactor stress. Engineering estimates complete powerplant failure would occur in approximately ninety-eight minutes under increased load. Alternatively, we can maintain current power distribution and accept shield failure at fifty-three minutes. The optimal scenario requires precise timing—maintaining current configuration until Third North Fleet arrival provides highest probability of station survival."
+
+So the math was tight, but viable. They just needed the Ryzak to keep doing exactly what they were doing for forty-four more minutes.
+
+And they needed nothing to go wrong.
+
+Chen thought of the billions of people on the planet below, who had no idea this battle was happening, who would wake up tomorrow to either freedom or subjugation depending on decisions made in the next few minutes.
+
+She thought of the Talons out there, sixty-one fighters and their pilots, bleeding slowly to buy these final minutes.
+
+> "We maintain current configuration," Chen said, her voice steady. "Keep FLYCATCHER at full power. Keep the shields up as long as we can. We just need to last long enough."
+
+HARBINGER's geometric form pulsed acknowledgment.
+
+> "Understood, Commander. Maintaining current configuration."
+
+Another impact. Shields at fifty-four percent. Then fifty-one. The *Wrath of Dominion* was picking up its rate of fire, sensing weakness, pressing harder.
+
+Chen pulled up the fleet-wide channel.
+
+> "All Talon squadrons, this is Station Command. We're forty minutes from Third North Fleet arrival. The Ryzak know we're running out of time, and they're pressing hard. I need every fighter you have, every weapon you can bring to bear. Make them work for every shot. Make them pay for every second."
+
+She paused, floating in zero gravity, watching the tactical display show sixty-one blue icons scattered across the engagement zone, dancing with Ryzak interceptors, harassing destroyers, trying desperately to draw fire away from the station.
+
+> "We've held for three hours. We can hold for forty more minutes. Earth is counting on us. Don't let them down."
+
+She closed the channel and turned back to the displays. Shield strength dropping. Power systems strained to the breaking point. The countdown timer ticking steadily toward reinforcement arrival.
+
+Forty minutes.
+
+They just had to survive forty more minutes.
+
+**TIME TO REINFORCEMENTS: 00:39:47**
