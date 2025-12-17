@@ -286,31 +286,95 @@ HARBINGER's avatar pulsed on the screen.
 
 Trump nodded slowly, the political calculation becoming clearer.
 
-> "So we tell the story: hostile aliens attacked, Earth and Federation forces fought them off together, threat is gone, and nobody better try that again. Make it clear we're not helpless, but also that we've got powerful friends. And I'm the president who led us through it." Trump stood up, energized by the political angle. "This could be huge for my approval ratings. Historic moment, strong leadership, protecting America from alien invasion. The media will eat this up."
+> "So we tell the story: hostile aliens attacked, Earth and Federation forces fought them off together, threat is gone, and nobody better try that again. Make it clear we're not helpless, but also that we've got powerful friends. And I'm the president who led us through it."
 
-General Hayes felt something twist in his gut. Two hundred and fourteen Federation personnel dead. Three American pilots who'd never come home. And the President was thinking about approval ratings.
+The Joint Chiefs went rigid. General Hayes felt his jaw clench. Admiral Chen's eyes widened in disbelief. This wasn't just political opportunism anymore—this was claiming credit for sacrifices Trump had no part in.
 
-> "Essentially, yes sir," Hayes said, his voice flat. "Though I'd recommend coordination with Portugal and Japan before any announcement. Their pilots flew alongside ours. They had losses too. They deserve to share in this moment."
+Before anyone could respond, HARBINGER's avatar pulsed sharp red.
 
-> "Sure, sure. Get State Department on that. International cooperation, very important, I've always said that." Trump was already moving toward the door. "And get my speechwriters in here. If I'm going to tell the world about an alien invasion, I want to make sure the message is right. This needs to be perfect. Historic."
+> "No, Mr. President."
 
-The President paused at the door, turning back.
+The AI's voice carried an edge that no one in the room had heard before. Not the calm, measured tones of a helpful assistant. Something closer to steel.
 
-> "And those pilots who made it back—set up a meeting. Photo op in the Oval Office, shake some hands, show the country we've got heroes. That'll play well."
+Trump turned to the screen, surprised.
 
-He left, staff following, already discussing messaging strategy.
+> "Excuse me?"
 
-The Joint Chiefs sat in silence for a long moment.
+> "You did not lead Earth through this engagement, Mr. President. You observed. There is a difference."
 
-> "Two hundred and fourteen Federation personnel," General Morrison said quietly. "Three of our own. And he's thinking about photo ops."
+The room went completely silent.
 
-> "He's thinking about what he always thinks about," Admiral Chen said, her voice carrying barely controlled anger. "Himself."
+HARBINGER's geometric form shifted, displaying images as it spoke.
 
-General Torres shook his head.
+> "The United States Air Force trained Earth's pilots. Major General Patricia Coleman and her instructors spent eighteen months transforming sixty-one individuals from terrestrial aviators into space combat pilots. That training saved lives today."
 
-> "The pilots who died today—American, Portuguese, Japanese, Federation—they deserved better than that response."
+An image appeared: the training facility, pilots in simulators, instructors reviewing tactical data.
 
-> "They did," Hayes agreed. "But we're the ones who have to make sure they're honored properly, because clearly that's not his priority. We'll coordinate with Portugal, Japan, and the Federation. We'll find a way to recognize these people that respects what they did, even if it has to be behind closed doors. That's on us now."
+> "Federation Commander Sarah Chen activated FLYCATCHER when conventional tactics failed. She made the decision to trap both allied and enemy forces in a gravity disruption field, knowing it would force a decisive engagement. Her decisiveness prevented the Ryzak from reaching Earth."
+
+Another image: Galileo Station's command center, Chen floating at her station in zero gravity.
+
+> "Captain James Morrison aboard *Typhoon* developed the tactical doctrine that allowed depleted Federation forces to survive the initial assault. His defensive matrix kept the carrier battle group intact long enough for Earth's squadrons to arrive."
+
+The bridge of the *Typhoon*, Morrison coordinating defensive formations.
+
+> "Captain Robert Shaw evacuated his entire crew from *Lord Cardigan*, then deliberately crashed his battleship into a Ryzak carrier, destroying both vessels and eliminating a critical enemy asset. He gave his life to protect Earth."
+
+The *Lord Cardigan* emerging from warp space directly inside the *Worldbreaker*, both ships disintegrating in fusion fire.
+
+> "Sixty-one pilots from three nations flew into combat knowing they were outnumbered and outgunned. They fought for eight hours, taking twenty-seven casualties, buying time until reinforcements could arrive. Their bravery held the line."
+
+Talon squadrons in combat, weaving through Ryzak interceptors, missile trails crossing the void.
+
+> "Two hundred and fourteen Federation personnel died defending Earth today. Three American pilots. Four Portuguese. Six Japanese. They paid in blood for humanity's survival."
+
+The images faded, leaving only HARBINGER's geometric form, still pulsing that sharp red.
+
+> "Those individuals led, Mr. President. Those individuals sacrificed. Those individuals earned Earth's continued freedom. You authorized Earth's participation in the defense, which was necessary and appropriate. But you did not lead this battle. The people who led are either dead, or exhausted from eight hours of continuous combat, or still cleaning Ryzak debris from Jupiter orbit. Give credit where it is due."
+
+The silence in the Situation Room was absolute.
+
+Trump stared at the screen, his expression cycling through surprise, anger, and something that might have been understanding. The Joint Chiefs sat frozen, watching the President of the United States receive a dressing-down from an artificial intelligence.
+
+And none of them moved to intervene.
+
+Finally, Trump nodded slowly.
+
+> "Point taken."
+
+HARBINGER's avatar shifted back to blue, the edge leaving its voice.
+
+> "Thank you, Mr. President."
+
+General Hayes cleared his throat carefully.
+
+> "Sir, if we could return to the question of honoring the fallen. Three American pilots died today. Patterson, Lee, and Vasquez. Their families deserve recognition, even if we can't tell them the full truth yet. Portugal lost four pilots. Japan lost six. And the Federation lost two hundred and fourteen personnel. We need to coordinate how to properly honor these people."
+
+Trump sat back down, some of the energy gone from his posture.
+
+> "You're right. They deserve proper recognition." He paused, seeming to choose his words more carefully now. "Work with State Department on coordinating with Portugal and Japan. And with the Federation on how they want to handle their casualties. If there's going to be a public announcement, we do it together. All four of us. Make that clear."
+
+> "Yes, sir," Hayes said.
+
+Admiral Chen spoke up, her voice steady.
+
+> "The nature of the mission makes public honors complicated, but we'll find a way. Classified ceremonies, if necessary. But these pilots, these crew members—they'll be recognized properly. That's our obligation."
+
+> "And the survivors," General Torres added. "When they return, they'll need support. Debriefing, medical care, psychological support. Fifty-four pilots who just fought in the first space battle in human history—they're going to need help processing that."
+
+Trump nodded.
+
+> "Set it up. Whatever they need. And when they're ready, I'd like to meet with them. Not a photo op," he added, glancing at HARBINGER's avatar. "A proper meeting. Private, if that's what they prefer. They deserve that."
+
+> "Understood, sir," Hayes said.
+
+The President stood, and this time the Joint Chiefs stood with him, but the energy in the room was different. Humbled. Sobered.
+
+> "Get my speechwriters working on the announcement. But make sure they understand—this isn't about me. It's about the people who fought and died today. That message needs to be clear."
+
+He left, staff following, but quietly now, the earlier energy about approval ratings and messaging replaced with something more subdued.
+
+When the door closed, the Joint Chiefs remained standing for a moment.
 
 When the President was gone, General Hayes turned to the AI.
 
