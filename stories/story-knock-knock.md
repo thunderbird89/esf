@@ -1832,7 +1832,7 @@ And the Ryzak still hadn't realized they were there.
 
 **TIME TO REINFORCEMENTS: 07:37:13**
 
-### Hostile Takeover
+### Assuming Control
 
 Lieutenant Marcus Jameson's powered armor had taken three hits getting to the console. His HUD showed shield integrity at forty-two percent, and one of his shoulder actuators was responding sluggishly. Behind him, his team held the corridor, plasma rifles crackling as they kept the Ryzak security teams pinned down.
 
