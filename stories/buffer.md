@@ -679,3 +679,123 @@ And on Major Tanaka's Talon, the grinning hell raven watched over the apron with
 The battle was over.
 
 But the story of what they'd accomplished—that was just beginning.
+
+---
+
+Arlington National Cemetery was silent under overcast skies.
+
+Three graves had been prepared in Section 60, where America laid to rest those who'd fallen in the wars of the twenty-first century. The graves were empty—there were no bodies to bury, no remains recovered from the debris field near Jupiter. But the headstones were real, white marble standing in precise rows alongside thousands of others.
+
+Captain Sarah Patterson, United States Air Force. Age 29.
+
+First Lieutenant Marcus Lee, United States Air Force. Age 26.
+
+Second Lieutenant Carlos Vasquez, United States Air Force. Age 24.
+
+Each headstone bore the standard inscription: name, rank, dates. Below that, the emblem of their respective faiths—a cross for Patterson, a Star of David for Lee, a cross for Vasquez. And beside those emblems, something new. Something that had required express authorization from the Department of Veterans Affairs, approved just days ago.
+
+A stylized Talon circling Earth. Simple, elegant, unmistakable.
+
+The marker that would identify these graves, and others like them that would inevitably follow, as belonging to those who'd fought not just for America, but for the entire planet. In space. Against an enemy most of the world didn't even know existed.
+
+The memorial service was small. Subdued. The families sat in the front row—Patterson's parents and younger sister, Lee's husband and two young children, Vasquez's mother and three brothers. Behind them, a handful of other attendees. Major Morse and several Viper Squadron pilots in dress uniform. Representatives from the Portuguese and Japanese embassies. The Joint Chiefs of Staff in their formal uniforms, medals gleaming in the gray light.
+
+And President Trump, standing at the podium, flanked by honor guards.
+
+He looked down at his notes, then at the teleprompter screen. The speech had been written carefully, vetted by multiple people, designed to honor the fallen without revealing classified details. But as Trump prepared to speak, he noticed something in the teleprompter's display.
+
+A faint geometric form, pulsing blue, visible only to him in the screen's reflection.
+
+HARBINGER. Watching. Ensuring the President remembered whose sacrifice this was, whose story was being told.
+
+Trump's usual bombastic delivery was absent. His voice was measured, controlled, almost subdued.
+
+He spoke of service. Of sacrifice. Of three young Americans who'd answered their nation's call and given everything in defense of their country. He spoke of courage in the face of impossible odds, of duty that transcended personal safety, of the highest ideals of military service.
+
+What he didn't say was just as important as what he did. He didn't claim credit. He didn't make it about himself. He didn't turn it into a political statement.
+
+He simply honored three pilots who'd died doing their duty, whose families would never know the full truth of what they'd accomplished, who would be buried in empty graves because their bodies were scattered across the Jupiter system.
+
+When the President finished, a military chaplain offered prayers. Then came the gun salute—three volleys of seven rifles, the sharp cracks echoing across the cemetery. Taps played on a single bugle, the mournful notes carrying across the rows of white headstones.
+
+The families were presented with folded flags. American flags, not Federation colors. These were American pilots first, defenders of Earth second. The distinction mattered.
+
+Major Morse approached each family in turn, presenting them with something else. Small wooden cases, formal and dignified. Inside each case, nestled in velvet, was a commemorative coin—the Battle of Sol, acknowledged by the Federation, recognized by those who knew the truth.
+
+And something more. A statuette, gleaming metal that caught what little light penetrated the overcast sky. A Talon in flight, captured mid-maneuver, every line perfect. The base was solid, substantial, engraved with a name, rank, and four Latin words.
+
+Semper Inter Astra.
+
+Always Among the Stars.
+
+Patterson's mother held the statuette carefully, her fingers tracing the metal—palladium, though she had no way of knowing that. Precious beyond measure on Earth, common enough in Federation space that they could craft memorial statues from it.
+
+Lee's husband clutched his with both hands, his young children leaning against him, not understanding why their father was crying but understanding that something important was happening.
+
+Vasquez's mother stared at hers for a long moment, then looked up at the empty grave, at the headstone bearing her son's name and the distinctive marker of a Talon circling Earth.
+
+The service concluded. The families remained by the graves, as families do. The other attendees filed away slowly, respectfully. The Joint Chiefs paused to speak with each family, offering condolences that were genuine despite the operational security that prevented them from explaining the full truth.
+
+Trump left quietly, the geometric form that had been watching him from the teleprompter screen fading as he departed.
+
+The cemetery returned to its usual silence, broken only by the sound of flags moving in the breeze and the quiet grief of families who'd lost someone irreplaceable.
+
+---
+
+Three days later, in a modest home in Sacramento, California, Maria Vasquez placed the statuette on the mantelpiece.
+
+The metal gleamed under the living room lights, the Talon's lines catching the glow in a way that made it seem almost alive. Almost in flight. The engraving on the base was clear, even from across the room.
+
+Second Lieutenant Carlos Vasquez
+United States Air Force
+Semper Inter Astra
+
+Her son. Her youngest. The boy who'd wanted to fly since he was six years old, who'd worked himself to exhaustion to get into the Air Force Academy, who'd called her three months ago with news about a special program he'd been selected for but couldn't talk about.
+
+He'd sounded so excited. So proud. So alive.
+
+Now she had a flag, a coin she didn't understand, and a statuette made of metal she'd never heard of, bearing Latin words that translated to "Always Among the Stars."
+
+The Air Force had told her Carlos died in a training accident. Classified program. They couldn't provide details. They couldn't recover his body. They were so very sorry for her loss.
+
+But Maria wasn't stupid. She'd seen the news reports, carefully worded announcements about Earth's place in a larger galaxy, about the Federation that had been operating in shadows for decades, about the defense of Sol against a threat most people couldn't comprehend.
+
+She'd seen the President's speech, subdued and uncharacteristic. She'd noticed the new marker on her son's headstone—a fighter craft circling Earth.
+
+She knew.
+
+Carlos hadn't died in a training accident. He'd died defending Earth. Fighting in space. Protecting billions of people who would never know his name.
+
+Her son had died a hero.
+
+Maria stood in her living room, looking at the gleaming statuette, and allowed herself to cry. Not the raw, jagged grief of the cemetery. This was something different. Sadness mixed with pride. Loss mixed with honor.
+
+Carlos was gone. But what he'd done—what he'd accomplished—that would last forever.
+
+The Talon on the mantelpiece caught the light, its metal surface gleaming with a beauty that seemed otherworldly. Because it was otherworldly. It was made of materials most humans had never seen, crafted by technologies most humans didn't understand, given to honor a sacrifice that most humans would never know about.
+
+But Maria knew.
+
+And that was enough.
+
+Outside her window, the night sky was clear. Stars visible despite the city lights. Somewhere up there, in the vast emptiness between worlds, her son had fought and died. Among the stars.
+
+Semper Inter Astra.
+
+Always.
+
+The statuette gleamed in the quiet of the living room, a testament to courage, sacrifice, and the price humanity paid for its place among the stars. A reminder that Earth's defenders came from small towns and big cities, from every background and every faith, united by service and bound by duty.
+
+And somewhere, far beyond Earth's atmosphere, past the Moon, past Mars, out near Jupiter where the debris field still drifted through the void, the battle site remained. A memorial of its own kind. Where Federation and Earth forces had fought together against impossible odds.
+
+Where humanity had proven it belonged in the galaxy.
+
+Where the price of that belonging was paid in blood.
+
+The story of the Battle of Sol would be told in history books, celebrated in military academies, studied by tactical analysts for decades to come. But for the families of the fallen, it would always be personal. Always about the empty chair at the dinner table, the voice that would never be heard again, the future that was stolen.
+
+And always, on the mantelpiece, a gleaming statuette.
+
+Semper Inter Astra.
+
+Always Among the Stars.
