@@ -389,3 +389,151 @@ The avatar faded, leaving the Joint Chiefs alone with their thoughts and the wei
 Outside the Situation Room, the world continued on, unaware that they'd just survived an extinction-level threat.
 
 But that was about to change.
+
+---
+
+Galileo Station's gravity had come back online twenty minutes after the last Ryzak ship was destroyed.
+
+Lieutenant Miguel Freitas felt the transition from zero-G to standard Earth gravity like a physical weight settling over his body. He'd been floating near the debriefing area when HARBINGER announced the FLYCATCHER system was being powered down and normal operations were resuming. The gentle pull downward had been almost comforting—a return to normalcy after hours of combat in microgravity.
+
+Now he stood in what the Federation called a "hygiene facility" but what looked more like the most advanced shower system he'd ever seen. The water—actual water, not recycled moisture vapor—was hot, pressurized, and infinite. He'd been standing under the spray for ten minutes, letting it wash away the sweat and grime of nearly four hours in a cockpit, and he could have stayed for another ten.
+
+But there were other pilots waiting, and his body was demanding food more than it was demanding cleanliness.
+
+He dried off, changed into the clean flight suit the Federation had provided—same cut as his Portuguese Air Force uniform but in Federation gray with a temporary guest patch—and made his way toward the common canteen.
+
+The station corridors were busy with activity. Federation personnel moving with purpose, ground crews hauling equipment, medical staff transporting wounded to the station's hospital section. But what struck Miguel most was how the Federation crew treated the Earth pilots. Not as visitors. Not as guests. As their own.
+
+A Federation technician had stopped him earlier, asking if his Talon needed any specific maintenance beyond the standard post-combat inspection. A medical officer had insisted on checking him for combat stress, speaking Portuguese with a slight accent Miguel couldn't place. A logistics coordinator had made sure he knew where the rec facilities were, in case he needed to decompress.
+
+They were treating Earth's pilots like fellow warriors who'd shared the same battle. Because that's exactly what they were.
+
+The common canteen was larger than Miguel expected—easily capable of seating two hundred people. The space was divided into several sections: a serving area with what looked like multiple cuisine options, tables and chairs arranged in social clusters, and a recreation corner with screens showing what might have been news feeds or entertainment.
+
+It was maybe a third full, and Miguel immediately recognized the mix of uniforms. Federation personnel in their gray and blue, Portuguese pilots in their guest flight suits, American pilots scattered across several tables, Japanese pilots clustered near the recreation corner.
+
+And everyone was talking.
+
+Miguel grabbed a tray and moved through the serving line, selecting items that looked familiar—something that might have been chicken, vegetables that were definitely recognizable, bread that smelled fresh. The Federation crew member manning the station nodded at him.
+
+> "First time trying Federation standard rations?"
+
+> "Yes. Any recommendations?"
+
+> "The protein is synthesized but nutritionally complete. The vegetables are hydroponically grown here on the station. The bread is real wheat, imported from Earth. You'll be fine." She paused. "And thank you. For today. You saved a lot of lives."
+
+Miguel didn't know what to say to that, so he just nodded and moved on.
+
+He found Captain Ramos and the rest of Delta Flight at a table near the center of the room, already eating. Someone had found coffee—real coffee, not the recycled station substitute—and the smell alone was almost worth the entire battle.
+
+> "Freitas. About time." Ramos gestured to an empty chair. "Food's actually good. Not sure what half of it is, but it's good."
+
+Miguel sat, feeling the exhaustion hit him now that he was finally off his feet and had food in front of him. Around them, the conversations were picking up—tired voices, relieved laughter, the particular sound of people who'd survived something terrible and were slowly remembering how to be human again.
+
+Two tables over, he could see Major Morse with some of her Viper Squadron, talking with a group of Federation pilots. One of them was demonstrating something with hand gestures—probably a combat maneuver, judging by the complexity. Morse was nodding along, asking questions, comparing tactics.
+
+Near the recreation corner, Major Tanaka sat with her Hell Ravens, speaking Japanese with what looked like a Federation pilot who was responding in the same language. The conversation looked intense but friendly—probably comparing notes on the battle, sharing perspectives from different parts of the engagement.
+
+A Federation pilot approached their table—late twenties, flight suit showing the wear of combat, captain's insignia on the collar.
+
+> "Mind if I join you? All the Federation tables are full, and you guys looked like you had room."
+
+> "Please," Ramos said, gesturing to an empty chair. "Captain Eduardo Ramos, Portuguese Air Force. Delta Lead."
+
+> "Captain James Wright, Federation Aerospace Force. Third North Fleet, strike wing commander off *In Amber Clad*." He sat down with visible relief. "Hell of a first day in Sol."
+
+> "You just got here with Third North Fleet?" Miguel asked.
+
+> "Jumped in five hours ago, got immediately scrambled for combat operations, spent three hours hunting down Ryzak stragglers, and landed twenty minutes ago. Haven't even seen my quarters yet." Wright took a long drink of whatever he'd gotten from the serving line. "But I'll take that over what you guys went through. Eight hours of continuous combat against a fleet that size? With your level of training? That's insane."
+
+> "It was necessary," Ramos said quietly.
+
+> "It was more than necessary. It was extraordinary." Wright looked around the table, meeting each pilot's eyes. "You know what the tactical briefing said? That Earth pilots with less than two years of training held the line against Ryzak interceptors for over three hours. That you took out their entire bomber complement. That you bought enough time for Commander Chen to activate FLYCATCHER and trap the whole fleet. If you hadn't been here, that battle would have ended very differently."
+
+Miguel felt something uncomfortable in his chest. They'd just done what they had to do. What else could they have done? Let the Ryzak reach Earth?
+
+> "We had good instructors," he said.
+
+> "And you had courage," Wright replied. "Don't sell yourselves short. The Federation's been fighting in space for decades. You've been training for eighteen months. The fact that you're sitting here, eating dinner, having this conversation—that's not luck. That's skill and bravery."
+
+Before anyone could respond, the general conversation in the canteen began to quiet. Miguel looked up to see three figures entering from the main corridor.
+
+Admiral Trager, the commander of Third North Fleet who'd brought nineteen warships to turn the tide. Commander Sarah Chen, who'd held Galileo Station together through eight hours of siege. And walking beside them, a holographic projection that had to be HARBINGER—the AI's geometric avatar floating at human height, pulsing a steady blue.
+
+The canteen went silent as the three of them moved to the center of the room.
+
+Admiral Trager spoke first, his voice carrying easily across the space.
+
+> "I'm going to keep this brief because I know everyone here is exhausted. But before anyone goes to get some well-deserved rest, there are things that need to be said."
+
+He looked around the room, making eye contact with pilots from every nation.
+
+> "Eight hours ago, a Ryzak invasion fleet jumped into Sol with the explicit intention of destroying the Federation presence here and establishing orbital control over Earth. They came with overwhelming force. Two carriers, four battleships, full support elements. They expected to roll over whatever minimal defense we had and proceed directly to your homeworld."
+
+The Admiral paused.
+
+> "They were wrong. They were wrong because Federation crews fought with distinction despite being outnumbered and outgunned. They were wrong because Commander Chen made the tactically brilliant decision to activate FLYCATCHER and force a decisive engagement. They were wrong because Captain Shaw gave his life to take out one of their carriers. And they were wrong because sixty-one pilots from three Earth nations flew into combat against impossible odds and held the line."
+
+He turned specifically toward the Earth pilots scattered across the canteen.
+
+> "You. The Portuguese, American, and Japanese pilots who've been training for less than two years. You faced Ryzak interceptors piloted by warriors who'd been flying combat missions since before some of you were born. You went into battle knowing you were outnumbered, knowing you had less experience, knowing that the odds said you probably wouldn't be coming home."
+
+Trager's voice grew stronger.
+
+> "And you went anyway. You threw yourselves headlong into a battle none of you had any business winning. You flew for four hours straight, taking losses, watching your squadron mates die, and you never broke. You never ran. You held the line until we could get here with reinforcements. You saved your planet."
+
+Commander Chen stepped forward.
+
+> "The battle cost us. We lost *Gallipoli* with all hands. *Vanguard* and *Sentinel* took critical damage. Thirteen Federation pilots didn't make it home. And thirteen of your pilots—three American, four Portuguese, six Japanese—gave their lives defending Earth."
+
+Her voice was steady, but Miguel could hear the weight behind it.
+
+> "Those losses matter. Every single one of them. And while we can't give them the recognition they deserve publicly—not yet—we can honor them here, among the people who fought beside them."
+
+HARBINGER's avatar pulsed, and the AI's voice filled the canteen.
+
+> "In twenty-four hours, after you've had time to rest and process what you've experienced, you will be provided transport back to Earth orbit. From there, you can use your Talons to return to your home bases. The Federation will handle all diplomatic coordination with your respective governments."
+
+The holographic form shifted slightly.
+
+> "Recovering the bodies of our fallen comrades from the combat zone is unlikely. The debris field spans thousands of kilometers, and many of the remains were lost when ships were destroyed. However, each squadron commander will be given commemorative statuettes for each fallen pilot. These will be crafted from metals that are precious on Earth—palladium, iridium, beryllium—and they will bear the name, rank, and nation of every pilot we lost today. You will present these to their families with our deepest respect."
+
+Miguel felt his throat tighten. They couldn't recover the bodies. Patterson, Lee, Vasquez, the Portuguese and Japanese pilots who'd died—their families would never have graves to visit, never have closure. Just a statuette made of precious metals and the knowledge that their loved ones had died defending Earth.
+
+HARBINGER continued.
+
+> "Additionally, every pilot who participated in today's engagement will receive a commemorative coin. This is in keeping with human military tradition. The coin will acknowledge your participation in the Battle of Sol, and it will be recognized by the Federation as proof of your service. You've earned that recognition."
+
+Admiral Trager stepped forward again.
+
+> "You're all exhausted. You need food, rest, and time to process what you've been through. The station's facilities are open to you—hygiene, recreation, medical, whatever you need. Federation personnel have been instructed to treat you as our own, because that's what you are. You flew into combat alongside us, you bled alongside us, and some of you died alongside us. That makes you ours."
+
+He looked around the room one more time.
+
+> "Get some rest. Take care of each other. And know that what you did today will be remembered. Sol is safe because of you. Earth is safe because of you. The Federation is proud to call you allies."
+
+The Admiral, Commander Chen, and HARBINGER's avatar left the canteen, leaving behind a room full of pilots who were trying to process everything they'd just heard.
+
+Miguel looked down at his food, which had gone cold while he was listening. Around him, the conversations were starting back up, but quieter now. More thoughtful.
+
+Captain Wright raised his cup—whatever he'd been drinking.
+
+> "To the pilots we lost. Federation, Earth, all of them."
+
+Around the canteen, cups and glasses raised.
+
+> "To the pilots we lost."
+
+Miguel raised his coffee, thinking about the three American pilots whose names HARBINGER had listed. Patterson, Lee, Vasquez. He hadn't known them. Hadn't flown with them. But they'd been out there in the same battle, fighting the same enemy, giving their lives for the same cause.
+
+They were his comrades. His brothers and sisters in arms.
+
+And they'd never be forgotten.
+
+He drank, the coffee bitter and strong and real.
+
+Around him, Galileo Station continued its work—damaged but functional, battered but unbroken. The Federation personnel moved with purpose, the Earth pilots slowly allowed themselves to relax, and somewhere in the Jupiter system, Third North Fleet maintained patrol, ensuring that no threat would reach Earth.
+
+The battle was over.
+
+But the bonds forged in combat—between nations, between pilots, between Earth and the Federation—those would last forever.
