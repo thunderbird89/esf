@@ -149,3 +149,187 @@ Behind them, Okuu's Talon sat on its pad, the grinning hell raven on its nose wa
 The battle was over.
 
 But the story of what they'd accomplished together was just beginning.
+
+---
+
+The White House Situation Room had been in a state of controlled tension for the past eight hours.
+
+President Donald Trump sat at the head of the table, flanked by his Chief of Staff and National Security Advisor. The Joint Chiefs of Staff occupied the remaining seats—Army, Navy, Air Force, Marines, Space Force, and Coast Guard. Each one had been monitoring the situation through carefully curated briefings, filtered intelligence reports, and the occasional update from defense satellites that had picked up anomalous energy signatures near Jupiter.
+
+None of them had the full picture. They couldn't. The Federation had ensured that Earth's surveillance capabilities were sophisticated enough to detect that something was happening, but not sophisticated enough to understand what.
+
+General Marcus Hayes, Chairman of the Joint Chiefs, had been in this room for all eight hours. He'd watched the energy signatures flare and fade, watched the patterns that suggested massive weapons discharge, watched the data that told him a battle of unprecedented scale was happening in humanity's backyard.
+
+And he'd been utterly unable to do anything about it.
+
+The screens at the front of the Situation Room had been cycling through satellite feeds, sensor data, and intelligence assessments for hours. Now, suddenly, they went dark.
+
+Then a familiar geometric form materialized on the main display.
+
+HARBINGER.
+
+The AI's avatar—a complex arrangement of rotating geometric shapes that somehow conveyed awareness and intelligence—pulsed a steady blue. When it spoke, its voice carried none of the urgency that had characterized previous communications. Just calm, measured certainty.
+
+> "Mr. President, Joint Chiefs of Staff, I am pleased to report that the Ryzak invasion force has been completely destroyed. Sol is secure. The threat has been eliminated."
+
+The room went silent.
+
+Trump leaned forward, squinting at the screen.
+
+> "So you're telling me we won? Against these... what did you call them?"
+
+> "Ryzak, Mr. President. And yes. Federation forces, working in coordination with Earth's Talon squadrons from Portugal, the United States, and Japan, successfully defended Galileo Station and prevented the invasion force from reaching Earth."
+
+> "Good, good. That's tremendous. So this is over? We can get back to normal?"
+
+General Hayes felt something cold settle in his chest. The President didn't understand. He'd been briefed on the basics—alien threat, Federation response, Earth's limited involvement—but he clearly hadn't grasped the magnitude of what had just happened.
+
+Admiral Sarah Chen, Chief of Naval Operations, spoke up carefully.
+
+> "Mr. President, if I may. HARBINGER, can you provide details on the engagement? Force composition, casualties, threat assessment?"
+
+HARBINGER's geometric form shifted, displaying data overlays.
+
+> "The Ryzak deployed thirty-four vessels. Two carriers, four battleships, multiple cruisers and destroyers, with full fighter complement. Their objective was to eliminate Federation presence in Sol and establish orbital control over Earth."
+
+General Raymond Torres, Air Force Chief of Staff, did the mental math immediately.
+
+Thirty-four warships. Carriers plural. Battleships plural.
+
+That wasn't a raid. That wasn't a probe. That was an invasion fleet designed to conquer a solar system.
+
+> "And our losses?" Torres asked, his voice tight.
+
+> "Earth forces deployed sixty-one Talon fighters across three national squadrons. We suffered twenty-seven fighter losses. Fifty-four pilots recovered, three killed in action."
+
+Twenty-seven fighters lost. Three pilots killed.
+
+Hayes looked at the numbers on the screen, then at the President, who was nodding like this was a satisfactory outcome.
+
+> "So we won with minimal casualties. That's excellent. Great work by our pilots."
+
+> "Mr. President," Hayes said carefully, "those numbers don't tell the full story. HARBINGER, what were Federation casualties?"
+
+HARBINGER's display updated.
+
+> "Initial Federation defense force consisted of four battleships and supporting elements. *Gallipoli* was destroyed with all hands—forty-seven crew members. *Vanguard*, *Sentinel*, and *Typhoon* sustained critical damage and withdrew with combined casualties of thirty-two killed, sixty-one wounded. Thirteen Federation Talon pilots killed in action. *Lord Cardigan* was deliberately crashed into a Ryzak carrier by her captain after full crew evacuation—no casualties from the collision itself, though Captain Shaw was lost with his ship. Total Federation personnel killed: two hundred and fourteen."
+
+The room went completely silent.
+
+Two hundred and fourteen Federation personnel. Versus three American pilots.
+
+Hayes felt the weight of those numbers settle over the room like a shroud.
+
+> "Two hundred and fourteen people," Admiral Chen said quietly. "People we've never met, from an organization most of the world doesn't know exists, who died defending Earth."
+
+General Torres leaned back in his chair, processing.
+
+> "And the *Lord Cardigan*'s captain. He evacuated his entire crew, then deliberately crashed his ship into an enemy carrier. That's... that's beyond any definition of duty I know."
+
+A Federation battleship destroyed with all hands. Three more critically damaged. A captain who deliberately crashed his ship into an enemy carrier to prevent it from reaching Earth.
+
+This hadn't been a minor skirmish. This had been a desperate defensive battle that humanity had come within minutes of losing.
+
+> "How close?" General Hayes asked quietly. "How close did they come to Earth?"
+
+> "The Ryzak fleet was never closer than Jupiter's orbit. Galileo Station's defensive perimeter held throughout the engagement. However, had the station fallen before Third North Fleet's arrival, the Ryzak would have had clear approach to Earth with overwhelming force."
+
+> "And we couldn't have stopped them," Admiral Chen said, not a question.
+
+> "Correct. Earth's current defensive capabilities would have been insufficient against a Ryzak battle fleet of this size."
+
+General Hayes stood, moving to the display showing the engagement zone near Jupiter. The scale was almost incomprehensible—a battle fought over distances measured in thousands of kilometers, with weapons that could destroy cities, ships that massed more than aircraft carriers.
+
+And Earth's only contribution had been sixty-one fighters flown by pilots who'd trained for less than two years.
+
+> "So what you're telling us," Hayes said slowly, "is that an alien empire just attempted to invade our solar system with enough firepower to sterilize our planet. They were stopped by Federation forces that took catastrophic casualties. And the only reason Earth is still here is because a shadowy organization that's been operating in the background for decades just laid down over two hundred lives to protect us."
+
+> "That is an accurate summary, General."
+
+Hayes turned back to the President.
+
+> "Sir, this changes everything. The American people—hell, the entire world—they need to know what just happened. Not the classified details, not the strategic implications, but the basic truth: we were almost invaded. We almost lost. And we only survived because the Federation was there."
+
+Trump waved a hand dismissively.
+
+> "Why do they need to know? It's over. We won. Telling people they were almost invaded will just cause panic. Stock market will crash. People will freak out. Better to keep this quiet, handle it behind the scenes."
+
+> "With respect, Mr. President," General Torres interjected, "this can't be kept quiet. Three families just lost sons and daughters in combat. Fifty-four more pilots are returning from a battle that lasted eight hours. Portugal, Japan—they're coordinating with us on this. And the Federation has been operating in the shadows for decades. This is the moment where that changes."
+
+General Kaitlyn Morrison, Marine Corps Commandant, leaned forward.
+
+> "Sir, General Torres is right. This was the first time Earth fought together in space. The first time our nations operated as true allies against an existential threat. And the first time we proved we can contribute to our own defense, even if it's just with sixty-one fighters. That's a story of human courage and cooperation. That's a story that needs to be told."
+
+Trump looked around the table, seeing the unanimous agreement from his military leadership. His National Security Advisor leaned in, whispering something Hayes couldn't hear. The President's expression shifted from dismissive to calculating.
+
+> "You're saying I should address the nation about this? Tell them about the aliens, the battle, all of it?"
+
+> "Not all of it," Hayes said carefully. "But the essentials. That Earth was threatened. That we defended ourselves, with Federation support. That the threat is neutralized. And that we're entering a new era where humanity is no longer alone in the universe, but we're also no longer helpless."
+
+The President sat back in his chair, thinking. Hayes could see the wheels turning—political implications, public reaction, the historical weight of being the president who told the world about humanity's place in a hostile galaxy.
+
+> "How do I sell this?" Trump asked finally. "How do I make this sound like a victory and not a near-disaster?"
+
+> "Because it was a victory, sir," Admiral Chen said. "A desperate one, but a victory nonetheless. Earth's pilots flew into combat against impossible odds and bought time for reinforcements. The Federation protected us. We protected ourselves. And now we're still here. That's the message: we faced the darkness, and we survived."
+
+HARBINGER's avatar pulsed on the screen.
+
+> "If I may offer perspective, Mr. President. The Ryzak chose Sol because they believed humanity was weak, isolated, and protected only by minimal Federation presence. They were wrong on all counts. Earth's response, while limited, was effective. Your pilots performed with distinction. And the Federation demonstrated that any threat to humanity will be met with overwhelming force. This is a story of deterrence as much as defense."
+
+Trump nodded slowly, the political calculation becoming clearer.
+
+> "So we tell the story: hostile aliens attacked, Earth and Federation forces fought them off together, threat is gone, and nobody better try that again. Make it clear we're not helpless, but also that we've got powerful friends."
+
+> "Essentially, yes sir," Hayes said. "Though I'd recommend coordination with Portugal and Japan before any announcement. Their pilots flew alongside ours. They deserve to share in this moment."
+
+> "Fine. Get State Department on that. And get my speechwriters in here. If I'm going to tell the world about an alien invasion, I want to make sure the message is right."
+
+The President stood, and the room stood with him.
+
+> "Anything else I need to know right now?"
+
+General Hayes looked at HARBINGER's avatar, then back at the President.
+
+> "Just one thing, sir. Three American pilots died today defending this planet."
+
+The President's expression shifted, showing something genuine for the first time in the briefing.
+
+> "Full military honors?"
+
+General Morrison shook her head slowly.
+
+> "That's the problem, sir. The nature of the mission, the classification, the fact that they were fighting in space against an alien invasion force—public honors would be... complicated. We can't exactly explain what they died doing without revealing everything."
+
+Admiral Chen added carefully:
+
+> "Their families can't be told the truth. Not yet. Not until we coordinate with Portugal and Japan, not until we decide how much to reveal publicly. These pilots died as heroes, but we can't honor them the way they deserve. Not openly."
+
+The weight of that settled over the room. Three pilots who'd given their lives defending Earth from an alien invasion, and they couldn't even be properly recognized for it.
+
+Trump frowned.
+
+> "So what do we do? We can't just... ignore them."
+
+> "We won't, sir," Hayes said firmly. "We'll figure something out. Behind closed doors, with their families, with the Federation's help. They'll be honored properly, even if it can't be public. But they deserve that much. They died defending this planet, even if the world can never know exactly how."
+
+General Torres nodded.
+
+> "And the pilots who survived—all fifty-four of them, across all three nations. They know what happened. They know who didn't make it back. We owe it to them, and to the ones we lost, to find a way to recognize this properly."
+
+> "Agreed," Trump said. "Work with the Federation. Work with Portugal and Japan. Find a way to honor these people without compromising security. And I still want to meet with the pilots who made it back, once they're debriefed."
+
+He headed toward the door, staff following, leaving the Joint Chiefs in the Situation Room with HARBINGER's avatar still displayed on the screen.
+
+When the President was gone, General Hayes turned to the AI.
+
+> "Thank you for keeping us alive."
+
+HARBINGER's geometric form shifted to something that might have been acknowledgment.
+
+> "Thank your pilots, General. They fought with courage that exceeded their experience. Earth should be proud of them."
+
+The avatar faded, leaving the Joint Chiefs alone with their thoughts and the weight of eight hours that had nearly ended human civilization.
+
+Outside the Situation Room, the world continued on, unaware that they'd just survived an extinction-level threat.
+
+But that was about to change.
