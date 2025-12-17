@@ -692,11 +692,9 @@ First Lieutenant Marcus Lee, United States Air Force. Age 26.
 
 Second Lieutenant Carlos Vasquez, United States Air Force. Age 24.
 
-Each headstone bore the standard inscription: name, rank, dates. Below that, the emblem of their respective faiths—a cross for Patterson, a Star of David for Lee, a cross for Vasquez. And beside those emblems, something new. Something that had required express authorization from the Department of Veterans Affairs, approved just days ago.
+Each headstone bore the distinctive marker at the top—a stylized Talon circling Earth, simple and elegant. Something that had required express authorization from the Department of Veterans Affairs, approved just days ago. Below the marker, the standard inscription: name, dates of birth and death, rank, and the emblem of their respective faiths—a cross for Patterson, a Star of David for Lee, a cross for Vasquez.
 
-A stylized Talon circling Earth. Simple, elegant, unmistakable.
-
-The marker that would identify these graves, and others like them that would inevitably follow, as belonging to those who'd fought not just for America, but for the entire planet. In space. Against an enemy most of the world didn't even know existed.
+The marker that would identify these graves, and others like them that would inevitably follow, as belonging to those who'd fought for something beyond themselves. For something that couldn't yet be explained publicly.
 
 The memorial service was small. Subdued. The families sat in the front row—Patterson's parents and younger sister, Lee's husband and two young children, Vasquez's mother and three brothers. Behind them, a handful of other attendees. Major Morse and several Viper Squadron pilots in dress uniform. Representatives from the Portuguese and Japanese embassies. The Joint Chiefs of Staff in their formal uniforms, medals gleaming in the gray light.
 
@@ -722,13 +720,13 @@ The families were presented with folded flags. American flags, not Federation co
 
 Major Morse approached each family in turn, presenting them with something else. Small wooden cases, formal and dignified. Inside each case, nestled in velvet, was a commemorative coin—the Battle of Sol, acknowledged by the Federation, recognized by those who knew the truth.
 
-And something more. A statuette, gleaming metal that caught what little light penetrated the overcast sky. A Talon in flight, captured mid-maneuver, every line perfect. The base was solid, substantial, engraved with a name, rank, and four Latin words.
+And something more. A statuette, gleaming metal that caught what little light penetrated the overcast sky. A Talon in flight, captured mid-maneuver, every line perfect. The base was solid, substantial, engraved with a name, rank, and three Latin words.
 
 Semper Inter Astra.
 
 Always Among the Stars.
 
-Patterson's mother held the statuette carefully, her fingers tracing the metal—palladium, though she had no way of knowing that. Precious beyond measure on Earth, common enough in Federation space that they could craft memorial statues from it.
+Patterson's mother held the statuette carefully, her fingers tracing the metal. Precious beyond measure on Earth, common enough in Federation space that they could craft memorial statues from it.
 
 Lee's husband clutched his with both hands, his young children leaning against him, not understanding why their father was crying but understanding that something important was happening.
 
@@ -744,7 +742,7 @@ The cemetery returned to its usual silence, broken only by the sound of flags mo
 
 Three days later, in a modest home in Sacramento, California, Maria Vasquez placed the statuette on the mantelpiece.
 
-The metal gleamed under the living room lights, the Talon's lines catching the glow in a way that made it seem almost alive. Almost in flight. The engraving on the base was clear, even from across the room.
+The metal gleamed under the living room lights, heavier than it looked, with a strange shine that seemed to hold the light differently than anything she'd seen before. The Talon's lines were caught mid-maneuver, every detail perfect. The engraving on the base was clear, even from across the room.
 
 Second Lieutenant Carlos Vasquez
 United States Air Force
@@ -754,37 +752,33 @@ Her son. Her youngest. The boy who'd wanted to fly since he was six years old, w
 
 He'd sounded so excited. So proud. So alive.
 
-Now she had a flag, a coin she didn't understand, and a statuette made of metal she'd never heard of, bearing Latin words that translated to "Always Among the Stars."
+Now she had a flag, a coin she didn't understand, and a statuette bearing Latin words that translated to "Always Among the Stars."
 
-The Air Force had told her Carlos died in a training accident. Classified program. They couldn't provide details. They couldn't recover his body. They were so very sorry for her loss.
+The Air Force had told her Carlos died in a classified operation. They couldn't provide details. They couldn't recover his body. They were so very sorry for her loss.
 
-But Maria wasn't stupid. She'd seen the news reports, carefully worded announcements about Earth's place in a larger galaxy, about the Federation that had been operating in shadows for decades, about the defense of Sol against a threat most people couldn't comprehend.
+But the colonel who'd delivered the news had looked her in the eye and said something she would never forget: "Ma'am, your son saved the world. I mean that quite literally. He saved the entire world. I can't tell you how, and I can't tell you where, but I need you to know that."
 
-She'd seen the President's speech, subdued and uncharacteristic. She'd noticed the new marker on her son's headstone—a fighter craft circling Earth.
+Maria had believed him. The weight in his voice, the conviction, the way his own eyes had been red-rimmed like he'd been crying. He'd meant every word.
 
-She knew.
-
-Carlos hadn't died in a training accident. He'd died defending Earth. Fighting in space. Protecting billions of people who would never know his name.
-
-Her son had died a hero.
+She didn't know the details. Didn't know where Carlos had died or what he'd been fighting. But she knew he'd died doing something important. Something that mattered. Something that had saved lives—maybe millions of them.
 
 Maria stood in her living room, looking at the gleaming statuette, and allowed herself to cry. Not the raw, jagged grief of the cemetery. This was something different. Sadness mixed with pride. Loss mixed with honor.
 
 Carlos was gone. But what he'd done—what he'd accomplished—that would last forever.
 
-The Talon on the mantelpiece caught the light, its metal surface gleaming with a beauty that seemed otherworldly. Because it was otherworldly. It was made of materials most humans had never seen, crafted by technologies most humans didn't understand, given to honor a sacrifice that most humans would never know about.
+The Talon on the mantelpiece caught the light, its surface gleaming with that strange, beautiful shine. Made of something she didn't recognize, crafted with care, given to honor a sacrifice she couldn't fully understand.
 
-But Maria knew.
+But she knew it mattered.
 
 And that was enough.
 
-Outside her window, the night sky was clear. Stars visible despite the city lights. Somewhere up there, in the vast emptiness between worlds, her son had fought and died. Among the stars.
+Outside her window, the night sky was clear. Stars visible despite the city lights. Somewhere, somehow, her son had done something that saved the world.
 
 Semper Inter Astra.
 
 Always.
 
-The statuette gleamed in the quiet of the living room, a testament to courage, sacrifice, and the price humanity paid for its place among the stars. A reminder that Earth's defenders came from small towns and big cities, from every background and every faith, united by service and bound by duty.
+The statuette gleamed in the quiet of the living room, a testament to courage and sacrifice. A reminder that some things were worth dying for, even if the world could never know the full story.
 
 And somewhere, far beyond Earth's atmosphere, past the Moon, past Mars, out near Jupiter where the debris field still drifted through the void, the battle site remained. A memorial of its own kind. Where Federation and Earth forces had fought together against impossible odds.
 
