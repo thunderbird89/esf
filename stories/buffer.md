@@ -202,11 +202,9 @@ That wasn't a raid. That wasn't a probe. That was an invasion fleet designed to 
 
 > "Earth forces deployed sixty-one Talon fighters across three national squadrons. We suffered twenty-seven fighter losses. Fifty-four pilots recovered, three killed in action."
 
-Twenty-seven fighters lost. Three pilots killed.
+Trump leaned back in his chair, nodding.
 
-Hayes looked at the numbers on the screen, then at the President, who was nodding like this was a satisfactory outcome.
-
-> "So we won with minimal casualties. That's excellent. Great work by our pilots."
+> "So we won with minimal casualties. That's excellent. Three losses out of sixty-one—that's what, five percent? Those are winning numbers. Great work by our pilots."
 
 > "Mr. President," Hayes said carefully, "those numbers don't tell the full story. HARBINGER, what were Federation casualties?"
 
@@ -268,9 +266,19 @@ Trump looked around the table, seeing the unanimous agreement from his military 
 
 The President sat back in his chair, thinking. Hayes could see the wheels turning—political implications, public reaction, the historical weight of being the president who told the world about humanity's place in a hostile galaxy.
 
-> "How do I sell this?" Trump asked finally. "How do I make this sound like a victory and not a near-disaster?"
+> "How do I sell this?" Trump asked, waving his hand dismissively. "Look, I get it—big battle, people died, very sad. But how do I make this sound like a victory and not a near-disaster? How do I make this work for us politically?"
 
-> "Because it was a victory, sir," Admiral Chen said. "A desperate one, but a victory nonetheless. Earth's pilots flew into combat against impossible odds and bought time for reinforcements. The Federation protected us. We protected ourselves. And now we're still here. That's the message: we faced the darkness, and we survived."
+General Morrison's jaw tightened visibly. Admiral Chen looked like she'd tasted something bitter.
+
+> "Mr. President," Hayes said carefully, trying to keep his voice level, "with respect, this isn't about politics. This is about—"
+
+> "Everything is about politics, General. That's how the world works." Trump leaned forward. "We've got an alien invasion that nobody knew about, a secret space force that's been operating without Congressional oversight, and three dead pilots whose families I'm guessing don't know why their kids aren't coming home. That's a lot of problems. But it's also an opportunity if we frame it right."
+
+The Joint Chiefs exchanged glances. This wasn't what any of them had expected from this conversation.
+
+> "Because it was a victory, sir," Admiral Chen said, her voice tight with controlled emotion. "A desperate one, but a victory nonetheless. Earth's pilots flew into combat against impossible odds and bought time for reinforcements. The Federation protected us. We protected ourselves. And now we're still here. That's the message: we faced the darkness, and we survived."
+
+> "Right, right. I like that." Trump nodded. "'Faced the darkness, survived.' That's good. We can use that."
 
 HARBINGER's avatar pulsed on the screen.
 
@@ -278,47 +286,31 @@ HARBINGER's avatar pulsed on the screen.
 
 Trump nodded slowly, the political calculation becoming clearer.
 
-> "So we tell the story: hostile aliens attacked, Earth and Federation forces fought them off together, threat is gone, and nobody better try that again. Make it clear we're not helpless, but also that we've got powerful friends."
+> "So we tell the story: hostile aliens attacked, Earth and Federation forces fought them off together, threat is gone, and nobody better try that again. Make it clear we're not helpless, but also that we've got powerful friends. And I'm the president who led us through it." Trump stood up, energized by the political angle. "This could be huge for my approval ratings. Historic moment, strong leadership, protecting America from alien invasion. The media will eat this up."
 
-> "Essentially, yes sir," Hayes said. "Though I'd recommend coordination with Portugal and Japan before any announcement. Their pilots flew alongside ours. They deserve to share in this moment."
+General Hayes felt something twist in his gut. Two hundred and fourteen Federation personnel dead. Three American pilots who'd never come home. And the President was thinking about approval ratings.
 
-> "Fine. Get State Department on that. And get my speechwriters in here. If I'm going to tell the world about an alien invasion, I want to make sure the message is right."
+> "Essentially, yes sir," Hayes said, his voice flat. "Though I'd recommend coordination with Portugal and Japan before any announcement. Their pilots flew alongside ours. They had losses too. They deserve to share in this moment."
 
-The President stood, and the room stood with him.
+> "Sure, sure. Get State Department on that. International cooperation, very important, I've always said that." Trump was already moving toward the door. "And get my speechwriters in here. If I'm going to tell the world about an alien invasion, I want to make sure the message is right. This needs to be perfect. Historic."
 
-> "Anything else I need to know right now?"
+The President paused at the door, turning back.
 
-General Hayes looked at HARBINGER's avatar, then back at the President.
+> "And those pilots who made it back—set up a meeting. Photo op in the Oval Office, shake some hands, show the country we've got heroes. That'll play well."
 
-> "Just one thing, sir. Three American pilots died today defending this planet."
+He left, staff following, already discussing messaging strategy.
 
-The President's expression shifted, showing something genuine for the first time in the briefing.
+The Joint Chiefs sat in silence for a long moment.
 
-> "Full military honors?"
+> "Two hundred and fourteen Federation personnel," General Morrison said quietly. "Three of our own. And he's thinking about photo ops."
 
-General Morrison shook her head slowly.
+> "He's thinking about what he always thinks about," Admiral Chen said, her voice carrying barely controlled anger. "Himself."
 
-> "That's the problem, sir. The nature of the mission, the classification, the fact that they were fighting in space against an alien invasion force—public honors would be... complicated. We can't exactly explain what they died doing without revealing everything."
+General Torres shook his head.
 
-Admiral Chen added carefully:
+> "The pilots who died today—American, Portuguese, Japanese, Federation—they deserved better than that response."
 
-> "Their families can't be told the truth. Not yet. Not until we coordinate with Portugal and Japan, not until we decide how much to reveal publicly. These pilots died as heroes, but we can't honor them the way they deserve. Not openly."
-
-The weight of that settled over the room. Three pilots who'd given their lives defending Earth from an alien invasion, and they couldn't even be properly recognized for it.
-
-Trump frowned.
-
-> "So what do we do? We can't just... ignore them."
-
-> "We won't, sir," Hayes said firmly. "We'll figure something out. Behind closed doors, with their families, with the Federation's help. They'll be honored properly, even if it can't be public. But they deserve that much. They died defending this planet, even if the world can never know exactly how."
-
-General Torres nodded.
-
-> "And the pilots who survived—all fifty-four of them, across all three nations. They know what happened. They know who didn't make it back. We owe it to them, and to the ones we lost, to find a way to recognize this properly."
-
-> "Agreed," Trump said. "Work with the Federation. Work with Portugal and Japan. Find a way to honor these people without compromising security. And I still want to meet with the pilots who made it back, once they're debriefed."
-
-He headed toward the door, staff following, leaving the Joint Chiefs in the Situation Room with HARBINGER's avatar still displayed on the screen.
+> "They did," Hayes agreed. "But we're the ones who have to make sure they're honored properly, because clearly that's not his priority. We'll coordinate with Portugal, Japan, and the Federation. We'll find a way to recognize these people that respects what they did, even if it has to be behind closed doors. That's on us now."
 
 When the President was gone, General Hayes turned to the AI.
 
