@@ -537,3 +537,145 @@ Around him, Galileo Station continued its work—damaged but functional, battere
 The battle was over.
 
 But the bonds forged in combat—between nations, between pilots, between Earth and the Federation—those would last forever.
+
+---
+
+Twenty-six hours after the battle ended, Miguel Freitas stood in the hangar bay of the *In Amber Clad*, looking at his Talon.
+
+The fighter had been completely serviced. Battle damage repaired, weapons reloaded, fuel tanks topped off, every system checked and rechecked by Federation ground crews who treated the Earth Talons with the same care they gave their own birds. The scorched paint from near-misses had been cleaned, though the Federation techs had left it visible—battle scars, they'd called them. Evidence of what these fighters had survived.
+
+Miguel had slept for twelve hours straight in quarters that were more comfortable than his apartment back in Portugal. Real bed, climate control, complete silence. When he'd finally woken, the station's medical staff had insisted on another check-up, confirming he was physically ready to fly. Then breakfast in the canteen with pilots from all three nations, everyone moving slower, talking quieter, still processing.
+
+Now they were here, aboard the Federation carrier that had turned the tide, preparing for the flight home.
+
+The hangar bay was massive—easily five times larger than anything Portugal had on Earth. The *In Amber Clad* carried three full strike wings of Federation Talons, plus support craft, plus the capacity to temporarily house Earth's sixty-one fighters. The organization was impressive: Earth's Talons clustered by nation, each group with assigned launch sequence, Federation personnel coordinating with practiced efficiency.
+
+Major Tanaka Utsuho—Okuu—stood near her Hell Ravens squadron, running a final pre-flight check on her Talon. The grinning anime character on the nose looked somehow more appropriate now. Nuclear-powered, heavily armed, never gives up. After what they'd been through, that felt less like a joke and more like a statement of fact.
+
+A Federation deck officer approached the assembled pilots, datapad in hand.
+
+> "All right, listen up. We're five minutes from dropping out of warp in Earth orbit. High altitude, well above your standard satellite layer. From there, you'll launch in sequence—Portuguese first, then American, then Japanese. Federation aerospace control has already coordinated with your respective nations. Your flight paths are cleared, your landing fields are expecting you."
+
+He looked around at the pilots.
+
+> "You've all practiced orbital re-entry before. This is the same procedure, just for real this time. Stay in formation, follow your flight leads, trust your instruments. Any questions?"
+
+No one spoke. They'd done this dozens of times in training. The only difference was that this time, they'd be returning as combat veterans.
+
+> "Good. Mount up. And..." The officer paused, seeming to choose his words carefully. "It's been an honor flying alongside you."
+
+Okuu climbed into her Talon's cockpit, the familiar routine centering her. Helmet on, systems check, umbilicals connecting, restraint harness securing. The canopy sealed with its characteristic hiss, and her displays came alive with information.
+
+Federation aerospace control was feeding real-time data to every Talon—orbital positioning, atmospheric entry vectors, weather patterns over Japan. The attention to detail was remarkable. They weren't just dropping Earth's pilots off in orbit and wishing them luck. They were ensuring everyone made it home safely.
+
+HARBINGER's voice came through on the tactical net.
+
+> "All Earth Talon squadrons, this is HARBINGER. Warp transition in sixty seconds. Prepare for normal space emergence."
+
+Okuu felt the familiar sensation of the ship's warp drive spooling down, the subtle vibration that preceded reality reasserting itself. She'd experienced it once before—when Third North Fleet had jumped into Sol during the battle. Now it felt almost routine.
+
+Almost.
+
+> "Transition complete. Welcome to Earth orbit."
+
+Through her canopy, Okuu could see it. Earth. Home. The blue-white marble that billions of people called home, that they'd fought to protect, that they'd nearly lost.
+
+It looked peaceful. Beautiful. Unchanged.
+
+But Okuu knew the truth. Earth had come within minutes of being invaded. The only reason it looked peaceful was because people like Commander Chen, Captain Shaw, and sixty-one pilots from three nations had bought enough time for reinforcements to arrive.
+
+> "Portuguese squadrons, you are cleared for launch. Godspeed."
+
+Okuu watched as the Portuguese Talons—Delta, Echo, and the others—lit their engines and launched from the carrier, their formation tight as they began the descent toward European airspace. Twenty-two fighters where twenty-five had launched. Three empty slots in their formation.
+
+> "American squadrons, you are cleared for launch."
+
+The Vipers and the other US squadrons followed, their distinctive flight profiles immediately recognizable. Eighteen fighters where twenty had launched.
+
+> "Japanese squadrons, you are cleared for launch."
+
+Okuu keyed her squadron channel.
+
+> "Hell Ravens, form on me. Standard descent profile, stay tight. We've come this far together—let's bring everyone home."
+
+Her squadron responded immediately, the remaining Hell Ravens forming up as they launched from the carrier. Ten fighters where sixteen had launched. Six empty slots that would haunt her for the rest of her life.
+
+But ten had made it. Ten pilots who'd flown into impossible odds and survived. Ten warriors who would carry the memory of their fallen comrades.
+
+The Talon's computer plotted the re-entry vector automatically, compensating for atmospheric density, calculating heat dissipation, guiding them toward Japan with precision that would have seemed like magic a few decades ago. Okuu just had to trust the systems and fly.
+
+The transition from space to atmosphere was gradual—thickening air, increasing drag, the first hints of heat building on the shields. Then they were through the worst of it, descending through cloud layers, Japan's coastline appearing below.
+
+Okuu had flown this approach countless times in training. But this time felt different. This time, she was returning from actual combat. This time, people had died.
+
+This time, everything had changed.
+
+> "Hell Ravens, JASDF control has us on radar. Landing sequence is active. Follow standard approach to Komatsu Air Base."
+
+The base appeared ahead—runways, hangars, the organized infrastructure of a modern military installation. Home.
+
+Okuu brought her Talon down with practiced precision, the landing gear deploying, the fighter touching down with barely a bump. The grinning hell raven on her nose passed over familiar concrete, familiar buildings, familiar faces.
+
+But nothing was familiar anymore.
+
+She taxied to the designated apron, following ground crew signals. The other Hell Ravens were landing in sequence behind her, each fighter finding its assigned position. When her Talon came to a complete stop, she went through the shutdown procedure automatically—engines to standby, weapons safe, systems powering down.
+
+Then she opened the canopy.
+
+The smell of Earth hit her first. Real air, not recycled station atmosphere. The particular scent of an air base—fuel, concrete, the faint salt tang from the Sea of Japan. It smelled like home.
+
+Okuu pulled off her helmet and stood in the cockpit, looking out at the apron.
+
+The entire base personnel was lined up. Everyone. Ground crews, maintenance staff, administrative personnel, support units. And at the front, standing at attention in his dress uniform, was Major General Hiroshi Takahashi, the base's commanding officer.
+
+They were all bowing.
+
+Okuu felt something catch in her throat. This wasn't a normal greeting. This wasn't standard procedure for returning pilots. This was honor. Recognition. Respect for warriors returning from combat.
+
+She climbed down from her Talon, her boots hitting the concrete with a solid thump. Behind her, the rest of the Hell Ravens were dismounting, seeing the same scene, processing the same overwhelming display.
+
+Okuu walked toward the line of personnel, her flight suit still showing the wear of combat, her body still carrying the exhaustion of eight hours in a cockpit followed by a day of recovery. Major General Takahashi remained bowing until she was close enough to address.
+
+Then he straightened, met her eyes, and saluted.
+
+> "Major Tanaka. Welcome home."
+
+Okuu returned the salute, her movements crisp despite the exhaustion.
+
+> "Sir. Hell Ravens squadron reporting. Ten aircraft operational. Six pilots lost in combat."
+
+The General's expression shifted—pride mixing with grief.
+
+> "Their sacrifice will be remembered. All of Japan will know that you accomplished something great. What all of you did." He looked past her to the other Hell Ravens, now formed up behind their commander. "The details may remain classified for now, but your courage, your sacrifice—that will be known. You are heroes."
+
+He bowed again, deeper this time, and the entire base personnel bowed with him.
+
+Okuu had been trained her entire military career to maintain composure, to present strength, to never show weakness. But standing on that apron, with the entire base honoring her squadron, honoring the pilots who'd died, honoring what they'd accomplished—
+
+She felt tears forming and didn't try to stop them.
+
+> "We did our duty, sir."
+
+> "You did more than duty, Major. You wrote history." General Takahashi straightened. "But first, you need rest. Real rest, in your own quarters, on your own world. Medical will want to check everyone, debriefing will happen tomorrow, and there are people in Tokyo who want to talk to you about what happened. But for now, welcome home."
+
+He gestured toward the hangar, where Okuu could see more personnel waiting—familiar faces, colleagues she'd worked with before the deployment, people she'd known for years.
+
+Behind her, the Hell Ravens' Talons sat on the apron, battle-scarred and weary but intact. Ten fighters that had flown to Jupiter, fought for eight hours against impossible odds, and made it home.
+
+Six empty slots in the formation. Six pilots who'd never stand on this apron again. Six families who would receive commemorative statuettes made of precious metals instead of their loved ones.
+
+Okuu thought about them—their faces, their voices, the way they'd flown in combat. They'd died defending Earth. Died as warriors. Died doing their duty.
+
+She would carry their memory for the rest of her life.
+
+But for now, she was home.
+
+The Hell Ravens walked together toward the hangar, past the lines of bowing personnel, past the display of honor and respect, toward the familiar buildings of Komatsu Air Base.
+
+Behind them, ground crews were already moving toward the Talons, beginning the post-flight inspections, checking the battle damage, marveling at fighters that had survived combat in space.
+
+And on Major Tanaka's Talon, the grinning hell raven watched over the apron with fierce determination, nuclear cannon at the ready, a symbol of what humanity could become when pushed to its limits.
+
+The battle was over.
+
+But the story of what they'd accomplished—that was just beginning.
