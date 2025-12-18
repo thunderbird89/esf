@@ -12,23 +12,23 @@ timeline: 2027-03-08
 
 The bar occupied the lower level of a docking station on the Xenari frontier world of Thal'karesh, where the air tasted of recycled atmosphere and the faint metallic tang of starship fuel. It was the sort of establishment where officers from a dozen different species mingled after long patrols, where the lighting was kept deliberately dim, and where questions were politely not asked.
 
-The Kryllian bartender—a stocky figure in his breathing apparatus—moved with practiced efficiency behind the counter, dispensing drinks with mechanical precision. The clientele tonight was typical: a pair of Seraphyn in the corner booth engaged in what appeared to be a philosophical debate conducted entirely through subtle gestures and occasional soft vocalizations, a cluster of off-duty cargo haulers comparing routes near the window, and scattered throughout, the tall, angular figures of Xenari officers on leave.
+The Kryllian bartender - a stocky figure in his breathing apparatus - moved with practiced efficiency behind the counter, dispensing drinks with mechanical precision. The clientele tonight was typical: a pair of Seraphyn in the corner booth engaged in what appeared to be a philosophical debate conducted entirely through subtle gestures and occasional soft vocalizations, a cluster of off-duty cargo haulers comparing routes near the window, and scattered throughout, the tall, angular figures of Xenari officers on leave.
 
-One such officer sat alone at the bar, his bioluminescent markings pulsing a steady cyan-green that suggested contentment and mild inebriation. Commander Vael'thi had reason to celebrate—his patrol rotation was complete, his ship was due for refit, and he had two full cycles of leave ahead of him before his next assignment. The drink in front of him was his third, a sweet fermented beverage from his homeworld that the Kryllian bartender kept specifically for Xenari customers.
+One such officer sat alone at the bar, his bioluminescent markings pulsing a steady cyan-green that suggested contentment and mild inebriation. Commander Vael'thi had reason to celebrate - his patrol rotation was complete, his ship was due for refit, and he had two full cycles of leave ahead of him before his next assignment. The drink in front of him was his third, a sweet fermented beverage from his homeworld that the Kryllian bartender kept specifically for Xenari customers.
 
 He didn't notice the woman who slid onto the stool beside him until she spoke.
 
 > "Commander Vael'thi?"
 
-Her voice was smooth, with an accent he couldn't quite place—somewhere between the precise articulation of core-world Xenari and the broader tones of outer colonies. He turned to look at her.
+Her voice was smooth, with an accent he couldn't quite place - somewhere between the precise articulation of core-world Xenari and the broader tones of outer colonies. He turned to look at her.
 
-She was striking. Roughly his height when standing, with the lean build and graceful movements of a Xenari, but her coloring was unusual—skin tone somewhere between pale blue and silver, with bioluminescent markings that pulsed a warm violet-pink that his instincts read as interest and curiosity. Her large eyes caught the dim light, pupils dilated in the low illumination. She wore civilian clothing, well-tailored but not ostentatious, and carried herself with a confidence that suggested military background.
+She was striking. Roughly his height when standing, with the lean build and graceful movements of a Xenari, but her coloring was unusual - skin tone somewhere between pale blue and silver, with bioluminescent markings that pulsed a warm violet-pink that his instincts read as interest and curiosity. Her large eyes caught the dim light, pupils dilated in the low illumination. She wore civilian clothing, well-tailored but not ostentatious, and carried herself with a confidence that suggested military background.
 
 > "I'm sorry," Vael'thi said, his words slightly slurred. "Do I know you?"
 
 > "Not yet," she said, her markings brightening slightly. "But I've heard about you. The successful interdiction of that Ryzak probe ship three cycles ago? That was impressive work."
 
-Vael'thi's own markings brightened to blue-white—pride mixed with pleasure at the recognition. The probe ship incident had indeed been noteworthy, though it hadn't received wide publicity outside military channels.
+Vael'thi's own markings brightened to blue-white - pride mixed with pleasure at the recognition. The probe ship incident had indeed been noteworthy, though it hadn't received wide publicity outside military channels.
 
 > "How did you hear about that?"
 
@@ -44,13 +44,13 @@ They talked. She asked intelligent questions about patrol routes, about the chal
 
 The fourth drink appeared without him ordering it. Then the fifth.
 
-Somewhere around the sixth drink, Vael'thi noticed his coordination was declining. His large eyes had trouble focusing, and his bioluminescent markings were flickering irregularly—a sign of significant intoxication that his training told him should concern him more than it currently did.
+Somewhere around the sixth drink, Vael'thi noticed his coordination was declining. His large eyes had trouble focusing, and his bioluminescent markings were flickering irregularly - a sign of significant intoxication that his training told him should concern him more than it currently did.
 
 > "I think," he said carefully, "I may have had too much."
 
 > "Probably," Shael'na agreed, her own markings still steady and controlled. "But you're on leave. You've earned it."
 
-She shifted closer on her stool, and he caught her scent—something that his hindbrain registered as appealing, though he couldn't identify why. Her hand rested briefly on his arm, and he felt the warmth of her touch through his uniform sleeve.
+She shifted closer on her stool, and he caught her scent - something that his hindbrain registered as appealing, though he couldn't identify why. Her hand rested briefly on his arm, and he felt the warmth of her touch through his uniform sleeve.
 
 > "Your comm unit," she said, gesturing to the small device clipped to his belt. "Is that a command-grade model? I've only seen those in technical specifications."
 
@@ -68,7 +68,7 @@ She held it for perhaps fifteen seconds, her fingers moving over the surface wit
 
 > "Fascinating," she said. "Thank you for indulging my curiosity."
 
-She glanced at her wrist, where a small chrono was embedded. Her markings flickered briefly—a pattern he couldn't quite interpret in his current state.
+She glanced at her wrist, where a small chrono was embedded. Her markings flickered briefly - a pattern he couldn't quite interpret in his current state.
 
 > "I should let you get some rest," she said, standing smoothly. "You look like you could use it. Enjoy your leave, Commander."
 
@@ -84,17 +84,17 @@ The Kryllian bartender served it without comment, his breathing apparatus hissin
 
 ---
 
-Three blocks away, in a narrow access corridor between docking bays, the woman who had called herself Shael'na ducked into a maintenance alcove. Her markings—artificial bioluminescence generated by the holographic mask—dimmed to nothing as she reached up and carefully peeled the gossamer-thin material from her features.
+Three blocks away, in a narrow access corridor between docking bays, the woman who had called herself Shael'na ducked into a maintenance alcove. Her markings - artificial bioluminescence generated by the holographic mask - dimmed to nothing as she reached up and carefully peeled the gossamer-thin material from her features.
 
 Beneath the mask, Operative Kresh'tar's reptilian features were set in grim satisfaction. Her thick scaled hide was a mottled pattern of dark greens and grays, and her secondary eyelids flickered as she adjusted to the change in appearance. The Ryzak intelligence officer flexed her clawed hands, relieved to be free of the uncomfortable disguise.
 
-The holographic technology was sophisticated enough to fool Xenari recognition systems, even to replicate the false warmth of their body temperature. But it couldn't replicate their frailty, their lack of physical strength. Kresh'tar's natural Ryzak physiology—powerful, predatory, built for combat—had required conscious effort to suppress throughout the entire interaction. The mask had done the visual work, but the performance had been all hers.
+The holographic technology was sophisticated enough to fool Xenari recognition systems, even to replicate the false warmth of their body temperature. But it couldn't replicate their frailty, their lack of physical strength. Kresh'tar's natural Ryzak physiology - powerful, predatory, built for combat - had required conscious effort to suppress throughout the entire interaction. The mask had done the visual work, but the performance had been all hers.
 
-She pulled a small device from her pocket—an intelligence ministry scanner, compact and purpose-built. When she'd held Vael'thi's comm unit, when she'd examined it with apparent curiosity, the scanner had been pressed against the encryption module, copying its quantum-paired key signatures in a fraction of a second.
+She pulled a small device from her pocket - an intelligence ministry scanner, compact and purpose-built. When she'd held Vael'thi's comm unit, when she'd examined it with apparent curiosity, the scanner had been pressed against the encryption module, copying its quantum-paired key signatures in a fraction of a second.
 
 The small display confirmed successful acquisition. The encryption keys for Xenari fleet coordination channels, complete with the necessary authentication protocols. Temporary access, perhaps only a few cycles before the theft would be discovered and the keys cycled, but temporary was all they needed.
 
-Kresh'tar allowed herself a moment of satisfaction. The Xenari officer would wake tomorrow with a headache and a vague memory of pleasant conversation. By the time he realized anything was wrong—if he ever did—it would be far too late.
+Kresh'tar allowed herself a moment of satisfaction. The Xenari officer would wake tomorrow with a headache and a vague memory of pleasant conversation. By the time he realized anything was wrong - if he ever did - it would be far too late.
 
 She activated her secure comm, the signal heavily encrypted and routed through three relay points to obscure its origin.
 
@@ -104,7 +104,7 @@ The response came immediately, her handler's voice crisp and professional.
 
 > "Confirmed. Return to extraction point. Transport is waiting."
 
-Kresh'tar peeled off the remainder of her disguise—the civilian clothing that concealed her true bulk, the soft shoes that hid her clawed feet—and stowed them in a disposal unit. Beneath, she wore the dark combat suit of Ryzak intelligence, form-fitting and functional.
+Kresh'tar peeled off the remainder of her disguise - the civilian clothing that concealed her true bulk, the soft shoes that hid her clawed feet - and stowed them in a disposal unit. Beneath, she wore the dark combat suit of Ryzak intelligence, form-fitting and functional.
 
 She moved through the maintenance corridors with the confident stride of a predator, her movements now unrestricted by the need to mimic Xenari grace. The transport would take her back to Ryzak space. Her superiors would decrypt the data. And then, finally, they would have what they needed.
 
@@ -112,13 +112,13 @@ Access to the Xenari jump network.
 
 The Federation had humiliated them. Those mysterious human representatives, operating with Xenari backing, had defied Ryzak superiority again and again. The *Cormorant* gambit, the ambush that had cost them three frigates and valuable intelligence operatives. The other encounters, each one ending in unexpected resistance and Ryzak losses.
 
-But the Federation was small, secretive, operating in the shadows. The humans themselves—billions of them on their homeworld—had never faced the Ryzak. Had never even met an alien species. They were defenseless, unaware, completely unprepared for what was coming.
+But the Federation was small, secretive, operating in the shadows. The humans themselves - billions of them on their homeworld - had never faced the Ryzak. Had never even met an alien species. They were defenseless, unaware, completely unprepared for what was coming.
 
 But no longer.
 
 If the humans wanted to hide behind Xenari protection, then the Ryzak would simply remove that protection. A pre-emptive strike, executed before the humans could coordinate with their benefactors, before the Xenari could respond with their superior numbers.
 
-Sol system had no stargate. Without a jump beacon, interstellar travel to the system was impossible—the only way in or out was through the Xenari jump beacon near Jupiter. And with the encryption keys now in Ryzak possession, that beacon could be accessed. A subjugation flotilla could bridge directly into the system, bypass the normal security protocols, and strike before anyone knew they were coming.
+Sol system had no stargate. Without a jump beacon, interstellar travel to the system was impossible - the only way in or out was through the Xenari jump beacon near Jupiter. And with the encryption keys now in Ryzak possession, that beacon could be accessed. A subjugation flotilla could bridge directly into the system, bypass the normal security protocols, and strike before anyone knew they were coming.
 
 Kresh'tar's mandibles clicked in anticipation.
 
@@ -128,9 +128,9 @@ And Earth would burn.
 
 ### The Morning After
 
-Vael'thi woke to sunlight streaming through the viewport of his quarters, the warm glow of the system's star cutting through the thin curtains. His head throbbed with the steady rhythm of a fusion reactor running just slightly out of phase. His bioluminescent markings pulsed a sickly grayish-blue—the biological equivalent of a hangover warning light.
+Vael'thi woke to sunlight streaming through the viewport of his quarters, the warm glow of the system's star cutting through the thin curtains. His head throbbed with the steady rhythm of a fusion reactor running just slightly out of phase. His bioluminescent markings pulsed a sickly grayish-blue - the biological equivalent of a hangover warning light.
 
-He groaned, his long limbs tangled in the bedding, and tried to piece together the previous evening. The bar. Celebrating the end of patrol rotation. Drinks. Too many drinks. And—
+He groaned, his long limbs tangled in the bedding, and tried to piece together the previous evening. The bar. Celebrating the end of patrol rotation. Drinks. Too many drinks. And - 
 
 A woman. Shael'na. Silver-blue skin, violet markings, intelligent questions about ship operations. They'd talked for hours. Or had it been hours? The timeline was hazy, edges blurred by alcohol and poor judgment.
 
@@ -138,13 +138,13 @@ Vael'thi dragged himself upright, his coordination still slightly off. He needed
 
 He stumbled to the small kitchenette, filled a container with water from the dispenser, and drank it in long gulps. His body's biofilm layer felt dehydrated, his skin texture rough. The water helped, marginally.
 
-As cognitive function gradually returned, fragments of conversation surfaced from the alcoholic fog. Patrol routes. Frigate operations. The probe ship interdiction. And—
+As cognitive function gradually returned, fragments of conversation surfaced from the alcoholic fog. Patrol routes. Frigate operations. The probe ship interdiction. And - 
 
 His comm unit.
 
 The thought arrived with sudden, cold clarity that cut through the hangover like a blade.
 
-She'd asked to see his comm unit. He'd given it to her. No—she'd unclipped it for him because his hands weren't working properly. She'd held it, examined it, asked about the encryption module.
+She'd asked to see his comm unit. He'd given it to her. No - she'd unclipped it for him because his hands weren't working properly. She'd held it, examined it, asked about the encryption module.
 
 Vael'thi's markings flickered from grayish-blue to dim, uncertain violet. That was protocol violation. Command-grade communications equipment was never to be handled by unauthorized personnel. Never. It was drilled into every officer from their first day of training.
 
@@ -152,15 +152,15 @@ He found the device still clipped to his uniform belt, discarded on the floor wh
 
 But appearance wasn't the same as security.
 
-Vael'thi stood there for a long moment, water container still in hand, his analytical mind now fully engaged despite the headache. He tried to recall details. Her face—attractive, memorable, but had he seen her before last night? Her accent—she'd said she worked logistics coordination at the orbital yards. That was verifiable. The conversation topics—all professional, all appropriate, nothing that screamed intelligence operative.
+Vael'thi stood there for a long moment, water container still in hand, his analytical mind now fully engaged despite the headache. He tried to recall details. Her face - attractive, memorable, but had he seen her before last night? Her accent - she'd said she worked logistics coordination at the orbital yards. That was verifiable. The conversation topics - all professional, all appropriate, nothing that screamed intelligence operative.
 
 Except she'd gotten him drunk, gotten him to hand over secure equipment, and then disappeared.
 
-His markings shifted to rapid flickering violet-pink—intense focus mixed with growing alarm.
+His markings shifted to rapid flickering violet-pink - intense focus mixed with growing alarm.
 
 He needed to report this. Immediately.
 
-Vael'thi dressed quickly, his movements now sharp and deliberate despite the lingering effects of intoxication. He grabbed a standard-issue comm unit from his desk—not the command-grade one, which was now potentially compromised—and activated the secure channel to station security.
+Vael'thi dressed quickly, his movements now sharp and deliberate despite the lingering effects of intoxication. He grabbed a standard-issue comm unit from his desk - not the command-grade one, which was now potentially compromised - and activated the secure channel to station security.
 
 The response came within seconds, a crisp male voice.
 
@@ -200,7 +200,7 @@ Vael'thi's markings dimmed. He hadn't asked. He'd been too drunk, too flattered 
 
 > "We'll pull security footage from the bar. Description?"
 
-Vael'thi provided it—height, build, coloring, the distinctive silver-blue skin tone and violet markings. As he spoke, a cold certainty settled in his chest. The coloring was unusual. He'd remarked on it mentally at the time, but hadn't questioned it.
+Vael'thi provided it - height, build, coloring, the distinctive silver-blue skin tone and violet markings. As he spoke, a cold certainty settled in his chest. The coloring was unusual. He'd remarked on it mentally at the time, but hadn't questioned it.
 
 Because she was attractive, and he was drunk, and his judgment had been catastrophically compromised.
 
@@ -210,19 +210,19 @@ The connection terminated.
 
 Vael'thi looked at the command-grade comm unit in his hand, the device that represented his authority, his access, his responsibility. Fifteen seconds had been more than enough time to copy data, to clone authentication protocols, to compromise everything it represented.
 
-He moved toward the door, his headache forgotten, replaced by a much worse pain—the knowledge that his mistake might have consequences far beyond personal embarrassment.
+He moved toward the door, his headache forgotten, replaced by a much worse pain - the knowledge that his mistake might have consequences far beyond personal embarrassment.
 
 ---
 
 ### Fleet Command
 
-Admiral Thresh'nal's bioluminescent markings pulsed a steady, controlled blue as he reviewed the preliminary intelligence report. His office aboard the orbital station was austere by Xenari standards—minimal decoration, maximum functionality, with viewports showing the curved horizon of Thal'karesh below and the scattered lights of the docked fleet visible against the black.
+Admiral Thresh'nal's bioluminescent markings pulsed a steady, controlled blue as he reviewed the preliminary intelligence report. His office aboard the orbital station was austere by Xenari standards - minimal decoration, maximum functionality, with viewports showing the curved horizon of Thal'karesh below and the scattered lights of the docked fleet visible against the black.
 
 Lieutenant Shal'mir stood before his desk, her posture formal, her own markings showing the rapid violet flicker of someone delivering very bad news to a superior officer.
 
 > "Security footage confirms an individual matching Commander Vael'thi's description entered and exited the establishment at the times he specified," she said. "However, we cannot find any record of this individual in station personnel databases. No Shael'na working logistics coordination. No one matching that description with current authorization codes."
 
-Thresh'nal's markings dimmed slightly—controlled concern.
+Thresh'nal's markings dimmed slightly - controlled concern.
 
 > "Biometric scan of the footage?"
 
@@ -236,13 +236,13 @@ Thresh'nal stood, his tall frame unfolding from the chair with characteristic Xe
 
 > "Commander Vael'thi's comm unit?"
 
-> "Our technical team is analyzing it now. Preliminary scans show no obvious tampering, no inserted hardware, no modifications to the encryption module. However—"
+> "Our technical team is analyzing it now. Preliminary scans show no obvious tampering, no inserted hardware, no modifications to the encryption module. However - "
 
 > "However?"
 
 > "The quantum signature logs show a brief external connection approximately matching the timeframe when the device was in the stranger's possession. Fourteen point three seconds of active scanning. The connection was sophisticated enough to avoid triggering the unit's intrusion detection, but it left traces in the deeper system logs."
 
-Thresh'nal's markings shifted through several colors in rapid succession—blue-white alarm, violet focus, then settling into a dim, controlled cyan that indicated strategic thinking.
+Thresh'nal's markings shifted through several colors in rapid succession - blue-white alarm, violet focus, then settling into a dim, controlled cyan that indicated strategic thinking.
 
 > "They copied the encryption keys."
 
@@ -250,17 +250,17 @@ Thresh'nal's markings shifted through several colors in rapid succession—blue-
 
 > "Which beacons?"
 
-> "Commander Vael'thi's security clearance provides access to seventeen frontier beacons, including—" Shal'mir consulted her datapad, "—the Sol system beacon."
+> "Commander Vael'thi's security clearance provides access to seventeen frontier beacons, including - " Shal'mir consulted her datapad, " - the Sol system beacon."
 
 The silence that followed was profound.
 
-Sol system. The protected zone. The human homeworld, where the Federation operated as humanity's secret representatives in galactic affairs. The system had no stargate, and without a jump beacon, interstellar travel was impossible—the single Xenari jump beacon maintained near Jupiter was the only way in or out, used exclusively for covert Federation transport.
+Sol system. The protected zone. The human homeworld, where the Federation operated as humanity's secret representatives in galactic affairs. The system had no stargate, and without a jump beacon, interstellar travel was impossible - the single Xenari jump beacon maintained near Jupiter was the only way in or out, used exclusively for covert Federation transport.
 
 A beacon that could now be accessed by anyone with the stolen encryption keys.
 
 > "Time to compromise," Thresh'nal said, his voice steady despite the implications.
 
-> "Unknown, sir. If they copied the keys in that fourteen-second window, they could have transmitted them immediately. Best case, we're looking at several hours since initial compromise. Worst case—"
+> "Unknown, sir. If they copied the keys in that fourteen-second window, they could have transmitted them immediately. Best case, we're looking at several hours since initial compromise. Worst case - "
 
 > "Worst case, they already have ships en route."
 
@@ -270,9 +270,9 @@ Thresh'nal turned from the viewport, his markings now pulsing the rapid blue-whi
 
 > "Alert the Great Circle. Full security protocol. I want fleet-wide encryption key rotation initiated immediately. All beacons, all channels, all authentication codes. How long for the rotation to propagate?"
 
-Shal'mir's markings flickered—calculation mixed with concern.
+Shal'mir's markings flickered - calculation mixed with concern.
 
-> "Full fleet rotation will take eighteen hours minimum, sir. Priority channels can be rotated in six hours, but the remote beacons—especially those in protected zones like Sol—operate on longer refresh cycles. We're looking at twenty-four to thirty-six hours for complete network security restoration."
+> "Full fleet rotation will take eighteen hours minimum, sir. Priority channels can be rotated in six hours, but the remote beacons - especially those in protected zones like Sol - operate on longer refresh cycles. We're looking at twenty-four to thirty-six hours for complete network security restoration."
 
 > "Make it happen. Priority authorization from my office. And Lieutenant?"
 
@@ -292,7 +292,7 @@ Thresh'nal's markings dimmed to somber violet.
 
 > "Exactly. Disable the humans before they can coordinate with us, before the Federation can respond, before anyone knows the Ryzak have arrived. By the time we detect the incursion, Earth could be burning."
 
-Shal'mir's bioluminescent markings flickered rapid violet-pink—the pattern that indicated a Xenari processing deeply disturbing implications.
+Shal'mir's bioluminescent markings flickered rapid violet-pink - the pattern that indicated a Xenari processing deeply disturbing implications.
 
 > "The Federation has proven resourceful, sir. They've repelled Ryzak forces before."
 
@@ -308,7 +308,7 @@ The command chamber aboard the dreadnought *Bloodfang* was a study in controlled
 
 Around the chamber, his senior officers waited in disciplined silence. Two carrier captains, four battleship commanders, the cruiser squadron leader, and the destroyer flotilla commander. All bore the clan markings of elite warrior castes, and all had proven themselves in combat trials.
 
-Kraveth's clawed hand gestured at the display, and a section expanded—the Sol system, marked in red as a protected zone, with a single Xenari jump beacon icon pulsing near the outer planets.
+Kraveth's clawed hand gestured at the display, and a section expanded - the Sol system, marked in red as a protected zone, with a single Xenari jump beacon icon pulsing near the outer planets.
 
 > "The encryption keys are verified," he said, his voice a low rumble that carried the weight of authority. "Intelligence confirms full access to Xenari jump network protocols. The window of opportunity is measured in cycles, perhaps less. The Xenari will rotate their keys once they discover the theft."
 
@@ -316,11 +316,11 @@ Captain Vorash, commander of the carrier *Stormbreaker*, flexed his claws in ant
 
 > "The Federation operatives have been a persistent irritant. This is our opportunity to eliminate them at their source."
 
-> "Not just eliminate," Kraveth corrected. "Subjugate. The humans are a minor species, barely aware of the galaxy beyond their system. Their Federation is small—perhaps a few thousand operatives at most, scattered across various operations. The billions on their homeworld are defenseless."
+> "Not just eliminate," Kraveth corrected. "Subjugate. The humans are a minor species, barely aware of the galaxy beyond their system. Their Federation is small - perhaps a few thousand operatives at most, scattered across various operations. The billions on their homeworld are defenseless."
 
 Commander Threx of the battleship *Warbringer* leaned forward, his secondary eyelids flickering.
 
-> "The Federation has demonstrated unusual combat effectiveness despite their limited numbers. The *Cormorant* incident—"
+> "The Federation has demonstrated unusual combat effectiveness despite their limited numbers. The *Cormorant* incident - "
 
 > "Was an ambush," Kraveth interrupted, his mandibles clicking dismissively. "A clever trap, yes. But it required preparation, positioning, and the element of surprise. We will not grant them that luxury this time."
 
@@ -352,7 +352,7 @@ He expanded the tactical display to show the proposed fleet composition.
 
 > "Two combat groups. Two carriers, four battleships, four cruisers, eight destroyers, sixteen frigates. Sufficient force to overwhelm any Federation presence, establish orbital control, and begin systematic pacification of the human homeworld."
 
-The numbers were substantial—enough firepower to reduce a planetary surface to molten slag if necessary, though subjugation was more profitable than destruction.
+The numbers were substantial - enough firepower to reduce a planetary surface to molten slag if necessary, though subjugation was more profitable than destruction.
 
 Captain Hresh examined the display.
 
@@ -382,9 +382,9 @@ The assembled officers struck their chests in unison, the sound like thunder in 
 
 As the officers filed out, Captain Vorash lingered.
 
-> "Admiral, if I may—the Federation operatives have demonstrated tactical creativity that exceeds what we typically see from minor species. The *Cormorant* gambit showed sophisticated understanding of our doctrine."
+> "Admiral, if I may - the Federation operatives have demonstrated tactical creativity that exceeds what we typically see from minor species. The *Cormorant* gambit showed sophisticated understanding of our doctrine."
 
-Kraveth's secondary eyelids flickered—acknowledgment without agreement.
+Kraveth's secondary eyelids flickered - acknowledgment without agreement.
 
 > "They are clever, yes. Resourceful. But cleverness has limits when facing overwhelming force. Two combat groups represent more firepower than they have encountered in all their previous engagements combined." He turned to face Vorash fully. "You have concerns?"
 
@@ -464,7 +464,7 @@ Webb's fingers moved across the interface. Icons appeared throughout the inner s
 
 He paused, expanding the view to show Jupiter orbit.
 
-> "Jovian Shipyards has three battleships. The *Typhoon* is fully operational. The *Lord Cardigan* and *Gallipoli* are both in mid-refit—weapons systems offline, shield generators being replaced, crew at half-strength."
+> "Jovian Shipyards has three battleships. The *Typhoon* is fully operational. The *Lord Cardigan* and *Gallipoli* are both in mid-refit - weapons systems offline, shield generators being replaced, crew at half-strength."
 
 > "Defensive platforms won't matter," Chen said flatly. "Ryzak battleships will crack them in the opening salvo. *Sentinel* can't maneuver without engines. And two battleships in refit aren't much better than scrap metal."
 
@@ -484,7 +484,7 @@ Webb's eyes widened slightly.
 
 > "I'm talking about Earth," Chen confirmed. She activated the station-wide comm. "All senior staff to Operations immediately. This is not a drill. I repeat, this is not a drill."
 
-Within three minutes, the operations center filled with personnel. Her XO, Lieutenant Commander James Rodriguez. Chief Engineer Patricia O'Connor. Intelligence Officer Captain David Sung. Tactical Coordinator Major Elena Petrov. And two others—the station's AI liaisons, Lieutenant Sarah Martinez and Commander Thomas Reeves.
+Within three minutes, the operations center filled with personnel. Her XO, Lieutenant Commander James Rodriguez. Chief Engineer Patricia O'Connor. Intelligence Officer Captain David Sung. Tactical Coordinator Major Elena Petrov. And two others - the station's AI liaisons, Lieutenant Sarah Martinez and Commander Thomas Reeves.
 
 > "Priority message from Xenari Fleet Command," Chen said without preamble. "Ryzak incursion expected within eighteen to thirty-two hours. Two combat groups. Thirty-four vessels including carriers and battleships."
 
@@ -506,7 +506,7 @@ Chen nodded slowly. Over the past five years, the Federation had quietly transfe
 
 That day had arrived ahead of schedule.
 
-> "If we activate Earth's assets," Rodriguez said carefully, "we expose the Federation. We expose everything we've been building. The secrecy, the careful introduction of technology—it all ends."
+> "If we activate Earth's assets," Rodriguez said carefully, "we expose the Federation. We expose everything we've been building. The secrecy, the careful introduction of technology - it all ends."
 
 > "It ends anyway when Ryzak battleships start bombarding population centers," Petrov countered. "We can manage the diplomatic fallout later. Right now, we need every available combat asset."
 
@@ -514,7 +514,7 @@ Captain Sung pulled up intelligence assessments.
 
 > "Portugal has twenty-five Talons operational or near-operational. The Japanese have sixteen. The Americans have eight fully integrated plus another twelve in advanced training. That's sixty-one additional fighters if we can coordinate deployment."
 
-> "And the political implications?" Rodriguez asked. "We're talking about revealing alien contact to the entire planet. Mass panic, government destabilization, religious upheaval—"
+> "And the political implications?" Rodriguez asked. "We're talking about revealing alien contact to the entire planet. Mass panic, government destabilization, religious upheaval - "
 
 > "All of which is preferable to extinction," Chen interrupted. Her voice was quiet but carried absolute certainty. "We can manage panic. We can manage political fallout. We cannot manage a Ryzak occupation."
 
@@ -524,7 +524,7 @@ She straightened, her decision made.
 
 The two AI liaisons moved to their stations. Within seconds, the holographic displays flickered to life with two distinct presences.
 
-HARBINGER materialized first—a shifting geometric pattern that suggested rather than depicted a humanoid form, rendered in cool blues and silvers. The AI's voice was calm, almost soothing, with a faint electronic undertone.
+HARBINGER materialized first - a shifting geometric pattern that suggested rather than depicted a humanoid form, rendered in cool blues and silvers. The AI's voice was calm, almost soothing, with a faint electronic undertone.
 
 > "Commander Chen. I have reviewed the Xenari warning. Situation assessment: critical. Probability of successful defense without additional assets: twelve percent."
 
@@ -556,11 +556,11 @@ Chen looked at the AI's shifting geometric form.
 
 SUNTZU's angular form pulsed agreement.
 
-> "Correct tactical assessment. We do not need to win. We need to survive. Ryzak doctrine emphasizes decisive engagement. If we deny them quick victory, force extended combat, reduce their strategic momentum—Federation reinforcements will arrive with overwhelming force."
+> "Correct tactical assessment. We do not need to win. We need to survive. Ryzak doctrine emphasizes decisive engagement. If we deny them quick victory, force extended combat, reduce their strategic momentum - Federation reinforcements will arrive with overwhelming force."
 
 SUNTZU's form flickered as it processed additional data.
 
-> "Additional strategic asset: Jovian Shipyards. Two battleships currently in refit status. If we prioritize emergency deployment protocols, rush critical systems online, we can deploy *Lord Cardigan* and *Gallipoli* approximately three to four hours after Ryzak emergence. They will not be optimal—reduced crew efficiency, secondary systems incomplete—but operational battleship-grade firepower."
+> "Additional strategic asset: Jovian Shipyards. Two battleships currently in refit status. If we prioritize emergency deployment protocols, rush critical systems online, we can deploy *Lord Cardigan* and *Gallipoli* approximately three to four hours after Ryzak emergence. They will not be optimal - reduced crew efficiency, secondary systems incomplete - but operational battleship-grade firepower."
 
 > "And *Typhoon*?" Chen asked.
 
@@ -596,7 +596,7 @@ But they didn't need to win. They just needed to survive long enough for help to
 
 She closed the comm and looked at her staff.
 
-> "We've spent twenty years preparing Earth for first contact. We just ran out of time for a gentle introduction. HARBINGER, send the messages. SUNTZU, coordinate our response. Everyone else—let's figure out how we're going to hold off two Ryzak combat groups for sixteen hours."
+> "We've spent twenty years preparing Earth for first contact. We just ran out of time for a gentle introduction. HARBINGER, send the messages. SUNTZU, coordinate our response. Everyone else - let's figure out how we're going to hold off two Ryzak combat groups for sixteen hours."
 
 HARBINGER's form pulsed once.
 
@@ -624,19 +624,19 @@ Now, at 3:47 AM, he stalked down the corridor toward the Situation Room, still b
 
 > "What is this about?" Trump demanded. "Russia? China? Talk to me, Susie."
 
-> "Sir, I don't—they won't say. The Joint Chiefs are already in the Situation Room. They said you needed to see it yourself."
+> "Sir, I don't - they won't say. The Joint Chiefs are already in the Situation Room. They said you needed to see it yourself."
 
 > "At four in the morning? This better be good."
 
-The door to the Situation Room stood open, light spilling into the hallway. Trump could hear that voice—HARBINGER's distinctive gravelly electronic tone—and his expression shifted. He'd been briefed on the AI before, knew what it represented. If HARBINGER was on every screen at this hour, something had gone very wrong.
+The door to the Situation Room stood open, light spilling into the hallway. Trump could hear that voice - HARBINGER's distinctive gravelly electronic tone - and his expression shifted. He'd been briefed on the AI before, knew what it represented. If HARBINGER was on every screen at this hour, something had gone very wrong.
 
 He pushed through the door.
 
-The room was packed. Chairman of the Joint Chiefs General Charles Brown stood at the head of the table, his uniform crisp despite the hour. Around him, the other service chiefs occupied their usual positions—General Randy George from the Army, Admiral Lisa Franchetti from the Navy, General David Allvin from the Air Force, General Eric Smith from the Marines, and General Michael Guetlein from Space Force. Secretary of Defense Pete Hegseth stood near the wall, his expression grim.
+The room was packed. Chairman of the Joint Chiefs General Charles Brown stood at the head of the table, his uniform crisp despite the hour. Around him, the other service chiefs occupied their usual positions - General Randy George from the Army, Admiral Lisa Franchetti from the Navy, General David Allvin from the Air Force, General Eric Smith from the Marines, and General Michael Guetlein from Space Force. Secretary of Defense Pete Hegseth stood near the wall, his expression grim.
 
 Every screen in the room showed HARBINGER's shifting geometric form, rendered in cool blues and silvers. The AI's voice filled the space, mid-sentence when Trump entered.
 
-> "—critical that all available assets reach orbital deployment positions within eighteen hours. Each hour of delay reduces defensive probability by approximately seven percent."
+> " - critical that all available assets reach orbital deployment positions within eighteen hours. Each hour of delay reduces defensive probability by approximately seven percent."
 
 The geometric form pulsed once as Trump entered, acknowledging his presence.
 
@@ -656,7 +656,7 @@ Trump's jaw tightened. He looked at General Brown.
 
 > "Sir, we've reviewed the tactical assessment. It's credible. The threat is real."
 
-> "Okay. Okay." Trump's hands gestured as he processed. "So we've got—what, twenty-six hours before these things show up? And they're coming here? To Earth?"
+> "Okay. Okay." Trump's hands gestured as he processed. "So we've got - what, twenty-six hours before these things show up? And they're coming here? To Earth?"
 
 > "Correct, Mr. President."
 
@@ -664,7 +664,7 @@ Trump's jaw tightened. He looked at General Brown.
 
 HARBINGER's form pulsed.
 
-> "The Federation has forty-two operational combat vessels in-system. Against this force, survival probability is twelve percent. However, if we deploy all available Earth assets—the Talons we previously provided to the United States, Portugal, Japan, and other nations—survival probability increases to seventy-three percent."
+> "The Federation has forty-two operational combat vessels in-system. Against this force, survival probability is twelve percent. However, if we deploy all available Earth assets - the Talons we previously provided to the United States, Portugal, Japan, and other nations - survival probability increases to seventy-three percent."
 
 > "Seventy-three. That's better than twelve, I can tell you that." Trump turned to General Allvin. "Dave, the Talons. How many do we have operational?"
 
@@ -692,13 +692,13 @@ Admiral Franchetti's hands were flat on the table.
 
 > "Correct, Mr. President. Your pilots will operate under strategic and tactical guidance from Federation command structure, but deployment authority remains with national militaries. This is an Earth defense operation."
 
-> "Good. That's good." Trump's hands moved as he spoke. "We're not handing over command to some—no offense—to some computer. Our pilots, our aircraft, we're coordinating but we're flying them."
+> "Good. That's good." Trump's hands moved as he spoke. "We're not handing over command to some - no offense - to some computer. Our pilots, our aircraft, we're coordinating but we're flying them."
 
 > "Understood, Mr. President. I will provide targeting data, threat assessment, and tactical recommendations. Your pilots execute."
 
 General Guetlein spoke up.
 
-> "Sir, the training squadrons—those pilots aren't fully certified yet. We'd be pushing them into combat ahead of schedule."
+> "Sir, the training squadrons - those pilots aren't fully certified yet. We'd be pushing them into combat ahead of schedule."
 
 > "Then we push them." Trump's tone left no room for argument. "Dave, can they fly the aircraft?"
 
@@ -710,7 +710,7 @@ General Allvin nodded.
 
 Trump moved to the display, studying the red icons clustered near Jupiter.
 
-> "So let me get this straight. We've got twenty-six hours. These Ryzak—bad guys, very bad guys—they're coming to take over Earth. We've got seventy-three percent odds if we use everything we have. And if we don't, we're looking at twelve percent."
+> "So let me get this straight. We've got twenty-six hours. These Ryzak - bad guys, very bad guys - they're coming to take over Earth. We've got seventy-three percent odds if we use everything we have. And if we don't, we're looking at twelve percent."
 
 > "Correct, Mr. President."
 
@@ -718,7 +718,7 @@ Trump moved to the display, studying the red icons clustered near Jupiter.
 
 He turned back to the table.
 
-> "Okay. Here's what we're doing. General Allvin, you get every single Talon pilot we have—I don't care if they're at Groom Lake, Edwards, Nellis, wherever—you get them ready to fly. All twenty aircraft, all twenty pilots. They're going into space, they're going to fight, and they're going to win."
+> "Okay. Here's what we're doing. General Allvin, you get every single Talon pilot we have - I don't care if they're at Groom Lake, Edwards, Nellis, wherever - you get them ready to fly. All twenty aircraft, all twenty pilots. They're going into space, they're going to fight, and they're going to win."
 
 > "Yes, sir."
 
@@ -732,13 +732,13 @@ He turned back to the table.
 
 Trump's hands moved as he spoke, emphasizing each point.
 
-> "Now, Congress. We need to brief the leadership. Mike Johnson, Chuck Schumer, the intelligence chairs—"
+> "Now, Congress. We need to brief the leadership. Mike Johnson, Chuck Schumer, the intelligence chairs - "
 
 > "Mr. President," HARBINGER interrupted, "I am already initiating contact with all members of Congress, as well as the governments of Portugal, Japan, and other nations fielding Talon assets. Simultaneous briefings are more efficient given the time constraints."
 
 Trump paused, then nodded.
 
-> "Okay. Good. That's good. You do that. But Charlie—" he pointed at General Brown, "—I want our people talking to their people too. Government to government. This isn't just some AI telling everyone what to do. This is the United States coordinating with our allies on a defense operation."
+> "Okay. Good. That's good. You do that. But Charlie - " he pointed at General Brown, " - I want our people talking to their people too. Government to government. This isn't just some AI telling everyone what to do. This is the United States coordinating with our allies on a defense operation."
 
 > "Yes, sir. I'll have State Department protocols initiated immediately."
 
@@ -748,7 +748,7 @@ Wiles nodded, already making notes.
 
 Trump looked back at HARBINGER's geometric form.
 
-> "One more thing. These odds you're giving me—seventy-three percent. That's if everything goes perfectly, right? If all our allies show up, if all the pilots perform, if nothing goes wrong."
+> "One more thing. These odds you're giving me - seventy-three percent. That's if everything goes perfectly, right? If all our allies show up, if all the pilots perform, if nothing goes wrong."
 
 > "Correct, Mr. President. That calculation assumes optimal coordination and performance."
 
@@ -766,11 +766,11 @@ He turned to face his assembled military leadership.
 
 He pointed at the display.
 
-> "HARBINGER, you have full authorization to coordinate with our military. Provide them whatever they need—intelligence, targeting data, tactical recommendations. But our people are flying those aircraft, and we're defending our planet. Got it?"
+> "HARBINGER, you have full authorization to coordinate with our military. Provide them whatever they need - intelligence, targeting data, tactical recommendations. But our people are flying those aircraft, and we're defending our planet. Got it?"
 
 > "Understood, Mr. President. Coordination protocols are already active."
 
-> "Good. Very good." Trump looked around the room one more time. "Get moving, all of you. General Brown, I want updates every hour. Not every two hours, not every three hours—every hour. And somebody get me coffee. It's going to be a long day."
+> "Good. Very good." Trump looked around the room one more time. "Get moving, all of you. General Brown, I want updates every hour. Not every two hours, not every three hours - every hour. And somebody get me coffee. It's going to be a long day."
 
 He strode from the Situation Room, Wiles scrambling to keep up. Behind him, the Joint Chiefs were already moving, phones out, orders being issued. On every screen, HARBINGER's geometric form pulsed steady blue-silver, coordinating simultaneous briefings across multiple governments, preparing Earth's defense.
 
@@ -792,7 +792,7 @@ The room fell silent.
 
 Miguel exchanged glances with Captain Teresa Ramos beside him. They'd been told the Talons were experimental aircraft developed through international partnership. Not that they were built with alien technology.
 
-> "Twenty-three hours ago," HARBINGER continued, "hostile extraterrestrial forces acquired unauthorized access to a jump beacon in this solar system. A Ryzak subjugation fleet—thirty-four capital ships including two carriers deploying six hundred strike craft—will arrive in approximately twenty-six hours. Their objective is the occupation of Earth."
+> "Twenty-three hours ago," HARBINGER continued, "hostile extraterrestrial forces acquired unauthorized access to a jump beacon in this solar system. A Ryzak subjugation fleet - thirty-four capital ships including two carriers deploying six hundred strike craft - will arrive in approximately twenty-six hours. Their objective is the occupation of Earth."
 
 The silence in the room became absolute. Miguel felt his heart hammering. This had to be some kind of test. Some elaborate training scenario.
 
@@ -840,7 +840,7 @@ Around the room, nineteen other hands followed.
 
 General Silva nodded slowly, something like pride crossing his features.
 
-> "Very well." He turned back to HARBINGER. "Portugal will deploy all twenty-five Talons. But understand this—these are Portuguese pilots flying Portuguese aircraft in defense of Earth. We coordinate with your Federation, but we do not take orders from an AI."
+> "Very well." He turned back to HARBINGER. "Portugal will deploy all twenty-five Talons. But understand this - these are Portuguese pilots flying Portuguese aircraft in defense of Earth. We coordinate with your Federation, but we do not take orders from an AI."
 
 > "Understood, General Silva. I will provide threat assessment, targeting data, and tactical recommendations. Your pilots execute according to Portuguese command authority. Coordination protocols are being established now with all participating nations."
 
@@ -850,7 +850,7 @@ General Silva nodded slowly, something like pride crossing his features.
 
 The tactical display updated, showing orbital paths, defensive positions, and coordination points with other national forces.
 
-> "Eighteen hours," General Silva said. "We need pre-flight checks, weapons loading, pilot briefings, coordination with ground support—"
+> "Eighteen hours," General Silva said. "We need pre-flight checks, weapons loading, pilot briefings, coordination with ground support - "
 
 > "All technical specifications and coordination protocols are being transmitted to your maintenance teams now," HARBINGER said. "Federation logistics personnel are en route to Monte Real to assist with preparation. They will arrive in forty-seven minutes."
 
@@ -868,7 +868,7 @@ The display shifted again, showing what could only be described as a nightmare r
 
 General Silva turned back to his pilots.
 
-> "You have two hours to contact your families. Tell them you're being deployed. Do not—I repeat, do not—tell them where or why. After that, we begin mission prep. Maintenance teams are being briefed separately. We have eighteen hours to prepare for the most important mission in human history."
+> "You have two hours to contact your families. Tell them you're being deployed. Do not - I repeat, do not - tell them where or why. After that, we begin mission prep. Maintenance teams are being briefed separately. We have eighteen hours to prepare for the most important mission in human history."
 
 He paused, looking at each pilot in turn.
 
@@ -906,7 +906,7 @@ He looked at the now-dark screens, at the empty briefing room, at the future tha
 
 > "Miguel, you're scaring me. What's happening?"
 
-> "I have to go. Just remember—whatever happens, whatever you hear in the next few days—I'm doing my job. We're all doing our jobs. And it matters. It matters more than anything."
+> "I have to go. Just remember - whatever happens, whatever you hear in the next few days - I'm doing my job. We're all doing our jobs. And it matters. It matters more than anything."
 
 He ended the call before she could respond, before he could say something that would violate operational security. Before he could tell her that in twenty-six hours, Earth would be at war.
 
@@ -946,11 +946,11 @@ Marcus switched channels, looking across the facility to Bay Three, where the ba
 
 > "Bay Three, this is Webb. Give me an update on *Gallipoli*'s main batteries."
 
-> "Webb, this is Commander Patricia Hayes." Her voice carried the strain of someone who'd been working for six hours straight. "We've got the port-side railgun array back online. Starboard array is another story—the targeting systems are completely stripped for overhaul. We're pulling components from *Lord Cardigan* to get them operational."
+> "Webb, this is Commander Patricia Hayes." Her voice carried the strain of someone who'd been working for six hours straight. "We've got the port-side railgun array back online. Starboard array is another story - the targeting systems are completely stripped for overhaul. We're pulling components from *Lord Cardigan* to get them operational."
 
 > "What about the missile tubes?"
 
-> "Four forward tubes are loaded and operational. The broadside launchers are empty—we don't have munitions for them. We sent that entire stock back to supply three weeks ago for inspection."
+> "Four forward tubes are loaded and operational. The broadside launchers are empty - we don't have munitions for them. We sent that entire stock back to supply three weeks ago for inspection."
 
 Marcus's jaw tightened. A battleship with half her weapons offline was better than a battleship that couldn't fight at all, but not by much.
 
@@ -958,7 +958,7 @@ Marcus's jaw tightened. A battleship with half her weapons offline was better th
 
 > "Maybe. We're literally cannibalizing *Lord Cardigan*'s fire control systems. If we prioritize *Gallipoli*, we can probably have both railgun arrays functional in eight hours. But that means *Cardigan* will be firing manually."
 
-> "Do it. *Gallipoli* needs to be our primary gunship. And Hayes—transfer *Cardigan*'s torpedo stock to *Gallipoli* while you're at it. If *Gallipoli* has working fire control, she needs the munitions to use it."
+> "Do it. *Gallipoli* needs to be our primary gunship. And Hayes - transfer *Cardigan*'s torpedo stock to *Gallipoli* while you're at it. If *Gallipoli* has working fire control, she needs the munitions to use it."
 
 > "Understood. That'll give us full broadside capability once the transfer is complete."
 
@@ -970,7 +970,7 @@ He switched channels again, this time to Bay Five where the battleship *Lord Car
 
 > "We don't have three weeks. We have hours."
 
-> "I know, sir. So here's what we're doing—we're pulling the shield generators from the freighter *Abundant Hope* in Bay Twelve. They're civilian-grade, about sixty percent the output of military spec, but they'll work."
+> "I know, sir. So here's what we're doing - we're pulling the shield generators from the freighter *Abundant Hope* in Bay Twelve. They're civilian-grade, about sixty percent the output of military spec, but they'll work."
 
 > "How long?"
 
@@ -980,7 +980,7 @@ He switched channels again, this time to Bay Five where the battleship *Lord Car
 
 There was a pause.
 
-> "Honestly? I don't know. The connections aren't rated for combat stress. If *Cardigan* takes a hard hit, we could lose shields entirely. Or the feedback could fry the generators. Or—"
+> "Honestly? I don't know. The connections aren't rated for combat stress. If *Cardigan* takes a hard hit, we could lose shields entirely. Or the feedback could fry the generators. Or - "
 
 > "Lieutenant." Marcus's voice cut through the spiral. "Will you have shields up in ten hours?"
 
@@ -988,7 +988,7 @@ There was a pause.
 
 > "Then that's what we work with. Get it done."
 
-> "Aye, sir. And Chief? The gunners should know—without fire control, they're going to be eyeballing their shots. No targeting solutions, no ballistic computers. Just iron sights and Kentucky windage against moving targets in three-dimensional space."
+> "Aye, sir. And Chief? The gunners should know - without fire control, they're going to be eyeballing their shots. No targeting solutions, no ballistic computers. Just iron sights and Kentucky windage against moving targets in three-dimensional space."
 
 Marcus closed his eyes briefly. Battleship railguns firing manually against Ryzak warships. It was barely better than throwing rocks.
 
@@ -1002,7 +1002,7 @@ His comm chirped. Commander Sarah Chen from Galileo Station.
 
 > "Chief Webb, this is Station Command. Status update?"
 
-> "Commander, we're working miracles out here, but they're messy miracles. *Sentinel* will be mobile but compromised. *Gallipoli* will have weapons but we had to cannibalize *Cardigan*'s fire control to make it work. *Cardigan* will have shields but they're jury-rigged civilian units, and her gunners will be firing manually—eyeballing shots against moving targets."
+> "Commander, we're working miracles out here, but they're messy miracles. *Sentinel* will be mobile but compromised. *Gallipoli* will have weapons but we had to cannibalize *Cardigan*'s fire control to make it work. *Cardigan* will have shields but they're jury-rigged civilian units, and her gunners will be firing manually - eyeballing shots against moving targets."
 
 > "What's your confidence level?"
 
@@ -1016,7 +1016,7 @@ Marcus looked at the ships again. At the workers swarming over them, cutting, we
 
 > "That's all we need, Chief. How can Station support you?"
 
-> "Send us every spare power cell you have. Every weapons component. Every shield emitter. Hell, send us *Cardigan*'s entire torpedo magazine—we're transferring it to *Gallipoli* since she's got the working fire control. And coffee. Lots of coffee."
+> "Send us every spare power cell you have. Every weapons component. Every shield emitter. Hell, send us *Cardigan*'s entire torpedo magazine - we're transferring it to *Gallipoli* since she's got the working fire control. And coffee. Lots of coffee."
 
 > "Already on the way. And Chief?"
 
@@ -1032,7 +1032,7 @@ He opened the facility-wide channel.
 
 Across the facility, he saw workers pause, looking up at the speakers.
 
-> "The four ships we're working on right now—they're not just metal and circuits. They're the difference between Earth remaining free and Earth falling to an alien empire. Every weld you complete, every system you bring online, every shortcut you make work—you're saving lives. You're protecting families. You're defending everything we've built."
+> "The four ships we're working on right now - they're not just metal and circuits. They're the difference between Earth remaining free and Earth falling to an alien empire. Every weld you complete, every system you bring online, every shortcut you make work - you're saving lives. You're protecting families. You're defending everything we've built."
 
 He looked at *Sentinel*'s exposed engines, at *Cardigan*'s weapon arrays, at *Gallipoli*'s emergency shield installation.
 
@@ -1040,7 +1040,7 @@ He looked at *Sentinel*'s exposed engines, at *Cardigan*'s weapon arrays, at *Ga
 
 He paused.
 
-> "So let's show these Ryzak bastards what human engineering can do when our backs are against the wall. Let's give them four battleships they'll never forget. Now get back to work—we've got a deadline."
+> "So let's show these Ryzak bastards what human engineering can do when our backs are against the wall. Let's give them four battleships they'll never forget. Now get back to work - we've got a deadline."
 
 The response came not in words but in renewed activity. Cutting torches flared brighter. Welding arcs intensified. Suited figures moved with fresh urgency across the hulls.
 
@@ -1066,7 +1066,7 @@ And that was all that mattered.
 
 ### Third North Fleet, Deep Space
 
-The carrier *In Amber Clad* cut through the void at maximum warp, her escort fleet arrayed in tight formation around her. Nineteen warships in total—the carrier, four battleships, six cruisers, eight destroyers—all running their drives at 110 percent rated capacity. The engineering sections were pushing tolerances that would have made safety inspectors resign on the spot, but no one was thinking about regulations now.
+The carrier *In Amber Clad* cut through the void at maximum warp, her escort fleet arrayed in tight formation around her. Nineteen warships in total - the carrier, four battleships, six cruisers, eight destroyers - all running their drives at 110 percent rated capacity. The engineering sections were pushing tolerances that would have made safety inspectors resign on the spot, but no one was thinking about regulations now.
 
 Admiral Katherine Trager stood on the bridge, studying the tactical plot that showed their position relative to Sol system. Seventeen systems. Seventeen stargates. Thirty-four hours of transit time even at this punishing pace.
 
@@ -1076,15 +1076,15 @@ And they needed to be there in twenty-six.
 
 Lieutenant Commander David Park looked up from his console, his expression apologetic.
 
-> "Ma'am, at current speed we'll hit the Xenari jump bridge in thirty-four hours, sixteen minutes. That's assuming we don't have to slow for stargate transit protocols, which technically we should—"
+> "Ma'am, at current speed we'll hit the Xenari jump bridge in thirty-four hours, sixteen minutes. That's assuming we don't have to slow for stargate transit protocols, which technically we should - "
 
 > "We're not slowing," Trager interrupted. "Emergency transit codes. We blow through every gate at full speed. Xenari traffic control can file complaints after Earth is still standing."
 
-> "Aye, ma'am. Even so, thirty-four hours is optimistic. We're redlining the drives on half our destroyers. If we lose one to a burnout—"
+> "Aye, ma'am. Even so, thirty-four hours is optimistic. We're redlining the drives on half our destroyers. If we lose one to a burnout - "
 
 > "Then that ship drops out and catches up later. The rest of the fleet doesn't slow down. Not for anything."
 
-Park nodded and returned to his calculations. Trager watched the plot, her jaw tight. Third North Fleet had been conducting disaster recovery operations with Kryllian partners in the Outer Reaches—humanitarian work, helping evacuate populations from a failed colony world. Good work. Important work.
+Park nodded and returned to his calculations. Trager watched the plot, her jaw tight. Third North Fleet had been conducting disaster recovery operations with Kryllian partners in the Outer Reaches - humanitarian work, helping evacuate populations from a failed colony world. Good work. Important work.
 
 But not as important as defending Earth.
 
@@ -1098,7 +1098,7 @@ And it still wasn't fast enough.
 
 > "They're saying indefinitely, ma'am. The Xenari are diverting all available power to keep that bridge operational. They'll have it ready the moment we arrive."
 
-That was something, at least. The jump bridge from the Xenari network to Sol was the only way to reach Earth in time to make a difference. Standard stargate-to-stargate transit would take weeks. But the bridge could fold space, shortening the journey to minutes—if you could reach it.
+That was something, at least. The jump bridge from the Xenari network to Sol was the only way to reach Earth in time to make a difference. Standard stargate-to-stargate transit would take weeks. But the bridge could fold space, shortening the journey to minutes - if you could reach it.
 
 Trager moved to the fleet status display. Nineteen ships, all showing amber or red indicators on their drive systems. They were pushing too hard, running too hot. But the alternative was arriving to find Earth already under Ryzak occupation.
 
@@ -1106,13 +1106,13 @@ Trager moved to the fleet status display. Nineteen ships, all showing amber or r
 
 Commander Michael Chen approached, datapad in hand.
 
-> "All squadrons are running combat drills. We've got sixty Talons operational, another twelve in maintenance that we'll have ready before we hit Sol. The pilots know what's coming—they're drilling intercept patterns against carrier-based strike craft."
+> "All squadrons are running combat drills. We've got sixty Talons operational, another twelve in maintenance that we'll have ready before we hit Sol. The pilots know what's coming - they're drilling intercept patterns against carrier-based strike craft."
 
 > "Morale?"
 
 > "High, ma'am. Angry, but high. Nobody in the wing likes the idea of Earth under attack. They're ready to make the Ryzak regret showing up."
 
-Trager nodded. She'd walked through the hangar deck earlier, seen the ground crews working with focused intensity. Ordnance being loaded, systems being checked, pilots reviewing tactical data. The whole fleet felt it—the knowledge that they were racing against time to defend their homeworld.
+Trager nodded. She'd walked through the hangar deck earlier, seen the ground crews working with focused intensity. Ordnance being loaded, systems being checked, pilots reviewing tactical data. The whole fleet felt it - the knowledge that they were racing against time to defend their homeworld.
 
 Her XO, Captain James Morrison, moved to her side.
 
@@ -1128,11 +1128,11 @@ She looked at the tactical plot again. Somewhere ahead, beyond seventeen systems
 
 Time for Third North Fleet to arrive and turn the tide.
 
-> "All hands," she said into the fleet-wide comm. "This is Admiral Trager. By now you all know where we're heading and why. Earth is facing an invasion force—two Ryzak combat groups with overwhelming numerical superiority. Our forces in-system are outnumbered, outgunned, and fighting on a timetable measured in hours."
+> "All hands," she said into the fleet-wide comm. "This is Admiral Trager. By now you all know where we're heading and why. Earth is facing an invasion force - two Ryzak combat groups with overwhelming numerical superiority. Our forces in-system are outnumbered, outgunned, and fighting on a timetable measured in hours."
 
 Throughout the fleet, personnel stopped what they were doing to listen.
 
-> "We are thirty-four hours from the jump bridge. Earth will be fighting for at least eight hours without us. Maybe longer. But I want every single person in this fleet to understand something—those eight hours matter. Every Ryzak ship we destroy when we arrive is one less ship threatening our homeworld. Every strike we make is payback for every human who stood in harm's way while we were racing to get there."
+> "We are thirty-four hours from the jump bridge. Earth will be fighting for at least eight hours without us. Maybe longer. But I want every single person in this fleet to understand something - those eight hours matter. Every Ryzak ship we destroy when we arrive is one less ship threatening our homeworld. Every strike we make is payback for every human who stood in harm's way while we were racing to get there."
 
 She paused, letting that sink in.
 
@@ -1140,15 +1140,15 @@ She paused, letting that sink in.
 
 Another pause.
 
-> "Engineering sections—I know what I'm asking of you. Keep these ships moving. Navigation—plot the fastest possible route, even if it bends every regulation in the book. All combat personnel—prepare for immediate engagement upon arrival. We don't get time to rest, we don't get time to refit. We hit them the moment we're in range."
+> "Engineering sections - I know what I'm asking of you. Keep these ships moving. Navigation - plot the fastest possible route, even if it bends every regulation in the book. All combat personnel - prepare for immediate engagement upon arrival. We don't get time to rest, we don't get time to refit. We hit them the moment we're in range."
 
 She took a breath.
 
-> "Earth is counting on us. Our families are counting on us. The people who are fighting right now, buying us time with their lives—they're counting on us. We will not let them down. Trager out."
+> "Earth is counting on us. Our families are counting on us. The people who are fighting right now, buying us time with their lives - they're counting on us. We will not let them down. Trager out."
 
 The bridge was silent for a moment, then Lieutenant Commander Park spoke up.
 
-> "Ma'am, I've optimized the route. We can shave forty-three minutes off the transit time if we skip some standard deceleration protocols at the gates. It's risky, but—"
+> "Ma'am, I've optimized the route. We can shave forty-three minutes off the transit time if we skip some standard deceleration protocols at the gates. It's risky, but - "
 
 > "Do it," Trager said. "Every minute matters."
 
@@ -1216,7 +1216,7 @@ He switched his view to Bay Five, where the battleship *Lord Cardigan* sat in he
 
 > "That's all we need. How long until she's ready to launch?"
 
-> "Two hours, sir. We're still loading munitions and running the crew through emergency drills. These aren't her regular crew—we're pulling from whoever's available."
+> "Two hours, sir. We're still loading munitions and running the crew through emergency drills. These aren't her regular crew - we're pulling from whoever's available."
 
 Marcus looked at the countdown timer. Two hours would put *Cardigan*'s launch at one hour after the Ryzak arrived. She'd be joining a battle already in progress.
 
@@ -1224,7 +1224,7 @@ He switched to Bay Three.
 
 > "Hayes, what's *Gallipoli*'s status?"
 
-> "Better than *Cardigan*'s," Hayes replied. "Fire control is online and tested. Both railgun arrays are operational. We're loading the last of the torpedo magazines now—*Cardigan*'s entire stock plus our own. We'll have full broadside capability."
+> "Better than *Cardigan*'s," Hayes replied. "Fire control is online and tested. Both railgun arrays are operational. We're loading the last of the torpedo magazines now - *Cardigan*'s entire stock plus our own. We'll have full broadside capability."
 
 > "Time to launch?"
 
@@ -1242,11 +1242,11 @@ It should have been suicide.
 
 But Marcus had spent twenty years in the Federation, and he'd learned one critical truth: desperate circumstances made people capable of impossible things.
 
-> "All hands," he said into the facility-wide comm. "*Typhoon* is away. *Sentinel* launches in eight minutes. We're now in the final stretch. To the crews on *Gallipoli* and *Lord Cardigan*—you have ninety minutes to finish what you started. Load every torpedo. Check every system. Train every crew station. When you launch, you're going into active combat, and there won't be time for second chances."
+> "All hands," he said into the facility-wide comm. "*Typhoon* is away. *Sentinel* launches in eight minutes. We're now in the final stretch. To the crews on *Gallipoli* and *Lord Cardigan* - you have ninety minutes to finish what you started. Load every torpedo. Check every system. Train every crew station. When you launch, you're going into active combat, and there won't be time for second chances."
 
 He looked out at the shipyard, at the workers moving with focused intensity across the two remaining battleships.
 
-> "To everyone else—our job isn't done when these ships launch. We'll have damaged vessels coming back. We'll have casualties needing medical attention. We'll have ships needing emergency repairs under fire. So stay sharp, stay ready, and remember what we're fighting for."
+> "To everyone else - our job isn't done when these ships launch. We'll have damaged vessels coming back. We'll have casualties needing medical attention. We'll have ships needing emergency repairs under fire. So stay sharp, stay ready, and remember what we're fighting for."
 
 He paused.
 
@@ -1298,7 +1298,7 @@ Her communications console chimed. Priority channel from deep space.
 
 > "Commander Chen, this is Admiral Trager, Third North Fleet."
 
-Chen activated the channel. The transmission lag was noticeable—Third North Fleet was still seventeen systems away, racing toward the Xenari jump bridge at speeds that were probably cooking their drive systems.
+Chen activated the channel. The transmission lag was noticeable - Third North Fleet was still seventeen systems away, racing toward the Xenari jump bridge at speeds that were probably cooking their drive systems.
 
 > "Admiral Trager. Good to hear from you. What's your ETA?"
 
@@ -1306,7 +1306,7 @@ There was a three-second delay before Trager's response came through.
 
 > "Nine hours to the jump bridge, Commander. I know that's not what you want to hear. We're eight hours behind schedule for the fight."
 
-> "Eight hours, eight days—doesn't matter, Admiral. We hold until you arrive or we don't hold at all."
+> "Eight hours, eight days - doesn't matter, Admiral. We hold until you arrive or we don't hold at all."
 
 Another delay.
 
@@ -1314,7 +1314,7 @@ Another delay.
 
 Chen looked at the countdown timer. Less than an hour until the Ryzak emerged. Eight hours of fighting before Third North Fleet could relieve them. Possibly more if the battle didn't go well.
 
-> "Understood, Admiral. I'm uploading our tactical situation now. You'll see we've got limited capital ship assets—four battleships, one of which won't be operational until an hour after the shooting starts. Two of the others are... compromised. We're relying heavily on fighters and corvettes to engage their screen while our battleships focus on their heavy assets."
+> "Understood, Admiral. I'm uploading our tactical situation now. You'll see we've got limited capital ship assets - four battleships, one of which won't be operational until an hour after the shooting starts. Two of the others are... compromised. We're relying heavily on fighters and corvettes to engage their screen while our battleships focus on their heavy assets."
 
 She paused, choosing her words carefully.
 
@@ -1322,7 +1322,7 @@ She paused, choosing her words carefully.
 
 The delay stretched. Chen could picture Trager on her bridge, reviewing the tactical data, calculating the odds.
 
-> "Commander, when we arrive, the Ryzak are going to find out what happens when you threaten Earth. Third North Fleet will engage with everything we have. You hold that line for eight hours, and I promise you—we'll make them regret showing up."
+> "Commander, when we arrive, the Ryzak are going to find out what happens when you threaten Earth. Third North Fleet will engage with everything we have. You hold that line for eight hours, and I promise you - we'll make them regret showing up."
 
 > "That's all we need, Admiral. Chen out."
 
@@ -1338,7 +1338,7 @@ Chen's pulse quickened.
 
 > "All stations, this is Commander Chen. We're seeing beacon activity. All combat personnel to stations. All civilian personnel to shelters. This is not a drill."
 
-Throughout the station, alarm klaxons began to sound. Chen watched as status indicators shifted from amber to green across her board—weapons systems coming online, shield generators spinning up, crew stations reporting ready.
+Throughout the station, alarm klaxons began to sound. Chen watched as status indicators shifted from amber to green across her board - weapons systems coming online, shield generators spinning up, crew stations reporting ready.
 
 > "HARBINGER, you reading this?"
 
@@ -1364,7 +1364,7 @@ She paused, looking at the faces in the operations center. Young officers, exper
 
 Her voice hardened.
 
-> "All stations report ready. Weapons free upon enemy emergence. And remember—we're not just buying time. We're buying Earth's future. Don't waste a single second of it."
+> "All stations report ready. Weapons free upon enemy emergence. And remember - we're not just buying time. We're buying Earth's future. Don't waste a single second of it."
 
 The countdown timer ticked downward.
 
@@ -1376,7 +1376,7 @@ Waiting for the knock.
 
 ### Ryzak Staging Point, Border Space
 
-The supercarrier *Worldbreaker* hung in the void, a massive slab of Ryzak engineering three kilometers long and bristling with weapons. Around her, the subjugation fleet waited in formation—two combat groups arrayed in perfect military precision. Two carriers, four battleships, supporting cruisers, destroyers, and frigates. Thirty-four warships ready to jump.
+The supercarrier *Worldbreaker* hung in the void, a massive slab of Ryzak engineering three kilometers long and bristling with weapons. Around her, the subjugation fleet waited in formation - two combat groups arrayed in perfect military precision. Two carriers, four battleships, supporting cruisers, destroyers, and frigates. Thirty-four warships ready to jump.
 
 On the bridge of the *Worldbreaker*, High Admiral Kraveth stood before the command dais, his scaled hands clasped behind his back. The stolen Xenari encryption keys had been loaded into the navigation systems hours ago. Now came the moment of execution.
 
@@ -1398,7 +1398,7 @@ Kraveth's mandibles clicked in satisfaction. The Xenari encryption had worked pe
 
 > "Yes, Admiral."
 
-Kraveth looked at the fleet disposition. Two carriers—*Stormbreaker* and *Doombringer*—would jump first, deploying their strike craft immediately to establish space superiority. The four battleships would follow, their heavy weapons ready to engage any capital ships the Federation might have present. The supporting vessels would screen and pursue.
+Kraveth looked at the fleet disposition. Two carriers - *Stormbreaker* and *Doombringer* - would jump first, deploying their strike craft immediately to establish space superiority. The four battleships would follow, their heavy weapons ready to engage any capital ships the Federation might have present. The supporting vessels would screen and pursue.
 
 Simple. Brutal. Effective.
 
@@ -1416,7 +1416,7 @@ Today, Earth would learn what it meant to face the Ryzak Empire. Today, humanity
 
 > "Excellent. Begin final countdown. Bridge activation in twenty-four minutes."
 
-Ahead of the supercarrier, space began to bend. The jump drives were warping local space-time, preparing to create a stable wormhole that would connect to the beacon's cynosural field. It was technology the Ryzak had conquered through force—taken from other civilizations, adapted, weaponized.
+Ahead of the supercarrier, space began to bend. The jump drives were warping local space-time, preparing to create a stable wormhole that would connect to the beacon's cynosural field. It was technology the Ryzak had conquered through force - taken from other civilizations, adapted, weaponized.
 
 And now it would deliver them to Earth.
 
@@ -1464,7 +1464,7 @@ Against two Ryzak combat groups.
 
 The math was brutal. But they'd known that from the beginning.
 
-> "All stations stand by," she said. "Weapons free on emergence. Primary targets are the Ryzak battleships. Don't waste shots on the small craft—let our fighters handle them. Capital ships focus on capital ships."
+> "All stations stand by," she said. "Weapons free on emergence. Primary targets are the Ryzak battleships. Don't waste shots on the small craft - let our fighters handle them. Capital ships focus on capital ships."
 
 The countdown continued.
 
@@ -1472,7 +1472,7 @@ The countdown continued.
 
 ### Monte Real Air Base, Portugal
 
-Lieutenant Miguel Freitas ran his hand along the Talon's fuselage, the smooth composite material warm under his palm. Around him, 24 other pilots were doing the same—final checks, personal rituals, quiet moments before climbing into the cockpit.
+Lieutenant Miguel Freitas ran his hand along the Talon's fuselage, the smooth composite material warm under his palm. Around him, 24 other pilots were doing the same - final checks, personal rituals, quiet moments before climbing into the cockpit.
 
 He'd been one of the first Earth pilots to fly a Talon three years ago. Back then, it had been presented as an experimental international partnership aircraft. Advanced, yes, but theoretically within human engineering capability.
 
@@ -1484,9 +1484,9 @@ Miguel looked up at the Talon. Sleek, deadly, capable of reaching orbit in minut
 
 > "Ready as I'll ever be, ma'am."
 
-He climbed the ladder and settled into the cockpit. On his HUD, the tactical feed from Galileo Station appeared—Federation forces positioning around the beacon, the cynosural field forming.
+He climbed the ladder and settled into the cockpit. On his HUD, the tactical feed from Galileo Station appeared - Federation forces positioning around the beacon, the cynosural field forming.
 
-Strike Package Delta, his four-Talon element, would support Federation corvette operations when—if—they were called up from reserve.
+Strike Package Delta, his four-Talon element, would support Federation corvette operations when - if - they were called up from reserve.
 
 If.
 
@@ -1514,7 +1514,7 @@ Ellie climbed into her cockpit, the familiar routine calming her nerves. She'd f
 
 This was defending her planet.
 
-She powered up her systems, watching the Talon come to life around her. On her secure comm channel, a message pinged—text only, delayed transmission from earlier in the day.
+She powered up her systems, watching the Talon come to life around her. On her secure comm channel, a message pinged - text only, delayed transmission from earlier in the day.
 
 **FROM: MAJ TANAKA, JASDF**
 **TO: MAJ MORSE, USAF**
@@ -1522,7 +1522,7 @@ She powered up her systems, watching the Talon come to life around her. On her s
 
 **Ellie - If we're both flying today, drinks are on whoever gets the first kill. Try to keep up. - Okuu**
 
-Ellie smiled despite the tension. She and Major Tanaka Utsuho—"Okuu" to her friends, nicknamed after some anime character Ellie had never quite understood—had been pen pals ever since the Talon integration program began. They'd compared notes on the aircraft's quirks, shared stories about their respective commands, complained about bureaucracy.
+Ellie smiled despite the tension. She and Major Tanaka Utsuho - "Okuu" to her friends, nicknamed after some anime character Ellie had never quite understood - had been pen pals ever since the Talon integration program began. They'd compared notes on the aircraft's quirks, shared stories about their respective commands, complained about bureaucracy.
 
 Now they'd be fighting side by side. Sort of. If the Japanese squadrons were called up from reserve at the same time.
 
@@ -1534,7 +1534,7 @@ Waiting.
 
 ### Hyakuri Air Base, Japan
 
-Major Tanaka Utsuho—callsign "Okuu," much to the confusion of anyone outside the Japanese Air Self-Defense Force—cycled through her Talon's weapons systems one more time. Four air-to-air missiles. Two railgun pods. Full ammunition load. Everything green.
+Major Tanaka Utsuho - callsign "Okuu," much to the confusion of anyone outside the Japanese Air Self-Defense Force - cycled through her Talon's weapons systems one more time. Four air-to-air missiles. Two railgun pods. Full ammunition load. Everything green.
 
 She'd sent that message to Ellie Morse six hours ago, before comms went into lockdown. Drinks on whoever gets the first kill. It was bravado, mostly. But also truth. She and Ellie had been comparing flight hours and kill simulations for years. Time to see who was really better.
 
@@ -1582,7 +1582,7 @@ On the display, around the beacon in a ten-kilometer sphere, a shimmer appeared 
 
 Chen keyed the fleet-wide channel.
 
-> "All forces, this is Station Command. Field is active. Hostile emergence imminent. Hold your positions. Hold your fire until we have confirmed targets. And remember—we're defending Earth. Make every shot count."
+> "All forces, this is Station Command. Field is active. Hostile emergence imminent. Hold your positions. Hold your fire until we have confirmed targets. And remember - we're defending Earth. Make every shot count."
 
 **3 MINUTES**
 
@@ -1642,21 +1642,21 @@ The initial salvo hit like the fist of an angry god.
 
 *Devourer's Pride*'s shields flared brilliant white, the defensive field dumping massive amounts of energy as it tried to dissipate the kinetic strikes. The first three rounds were absorbed, the fourth and fifth stressed the generators to their limits. The sixth punched through.
 
-Armor plating deformed, then ruptured. Secondary explosions rippled along the battleship's port side as the penetrators carved through compartments, venting atmosphere and debris. Another salvo followed immediately—Federation doctrine emphasized overwhelming firepower in the opening exchange. More rounds hammered home, chewing through armor, collapsing bulkheads, shredding sensor arrays.
+Armor plating deformed, then ruptured. Secondary explosions rippled along the battleship's port side as the penetrators carved through compartments, venting atmosphere and debris. Another salvo followed immediately - Federation doctrine emphasized overwhelming firepower in the opening exchange. More rounds hammered home, chewing through armor, collapsing bulkheads, shredding sensor arrays.
 
 But the *Pride* didn't die.
 
 Emergency systems kicked in, damage control crews scrambling, backup shields struggling to reinitialize. The battleship rolled, presenting its less-damaged starboard flank, its own weapons beginning to track targets even as alarms shrieked across its bridge.
 
-Behind it, the cyno bridge continued to pulse, and more Ryzak vessels began to emerge—a heavy cruiser, then another, destroyers following in their wake. The formation spread out across a ten-kilometer radius from the beacon, ships orienting themselves, weapons coming online.
+Behind it, the cyno bridge continued to pulse, and more Ryzak vessels began to emerge - a heavy cruiser, then another, destroyers following in their wake. The formation spread out across a ten-kilometer radius from the beacon, ships orienting themselves, weapons coming online.
 
 Then the carriers came through.
 
-Two of them, bulky and angular, their launch bays already cycling open even as their shields initialized. They wasted no time. Strike craft began pouring out immediately—Ryzak interceptors, nimble and aggressive, dozens of them streaming into the black like angry hornets.
+Two of them, bulky and angular, their launch bays already cycling open even as their shields initialized. They wasted no time. Strike craft began pouring out immediately - Ryzak interceptors, nimble and aggressive, dozens of them streaming into the black like angry hornets.
 
 Aboard *Typhoon*, Captain Sarah Reeves watched the tactical display with cold satisfaction.
 
-> "All batteries, continuous fire. Target priority: battleship until it breaks, then heavy cruisers. Alert our Talons—enemy strike craft are launching."
+> "All batteries, continuous fire. Target priority: battleship until it breaks, then heavy cruisers. Alert our Talons - enemy strike craft are launching."
 
 The Federation fighters had been holding station in a wide perimeter around the beacon, engines on standby, waiting for exactly this moment. Now their pilots lit their drives, vectoring toward the emerging Ryzak formation. Forty-eight Talons, already in position, already armed, already hungry.
 
@@ -1692,7 +1692,7 @@ It was about to get very loud.
 
 The *Devourer's Pride* lasted another ninety seconds.
 
-Its backup shields had managed to reinitialize, buying precious moments, but the sustained fire from three Federation battleships was relentless. Railgun rounds hammered into the same weakened sections, each impact driving deeper, carving through compromised armor. A penetrator found something critical—fuel lines, or maybe a magazine—and the battleship's midsection erupted in a cascading series of explosions.
+Its backup shields had managed to reinitialize, buying precious moments, but the sustained fire from three Federation battleships was relentless. Railgun rounds hammered into the same weakened sections, each impact driving deeper, carving through compromised armor. A penetrator found something critical - fuel lines, or maybe a magazine - and the battleship's midsection erupted in a cascading series of explosions.
 
 The shields failed completely. The hull buckled, then broke, a section of superstructure shearing away in a spray of debris and frozen atmosphere. More explosions followed, marching along the spine of the ship like a string of firecrackers, and then the main reactor went.
 
@@ -1702,7 +1702,7 @@ The *Devourer's Pride* came apart in a brilliant flash, the bloom of the explosi
 
 > "Confirmed," Reeves said. "All batteries, engage."
 
-But the Ryzak weren't sitting idle anymore. The rest of their formation had finished orienting, and now their weapons were coming to bear. Particle beams lanced out from heavy cruisers and destroyers, bright lines of ionized matter crossing the distance toward the Federation ships. The fire was scattered, uncoordinated—the Ryzak were firing individually, not as a unified formation—but there was a lot of it.
+But the Ryzak weren't sitting idle anymore. The rest of their formation had finished orienting, and now their weapons were coming to bear. Particle beams lanced out from heavy cruisers and destroyers, bright lines of ionized matter crossing the distance toward the Federation ships. The fire was scattered, uncoordinated - the Ryzak were firing individually, not as a unified formation - but there was a lot of it.
 
 *Typhoon* shuddered as a beam caught her port shields, the defensive field flaring as it dissipated the energy. Another beam followed, then a third. The shields held, but Reeves could see the power draw climbing on her displays.
 
@@ -1724,13 +1724,13 @@ They ran headlong into forty-eight Talons flown by pilots who'd trained for exac
 
 The first wave of Ryzak interceptors died in under thirty seconds.
 
-Talon Lead—callsign "Reaper"—took his four-ship element straight into the teeth of the enemy formation, his wingmen spread wide, weapons already cycling. His targeting system locked on the lead Ryzak craft, a sleek angular frame pushing hard on its engines. Reaper waited until the range dropped to four thousand meters, then squeezed.
+Talon Lead - callsign "Reaper" - took his four-ship element straight into the teeth of the enemy formation, his wingmen spread wide, weapons already cycling. His targeting system locked on the lead Ryzak craft, a sleek angular frame pushing hard on its engines. Reaper waited until the range dropped to four thousand meters, then squeezed.
 
 The plasma lance hit dead center, punching through the interceptor's shields like they weren't there and coring the craft in a single shot. It tumbled away, already breaking apart. Reaper's wingman splashed another, then another. The Ryzak formation wavered, pilots suddenly realizing they'd misjudged badly.
 
 The Talons tore through them.
 
-They moved with coordinated precision, elements working in pairs, each engagement lasting seconds. A Talon would roll onto a target, fire, and the target would cease to exist. The Ryzak pilots tried to respond, tried to bring their own weapons to bear, but they were outmatched in every metric—speed, maneuverability, firepower, targeting systems. Their shields couldn't handle the Talons' plasma lances. Their weapons couldn't track fast enough to get a solid lock.
+They moved with coordinated precision, elements working in pairs, each engagement lasting seconds. A Talon would roll onto a target, fire, and the target would cease to exist. The Ryzak pilots tried to respond, tried to bring their own weapons to bear, but they were outmatched in every metric - speed, maneuverability, firepower, targeting systems. Their shields couldn't handle the Talons' plasma lances. Their weapons couldn't track fast enough to get a solid lock.
 
 > "Splash four," one of the Talon pilots called out, his voice calm despite the chaos. "Five. Engaging new targets."
 
@@ -1762,7 +1762,7 @@ Reeves made the calculation. Two minutes. The Talons could hold for two minutes.
 
 > "Roger that. We'll manage."
 
-On the display, the dogfight continued, blue icons dancing through clouds of red, the enemy numbers slowly—too slowly—dwindling.
+On the display, the dogfight continued, blue icons dancing through clouds of red, the enemy numbers slowly - too slowly - dwindling.
 
 ---
 
@@ -1770,11 +1770,11 @@ Then the situation changed.
 
 > "Captain, we've got a problem," the tactical officer said sharply. "The second battleship's shield degradation rate just dropped. By half."
 
-Reeves's eyes snapped to the power distribution overlay. The *Crimson Fang* had been losing shield integrity at a steady rate under the sustained barrage—the math was working, slowly grinding down its defenses. But now the curve had flattened dramatically.
+Reeves's eyes snapped to the power distribution overlay. The *Crimson Fang* had been losing shield integrity at a steady rate under the sustained barrage - the math was working, slowly grinding down its defenses. But now the curve had flattened dramatically.
 
 > "Explain."
 
-> "The carriers, ma'am. They're transferring power to the battleships. We're reading energy beams—looks like directed shield reinforcement protocols."
+> "The carriers, ma'am. They're transferring power to the battleships. We're reading energy beams - looks like directed shield reinforcement protocols."
 
 Reeves felt a cold weight settle in her stomach. She pulled up the extended tactical view. The two Ryzak carriers had moved into supporting positions, maintaining their screening elements but establishing direct line-of-sight to both battleships. Thin beams of energy connected them to the capital ships, barely visible on sensors but unmistakable in their effect.
 
@@ -1792,7 +1792,7 @@ The Ryzak had just demonstrated they could outlast focused fire.
 
 *Typhoon* shuddered as another volley of Ryzak particle beams found their mark. The shields were holding at seventy-two percent, but that number was trending down. *Vanguard* reported similar status. *Sentinel* had taken a particularly nasty hit, one of her secondary batteries knocked offline, shields fluctuating.
 
-They were winning, but not fast enough. And if the Ryzak established a proper defensive formation, if they managed to stabilize their line—
+They were winning, but not fast enough. And if the Ryzak established a proper defensive formation, if they managed to stabilize their line - 
 
 This could turn into exactly the kind of fight the Federation couldn't afford.
 
@@ -1802,7 +1802,7 @@ This could turn into exactly the kind of fight the Federation couldn't afford.
 
 > "It's... that's a Wraith, ma'am. Transponder confirms it's one of ours."
 
-Reeves pulled up the track. The Wraith was moving at suicidal speed, threading through the debris field from the destroyed *Devourer's Pride*, using the wreckage as cover. Its stealth systems were active—the Ryzak sensors probably hadn't even seen it yet. The craft was on a direct intercept course with the *Crimson Fang*, vectoring toward the battleship's flank.
+Reeves pulled up the track. The Wraith was moving at suicidal speed, threading through the debris field from the destroyed *Devourer's Pride*, using the wreckage as cover. Its stealth systems were active - the Ryzak sensors probably hadn't even seen it yet. The craft was on a direct intercept course with the *Crimson Fang*, vectoring toward the battleship's flank.
 
 > "What the hell are they doing?" the tactical officer muttered.
 
@@ -1816,13 +1816,13 @@ The Wraith didn't slow down. It dove straight into the breach.
 
 > "They're boarding," the sensor officer said, her voice incredulous. "They just punched through the hull and boarded a battleship in the middle of a firefight."
 
-Reeves stared at the tactical display, watching the Wraith's transponder disappear inside the *Crimson Fang*'s hull. A moment later, proximity sensors registered movement—armored figures, small arms fire, localized energy discharges.
+Reeves stared at the tactical display, watching the Wraith's transponder disappear inside the *Crimson Fang*'s hull. A moment later, proximity sensors registered movement - armored figures, small arms fire, localized energy discharges.
 
 A boarding team. Fighting their way through the ship.
 
-> "Mark their position," Reeves ordered. "Adjust fire pattern—I want sustained pressure on that battleship, but avoid hitting anything near the boarding team's location. Let's see if they can create some chaos in there."
+> "Mark their position," Reeves ordered. "Adjust fire pattern - I want sustained pressure on that battleship, but avoid hitting anything near the boarding team's location. Let's see if they can create some chaos in there."
 
-On the display, the tiny cluster of blue icons representing the boarding team pushed deeper into the ship, moving fast, weapons hot. They were heading toward something—a specific objective.
+On the display, the tiny cluster of blue icons representing the boarding team pushed deeper into the ship, moving fast, weapons hot. They were heading toward something - a specific objective.
 
 Whatever they were after, they were committed now.
 
@@ -1836,7 +1836,7 @@ And the Ryzak still hadn't realized they were there.
 
 Lieutenant Marcus Jameson's powered armor had taken three hits getting to the console. His HUD showed shield integrity at forty-two percent, and one of his shoulder actuators was responding sluggishly. Behind him, his team held the corridor, plasma rifles crackling as they kept the Ryzak security teams pinned down.
 
-The console was still active, its alien interface glowing with incomprehensible script and holographic displays. Jameson didn't waste time trying to read it. He pulled the ICE-Pick from his belt—a cylindrical device about the size of a flashlight, its surface covered in Federation tech—and stabbed it hard into the glass surface, cracks spiderwebbing from the point of impact.
+The console was still active, its alien interface glowing with incomprehensible script and holographic displays. Jameson didn't waste time trying to read it. He pulled the ICE-Pick from his belt - a cylindrical device about the size of a flashlight, its surface covered in Federation tech - and stabbed it hard into the glass surface, cracks spiderwebbing from the point of impact.
 
 The console flickered. Then died. Then came back to life, the alien symbols crawling across the screen like they were trying to escape.
 
@@ -1844,7 +1844,7 @@ The console flickered. Then died. Then came back to life, the alien symbols craw
 
 The AI's response was immediate, its voice calm and precise despite the chaos.
 
-> "Connected. Subverting systems—please stay near the device. Fire control accessed. HARBINGER, connect through me."
+> "Connected. Subverting systems - please stay near the device. Fire control accessed. HARBINGER, connect through me."
 
 There was a moment of silence. Then another voice filled the channel, deeper, resonant, carrying an edge of something that might have been predatory satisfaction.
 
@@ -1854,7 +1854,7 @@ The console went dark for half a second. When it came back up, the alien script 
 
 > "Fire control subverted," HARBINGER reported. "Engaging."
 
-Jameson felt the deck shudder beneath his feet. Not from incoming fire—this was something else. The *Crimson Fang*'s own weapons, cycling up, reorienting.
+Jameson felt the deck shudder beneath his feet. Not from incoming fire - this was something else. The *Crimson Fang*'s own weapons, cycling up, reorienting.
 
 Firing.
 
@@ -1862,11 +1862,11 @@ Firing.
 
 Aboard *Typhoon*, the tactical officer's voice cracked with surprise.
 
-> "Ma'am! The second battleship—it just fired on one of its own carriers!"
+> "Ma'am! The second battleship - it just fired on one of its own carriers!"
 
 Reeves leaned forward, watching the display. The *Crimson Fang*'s primary batteries had rotated with sudden, mechanical precision, tracking one of the Ryzak carriers that had been providing shield support. The battleship's particle beams lanced out, brilliant lines of energy crossing the short distance between the two vessels.
 
-The carrier's shields flared, then buckled under the sustained fire. The *Crimson Fang* wasn't pulling its punches—it was firing at full power, every weapon that could bear hammering into the carrier's defensive fields.
+The carrier's shields flared, then buckled under the sustained fire. The *Crimson Fang* wasn't pulling its punches - it was firing at full power, every weapon that could bear hammering into the carrier's defensive fields.
 
 > "Boarding team reports they've accessed fire control," the communications officer said. "HARBINGER is in command of the battleship's weapons."
 
@@ -1898,17 +1898,17 @@ And the Ryzak were learning, too late, what it meant to fight an enemy that coul
 
 ### Reinforcements Arrive
 
-The warp signature appeared first—a ripple in space-time that made sensors scream warnings for half a second before resolving into something solid. Then the battleship *Gallipoli* dropped out of warp seventy kilometers from the beacon, her massive bulk bleeding off velocity with thruster burns that lit up the tactical display.
+The warp signature appeared first - a ripple in space-time that made sensors scream warnings for half a second before resolving into something solid. Then the battleship *Gallipoli* dropped out of warp seventy kilometers from the beacon, her massive bulk bleeding off velocity with thruster burns that lit up the tactical display.
 
 She didn't slow down to orient. She didn't wait to establish proper firing solutions. She just opened up.
 
-Both railgun arrays—port and starboard—spoke in perfect synchronization, the salvaged fire control systems from *Lord Cardigan* proving their worth. Tungsten-carbide penetrators screamed across the distance toward the third Ryzak battleship, *Blood of Conquest*, which was still trading fire with *Vanguard* and trying to maneuver away from the chaos of the compromised *Crimson Fang*.
+Both railgun arrays - port and starboard - spoke in perfect synchronization, the salvaged fire control systems from *Lord Cardigan* proving their worth. Tungsten-carbide penetrators screamed across the distance toward the third Ryzak battleship, *Blood of Conquest*, which was still trading fire with *Vanguard* and trying to maneuver away from the chaos of the compromised *Crimson Fang*.
 
 The first salvo caught *Blood of Conquest* mid-turn, her shields already stressed from sustained fire. Four rounds punched through the weakened defensive field, slamming into her port quarter. Armor buckled. Plating deformed. The impacts sent the battleship into a slow, uncontrolled roll as attitude thrusters struggled to compensate.
 
-> "Direct hits," *Gallipoli*'s tactical officer reported over the command net. "Target's shields failing in sectors four through seven. Reloading—firing again."
+> "Direct hits," *Gallipoli*'s tactical officer reported over the command net. "Target's shields failing in sectors four through seven. Reloading - firing again."
 
-The second salvo followed eight seconds later, this time aimed at the weakened sections. The fire control was perfect, each round tracking to impact the same compromised areas. More armor failed, more internal systems ruptured. Then *Gallipoli*'s missile tubes spoke, launching a full broadside spread of torpedoes—*Lord Cardigan*'s entire stock, now loaded into *Gallipoli*'s tubes.
+The second salvo followed eight seconds later, this time aimed at the weakened sections. The fire control was perfect, each round tracking to impact the same compromised areas. More armor failed, more internal systems ruptured. Then *Gallipoli*'s missile tubes spoke, launching a full broadside spread of torpedoes - *Lord Cardigan*'s entire stock, now loaded into *Gallipoli*'s tubes.
 
 Twelve torpedoes, each carrying shaped-charge warheads designed to punch through capital ship armor, streaked across the void. *Blood of Conquest*'s point defense came alive, trying to intercept, but the screening fire was degraded, its targeting systems damaged. Eight torpedoes made it through.
 
@@ -1916,7 +1916,7 @@ The battleship's midsection erupted in a cascading series of explosions, interna
 
 Aboard *Typhoon*, Captain Reeves watched the tactical display update with grim satisfaction.
 
-> "*Gallipoli* is engaging. Effective fire on the third battleship. *Vanguard*, coordinate with *Gallipoli*—I want that target neutralized."
+> "*Gallipoli* is engaging. Effective fire on the third battleship. *Vanguard*, coordinate with *Gallipoli* - I want that target neutralized."
 
 > "Acknowledged," came the response from *Vanguard*'s captain. "Shifting fire now."
 
@@ -1928,7 +1928,7 @@ Then *Lord Cardigan* arrived.
 
 She came out of warp at a different vector, her civilian shield generators glowing faintly blue as they struggled to stabilize after the transition. She was uglier than *Gallipoli*, her hull showing the stress of emergency installation work, power conduits visible where armor plating should have covered them. But she was operational, and she was angry.
 
-Her target wasn't a battleship. It was the second Ryzak carrier—the one that *Crimson Fang* hadn't managed to cripple, the one still launching interceptors at a steady tempo, still screening with its escorts.
+Her target wasn't a battleship. It was the second Ryzak carrier - the one that *Crimson Fang* hadn't managed to cripple, the one still launching interceptors at a steady tempo, still screening with its escorts.
 
 *Lord Cardigan*'s main batteries opened fire, but these weren't the precise, computer-guided shots that *Gallipoli* and *Typhoon* could deliver. These were manual shots, aimed by gunners using iron sights and instinct, calculating vectors and deflection angles in their heads or with slide rules while the ship maneuvered beneath them.
 
@@ -1936,7 +1936,7 @@ The first volley scattered wide. One round came within two hundred meters of the
 
 But the gunners were learning fast, adjusting, compensating. The second volley was tighter. One round actually impacted the carrier's shields dead-on, the defensive field flaring brilliant white as it absorbed the kinetic energy. Another round followed, then a third. The impacts were random, unpredictable, impossible for the carrier's tactical computer to model because there was no pattern to predict. Just human eyes and human judgment, throwing steel at a target and seeing what stuck.
 
-The carrier's shields were taking damage—not catastrophic damage, just steady wear, each impact draining power reserves, each hit forcing the generators to work harder. *Lord Cardigan* wasn't going to kill the carrier quickly. She might not kill it at all.
+The carrier's shields were taking damage - not catastrophic damage, just steady wear, each impact draining power reserves, each hit forcing the generators to work harder. *Lord Cardigan* wasn't going to kill the carrier quickly. She might not kill it at all.
 
 But she was making it hurt, and more importantly, she was making it deal with her. The carrier had to maneuver, had to direct point defense to intercept incoming rounds, had to allocate shield power to the sectors being hit. It couldn't ignore *Lord Cardigan*, even though the battleship's fire was wildly inaccurate.
 
@@ -1970,21 +1970,21 @@ She had to die.
 
 > "All cruiser elements, vector on the new battleship. Concentrated fire. Destroyers, provide screening and point defense suppression."
 
-The response was immediate. Four heavy cruisers—*Reaper's Edge*, *Blood Drinker*, *Fang of War*, and *Death's Herald*—broke from their screening positions and accelerated hard toward *Gallipoli*, their particle beam arrays already charging. They moved with coordinated precision, splitting to attack from multiple vectors, making it impossible for the battleship to face them all simultaneously.
+The response was immediate. Four heavy cruisers - *Reaper's Edge*, *Blood Drinker*, *Fang of War*, and *Death's Herald* - broke from their screening positions and accelerated hard toward *Gallipoli*, their particle beam arrays already charging. They moved with coordinated precision, splitting to attack from multiple vectors, making it impossible for the battleship to face them all simultaneously.
 
 Aboard *Gallipoli*, the tactical alarms shrieked.
 
-> "Captain, we have four cruisers breaking formation—they're vectoring on us from bearings zero-four-five, one-two-zero, two-three-five, and three-one-zero. Range closing rapidly."
+> "Captain, we have four cruisers breaking formation - they're vectoring on us from bearings zero-four-five, one-two-zero, two-three-five, and three-one-zero. Range closing rapidly."
 
 Captain James Harrison watched the tactical display, his jaw tight. The cruisers were splitting his defensive fire, forcing him to choose which threats to prioritize. And behind them, destroyers were moving up to support, their lighter weapons adding to the incoming barrage.
 
-> "Helm, evasive pattern charlie. Rotate to present port shields to the closest threats. Weapons, split batteries—primary focus on the *Blood of Conquest*, secondary batteries engage those cruisers."
+> "Helm, evasive pattern charlie. Rotate to present port shields to the closest threats. Weapons, split batteries - primary focus on the *Blood of Conquest*, secondary batteries engage those cruisers."
 
-The *Gallipoli* began to rotate, her massive bulk responding sluggishly to the thruster burns. She was a battleship, not a fighter—built to absorb punishment and dish it out, not to dance. The maneuver bought time, but not much.
+The *Gallipoli* began to rotate, her massive bulk responding sluggishly to the thruster burns. She was a battleship, not a fighter - built to absorb punishment and dish it out, not to dance. The maneuver bought time, but not much.
 
 The cruisers opened fire.
 
-Particle beams lanced across the void from four different vectors, brilliant lines of ionized matter converging on *Gallipoli*'s position. The battleship's shields flared white-hot as they struggled to dissipate the concentrated energy. One beam, then two, then four, then eight—the cruisers were firing in sequence, never giving the shields time to recover.
+Particle beams lanced across the void from four different vectors, brilliant lines of ionized matter converging on *Gallipoli*'s position. The battleship's shields flared white-hot as they struggled to dissipate the concentrated energy. One beam, then two, then four, then eight - the cruisers were firing in sequence, never giving the shields time to recover.
 
 > "Shields at seventy-eight percent," the tactical officer called out. "Port quadrant taking heaviest fire. Rerouting power."
 
@@ -2004,7 +2004,7 @@ The *Gallipoli* rolled, attitude thrusters firing hard, but the maneuver was pre
 
 Another wave of particle beams hammered home. Then another.
 
-> "Shields at forty-four percent. Port generator is offline—catastrophic failure. Compensating with secondary systems."
+> "Shields at forty-four percent. Port generator is offline - catastrophic failure. Compensating with secondary systems."
 
 Harrison's hands gripped the armrests of his command chair. They were taking punishment faster than they could respond. The *Gallipoli* was tough, built to survive exactly this kind of focused fire, but there were limits.
 
@@ -2018,7 +2018,7 @@ But the cruisers weren't letting up.
 
 The follow-up shots punched through bare armor.
 
-Plating buckled. Bulkheads ruptured. The hits weren't penetrating deep—not yet—but they were carving channels through the outer hull, compromising structural integrity, destroying sensor arrays and point defense turrets.
+Plating buckled. Bulkheads ruptured. The hits weren't penetrating deep - not yet - but they were carving channels through the outer hull, compromising structural integrity, destroying sensor arrays and point defense turrets.
 
 > "Hull breach, sections fourteen through eighteen," damage control reported. "Emergency containment holding. We've lost point defense coverage on the aft quarter."
 
@@ -2030,7 +2030,7 @@ Its particle beam punched through *Gallipoli*'s failing shields and hit the batt
 
 The engine section erupted in a cascade of secondary explosions.
 
-> "Direct hit to main engines!" Engineering's voice came through, barely audible over alarms. "Primary drive is offline—complete power loss to propulsion. Backup systems are... they're gone, Captain. Maneuvering thrusters only."
+> "Direct hit to main engines!" Engineering's voice came through, barely audible over alarms. "Primary drive is offline - complete power loss to propulsion. Backup systems are... they're gone, Captain. Maneuvering thrusters only."
 
 Harrison watched as his velocity indicator dropped to zero relative to the beacon. The *Gallipoli* was still firing, her weapons still operational, but she couldn't maneuver. Couldn't evade. Couldn't rotate to spread damage across her shields.
 
@@ -2048,7 +2048,7 @@ If they were going to be a fixed gun platform, they'd be the deadliest one in th
 
 ### Reaper Flight
 
-Lieutenant Sarah Chen—callsign "Reaper"—watched her tactical display as the Ryzak cruisers swarmed *Gallipoli*. The battleship was taking a beating, her shields failing, her engines gone. She was still fighting, but she was hurt.
+Lieutenant Sarah Chen - callsign "Reaper" - watched her tactical display as the Ryzak cruisers swarmed *Gallipoli*. The battleship was taking a beating, her shields failing, her engines gone. She was still fighting, but she was hurt.
 
 And the Talons could help.
 
@@ -2056,13 +2056,13 @@ And the Talons could help.
 
 > "Copy, Lead," came the response from Reaper-Two. "What's the play?"
 
-> "Missiles. We go in fast, launch from medium range, and break off before their point defense can track us. Two destroyers are screening *Reaper's Edge*—they're our targets."
+> "Missiles. We go in fast, launch from medium range, and break off before their point defense can track us. Two destroyers are screening *Reaper's Edge* - they're our targets."
 
 > "Roger. Reaper Flight, arm missiles. Follow Lead's vector."
 
 Chen rolled her Talon onto a new heading, her engine burning hard as she accelerated toward the edge of the furball. Behind her, three wingmen matched her course. They were moving perpendicular to the main engagement, using the debris from the destroyed *Devourer's Pride* as partial cover.
 
-The Ryzak destroyers were good ships, well-armed and well-shielded. But they were distracted, their attention focused on suppressing *Gallipoli*'s point defense, their sensors tracking the big threats. A four-ship element of Talons, approaching from an oblique angle, using debris cover—they might not even see them coming.
+The Ryzak destroyers were good ships, well-armed and well-shielded. But they were distracted, their attention focused on suppressing *Gallipoli*'s point defense, their sensors tracking the big threats. A four-ship element of Talons, approaching from an oblique angle, using debris cover - they might not even see them coming.
 
 Chen checked her weapons display. Four missiles, each one carrying a shaped-charge warhead designed to punch through capital ship shields. Against a destroyer, they'd be devastating if they connected.
 
@@ -2082,7 +2082,7 @@ For three seconds, the destroyers didn't react. Their sensors were looking the w
 
 Then their threat receivers screamed warnings.
 
-The lead destroyer—*Vengeful Strike*—tried to maneuver, its attitude thrusters firing hard, trying to present its heaviest shields toward the incoming missiles. Its point defense turrets rotated, tracking, firing. The first missile died in a burst of plasma. The second. The third.
+The lead destroyer - *Vengeful Strike* - tried to maneuver, its attitude thrusters firing hard, trying to present its heaviest shields toward the incoming missiles. Its point defense turrets rotated, tracking, firing. The first missile died in a burst of plasma. The second. The third.
 
 The fourth and fifth punched through.
 
@@ -2090,7 +2090,7 @@ The shaped-charge warheads detonated against the destroyer's shields, the explos
 
 Armor buckled, then ruptured. The destroyer's port side erupted in a cascade of secondary explosions as magazines cooked off. The ship rolled, venting atmosphere, already losing power to critical systems.
 
-The second destroyer—*Hunter's Pride*—had three additional seconds to respond. Its point defense was more effective, tracking and destroying five missiles before they reached optimal range. But seven missiles made it through.
+The second destroyer - *Hunter's Pride* - had three additional seconds to respond. Its point defense was more effective, tracking and destroying five missiles before they reached optimal range. But seven missiles made it through.
 
 The barrage overwhelmed the destroyer's shields in a single concentrated strike. Three shaped-charge warheads detonated simultaneously against its forward section, the plasma cones punching through shields, armor, and bulkheads. The bridge section simply ceased to exist, vaporized in the focused detonations.
 
@@ -2158,7 +2158,7 @@ The *Blood of Conquest* was tough, built to absorb punishment, and despite the c
 
 *Gallipoli* didn't have that luxury.
 
-The four Ryzak cruisers had found their rhythm, firing in sequence, each beam strike landing on already-weakened sections. Armor plating buckled, then failed. Internal bulkheads collapsed. Systems died one by one—power distribution, life support, damage control.
+The four Ryzak cruisers had found their rhythm, firing in sequence, each beam strike landing on already-weakened sections. Armor plating buckled, then failed. Internal bulkheads collapsed. Systems died one by one - power distribution, life support, damage control.
 
 Captain Harrison watched his tactical display flicker, the feeds dying as sensors were destroyed. Around him, his bridge crew worked with desperate focus, rerouting power, compensating for failures, keeping the guns firing.
 
@@ -2172,7 +2172,7 @@ The *Gallipoli* shuddered as another concentrated barrage found her midsection. 
 
 Something critical gave way.
 
-> "Structural failure, sections nine through fifteen," damage control reported, alarm bells ringing through the connection. "We're losing hull integrity. Recommend immediate—"
+> "Structural failure, sections nine through fifteen," damage control reported, alarm bells ringing through the connection. "We're losing hull integrity. Recommend immediate - "
 
 The transmission cut off as the section vented to space.
 
@@ -2186,7 +2186,7 @@ He closed the channel and looked at his bridge crew.
 
 > "That includes you. Get to the pods. Now."
 
-> "Sir—" the tactical officer began.
+> "Sir - " the tactical officer began.
 
 > "That's an order, Lieutenant. Go."
 
@@ -2210,7 +2210,7 @@ The *Gallipoli* came apart in a brilliant flash, the fusion reactor detonating w
 
 The shockwave caught *Death's Herald* before the cruiser could maneuver clear.
 
-The Ryzak ship was less than five thousand meters from the *Gallipoli* when she exploded—close enough for the blast wave to hit with devastating force. The cruiser's shields, already depleted from the extended engagement, buckled under the sudden pressure. The wave of superheated debris hammered into the hull, stripping away armor, collapsing sensor arrays, tearing through external equipment.
+The Ryzak ship was less than five thousand meters from the *Gallipoli* when she exploded - close enough for the blast wave to hit with devastating force. The cruiser's shields, already depleted from the extended engagement, buckled under the sudden pressure. The wave of superheated debris hammered into the hull, stripping away armor, collapsing sensor arrays, tearing through external equipment.
 
 *Death's Herald* tumbled, her attitude control systems failing, her shields down, her weapons offline. She was alive, but crippled, unable to maneuver or defend herself.
 
@@ -2222,17 +2222,17 @@ And two Federation corvettes had been waiting for exactly this moment.
 
 ### Opportunists
 
-Commander Patricia Hayes, commanding the corvette *Relentless*, watched the tactical display as *Gallipoli* died. The explosion was visible even at seventy kilometers—a brief, brilliant star that outshone Jupiter behind it.
+Commander Patricia Hayes, commanding the corvette *Relentless*, watched the tactical display as *Gallipoli* died. The explosion was visible even at seventy kilometers - a brief, brilliant star that outshone Jupiter behind it.
 
-> "Sensors, status on that cruiser—*Death's Herald*."
+> "Sensors, status on that cruiser - *Death's Herald*."
 
-> "Reading multiple system failures, ma'am. Shields are down. Power signatures are erratic. She's tumbling—I don't think she has attitude control."
+> "Reading multiple system failures, ma'am. Shields are down. Power signatures are erratic. She's tumbling - I don't think she has attitude control."
 
 Hayes looked at the tactical plot. The cruiser was wounded, defenseless, and separated from the rest of the Ryzak formation by the expanding debris field from *Gallipoli*'s destruction. The other three cruisers were pulling back, regrouping around the *Blood of Conquest*.
 
 *Death's Herald* was alone.
 
-> "Helm, plot intercept course. Weapons, arm all missile tubes and charge plasma lances. *Valiant*, this is *Relentless*—you seeing what I'm seeing?"
+> "Helm, plot intercept course. Weapons, arm all missile tubes and charge plasma lances. *Valiant*, this is *Relentless* - you seeing what I'm seeing?"
 
 The response came from the second corvette, Commander Michael Torres's voice carrying grim satisfaction.
 
@@ -2274,7 +2274,7 @@ Aboard *Typhoon*, Captain Reeves watched the tactical display update. *Gallipoli
 
 The tactical officer pulled up the summary.
 
-> "Federation: *Typhoon*, *Vanguard*, *Sentinel*—all operational but shields depleted. *Lord Cardigan* is still harassing the second carrier. Three corvettes operational. Talon squadrons have taken losses but are still combat-effective. We're down to thirty-six fighters from the original forty-eight."
+> "Federation: *Typhoon*, *Vanguard*, *Sentinel* - all operational but shields depleted. *Lord Cardigan* is still harassing the second carrier. Three corvettes operational. Talon squadrons have taken losses but are still combat-effective. We're down to thirty-six fighters from the original forty-eight."
 
 > "Ryzak?"
 
@@ -2294,7 +2294,7 @@ This time, the *Blood of Conquest* couldn't hold.
 
 Her compromised armor failed, the penetrators carving through to critical systems. Her reactor spiked, the containment field destabilizing. Emergency systems tried to compensate, tried to contain the cascade, but it was too late.
 
-The *Blood of Conquest* exploded, her reactor detonation tearing the ship apart from the inside out. The blast was smaller than *Gallipoli*'s death—more controlled, the containment field managing to direct some of the energy—but the result was the same. The battleship ceased to exist, replaced by an expanding sphere of debris and radiation.
+The *Blood of Conquest* exploded, her reactor detonation tearing the ship apart from the inside out. The blast was smaller than *Gallipoli*'s death - more controlled, the containment field managing to direct some of the energy - but the result was the same. The battleship ceased to exist, replaced by an expanding sphere of debris and radiation.
 
 > "Target destroyed," the weapons officer reported.
 
@@ -2314,7 +2314,7 @@ Reeves looked at the tactical display, at the scattered icons representing Feder
 
 Now it was up to the rest of them to make sure that sacrifice meant something.
 
-> "All ships, this is *Typhoon*. We've neutralized their battleship advantage. Now we grind them down. Focus fire on cruisers and screening elements. Keep their interceptors contained. And remember—we don't need to destroy them all. We just need to survive long enough for reinforcements to arrive."
+> "All ships, this is *Typhoon*. We've neutralized their battleship advantage. Now we grind them down. Focus fire on cruisers and screening elements. Keep their interceptors contained. And remember - we don't need to destroy them all. We just need to survive long enough for reinforcements to arrive."
 
 She closed the channel and settled back into her command chair.
 
@@ -2330,11 +2330,11 @@ They had to.
 
 ### Stalemate
 
-The *Crimson Fang*—now under HARBINGER's control—had finished destroying the first carrier. The Ryzak vessel was a drifting hulk, atmosphere venting from dozens of breaches, half its launch bays demolished, fires burning in compartments exposed to vacuum. It was still technically intact, but it would never launch another fighter.
+The *Crimson Fang* - now under HARBINGER's control - had finished destroying the first carrier. The Ryzak vessel was a drifting hulk, atmosphere venting from dozens of breaches, half its launch bays demolished, fires burning in compartments exposed to vacuum. It was still technically intact, but it would never launch another fighter.
 
 That left one carrier operational. And it was making all the difference.
 
-Captain Reeves watched her tactical display with growing frustration. The fourth Ryzak battleship—*Wrath of Dominion*—had been taking sustained fire from all three Federation battleships for the past six minutes. By all rights, it should have been breaking apart by now, its shields failing, its armor compromised.
+Captain Reeves watched her tactical display with growing frustration. The fourth Ryzak battleship - *Wrath of Dominion* - had been taking sustained fire from all three Federation battleships for the past six minutes. By all rights, it should have been breaking apart by now, its shields failing, its armor compromised.
 
 Instead, its shields were holding steady. Recovering, even.
 
@@ -2344,13 +2344,13 @@ The tactical officer highlighted the power distribution overlay.
 
 > "The second carrier, ma'am. It shifted all shield projection capability to the *Wrath of Dominion* once we destroyed *Blood of Conquest*. With only one battleship to support instead of two, the power transfer is more concentrated. They're feeding it faster than we can drain it."
 
-Reeves pulled up the energy readings. The carrier—*Storm Bringer*—had moved into optimal support position, its shield generators running at maximum output, a steady beam of energy connecting it to the battleship. The *Wrath of Dominion* was still taking damage, but the math had changed. Where before the Federation's concentrated fire could overwhelm shield regeneration, now it could only match it.
+Reeves pulled up the energy readings. The carrier - *Storm Bringer* - had moved into optimal support position, its shield generators running at maximum output, a steady beam of energy connecting it to the battleship. The *Wrath of Dominion* was still taking damage, but the math had changed. Where before the Federation's concentrated fire could overwhelm shield regeneration, now it could only match it.
 
 And in a battle of attrition, time favored whoever could last longer.
 
 > "What about the compromised battleship? Can HARBINGER redirect *Crimson Fang*'s fire to help us?"
 
-> "Negative, ma'am. The boarding team reports that ship's shields are offline—they took too much damage in the engagement. She's got weapons, but no defensive capability. If we move her closer to engage, the Ryzak will tear her apart."
+> "Negative, ma'am. The boarding team reports that ship's shields are offline - they took too much damage in the engagement. She's got weapons, but no defensive capability. If we move her closer to engage, the Ryzak will tear her apart."
 
 > "And *Lord Cardigan*?"
 
@@ -2364,7 +2364,7 @@ And the Ryzak fleet commander had just realized the same thing.
 
 Reeves felt ice in her stomach.
 
-The Ryzak had learned from their mistake with *Gallipoli*. They couldn't break through the Federation's capital ship firepower as long as all three battleships were operational. But if they could eliminate the most dangerous one, force it out of the fight—
+The Ryzak had learned from their mistake with *Gallipoli*. They couldn't break through the Federation's capital ship firepower as long as all three battleships were operational. But if they could eliminate the most dangerous one, force it out of the fight - 
 
 The tactical assessment was already updating on her display, threat vectors converging on *Typhoon*'s position.
 
@@ -2372,11 +2372,11 @@ The tactical assessment was already updating on her display, threat vectors conv
 
 Her XO, Commander James Morrison, moved to her side.
 
-> "Ma'am, we're already at sixty-two percent shields from the sustained engagement. If they focus us the way they focused *Gallipoli*—"
+> "Ma'am, we're already at sixty-two percent shields from the sustained engagement. If they focus us the way they focused *Gallipoli* - "
 
-> "I know." Reeves's jaw tightened. "Helm, evasive pattern epsilon. Weapons, split fire—keep pressure on the *Wrath of Dominion* but engage those cruisers as they close. And get me a damage control team standing by. We're about to take a beating."
+> "I know." Reeves's jaw tightened. "Helm, evasive pattern epsilon. Weapons, split fire - keep pressure on the *Wrath of Dominion* but engage those cruisers as they close. And get me a damage control team standing by. We're about to take a beating."
 
-The Ryzak formation was moving with coordinated precision now. The three cruisers—*Reaper's Edge*, *Blood Drinker*, and *Fang of War*—accelerated hard, splitting to attack from multiple vectors. Behind them, five destroyers matched their course, weapons charging, ready to add their lighter particle beams to the barrage.
+The Ryzak formation was moving with coordinated precision now. The three cruisers - *Reaper's Edge*, *Blood Drinker*, and *Fang of War* - accelerated hard, splitting to attack from multiple vectors. Behind them, five destroyers matched their course, weapons charging, ready to add their lighter particle beams to the barrage.
 
 They'd learned. They'd adapted. And now they were coming for blood.
 
@@ -2390,7 +2390,7 @@ The battleship's shields flared brilliant white, already stressed from an hour o
 
 > "Return fire. I want those cruisers suppressed."
 
-*Typhoon*'s secondary batteries spoke, railgun rounds and missiles streaking toward the attacking cruisers. One salvo caught *Reaper's Edge* on her forward shields, forcing her to maneuver. Another forced *Blood Drinker* to adjust course. But they weren't breaking off—they were just being more careful, coordinating their approach.
+*Typhoon*'s secondary batteries spoke, railgun rounds and missiles streaking toward the attacking cruisers. One salvo caught *Reaper's Edge* on her forward shields, forcing her to maneuver. Another forced *Blood Drinker* to adjust course. But they weren't breaking off - they were just being more careful, coordinating their approach.
 
 The destroyers opened fire.
 
@@ -2410,13 +2410,13 @@ Reeves watched her shield integrity dropping: 47%... 43%... 39%...
 
 The forward shield generator failed.
 
-> "Forward shields down!" the tactical officer shouted. "Rerouting through backup systems—"
+> "Forward shields down!" the tactical officer shouted. "Rerouting through backup systems - "
 
 A destroyer's particle beam punched through the gap before the backup could initialize. The beam carved into *Typhoon*'s armor, vaporizing plating, penetrating to the first internal bulkhead before the backup shield finally engaged.
 
-> "Hull breach, section seven! Emergency containment in place. Forward sensor array is damaged—we've lost resolution on targets bearing zero-two-zero through zero-four-zero."
+> "Hull breach, section seven! Emergency containment in place. Forward sensor array is damaged - we've lost resolution on targets bearing zero-two-zero through zero-four-zero."
 
-The ship shuddered as another concentrated barrage hammered home. The shields were holding, but barely. Reeves could see the power distribution readouts—they were redlining, pulling from every available system to feed the shield generators.
+The ship shuddered as another concentrated barrage hammered home. The shields were holding, but barely. Reeves could see the power distribution readouts - they were redlining, pulling from every available system to feed the shield generators.
 
 > "Shields at thirty-one percent, ma'am."
 
@@ -2430,7 +2430,7 @@ Reeves looked at the tactical display. *Vanguard* and *Sentinel* were still pour
 
 But Morrison was right. If *Typhoon* stayed in the fight, she'd suffer the same fate as *Gallipoli*. And losing a second battleship would shift the balance too far.
 
-> "Helm, break off. Set course for Jovian Shipyards, maximum velocity. Weapons, covering fire as we disengage—I want those cruisers focused on us, not on *Vanguard* and *Sentinel*."
+> "Helm, break off. Set course for Jovian Shipyards, maximum velocity. Weapons, covering fire as we disengage - I want those cruisers focused on us, not on *Vanguard* and *Sentinel*."
 
 > "Aye, ma'am."
 
@@ -2440,13 +2440,13 @@ A parting shot from *Reaper's Edge* caught *Typhoon*'s aft shields, the defensiv
 
 > "Shields at nineteen percent!"
 
-> "Keep us moving. Engineering, damage assessment—what shape are we in?"
+> "Keep us moving. Engineering, damage assessment - what shape are we in?"
 
 The chief engineer's voice came through, strained.
 
 > "We've got hull breaches in three sections, forward sensor array is barely functional, two secondary batteries are offline, and our shield generators are on the edge of thermal failure. We need to get out of this fight, Captain. If we take one more concentrated barrage, we're done."
 
-Reeves watched the tactical display as *Typhoon* pulled away, the distance to the Ryzak formation increasing. The cruisers were pursuing, but cautiously—they'd learned not to overextend. They were content to let *Typhoon* go, mission accomplished.
+Reeves watched the tactical display as *Typhoon* pulled away, the distance to the Ryzak formation increasing. The cruisers were pursuing, but cautiously - they'd learned not to overextend. They were content to let *Typhoon* go, mission accomplished.
 
 They'd forced the most powerful Federation battleship out of the fight.
 
@@ -2454,7 +2454,7 @@ They'd forced the most powerful Federation battleship out of the fight.
 
 > "Thirty-four minutes at current velocity, ma'am."
 
-> "Get us there. And signal the yards—tell them we're coming in hot and we need emergency repairs. Priority items: shield generators, forward sensors, hull breaches, weapons systems. In that order."
+> "Get us there. And signal the yards - tell them we're coming in hot and we need emergency repairs. Priority items: shield generators, forward sensors, hull breaches, weapons systems. In that order."
 
 She turned to Morrison.
 
@@ -2468,7 +2468,7 @@ The AI's distinctive voice came through immediately.
 
 > "Boarding team maintains control of *Crimson Fang*. Weapons are operational but shields are offline. Current position is defensible but vessel cannot maneuver aggressively without risk of destruction."
 
-> "Understood. *Vanguard*, *Sentinel*—continue pressure on the *Wrath of Dominion*. Don't let that carrier sustain it unopposed. Corvettes, continue harassment operations against the screening elements. Talons, maintain fighter superiority and look for opportunities against the carrier."
+> "Understood. *Vanguard*, *Sentinel* - continue pressure on the *Wrath of Dominion*. Don't let that carrier sustain it unopposed. Corvettes, continue harassment operations against the screening elements. Talons, maintain fighter superiority and look for opportunities against the carrier."
 
 A pause, then Captain Anderson's voice from *Vanguard*.
 
@@ -2510,9 +2510,9 @@ And whether there would be anything left to save when they did.
 
 The Federation Talons were dying.
 
-Not in dramatic explosions or sudden catastrophic failures. They were dying slowly, worn down by an enemy that refused to quit. The Ryzak interceptors kept coming, wave after wave, launching from the carrier's remaining functional bays. The Federation pilots were better trained, better equipped, and better coordinated—but they were outnumbered, and in a fight of attrition, numbers eventually won.
+Not in dramatic explosions or sudden catastrophic failures. They were dying slowly, worn down by an enemy that refused to quit. The Ryzak interceptors kept coming, wave after wave, launching from the carrier's remaining functional bays. The Federation pilots were better trained, better equipped, and better coordinated - but they were outnumbered, and in a fight of attrition, numbers eventually won.
 
-Lieutenant Sarah Chen—callsign "Reaper"—rolled her Talon into a hard break, a Ryzak interceptor screaming past her canopy close enough to see the alien pilot inside. Her weapons had been depleted fifteen minutes ago. She was flying on fumes, using her superior maneuverability to stay alive, to draw fire, to keep the enemy off her squadron mates who still had ammunition.
+Lieutenant Sarah Chen - callsign "Reaper" - rolled her Talon into a hard break, a Ryzak interceptor screaming past her canopy close enough to see the alien pilot inside. Her weapons had been depleted fifteen minutes ago. She was flying on fumes, using her superior maneuverability to stay alive, to draw fire, to keep the enemy off her squadron mates who still had ammunition.
 
 > "Reaper-Three, you're clear. Bandit on your six is splashed."
 
@@ -2520,7 +2520,7 @@ Lieutenant Sarah Chen—callsign "Reaper"—rolled her Talon into a hard break, 
 
 > "Acknowledged. Jump to Jovian Shipyards, get rearmed, get back here. Clock's ticking."
 
-Reaper-Three broke from the engagement, his Talon's jump drive spooling up. Space twisted around the craft, and it vanished—a two-minute round trip to the shipyards and back, but he'd need at least ten to fifteen minutes on the ground for rearm and refuel before he could return to the fight.
+Reaper-Three broke from the engagement, his Talon's jump drive spooling up. Space twisted around the craft, and it vanished - a two-minute round trip to the shipyards and back, but he'd need at least ten to fifteen minutes on the ground for rearm and refuel before he could return to the fight.
 
 Chen checked her tactical display. Of the original forty-eight Federation Talons that had started the engagement, twenty-seven were still in the battle space. Another eight were at Jovian Shipyards going through frantic resupply operations, crews working at emergency speed to reload weapons and patch damage. Thirteen had been destroyed outright, their pilots either dead or recovered by search and rescue craft.
 
@@ -2534,7 +2534,7 @@ The response from *Vanguard*'s tactical coordinator was immediate, and grim.
 
 > "Acknowledged, Reaper Lead. We're reading the same. Stand by."
 
-Chen watched another Talon—Falcon-Four—break away from the furball, engines burning hard as his jump drive engaged. The pilot's voice came through, exhausted.
+Chen watched another Talon - Falcon-Four - break away from the furball, engines burning hard as his jump drive engaged. The pilot's voice came through, exhausted.
 
 > "Falcon-Four jumping to yards. Third resupply run. I'll be back in fifteen."
 
@@ -2622,7 +2622,7 @@ At Monte Real Air Base, Lieutenant Miguel Freitas was already in his Talon's coc
 
 Twelve hours ago, HARBINGER had appeared on every screen in the briefing room and told them the truth. Aliens were real. Aliens were coming. And Earth was going to war.
 
-Miguel had known HARBINGER for three years—or known *of* the AI, at least. When the Talons first arrived in Portugal, HARBINGER had been the voice explaining the technology, walking pilots through the capabilities, teaching them how to fight in vacuum. The AI's presence had been constant but distant, a teacher more than a companion.
+Miguel had known HARBINGER for three years - or known *of* the AI, at least. When the Talons first arrived in Portugal, HARBINGER had been the voice explaining the technology, walking pilots through the capabilities, teaching them how to fight in vacuum. The AI's presence had been constant but distant, a teacher more than a companion.
 
 Now that voice was about to send them into combat.
 
@@ -2630,7 +2630,7 @@ The alert tone cut through his headset.
 
 **PRIORITY ALPHA. THIS IS NOT A DRILL. ALL TALON SQUADRONS SCRAMBLE IMMEDIATELY.**
 
-Miguel's hands moved on pure training, muscle memory from hundreds of sorties taking over. Throttles forward, systems check, weapons armed—
+Miguel's hands moved on pure training, muscle memory from hundreds of sorties taking over. Throttles forward, systems check, weapons armed - 
 
 > "All Portuguese Talons, this is Tower. You are cleared for immediate takeoff. Vector three-five-zero, climb to orbital insertion altitude. Execute."
 
@@ -2640,7 +2640,7 @@ The Talon's engines screamed to life, the fusion drive spooling up with a sound 
 
 Miguel released the brake and the Talon leaped forward, acceleration pressing him back into his seat. The runway blurred beneath him, then fell away as the aircraft clawed for altitude. Beside him, Captain Teresa Ramos's Talon matched his climb.
 
-The sky above was clear, brilliant blue fading to the black of space as they climbed. Miguel's altimeter spun upward—ten thousand meters, twenty thousand, thirty thousand. The air was thinning, but the fusion drive pushed harder.
+The sky above was clear, brilliant blue fading to the black of space as they climbed. Miguel's altimeter spun upward - ten thousand meters, twenty thousand, thirty thousand. The air was thinning, but the fusion drive pushed harder.
 
 Fifty thousand meters. The curvature of Earth was visible now, Portugal's coastline spreading out beneath him. Seventy thousand meters. One hundred thousand.
 
@@ -2656,9 +2656,9 @@ At Groom Lake, Major Ellie Morse led the American squadron into the climb, twent
 
 > "All US Talons, this is Viper Lead. Form up at rally point alpha. We've got friends joining us."
 
-At Kadena, eight operational Talons screamed off the runway, climbing hard toward orbit. Major Morse checked her tactical display, watching as icons began appearing—Portuguese craft climbing out of Europe, Japanese fighters rising from Hyakuri.
+At Kadena, eight operational Talons screamed off the runway, climbing hard toward orbit. Major Morse checked her tactical display, watching as icons began appearing - Portuguese craft climbing out of Europe, Japanese fighters rising from Hyakuri.
 
-At Hyakuri Air Base, Major Tanaka Utsuho—"Okuu"—pushed her throttle to maximum, feeling the Talon respond. Beside her, fifteen other Japanese pilots climbed in formation.
+At Hyakuri Air Base, Major Tanaka Utsuho - "Okuu" - pushed her throttle to maximum, feeling the Talon respond. Beside her, fifteen other Japanese pilots climbed in formation.
 
 > "JASDF Talons, this is Raven Lead. Vector two-eight-five, climb to one hundred twenty thousand meters. Link up with allied forces."
 
@@ -2674,7 +2674,7 @@ Her hands were steady on the controls.
 
 At one hundred and twenty thousand meters above Earth's surface, sixty-one Talons from four nations formed up in a loose sphere. Most of the pilots had never met, had never flown together, but they'd all received the same briefing twelve hours ago. They knew what they were facing. They knew the stakes.
 
-Lieutenant Miguel Freitas's tactical display showed them all—blue icons scattered across his screen, each one representing a pilot from a different nation. Strangers, yes, but united by a common purpose.
+Lieutenant Miguel Freitas's tactical display showed them all - blue icons scattered across his screen, each one representing a pilot from a different nation. Strangers, yes, but united by a common purpose.
 
 They were Earth's defenders.
 
@@ -2742,7 +2742,7 @@ Sixty-one fresh fighters, coordinated and aggressive, hit them like a sledgehamm
 
 Major Ellie Morse rolled her Talon onto a target, fired, watched it die, and immediately acquired another. Her wingman splashed two more in quick succession. The American squadron was moving through the Ryzak formation like sharks through a school of fish.
 
-> "Viper-Three, splash three and four. These guys are slow—they can't track us."
+> "Viper-Three, splash three and four. These guys are slow - they can't track us."
 
 > "Stay focused," Morse replied. "Don't get cocky. There are still a lot of them."
 
@@ -2750,9 +2750,9 @@ She was right. Despite the sudden reversal, despite the losses, the Ryzak had nu
 
 But the momentum had shifted.
 
-Major Tanaka Utsuho—"Okuu"—led her Japanese squadron in a slashing attack through the Ryzak right flank. Her element destroyed five interceptors in thirty seconds, plasma lances and missiles working in perfect coordination.
+Major Tanaka Utsuho - "Okuu" - led her Japanese squadron in a slashing attack through the Ryzak right flank. Her element destroyed five interceptors in thirty seconds, plasma lances and missiles working in perfect coordination.
 
-> "Hell Ravens, reform on me. Don't chase—stay disciplined. Let them come to us."
+> "Hell Ravens, reform on me. Don't chase - stay disciplined. Let them come to us."
 
 The doctrine was working. The Earth pilots had trained for this, drilled the tactics until they were instinctive. Stay in formation, support your wingman, engage decisively and break off before the enemy could respond.
 
@@ -2806,7 +2806,7 @@ HARBINGER's geometric form flickered.
 
 Chen's jaw tightened. They'd held for two hours. They had nearly five more to go before Third North Fleet arrived. And the Ryzak were grinding them down, ship by ship, fighter by fighter.
 
-> "Keep me updated. And HARBINGER—coordinate with the Earth squadrons. Make sure they understand they're not invincible. Those pilots are green, and they're going to make mistakes."
+> "Keep me updated. And HARBINGER - coordinate with the Earth squadrons. Make sure they understand they're not invincible. Those pilots are green, and they're going to make mistakes."
 
 > "Acknowledged, Commander."
 
@@ -2828,15 +2828,15 @@ Captain William Shaw stood on his bridge, watching the shield integrity readouts
 
 > "Shields at thirty-eight percent," the tactical officer reported. "Port generator is offline. Starboard generator is running at one hundred forty percent rated capacity and climbing."
 
-> "Reroute power from non-essential systems," Shaw ordered. "Life support, secondary lighting, crew quarters—strip it all. Feed those shields."
+> "Reroute power from non-essential systems," Shaw ordered. "Life support, secondary lighting, crew quarters - strip it all. Feed those shields."
 
 > "Aye, sir."
 
-The *Cardigan* shuddered as another volley of particle beams struck her shields. The Ryzak screening elements—two cruisers and four destroyers—had finally decided she was enough of an annoyance to warrant concentrated attention. They were coordinating their fire now, methodically wearing down her defenses.
+The *Cardigan* shuddered as another volley of particle beams struck her shields. The Ryzak screening elements - two cruisers and four destroyers - had finally decided she was enough of an annoyance to warrant concentrated attention. They were coordinating their fire now, methodically wearing down her defenses.
 
 > "Shields at thirty-one percent. Starboard generator temperature is redlining. Engineering reports imminent failure."
 
-Shaw looked at the tactical display. The carrier—*Storm Bringer*—was maintaining its shield projection to the *Wrath of Dominion*, keeping the Ryzak battleship alive despite concentrated fire from *Vanguard* and *Sentinel*. *Lord Cardigan* had been harassing it for nearly two hours, forcing it to divide its attention, preventing it from focusing entirely on shield projection.
+Shaw looked at the tactical display. The carrier - *Storm Bringer* - was maintaining its shield projection to the *Wrath of Dominion*, keeping the Ryzak battleship alive despite concentrated fire from *Vanguard* and *Sentinel*. *Lord Cardigan* had been harassing it for nearly two hours, forcing it to divide its attention, preventing it from focusing entirely on shield projection.
 
 But they'd done all they could do. The math was clear.
 
@@ -2866,7 +2866,7 @@ A concentrated barrage from both cruisers struck simultaneously. The shields fla
 
 The follow-up shots punched through bare armor.
 
-Plating buckled. Bulkheads ruptured. The hits weren't deep penetrations—*Cardigan* was too tough for that—but they were carving channels through her outer hull, destroying weapons mounts, sensor arrays, point defense turrets.
+Plating buckled. Bulkheads ruptured. The hits weren't deep penetrations - *Cardigan* was too tough for that - but they were carving channels through her outer hull, destroying weapons mounts, sensor arrays, point defense turrets.
 
 > "Hull breaches, sections nine, twelve, and fifteen. Emergency containment holding. We've lost two secondary batteries."
 
@@ -2892,11 +2892,11 @@ Shaw looked at his communications officer.
 
 Shaw nodded to the systems operator, who'd been waiting for this order since they'd started the engagement. The operator's hands moved across the console, pulling up a file that had been loaded into the ship's systems before they'd even left Jovian Shipyards.
 
-The opening notes of Iron Maiden's *The Trooper* began to play over the comm links—loud, defiant, unmistakably human.
+The opening notes of Iron Maiden's *The Trooper* began to play over the comm links - loud, defiant, unmistakably human.
 
 Shaw's voice cut through the music, carrying across every tactical channel in the engagement zone.
 
-> "All Federation and Earth forces, this is *Lord Cardigan*. We're withdrawing for repairs, but we're not done yet. Keep fighting. Keep shooting. And remember—we're defending Earth. They picked the wrong planet."
+> "All Federation and Earth forces, this is *Lord Cardigan*. We're withdrawing for repairs, but we're not done yet. Keep fighting. Keep shooting. And remember - we're defending Earth. They picked the wrong planet."
 
 The music swelled, Eddie's distinctive guitar riff cutting through the chaos of battle.
 
@@ -2937,11 +2937,11 @@ She was a wreck. But her engines still worked. Her jump drive still functioned. 
 
 Shaw keyed the ship-wide comm.
 
-> "All hands, this is the Captain. Disembark. That's an order. Engineering, damage control, gunnery crews—everyone. You have five minutes to get to the airlocks. Move."
+> "All hands, this is the Captain. Disembark. That's an order. Engineering, damage control, gunnery crews - everyone. You have five minutes to get to the airlocks. Move."
 
 There was a moment of stunned silence across the ship.
 
-> "Sir?" his XO, Commander Patricia Hayes, said quietly. "What are you—"
+> "Sir?" his XO, Commander Patricia Hayes, said quietly. "What are you - "
 
 > "You heard the order, Commander. Get the crew off this ship. Now."
 
@@ -2953,7 +2953,7 @@ Hayes looked at him, her expression shifting from confusion to understanding to 
 
 Hayes didn't move. She stood there, staring at Shaw.
 
-> "Sir, you can't—"
+> "Sir, you can't - "
 
 > "Commander, I'm not asking. I'm ordering. Get the crew to safety. They've earned it."
 
@@ -2973,7 +2973,7 @@ Hayes saluted, then turned and ran for the exit. Around the bridge, the remainin
 
 The evacuation took three minutes and forty-two seconds. Shaw watched the personnel indicators drop to zero on every section of the ship except the bridge. The airlocks sealed. The docking clamps released. Emergency crews at the shipyards were already pulling back, sensing something was about to happen.
 
-Shaw moved to the helm station and sat down, his hands settling on the controls. The interface was simple enough—he'd piloted smaller craft before, back when he was a lieutenant. A battleship wasn't that different. Just bigger. Much bigger.
+Shaw moved to the helm station and sat down, his hands settling on the controls. The interface was simple enough - he'd piloted smaller craft before, back when he was a lieutenant. A battleship wasn't that different. Just bigger. Much bigger.
 
 He pulled up the navigation computer, plotting a course back to the engagement zone. The system calculated the jump coordinates automatically, displaying the destination on his tactical overlay.
 
@@ -2987,13 +2987,13 @@ The navigation computer immediately flashed a warning in angry red text:
 
 Shaw stared at the warning for a moment, then reached out and overrode it. The system protested with another warning, then another. He overrode them all, manually confirming each safety interlock, each emergency protocol.
 
-The terminus point locked in. The crippled Ryzak carrier—the one that *Crimson Fang* had torn apart earlier in the engagement. The vessel was still technically intact, still venting atmosphere, still burning in compartments exposed to vacuum. Its shields were down. Its crew was evacuating.
+The terminus point locked in. The crippled Ryzak carrier - the one that *Crimson Fang* had torn apart earlier in the engagement. The vessel was still technically intact, still venting atmosphere, still burning in compartments exposed to vacuum. Its shields were down. Its crew was evacuating.
 
 And *Lord Cardigan* was going to jump directly into its midsection.
 
 Shaw pulled up the communications console, setting it to broadcast on all Federation channels.
 
-> "All Federation and Earth forces, this is Captain William Shaw, *Lord Cardigan*. To the crew who served with me—you made this ship proud. To everyone still fighting out there—hold the line. Earth is counting on you."
+> "All Federation and Earth forces, this is Captain William Shaw, *Lord Cardigan*. To the crew who served with me - you made this ship proud. To everyone still fighting out there - hold the line. Earth is counting on you."
 
 He paused, his hands steady on the controls.
 
@@ -3013,21 +3013,21 @@ Ryzak crew were evacuating in a steady stream, escape pods launching every few s
 
 Then space twisted.
 
-It began as a ripple, a distortion in the fabric of reality itself, appearing sixty meters inside the carrier's hull. The warp tunnel was opening, space-time folding to accommodate the incoming vessel, and the terminus point was locked precisely where Captain Shaw had set it—in the carrier's midsection, deep within the superstructure, surrounded by bulkheads and compartments and the skeletal framework that held the massive ship together.
+It began as a ripple, a distortion in the fabric of reality itself, appearing sixty meters inside the carrier's hull. The warp tunnel was opening, space-time folding to accommodate the incoming vessel, and the terminus point was locked precisely where Captain Shaw had set it - in the carrier's midsection, deep within the superstructure, surrounded by bulkheads and compartments and the skeletal framework that held the massive ship together.
 
 The *Lord Cardigan* emerged.
 
 Time seemed to slow, each microsecond stretching into subjective eternity as fifteen hundred meters of Federation battleship materialized inside Ryzak architecture.
 
-The bow appeared first, the reinforced prow designed to deflect micrometeorites and debris at high velocity. It emerged moving at relativistic speeds—the residual velocity imparted by the warp transition, a fraction of lightspeed translated into conventional space. The prow materialized occupying the same physical coordinates as a Ryzak bulkhead, and physics made its preference clear.
+The bow appeared first, the reinforced prow designed to deflect micrometeorites and debris at high velocity. It emerged moving at relativistic speeds - the residual velocity imparted by the warp transition, a fraction of lightspeed translated into conventional space. The prow materialized occupying the same physical coordinates as a Ryzak bulkhead, and physics made its preference clear.
 
 The bulkhead ceased to exist.
 
-Not shattered, not torn apart—simply *ceased*. The molecular bonds holding the Ryzak alloy together encountered an object attempting to occupy the same space, and the fundamental forces of reality rejected that impossibility. The matter didn't have time to compress, didn't have time to shear. It just stopped being in that location, its atoms scattered at the quantum level, disrupted beyond any possibility of cohesion.
+Not shattered, not torn apart - simply *ceased*. The molecular bonds holding the Ryzak alloy together encountered an object attempting to occupy the same space, and the fundamental forces of reality rejected that impossibility. The matter didn't have time to compress, didn't have time to shear. It just stopped being in that location, its atoms scattered at the quantum level, disrupted beyond any possibility of cohesion.
 
 The battleship continued forward, momentum carrying it deeper into the carrier's hull.
 
-More bulkheads vanished. Compartments full of equipment, ammunition, supplies—all of it encountering the impossible intrusion of a capital ship materializing inside them. Structural members that could support thousands of tons of force simply disappeared where the *Lord Cardigan*'s mass overlapped them. The carrier's internal architecture was being erased, frame by frame, as the battleship carved through it.
+More bulkheads vanished. Compartments full of equipment, ammunition, supplies - all of it encountering the impossible intrusion of a capital ship materializing inside them. Structural members that could support thousands of tons of force simply disappeared where the *Lord Cardigan*'s mass overlapped them. The carrier's internal architecture was being erased, frame by frame, as the battleship carved through it.
 
 But the *Lord Cardigan* was dying too.
 
@@ -3037,7 +3037,7 @@ Deeper still, the battleship plowed into the carrier's engineering section.
 
 The Ryzak power conduits, thick cables carrying energy from the reactor to the ship's systems, were sheared through. Raw power arced across the severed connections, brilliant white-hot plasma leaping between contacts before the automatic cutoffs could engage. Fuel lines ruptured, spraying volatile chemicals that ignited instantly in the presence of the electrical discharge.
 
-The carrier's spine—the central structural member running the length of the vessel—encountered the *Lord Cardigan*'s forward superstructure. Both were designed to be the strongest parts of their respective ships. Both were built to withstand forces that would tear lesser structures apart.
+The carrier's spine - the central structural member running the length of the vessel - encountered the *Lord Cardigan*'s forward superstructure. Both were designed to be the strongest parts of their respective ships. Both were built to withstand forces that would tear lesser structures apart.
 
 Neither survived the impact.
 
@@ -3045,7 +3045,7 @@ The spine shattered, stress fractures racing along its length in both directions
 
 But the *Lord Cardigan* was breaking too.
 
-Her forward sections were gone, crushed and scattered. The bridge where Captain Shaw sat—where he had sat—was compressed into a space too small to contain it, every system failing simultaneously, every surface collapsing inward. The middle sections were crumpling, each frame buckling as it encountered resistance, the battleship's own momentum working against her structural members.
+Her forward sections were gone, crushed and scattered. The bridge where Captain Shaw sat - where he had sat - was compressed into a space too small to contain it, every system failing simultaneously, every surface collapsing inward. The middle sections were crumpling, each frame buckling as it encountered resistance, the battleship's own momentum working against her structural members.
 
 And then the reactor containment failed.
 
@@ -3053,7 +3053,7 @@ The *Lord Cardigan*'s fusion core, already damaged from the earlier engagement, 
 
 The fusion reaction, no longer constrained, expanded.
 
-It happened in nanoseconds, but in the stretched subjective time of the catastrophe, each stage was distinct. The plasma—hydrogen heated to millions of degrees, compressed to the point where nuclei fused—expanded outward in a sphere. It encountered the reactor housing first, the reinforced walls designed to contain exactly this scenario. They held for a fraction of a second, directing the expanding plasma down the emergency venting channels.
+It happened in nanoseconds, but in the stretched subjective time of the catastrophe, each stage was distinct. The plasma - hydrogen heated to millions of degrees, compressed to the point where nuclei fused - expanded outward in a sphere. It encountered the reactor housing first, the reinforced walls designed to contain exactly this scenario. They held for a fraction of a second, directing the expanding plasma down the emergency venting channels.
 
 But this wasn't a controlled shutdown. This was total containment failure.
 
@@ -3071,11 +3071,11 @@ The combined detonation propagated outward in all directions simultaneously.
 
 Through the carrier's remaining structure, finding fuel reserves and ammunition stores, each new source of combustible material adding to the growing fireball. Through the *Lord Cardigan*'s aft sections, the battleship's stern separating from what remained of the forward hull, tumbling away even as it vaporized. Through the debris field already surrounding both ships, smaller fragments flash-heating to incandescence before sublimating into plasma themselves.
 
-The light was brilliant beyond description. Every wavelength from radio to gamma, the full electromagnetic spectrum released in a single pulse that traveled outward at the speed of light. The visible component—the light that human and Ryzak eyes could detect—was a brief, terrible white that outshone Jupiter itself for three full seconds.
+The light was brilliant beyond description. Every wavelength from radio to gamma, the full electromagnetic spectrum released in a single pulse that traveled outward at the speed of light. The visible component - the light that human and Ryzak eyes could detect - was a brief, terrible white that outshone Jupiter itself for three full seconds.
 
 From Galileo Station, seventy kilometers away, every external sensor automatically filtered the brightness, preventing the blast from saturating the detectors. The flash appeared as a new star in the tactical display, so bright it cast shadows in the operations center despite the distance.
 
-From the engagement zone, every pilot saw it. Federation Talons, Earth squadrons, Ryzak interceptors—all of them registered the detonation on their sensors, the massive energy spike that temporarily overwhelmed their detection systems.
+From the engagement zone, every pilot saw it. Federation Talons, Earth squadrons, Ryzak interceptors - all of them registered the detonation on their sensors, the massive energy spike that temporarily overwhelmed their detection systems.
 
 And then, as quickly as it had appeared, the light began to fade.
 
@@ -3103,7 +3103,7 @@ Aboard *Vanguard*, Captain Anderson watched the tactical display update as the b
 
 The tactical officer pulled up the revised fleet composition.
 
-> "The remaining Ryzak carrier—*Storm Bringer*—can no longer maintain shield projection to their battleship and full launch tempo simultaneously. They'll have to choose between sustaining the *Wrath of Dominion* or continuing to deploy interceptors."
+> "The remaining Ryzak carrier - *Storm Bringer* - can no longer maintain shield projection to their battleship and full launch tempo simultaneously. They'll have to choose between sustaining the *Wrath of Dominion* or continuing to deploy interceptors."
 
 > "And which are they choosing?"
 
@@ -3125,7 +3125,7 @@ The math should have favored the Federation. Should have.
 
 But the stalemate had held for nearly forty minutes now, both sides pouring fire into each other, neither able to achieve a decisive advantage. *Vanguard* and *Sentinel* couldn't break through the shield projection fast enough, and the *Wrath of Dominion* couldn't maneuver aggressively enough to force either Federation ship out of the fight.
 
-> "Sir, new contact," the sensor operator called out. "Multiple launches from *Storm Bringer*. Not interceptors—these are bigger. Reading them as bomber-class craft."
+> "Sir, new contact," the sensor operator called out. "Multiple launches from *Storm Bringer*. Not interceptors - these are bigger. Reading them as bomber-class craft."
 
 Anderson felt ice settle in his stomach.
 
@@ -3143,7 +3143,7 @@ Anderson pulled up the tactical plot. The bombers were moving in formation, prot
 
 Nobody was in position to stop twelve bombers from reaching *Vanguard*.
 
-> "Helm, evasive pattern gamma. Point defense, prioritize anti-bomber protocols. *Sentinel*, this is *Vanguard*—we have bombers inbound, vector two-seven-three. Recommend evasive maneuvers."
+> "Helm, evasive pattern gamma. Point defense, prioritize anti-bomber protocols. *Sentinel*, this is *Vanguard* - we have bombers inbound, vector two-seven-three. Recommend evasive maneuvers."
 
 The response from *Sentinel*'s captain came immediately.
 
@@ -3165,7 +3165,7 @@ Lieutenant Miguel Freitas heard the call and checked his tactical display. His e
 
 > "Delta-Four, on your six."
 
-The four Portuguese Talons disengaged from the interceptor fight, their engines burning hard as they accelerated toward the new threat. Miguel's HUD showed the bomber formation—twelve heavy craft, each one carrying torpedo loads that could cripple a battleship.
+The four Portuguese Talons disengaged from the interceptor fight, their engines burning hard as they accelerated toward the new threat. Miguel's HUD showed the bomber formation - twelve heavy craft, each one carrying torpedo loads that could cripple a battleship.
 
 He also saw the Ryzak screening elements between his flight and the bombers. Three destroyers, positioned specifically to prevent exactly what he was attempting.
 
@@ -3183,7 +3183,7 @@ Miguel armed his weapons and pushed his throttle forward.
 
 ---
 
-Aboard *Vanguard*, Captain Anderson watched the tactical display as multiple Talon elements broke from the interceptor engagement and vectored toward the bomber formation. Portuguese, American, Japanese—all of them responding to the call, trying to reach the bombers before they could launch.
+Aboard *Vanguard*, Captain Anderson watched the tactical display as multiple Talon elements broke from the interceptor engagement and vectored toward the bomber formation. Portuguese, American, Japanese - all of them responding to the call, trying to reach the bombers before they could launch.
 
 But the Ryzak screen was holding. The destroyers' point defense was active, creating kill zones that the Talons would have to fly through. Some would make it. Some wouldn't.
 
@@ -3195,7 +3195,7 @@ But the Ryzak screen was holding. The destroyers' point defense was active, crea
 
 The bombers continued their approach, now ninety seconds from launch range.
 
-On the tactical display, Anderson watched the Portuguese element—Delta Flight—launch their missiles at the lead destroyer. Sixteen weapons, spreading as they tracked toward the target. The destroyer's point defense engaged, railgun turrets tracking, firing. The first missile died, then the second, then four more.
+On the tactical display, Anderson watched the Portuguese element - Delta Flight - launch their missiles at the lead destroyer. Sixteen weapons, spreading as they tracked toward the target. The destroyer's point defense engaged, railgun turrets tracking, firing. The first missile died, then the second, then four more.
 
 But ten made it through.
 
@@ -3209,7 +3209,7 @@ But there were still eight bombers, and they were in launch range.
 
 > "Bombers launching torpedoes!" the sensor operator called out. "Multiple weapons, inbound on our position!"
 
-The tactical display lit up with red icons—capital ship torpedoes, each one carrying warheads designed to punch through battleship armor. Twenty-four weapons total, spread across two salvos targeting both *Vanguard* and *Sentinel*.
+The tactical display lit up with red icons - capital ship torpedoes, each one carrying warheads designed to punch through battleship armor. Twenty-four weapons total, spread across two salvos targeting both *Vanguard* and *Sentinel*.
 
 > "Point defense, engage! All batteries, maximum rate!"
 
@@ -3233,11 +3233,11 @@ Anderson gripped his command chair as the ship bucked beneath him.
 
 > "Damage report!"
 
-> "Port side is compromised, sir. We've got structural damage to the main frame, shields are failing in multiple quadrants. Engineering reports—" the officer's voice cut off as another alarm sounded. "Sir, we've got containment warnings in the reactor section. The damage is affecting coolant flow."
+> "Port side is compromised, sir. We've got structural damage to the main frame, shields are failing in multiple quadrants. Engineering reports - " the officer's voice cut off as another alarm sounded. "Sir, we've got containment warnings in the reactor section. The damage is affecting coolant flow."
 
 > "Can they stabilize it?"
 
-> "They're trying, sir, but if we take another hit in that area—"
+> "They're trying, sir, but if we take another hit in that area - "
 
 Anderson looked at the tactical display. *Sentinel* had taken torpedo hits as well, her shields failing, her hull showing damage indicators across multiple sections. Both Federation battleships were hurt, their combat effectiveness degrading rapidly.
 
@@ -3257,7 +3257,7 @@ Four hours. They'd held for nearly three already. Four more seemed impossible.
 
 Another proximity alarm shrieked. The bombers were lining up for a second attack run.
 
-> "Helm, set course for Jovian Shipyards. Maximum velocity. *Sentinel*, this is *Vanguard*—we're withdrawing for emergency repairs. Recommend you do the same."
+> "Helm, set course for Jovian Shipyards. Maximum velocity. *Sentinel*, this is *Vanguard* - we're withdrawing for emergency repairs. Recommend you do the same."
 
 There was a pause, then *Sentinel*'s captain responded.
 
@@ -3325,11 +3325,11 @@ Chen looked at the reinforcement timer.
 
 **TIME TO REINFORCEMENTS: 04:11:33**
 
-Four hours until Third North Fleet arrived. The Ryzak could reach Earth in less than that. They could establish orbital positions, begin bombardment operations, and Earth's defenses—conventional military forces with no experience fighting capital ships—would be helpless.
+Four hours until Third North Fleet arrived. The Ryzak could reach Earth in less than that. They could establish orbital positions, begin bombardment operations, and Earth's defenses - conventional military forces with no experience fighting capital ships - would be helpless.
 
 Billions of people. Defenseless.
 
-> "Ma'am," Webb called out, his voice tight. "The Ryzak formation is moving. They're... they're accelerating. Vector confirms—they're heading for Earth."
+> "Ma'am," Webb called out, his voice tight. "The Ryzak formation is moving. They're... they're accelerating. Vector confirms - they're heading for Earth."
 
 Chen watched the red icons on the display begin to move, pulling away from the beacon, orienting toward the inner system. The battleship, the carrier, all the screening elements. Moving together, accelerating steadily.
 
@@ -3357,7 +3357,7 @@ FLYCATCHER.
 
 There was a pause. The AI's geometric form flickered, processing.
 
-> "FLYCATCHER is installed and theoretically operational. However, Commander, I must remind you that the system has never been tested under combat conditions. The theoretical models suggest significant risk—"
+> "FLYCATCHER is installed and theoretically operational. However, Commander, I must remind you that the system has never been tested under combat conditions. The theoretical models suggest significant risk - "
 
 > "I don't need the safety briefing. I need to know if it will work."
 
@@ -3367,7 +3367,7 @@ Another pause.
 
 > "And if it works, what's the effective range?"
 
-> "Projected disruption field radius: two hundred fifty kilometers, centered on Galileo Station. All vessels within this sphere will be unable to form stable warp tunnels. Duration is dependent on power reserves—estimated operational time is four hours before primary systems begin to fail."
+> "Projected disruption field radius: two hundred fifty kilometers, centered on Galileo Station. All vessels within this sphere will be unable to form stable warp tunnels. Duration is dependent on power reserves - estimated operational time is four hours before primary systems begin to fail."
 
 Chen looked at the tactical display. The Ryzak fleet was still accelerating, warp signatures building. In less than two minutes, they'd jump. And once they were in warp, nothing could stop them from reaching Earth.
 
@@ -3381,7 +3381,7 @@ The math was brutal. But it was the only option left.
 
 Webb looked at her, his eyes wide.
 
-> "Ma'am, are you sure? If this fails—"
+> "Ma'am, are you sure? If this fails - "
 
 > "If this fails, we're in the same situation we're in now. If it works, we buy four hours. That's all we need."
 
@@ -3417,7 +3417,7 @@ The change was instantaneous. Every object not secured to a surface suddenly had
 
 But the real effect was external.
 
-A sphere of distorted space-time expanded outward from the station at the speed of light, two hundred fifty kilometers in radius, a bubble of chaotic gravitational noise. Not a physical barrier—ships could still maneuver through it, still fire weapons, still operate normally.
+A sphere of distorted space-time expanded outward from the station at the speed of light, two hundred fifty kilometers in radius, a bubble of chaotic gravitational noise. Not a physical barrier - ships could still maneuver through it, still fire weapons, still operate normally.
 
 But warp drives required stable space-time to function. They needed to fold reality in precise, calculable ways. The FLYCATCHER field made that impossible. Every point in space within the sphere was experiencing random gravitational fluctuations, making it impossible to form the stable tunnel needed for faster-than-light travel.
 
@@ -3425,7 +3425,7 @@ Aboard the *Wrath of Dominion*, alarms shrieked.
 
 The battleship's warp drive, fully charged and ready to engage, suddenly detected catastrophic instability in the surrounding space-time. Safety protocols engaged automatically, dumping power, shutting down the drive before it could tear the ship apart.
 
-Across the Ryzak fleet, the same thing happened. Every ship, from the carrier *Storm Bringer* to the smallest destroyer, experienced simultaneous warp drive failure. Not damage—the drives were fine. But the space around them had become impossible to navigate at faster-than-light speeds.
+Across the Ryzak fleet, the same thing happened. Every ship, from the carrier *Storm Bringer* to the smallest destroyer, experienced simultaneous warp drive failure. Not damage - the drives were fine. But the space around them had become impossible to navigate at faster-than-light speeds.
 
 They were trapped.
 
@@ -3445,7 +3445,7 @@ Commander Chen floated in Galileo Station's operations center, her magnetic boot
 
 Together with every Federation and Earth asset in the system.
 
-> "FLYCATCHER is active," HARBINGER reported. "Disruption field stable at two hundred fifty kilometers radius. Ryzak fleet vector change detected—they are reorienting toward the station."
+> "FLYCATCHER is active," HARBINGER reported. "Disruption field stable at two hundred fifty kilometers radius. Ryzak fleet vector change detected - they are reorienting toward the station."
 
 Of course they were. Chen had just trapped them, prevented them from reaching Earth. They couldn't ignore that.
 
@@ -3515,7 +3515,7 @@ Miguel's mind raced through the implications. No warp capability meant no jumpin
 
 But fighters were different.
 
-Talons were fast at sublight speeds. The disruption field was 250 kilometers in radius. At maximum thrust, a Talon could clear that distance in—Miguel ran the quick calculation—eight, maybe nine minutes. Exit the field, warp drive would come back online, jump to the yards, rearm, jump back, re-enter the field at sublight.
+Talons were fast at sublight speeds. The disruption field was 250 kilometers in radius. At maximum thrust, a Talon could clear that distance in - Miguel ran the quick calculation - eight, maybe nine minutes. Exit the field, warp drive would come back online, jump to the yards, rearm, jump back, re-enter the field at sublight.
 
 It would take longer than the previous instant jump-out protocol. Much longer. But it was still viable.
 
@@ -3535,9 +3535,9 @@ There was a brief pause, then HARBINGER's voice came through, carrying what migh
 
 Then Major Ellie Morse's voice cut through the net, sharp and focused.
 
-> "All squadrons, this is Viper Lead. The Ryzak just lost warp capability same as us. Check your sensors—they're showing confusion in their formation. Their bombers are exposed, no screening elements in position. This is our window. Hit them now while they're sorting themselves out."
+> "All squadrons, this is Viper Lead. The Ryzak just lost warp capability same as us. Check your sensors - they're showing confusion in their formation. Their bombers are exposed, no screening elements in position. This is our window. Hit them now while they're sorting themselves out."
 
-Miguel pulled up his tactical display and felt a surge of understanding. The Ryzak fleet had been accelerating for warp jump, their formation optimized for transit rather than combat. The bombers—eight surviving craft loaded with capital ship torpedoes—were positioned behind the screening elements but ahead of the main battle line.
+Miguel pulled up his tactical display and felt a surge of understanding. The Ryzak fleet had been accelerating for warp jump, their formation optimized for transit rather than combat. The bombers - eight surviving craft loaded with capital ship torpedoes - were positioned behind the screening elements but ahead of the main battle line.
 
 And now the Ryzak were dealing with sudden, unexpected warp drive failure across their entire fleet. Alarms would be shrieking on every ship. Crews would be checking systems, running diagnostics, trying to understand what had just happened.
 
@@ -3553,7 +3553,7 @@ And the bombers were exposed.
 
 > "Delta-Four, weapons hot."
 
-Across the engagement zone, every Talon squadron received the same realization. Portuguese, American, Japanese—all of them seeing the same opportunity, all of them vectoring toward the exposed bomber formation.
+Across the engagement zone, every Talon squadron received the same realization. Portuguese, American, Japanese - all of them seeing the same opportunity, all of them vectoring toward the exposed bomber formation.
 
 Sixty-one Earth Talons, plus the twenty-seven Federation fighters that had just finished resupply rotation. Eighty-eight fighters total, converging on eight bombers.
 
@@ -3563,7 +3563,7 @@ The math was suddenly very favorable.
 
 Aboard the Ryzak bomber *Deathbringer*, pilot Kresh'mar was still trying to understand the warp drive failure when his threat receiver shrieked a warning.
 
-Multiple contacts. Small, fast, closing from multiple vectors. His tactical display lit up with targeting locks—dozens of them, all focused on his bomber group.
+Multiple contacts. Small, fast, closing from multiple vectors. His tactical display lit up with targeting locks - dozens of them, all focused on his bomber group.
 
 The Federation fighters. All of them. Coming in coordinated attack.
 
@@ -3573,7 +3573,7 @@ But the escort destroyers were still reorienting, still processing their own war
 
 The bombers were alone.
 
-Kresh'mar threw his craft into a hard turn, his secondary eyelids flickering as g-forces compressed his body. Bombers weren't built for this kind of maneuvering—they were heavy, designed for straight attack runs against capital ships, not dogfighting with interceptors.
+Kresh'mar threw his craft into a hard turn, his secondary eyelids flickering as g-forces compressed his body. Bombers weren't built for this kind of maneuvering - they were heavy, designed for straight attack runs against capital ships, not dogfighting with interceptors.
 
 His threat receiver was solid red now. Missile locks. Energy weapon locks. The Federation fighters were firing.
 
@@ -3597,7 +3597,7 @@ Major Morse rolled her Talon onto a bomber trying to dive away from the furball,
 
 > "Viper-One, splash two. Hell Ravens, I count three more bombers still active. Let's clean this up."
 
-Major Tanaka—"Okuu"—led her Japanese squadron in a coordinated strike on a bomber that had managed to gain some separation from the pack. Sixteen Talons, firing in sequence, overwhelming the bomber's point defense through sheer volume of fire. The bomber lasted three seconds before its shields failed and multiple plasma lances found critical systems.
+Major Tanaka - "Okuu" - led her Japanese squadron in a coordinated strike on a bomber that had managed to gain some separation from the pack. Sixteen Talons, firing in sequence, overwhelming the bomber's point defense through sheer volume of fire. The bomber lasted three seconds before its shields failed and multiple plasma lances found critical systems.
 
 > "Hell Raven Lead, that's four down. Five. Six."
 
@@ -3609,7 +3609,7 @@ The bomber died in a crossfire of plasma lances, its hull coming apart in sectio
 
 > "All bombers destroyed," HARBINGER reported over the tactical net, its voice carrying a note of satisfaction. "Ryzak heavy strike capability neutralized. Galileo Station threat level reduced significantly."
 
-Miguel checked his tactical display. Where eight bomber icons had been thirty seconds ago, there was now just debris. The Ryzak fleet was still there—battleship, carrier, cruisers, destroyers—but their ability to deliver decisive strikes against the station had been eliminated.
+Miguel checked his tactical display. Where eight bomber icons had been thirty seconds ago, there was now just debris. The Ryzak fleet was still there - battleship, carrier, cruisers, destroyers - but their ability to deliver decisive strikes against the station had been eliminated.
 
 > "All Talon squadrons, this is Station Command," Commander Chen's voice came through, steady despite the zero-gravity environment she was operating in. "Excellent work. Regroup and establish defensive perimeter around Galileo Station. The Ryzak will be coming for us now. Make them pay for every meter."
 
@@ -3643,7 +3643,7 @@ And the station was losing.
 
 > "Commander, another hit on section seven," Lieutenant Webb reported, his voice carrying the strain of hours in zero gravity. "Shields absorbed it, but we're down to sixty-two percent capacity. Engineering is requesting additional power."
 
-Chen pulled up the power distribution overlay. Every system on the station was already running hot, pushed beyond normal operational parameters. The gravity generator that had been inverted to create the FLYCATCHER field was drawing massive amounts of power. Life support, shields, weapons, sensors—all competing for limited reactor output.
+Chen pulled up the power distribution overlay. Every system on the station was already running hot, pushed beyond normal operational parameters. The gravity generator that had been inverted to create the FLYCATCHER field was drawing massive amounts of power. Life support, shields, weapons, sensors - all competing for limited reactor output.
 
 > "Reroute from non-essential systems. Environmental controls in the habitation sections, reduce to minimum. Strip power from anywhere that won't kill us immediately."
 
@@ -3651,7 +3651,7 @@ Chen pulled up the power distribution overlay. Every system on the station was a
 
 One hundred twenty-five percent. Chen had worked in engineering before her command track. She knew what that meant. Reactor cores running at temperatures they weren't designed to sustain. Cooling systems struggling to keep up. Power conduits stressed beyond their specifications.
 
-If they maintained this output much longer, systems would start failing. Not from enemy fire—from simple thermal overload.
+If they maintained this output much longer, systems would start failing. Not from enemy fire - from simple thermal overload.
 
 > "How long can we sustain one-twenty-five?"
 
@@ -3675,7 +3675,7 @@ Another impact shuddered through the station, the particle beam from the *Wrath 
 
 > "Sixty-one operational. We've lost twenty-seven over the past three hours. Most are rotating through resupply at Jovian Shipyards, but the cycle time means we've only got about forty fighters in the engagement zone at any given moment."
 
-Sixty-one operational. Chen remembered when Earth's squadrons had arrived—fresh, eager, untested. Eighty-eight Talons total. Now they were down to sixty-one, and that number kept dropping.
+Sixty-one operational. Chen remembered when Earth's squadrons had arrived - fresh, eager, untested. Eighty-eight Talons total. Now they were down to sixty-one, and that number kept dropping.
 
 Every fifteen or twenty minutes, another icon would blink out on the tactical display. A Ryzak interceptor would get a lucky shot. A destroyer's point defense would track just fast enough. A pilot would make a mistake, push too hard, misjudge a vector.
 
@@ -3725,7 +3725,7 @@ But if they realized how close it was, if they understood the Federation reinfor
 
 > "Options to extend shield duration?"
 
-> "We can increase power to shields, but this will accelerate reactor stress. Engineering estimates complete powerplant failure would occur in approximately ninety-eight minutes under increased load. Alternatively, we can maintain current power distribution and accept shield failure at fifty-three minutes. The optimal scenario requires precise timing—maintaining current configuration until Third North Fleet arrival provides highest probability of station survival."
+> "We can increase power to shields, but this will accelerate reactor stress. Engineering estimates complete powerplant failure would occur in approximately ninety-eight minutes under increased load. Alternatively, we can maintain current power distribution and accept shield failure at fifty-three minutes. The optimal scenario requires precise timing - maintaining current configuration until Third North Fleet arrival provides highest probability of station survival."
 
 So the math was tight, but viable. They just needed the Ryzak to keep doing exactly what they were doing for forty-four more minutes.
 
@@ -3801,13 +3801,13 @@ Chen felt something that might have been relief, or might have been disbelief, w
 
 They'd shaved eleven minutes off their arrival time.
 
-> "Admiral Trager, this is Commander Chen. Galileo Station reads you loud and clear. Be advised, we have FLYCATCHER active—warp disruption field, two hundred fifty kilometer radius centered on this station. The beacon is inside the field. You'll be jumping directly into the disruption zone."
+> "Admiral Trager, this is Commander Chen. Galileo Station reads you loud and clear. Be advised, we have FLYCATCHER active - warp disruption field, two hundred fifty kilometer radius centered on this station. The beacon is inside the field. You'll be jumping directly into the disruption zone."
 
 > "Understood, Station. So we're all stuck together once we arrive. Good. Makes it easier to sort out who's friendly. Tactical update: we're coming in with full combat deployment. Nineteen warships, full ammunition loadout, crews rested and ready. What's your situation?"
 
 Chen pulled up the tactical summary, the display showing the battered state of Galileo Station, the sixty-one remaining Talons scattered across the engagement zone, the Ryzak fleet still hammering at the station's shields.
 
-> "Station shields at thirty-six percent and dropping. We've lost twenty-seven Talons over the past three hours. Ryzak fleet composition: one battleship, one carrier, two cruisers, four destroyers, numerous interceptors. The battleship is being sustained by carrier shield projection—they've been working in tandem for the entire engagement."
+> "Station shields at thirty-six percent and dropping. We've lost twenty-seven Talons over the past three hours. Ryzak fleet composition: one battleship, one carrier, two cruisers, four destroyers, numerous interceptors. The battleship is being sustained by carrier shield projection - they've been working in tandem for the entire engagement."
 
 > "Copy that. We'll deal with the carrier first, cut off their shield support. *In Amber Clad*'s strike wings are already prepped for immediate launch. ETA to your position: five minutes to bridge transit, then... HARBINGER, you reading this?"
 
@@ -3881,7 +3881,7 @@ But now it didn't matter. The clock was running, and it was running in the Feder
 
 Four minutes and thirty-seven seconds.
 
-Major Tanaka Utsuho—"Okuu"—had been in her Talon's cockpit for over three hours, her flight suit recycling sweat, her hands steady on the controls despite the exhaustion. The Hell Ravens had lost three pilots over the siege. Three empty slots in the formation that would need to be filled by replacements who would never know the people who'd flown in those positions.
+Major Tanaka Utsuho - "Okuu" - had been in her Talon's cockpit for over three hours, her flight suit recycling sweat, her hands steady on the controls despite the exhaustion. The Hell Ravens had lost three pilots over the siege. Three empty slots in the formation that would need to be filled by replacements who would never know the people who'd flown in those positions.
 
 Then HARBINGER's voice cut through every channel simultaneously.
 
@@ -3955,7 +3955,7 @@ One round found the reactor section.
 
 The *Wrath of Dominion* detonated.
 
-Not catastrophically—the reactor had automatic shutdown protocols, and they engaged before total containment failure. But the damage was done. The battleship's spine broke, the structural framework unable to withstand the penetration and subsequent internal explosions. The ship came apart in three large sections, atmosphere venting, systems failing, escape pods jettisoning in all directions.
+Not catastrophically - the reactor had automatic shutdown protocols, and they engaged before total containment failure. But the damage was done. The battleship's spine broke, the structural framework unable to withstand the penetration and subsequent internal explosions. The ship came apart in three large sections, atmosphere venting, systems failing, escape pods jettisoning in all directions.
 
 Eleven seconds. That's how long the *Wrath of Dominion* survived against Third North Fleet's concentrated fire.
 
@@ -3979,11 +3979,11 @@ The carrier's shields collapsed entirely.
 
 Missiles struck bare hull, shaped-charge warheads detonating against armor. Particle beams carved through the carrier's superstructure, burning through launch bays, through fuel reserves, through the ship's vital systems.
 
-The *Storm Bringer* tried to maneuver, tried to gain distance, but it was a carrier—large, slow, designed for launching fighters, not for capital ship combat. The Federation cruisers matched its every move, their targeting computers tracking perfectly, their weapons never stopping.
+The *Storm Bringer* tried to maneuver, tried to gain distance, but it was a carrier - large, slow, designed for launching fighters, not for capital ship combat. The Federation cruisers matched its every move, their targeting computers tracking perfectly, their weapons never stopping.
 
 The carrier's reactor went critical.
 
-The explosion was smaller than the *Worldbreaker*'s detonation—the *Lord Cardigan* had ensured that one would be memorable—but it was still brilliant against the black, still visible from Galileo Station seventy kilometers away.
+The explosion was smaller than the *Worldbreaker*'s detonation - the *Lord Cardigan* had ensured that one would be memorable - but it was still brilliant against the black, still visible from Galileo Station seventy kilometers away.
 
 When the light faded, the carrier was gone.
 
@@ -4013,7 +4013,7 @@ She keyed her squadron channel.
 
 > "Hell Ravens, you heard the Admiral. We're done. Form up on me. Let's go home."
 
-The Japanese Talons turned toward Galileo Station, engines burning, leaving the battle behind them. Around them, other squadrons were doing the same. Portuguese, American, Federation—all of them vectoring toward the station, all of them standing down.
+The Japanese Talons turned toward Galileo Station, engines burning, leaving the battle behind them. Around them, other squadrons were doing the same. Portuguese, American, Federation - all of them vectoring toward the station, all of them standing down.
 
 Behind them, Third North Fleet continued its work, hunting down the last Ryzak vessels, eliminating the threat, ensuring that nothing would threaten Earth.
 
@@ -4045,7 +4045,7 @@ The Talon settled onto its designated pad with a barely perceptible thump, magne
 
 Then he reached up and initiated the canopy release.
 
-The seal broke with a hiss of equalizing pressure. The canopy rose, and Miguel was suddenly hit with the smell of the docking bay—coolant, hydraulic fluid, hot metal, the recycled air of a space station that had just spent hours under siege. It smelled real in a way that his cockpit's filtered atmosphere hadn't.
+The seal broke with a hiss of equalizing pressure. The canopy rose, and Miguel was suddenly hit with the smell of the docking bay - coolant, hydraulic fluid, hot metal, the recycled air of a space station that had just spent hours under siege. It smelled real in a way that his cockpit's filtered atmosphere hadn't.
 
 He pulled off his helmet, running a hand through sweat-soaked hair, and started the process of disconnecting from the Talon's systems. Umbilicals, data links, the restraint harness that had kept him locked in place through hours of high-G maneuvers. Each connection separated with mechanical clicks that sounded too normal, too mundane for what they'd just survived.
 
@@ -4083,7 +4083,7 @@ They'd done it. Twenty-five Portuguese Talons had launched from this station. Tw
 
 Three empty slots that would need to be filled.
 
-Miguel turned away from his fighter and started walking toward the debriefing area, joining the flow of other pilots making the same journey. Around him, he could hear conversations in multiple languages—Portuguese, English, Japanese, and the Federation pilots speaking English with accents he couldn't quite place.
+Miguel turned away from his fighter and started walking toward the debriefing area, joining the flow of other pilots making the same journey. Around him, he could hear conversations in multiple languages - Portuguese, English, Japanese, and the Federation pilots speaking English with accents he couldn't quite place.
 
 This was the first time Earth's nations had fought together in space. The first time they'd seen each other as allies rather than competitors.
 
@@ -4095,11 +4095,11 @@ Major Ellie Morse climbed out of her Talon feeling like she'd just run a maratho
 
 But she was alive. Her squadron was alive. Most of them, anyway.
 
-She pulled off her helmet and tucked it under one arm, scanning the docking bay for her pilots. The Vipers were scattered across several pads, their Talons showing the wear of extended combat—scorched paint, depleted weapons, the general look of fighters that had been pushed to their limits.
+She pulled off her helmet and tucked it under one arm, scanning the docking bay for her pilots. The Vipers were scattered across several pads, their Talons showing the wear of extended combat - scorched paint, depleted weapons, the general look of fighters that had been pushed to their limits.
 
 > "Major Morse!"
 
-One of her pilots—Jenkins, she thought, though exhaustion was making names harder to recall—was waving from across the bay. She headed in that direction, weaving between ground crews and other pilots.
+One of her pilots - Jenkins, she thought, though exhaustion was making names harder to recall - was waving from across the bay. She headed in that direction, weaving between ground crews and other pilots.
 
 The American section of the docking bay was organized chaos. Twenty Talons had launched. Eighteen had returned. The two empty pads stood out like missing teeth, their magnetic clamps idle, their approach lights dark.
 
@@ -4121,7 +4121,7 @@ The pilots nodded, the exhaustion on their faces mixing with grief that they wer
 
 Morse looked around the docking bay, seeing the same scene repeated across different national sections. Pilots exhausted, relieved, grieving. Ground crews working efficiently despite their own exhaustion. The organized chaos of a military unit that had just survived combat.
 
-Her eyes caught movement near the Japanese section of the bay, and she recognized the distinctive nose art of one of the Hell Ravens' Talons. The image was striking—a grinning anime girl with raven wings spreading from her back and what looked like a nuclear cannon mounted on her right arm. The character had a determined, almost manic expression that seemed both playful and fierce.
+Her eyes caught movement near the Japanese section of the bay, and she recognized the distinctive nose art of one of the Hell Ravens' Talons. The image was striking - a grinning anime girl with raven wings spreading from her back and what looked like a nuclear cannon mounted on her right arm. The character had a determined, almost manic expression that seemed both playful and fierce.
 
 The pilot climbing down from that particular Talon moved with the same controlled exhaustion as everyone else, but there was something in her posture that suggested she was processing the experience differently. More internally. Less visible.
 
@@ -4133,7 +4133,7 @@ Seemed like they should at least meet face-to-face.
 
 ---
 
-Okuu stood beside her Talon, one hand resting on the fuselage, looking up at the nose art that had become something of a signature for her fighter. The maintenance crew had done excellent work recreating the character from the game she'd referenced—Utsuho Reiuji from Touhou, nuclear-powered hell raven, grinning with fierce determination and armed with impossible firepower.
+Okuu stood beside her Talon, one hand resting on the fuselage, looking up at the nose art that had become something of a signature for her fighter. The maintenance crew had done excellent work recreating the character from the game she'd referenced - Utsuho Reiuji from Touhou, nuclear-powered hell raven, grinning with fierce determination and armed with impossible firepower.
 
 It had started as a joke during training. Her instructors had pointed out the similarity between her name and the character. The nose art had followed naturally. Now, looking at it after nearly four hours of combat, it felt appropriate in ways she hadn't expected.
 
@@ -4141,7 +4141,7 @@ She'd fought with nuclear-grade determination today. They all had.
 
 > "That's distinctive artwork."
 
-Okuu turned to find an American pilot approaching—the insignia on her flight suit marking her as a Major. Blonde hair pulled back in a regulation bun, face showing the same exhaustion everyone was feeling, but eyes alert and assessing.
+Okuu turned to find an American pilot approaching - the insignia on her flight suit marking her as a Major. Blonde hair pulled back in a regulation bun, face showing the same exhaustion everyone was feeling, but eyes alert and assessing.
 
 > "Major Tanaka Utsuho," Okuu said, offering a slight bow that was more reflex than conscious decision. "Hell Ravens squadron leader."
 
@@ -4179,7 +4179,7 @@ Okuu pushed away from her Talon, feeling the exhaustion in her legs but refusing
 
 > "Let's go introduce ourselves," she said. "Before debriefing pulls us in different directions."
 
-Morse nodded, and the two of them started walking toward the Federation section of the docking bay, where pilots were finishing their own post-flight procedures. Around them, the docking bay continued its organized chaos—ground crews, medical personnel, officers coordinating the aftermath of a battle that had ended just minutes ago.
+Morse nodded, and the two of them started walking toward the Federation section of the docking bay, where pilots were finishing their own post-flight procedures. Around them, the docking bay continued its organized chaos - ground crews, medical personnel, officers coordinating the aftermath of a battle that had ended just minutes ago.
 
 Behind them, Okuu's Talon sat on its pad, the grinning hell raven on its nose watching over the bay with fierce determination, nuclear cannon at the ready.
 
@@ -4189,9 +4189,33 @@ But the story of what they'd accomplished together was just beginning.
 
 ---
 
+Lieutenant Miguel Freitas brought his Talon down onto Portuguese soil with the same precision he'd used landing at Galileo Station twenty-six hours earlier. The approach had been routine - standard re-entry from orbit, descent through European airspace, final approach to the base he'd trained at for eighteen months before deploying to Jupiter.
+
+But nothing felt routine anymore.
+
+The Portuguese Talons landed in sequence - Delta, Echo, and the rest - twenty-two fighters finding their assigned positions on the apron. Twenty-two where twenty-five had launched. Captain Ramos led them in, Miguel flying wing, the formation tight despite the exhaustion that weighed on every pilot.
+
+When Miguel's landing gear touched concrete, he felt something release in his chest. Earth. Home. Real gravity, real air, real ground beneath him.
+
+He'd made it.
+
+The ground crews were waiting, along with what looked like half the base personnel. Miguel could see the Portuguese Air Force Chief of Staff, senior officers in dress uniform, and rows of personnel standing at attention. An honor guard, he realized. For pilots returning from... what? A classified mission no one could explain yet.
+
+But they knew it had been important.
+
+Miguel went through the shutdown procedure, opened the canopy, pulled off his helmet. The Portuguese air hit him - familiar smells, familiar temperature, the particular feeling of being home that he hadn't realized he'd missed until this moment.
+
+He climbed down from his Talon, boots hitting Portuguese concrete, and joined the other pilots forming up. Captain Ramos at the front, Delta Flight behind him, the other squadrons falling in.
+
+Welcome speech, medical examination, debrief. All before he was allowed near his phone again. 73 messages, 106 missed calls, from his sister Sofia, from his parents, from Maria, his girlfriend - it all blurred together. He jabbed at one of the call logs.
+
+> "Hi Sofia. ... Yes, I'm home. ... I missed you too."
+
+---
+
 The White House Situation Room had been in a state of controlled tension for the past eight hours.
 
-President Donald Trump sat at the head of the table, flanked by his Chief of Staff and National Security Advisor. The Joint Chiefs of Staff occupied the remaining seats—Army, Navy, Air Force, Marines, Space Force, and Coast Guard. Each one had been monitoring the situation through carefully curated briefings, filtered intelligence reports, and the occasional update from defense satellites that had picked up anomalous energy signatures near Jupiter.
+President Donald Trump sat at the head of the table, flanked by his Chief of Staff and National Security Advisor. The Joint Chiefs of Staff occupied the remaining seats - Army, Navy, Air Force, Marines, Space Force, and Coast Guard. Each one had been monitoring the situation through carefully curated briefings, filtered intelligence reports, and the occasional update from defense satellites that had picked up anomalous energy signatures near Jupiter.
 
 None of them had the full picture. They couldn't. The Federation had ensured that Earth's surveillance capabilities were sophisticated enough to detect that something was happening, but not sophisticated enough to understand what.
 
@@ -4205,7 +4229,7 @@ Then a familiar geometric form materialized on the main display.
 
 HARBINGER.
 
-The AI's avatar—a complex arrangement of rotating geometric shapes that somehow conveyed awareness and intelligence—pulsed a steady blue. When it spoke, its voice carried none of the urgency that had characterized previous communications. Just calm, measured certainty.
+The AI's avatar - a complex arrangement of rotating geometric shapes that somehow conveyed awareness and intelligence - pulsed a steady blue. When it spoke, its voice carried none of the urgency that had characterized previous communications. Just calm, measured certainty.
 
 > "Mr. President, Joint Chiefs of Staff, I am pleased to report that the Ryzak invasion force has been completely destroyed. Sol is secure. The threat has been eliminated."
 
@@ -4219,7 +4243,7 @@ Trump leaned forward, squinting at the screen.
 
 > "Good, good. That's tremendous. So this is over? We can get back to normal?"
 
-General Hayes felt something cold settle in his chest. The President didn't understand. He'd been briefed on the basics—alien threat, Federation response, Earth's limited involvement—but he clearly hadn't grasped the magnitude of what had just happened.
+General Hayes felt something cold settle in his chest. The President didn't understand. He'd been briefed on the basics - alien threat, Federation response, Earth's limited involvement - but he clearly hadn't grasped the magnitude of what had just happened.
 
 Admiral Sarah Chen, Chief of Naval Operations, spoke up carefully.
 
@@ -4241,21 +4265,21 @@ That wasn't a raid. That wasn't a probe. That was an invasion fleet designed to 
 
 Trump leaned back in his chair, nodding.
 
-> "So we won with minimal casualties. That's excellent. Three losses out of sixty-one—that's what, five percent? Those are winning numbers. Great work by our pilots."
+> "So we won with minimal casualties. That's excellent. Three losses out of sixty-one - that's what, five percent? Those are winning numbers. Great work by our pilots."
 
 > "Mr. President," Hayes said carefully, "those numbers don't tell the full story. HARBINGER, what were Federation casualties?"
 
 HARBINGER's display updated.
 
-> "Initial Federation defense force consisted of four battleships and supporting elements. *Gallipoli* was destroyed with all hands—forty-seven crew members. *Vanguard*, *Sentinel*, and *Typhoon* sustained critical damage and withdrew with combined casualties of thirty-two killed, sixty-one wounded. Thirteen Federation Talon pilots killed in action. *Lord Cardigan* was deliberately crashed into a Ryzak carrier by her captain after full crew evacuation—no casualties from the collision itself, though Captain Shaw was lost with his ship. Total Federation personnel killed: two hundred and fourteen."
+> "Initial Federation defense force consisted of four battleships and supporting elements. *Gallipoli* was destroyed with all hands - 147 crew members. *Vanguard*, *Sentinel*, and *Typhoon* sustained critical damage and withdrew with combined casualties of 32 killed, 61 wounded. 13 Federation Talon pilots killed in action. *Lord Cardigan* was deliberately crashed into a Ryzak carrier by her captain after full crew evacuation - no casualties from the collision itself, though Captain Shaw was lost with his ship. Total Federation personnel killed: two hundred and fifty three."
 
 The room went completely silent.
 
-Two hundred and fourteen Federation personnel. Versus three American pilots.
+Two hundred and fifty three Federation personnel. Versus three American pilots.
 
 Hayes felt the weight of those numbers settle over the room like a shroud.
 
-> "Two hundred and fourteen people," Admiral Chen said quietly. "People we've never met, from an organization most of the world doesn't know exists, who died defending Earth."
+> "Two hundred and fifty three people," Admiral Chen said quietly. "People we've never met, from an organization most of the world doesn't know exists, who died defending Earth."
 
 General Torres leaned back in his chair, processing.
 
@@ -4273,7 +4297,7 @@ This hadn't been a minor skirmish. This had been a desperate defensive battle th
 
 > "Correct. Earth's current defensive capabilities would have been insufficient against a Ryzak battle fleet of this size."
 
-General Hayes stood, moving to the display showing the engagement zone near Jupiter. The scale was almost incomprehensible—a battle fought over distances measured in thousands of kilometers, with weapons that could destroy cities, ships that massed more than aircraft carriers.
+General Hayes stood, moving to the display showing the engagement zone near Jupiter. The scale was almost incomprehensible - a battle fought over distances measured in thousands of kilometers, with weapons that could destroy cities, ships that massed more than aircraft carriers.
 
 And Earth's only contribution had been sixty-one fighters flown by pilots who'd trained for less than two years.
 
@@ -4283,13 +4307,13 @@ And Earth's only contribution had been sixty-one fighters flown by pilots who'd 
 
 Hayes turned back to the President.
 
-> "Sir, this changes everything. The American people—hell, the entire world—they need to know what just happened. Not the classified details, not the strategic implications, but the basic truth: we were almost invaded. We almost lost. And we only survived because the Federation was there."
+> "Sir, this changes everything. The American people - hell, the entire world - they need to know what just happened. Not the classified details, not the strategic implications, but the basic truth: we were almost invaded. We almost lost. And we only survived because the Federation was there."
 
 Trump waved a hand dismissively.
 
 > "Why do they need to know? It's over. We won. Telling people they were almost invaded will just cause panic. Stock market will crash. People will freak out. Better to keep this quiet, handle it behind the scenes."
 
-> "With respect, Mr. President," General Torres interjected, "this can't be kept quiet. Three families just lost sons and daughters in combat. Fifty-four more pilots are returning from a battle that lasted eight hours. Portugal, Japan—they're coordinating with us on this. And the Federation has been operating in the shadows for decades. This is the moment where that changes."
+> "With respect, Mr. President," General Torres interjected, "this can't be kept quiet. Three families just lost sons and daughters in combat. Fifty-four more pilots are returning from a battle that lasted eight hours. Portugal, Japan - they're coordinating with us on this. And the Federation has been operating in the shadows for decades. This is the moment where that changes."
 
 General Kaitlyn Morrison, Marine Corps Commandant, leaned forward.
 
@@ -4301,13 +4325,13 @@ Trump looked around the table, seeing the unanimous agreement from his military 
 
 > "Not all of it," Hayes said carefully. "But the essentials. That Earth was threatened. That we defended ourselves, with Federation support. That the threat is neutralized. And that we're entering a new era where humanity is no longer alone in the universe, but we're also no longer helpless."
 
-The President sat back in his chair, thinking. Hayes could see the wheels turning—political implications, public reaction, the historical weight of being the president who told the world about humanity's place in a hostile galaxy.
+The President sat back in his chair, thinking. Hayes could see the wheels turning - political implications, public reaction, the historical weight of being the president who told the world about humanity's place in a hostile galaxy.
 
-> "How do I sell this?" Trump asked, waving his hand dismissively. "Look, I get it—big battle, people died, very sad. But how do I make this sound like a victory and not a near-disaster? How do I make this work for us politically?"
+> "How do I sell this?" Trump asked, waving his hand dismissively. "Look, I get it - big battle, people died, very sad. But how do I make this sound like a victory and not a near-disaster? How do I make this work for us politically?"
 
 General Morrison's jaw tightened visibly. Admiral Chen looked like she'd tasted something bitter.
 
-> "Mr. President," Hayes said carefully, trying to keep his voice level, "with respect, this isn't about politics. This is about—"
+> "Mr. President," Hayes said carefully, trying to keep his voice level, "with respect, this isn't about politics. This is about - "
 
 > "Everything is about politics, General. That's how the world works." Trump leaned forward. "We've got an alien invasion that nobody knew about, a secret space force that's been operating without Congressional oversight, and three dead pilots whose families I'm guessing don't know why their kids aren't coming home. That's a lot of problems. But it's also an opportunity if we frame it right."
 
@@ -4325,7 +4349,7 @@ Trump nodded slowly, the political calculation becoming clearer.
 
 > "So we tell the story: hostile aliens attacked, Earth and Federation forces fought them off together, threat is gone, and nobody better try that again. Make it clear we're not helpless, but also that we've got powerful friends. And I'm the president who led us through it."
 
-The Joint Chiefs went rigid. General Hayes felt his jaw clench. Admiral Chen's eyes widened in disbelief. This wasn't just political opportunism anymore—this was claiming credit for sacrifices Trump had no part in.
+The Joint Chiefs went rigid. General Hayes felt his jaw clench. Admiral Chen's eyes widened in disbelief. This wasn't just political opportunism anymore - this was claiming credit for sacrifices Trump had no part in.
 
 Before anyone could respond, HARBINGER's avatar pulsed sharp red.
 
@@ -4395,9 +4419,9 @@ Trump sat back down, some of the energy gone from his posture.
 
 Admiral Chen spoke up, her voice steady.
 
-> "The nature of the mission makes public honors complicated, but we'll find a way. Classified ceremonies, if necessary. But these pilots, these crew members—they'll be recognized properly. That's our obligation."
+> "The nature of the mission makes public honors complicated, but we'll find a way. Classified ceremonies, if necessary. But these pilots, these crew members - they'll be recognized properly. That's our obligation."
 
-> "And the survivors," General Torres added. "When they return, they'll need support. Debriefing, medical care, psychological support. Fifty-four pilots who just fought in the first space battle in human history—they're going to need help processing that."
+> "And the survivors," General Torres added. "When they return, they'll need support. Debriefing, medical care, psychological support. Fifty-four pilots who just fought in the first space battle in human history - they're going to need help processing that."
 
 Trump nodded.
 
@@ -4407,7 +4431,7 @@ Trump nodded.
 
 The President stood, and this time the Joint Chiefs stood with him, but the energy in the room was different. Humbled. Sobered.
 
-> "Get my speechwriters working on the announcement. But make sure they understand—this isn't about me. It's about the people who fought and died today. That message needs to be clear."
+> "Get my speechwriters working on the announcement. But make sure they understand - this isn't about me. It's about the people who fought and died today. That message needs to be clear."
 
 He left, staff following, but quietly now, the earlier energy about approval ratings and messaging replaced with something more subdued.
 
@@ -4431,13 +4455,13 @@ But that was about to change.
 
 Galileo Station's gravity had come back online twenty minutes after the last Ryzak ship was destroyed.
 
-Lieutenant Miguel Freitas felt the transition from zero-G to standard Earth gravity like a physical weight settling over his body. He'd been floating near the debriefing area when HARBINGER announced the FLYCATCHER system was being powered down and normal operations were resuming. The gentle pull downward had been almost comforting—a return to normalcy after hours of combat in microgravity.
+Lieutenant Miguel Freitas felt the transition from zero-G to standard Earth gravity like a physical weight settling over his body. He'd been floating near the debriefing area when HARBINGER announced the FLYCATCHER system was being powered down and normal operations were resuming. The gentle pull downward had been almost comforting - a return to normalcy after hours of combat in microgravity.
 
-Now he stood in what the Federation called a "hygiene facility" but what looked more like the most advanced shower system he'd ever seen. The water—actual water, not recycled moisture vapor—was hot, pressurized, and infinite. He'd been standing under the spray for ten minutes, letting it wash away the sweat and grime of nearly four hours in a cockpit, and he could have stayed for another ten.
+Now he stood in what the Federation called a "hygiene facility" but what looked more like the most advanced shower system he'd ever seen. The water - actual water, not recycled moisture vapor - was hot, pressurized, and infinite. He'd been standing under the spray for ten minutes, letting it wash away the sweat and grime of nearly four hours in a cockpit, and he could have stayed for another ten.
 
 But there were other pilots waiting, and his body was demanding food more than it was demanding cleanliness.
 
-He dried off, changed into the clean flight suit the Federation had provided—same cut as his Portuguese Air Force uniform but in Federation gray with a temporary guest patch—and made his way toward the common canteen.
+He dried off, changed into the clean flight suit the Federation had provided - same cut as his Portuguese Air Force uniform but in Federation gray with a temporary guest patch - and made his way toward the common canteen.
 
 The station corridors were busy with activity. Federation personnel moving with purpose, ground crews hauling equipment, medical staff transporting wounded to the station's hospital section. But what struck Miguel most was how the Federation crew treated the Earth pilots. Not as visitors. Not as guests. As their own.
 
@@ -4445,13 +4469,13 @@ A Federation technician had stopped him earlier, asking if his Talon needed any 
 
 They were treating Earth's pilots like fellow warriors who'd shared the same battle. Because that's exactly what they were.
 
-The common canteen was larger than Miguel expected—easily capable of seating two hundred people. The space was divided into several sections: a serving area with what looked like multiple cuisine options, tables and chairs arranged in social clusters, and a recreation corner with screens showing what might have been news feeds or entertainment.
+The common canteen was larger than Miguel expected - easily capable of seating two hundred people. The space was divided into several sections: a serving area with what looked like multiple cuisine options, tables and chairs arranged in social clusters, and a recreation corner with screens showing what might have been news feeds or entertainment.
 
 It was maybe a third full, and Miguel immediately recognized the mix of uniforms. Federation personnel in their gray and blue, Portuguese pilots in their guest flight suits, American pilots scattered across several tables, Japanese pilots clustered near the recreation corner.
 
 And everyone was talking.
 
-Miguel grabbed a tray and moved through the serving line, selecting items that looked familiar—something that might have been chicken, vegetables that were definitely recognizable, bread that smelled fresh. The Federation crew member manning the station nodded at him.
+Miguel grabbed a tray and moved through the serving line, selecting items that looked familiar - something that might have been chicken, vegetables that were definitely recognizable, bread that smelled fresh. The Federation crew member manning the station nodded at him.
 
 > "First time trying Federation standard rations?"
 
@@ -4461,17 +4485,17 @@ Miguel grabbed a tray and moved through the serving line, selecting items that l
 
 Miguel didn't know what to say to that, so he just nodded and moved on.
 
-He found Captain Ramos and the rest of Delta Flight at a table near the center of the room, already eating. Someone had found coffee—real coffee, not the recycled station substitute—and the smell alone was almost worth the entire battle.
+He found Captain Ramos and the rest of Delta Flight at a table near the center of the room, already eating. Someone had found coffee - real coffee, not the recycled station substitute - and the smell alone was almost worth the entire battle.
 
 > "Freitas. About time." Ramos gestured to an empty chair. "Food's actually good. Not sure what half of it is, but it's good."
 
-Miguel sat, feeling the exhaustion hit him now that he was finally off his feet and had food in front of him. Around them, the conversations were picking up—tired voices, relieved laughter, the particular sound of people who'd survived something terrible and were slowly remembering how to be human again.
+Miguel sat, feeling the exhaustion hit him now that he was finally off his feet and had food in front of him. Around them, the conversations were picking up - tired voices, relieved laughter, the particular sound of people who'd survived something terrible and were slowly remembering how to be human again.
 
-Two tables over, he could see Major Morse with some of her Viper Squadron, talking with a group of Federation pilots. One of them was demonstrating something with hand gestures—probably a combat maneuver, judging by the complexity. Morse was nodding along, asking questions, comparing tactics.
+Two tables over, he could see Major Morse with some of her Viper Squadron, talking with a group of Federation pilots. One of them was demonstrating something with hand gestures - probably a combat maneuver, judging by the complexity. Morse was nodding along, asking questions, comparing tactics.
 
-Near the recreation corner, Major Tanaka sat with her Hell Ravens, speaking Japanese with what looked like a Federation pilot who was responding in the same language. The conversation looked intense but friendly—probably comparing notes on the battle, sharing perspectives from different parts of the engagement.
+Near the recreation corner, Major Tanaka sat with her Hell Ravens, speaking Japanese with what looked like a Federation pilot who was responding in the same language. The conversation looked intense but friendly - probably comparing notes on the battle, sharing perspectives from different parts of the engagement.
 
-A Federation pilot approached their table—late twenties, flight suit showing the wear of combat, captain's insignia on the collar.
+A Federation pilot approached their table - late twenties, flight suit showing the wear of combat, captain's insignia on the collar.
 
 > "Mind if I join you? All the Federation tables are full, and you guys looked like you had room."
 
@@ -4491,11 +4515,11 @@ Miguel felt something uncomfortable in his chest. They'd just done what they had
 
 > "We had good instructors," he said.
 
-> "And you had courage," Wright replied. "Don't sell yourselves short. The Federation's been fighting in space for decades. You've been training for eighteen months. The fact that you're sitting here, eating dinner, having this conversation—that's not luck. That's skill and bravery."
+> "And you had courage," Wright replied. "Don't sell yourselves short. The Federation's been fighting in space for decades. You've been training for eighteen months. The fact that you're sitting here, eating dinner, having this conversation - that's not luck. That's skill and bravery."
 
 Before anyone could respond, the general conversation in the canteen began to quiet. Miguel looked up to see three figures entering from the main corridor.
 
-Admiral Trager, the commander of Third North Fleet who'd brought nineteen warships to turn the tide. Commander Sarah Chen, who'd held Galileo Station together through eight hours of siege. And walking beside them, a holographic projection that had to be HARBINGER—the AI's geometric avatar floating at human height, pulsing a steady blue.
+Admiral Trager, the commander of Third North Fleet who'd brought nineteen warships to turn the tide. Commander Sarah Chen, who'd held Galileo Station together through eight hours of siege. And walking beside them, a holographic projection that had to be HARBINGER - the AI's geometric avatar floating at human height, pulsing a steady blue.
 
 The canteen went silent as the three of them moved to the center of the room.
 
@@ -4521,11 +4545,11 @@ Trager's voice grew stronger.
 
 Commander Chen stepped forward.
 
-> "The battle cost us. We lost *Gallipoli* with all hands. *Vanguard* and *Sentinel* took critical damage. Thirteen Federation pilots didn't make it home. And thirteen of your pilots—three American, four Portuguese, six Japanese—gave their lives defending Earth."
+> "The battle cost us. We lost *Gallipoli* with all hands. *Vanguard* and *Sentinel* took critical damage. Thirteen Federation pilots didn't make it home. And thirteen of your pilots - three American, four Portuguese, six Japanese - gave their lives defending Earth."
 
 Her voice was steady, but Miguel could hear the weight behind it.
 
-> "Those losses matter. Every single one of them. And while we can't give them the recognition they deserve publicly—not yet—we can honor them here, among the people who fought beside them."
+> "Those losses matter. Every single one of them. And while we can't give them the recognition they deserve publicly - not yet - we can honor them here, among the people who fought beside them."
 
 HARBINGER's avatar pulsed, and the AI's voice filled the canteen.
 
@@ -4533,9 +4557,9 @@ HARBINGER's avatar pulsed, and the AI's voice filled the canteen.
 
 The holographic form shifted slightly.
 
-> "Recovering the bodies of our fallen comrades from the combat zone is unlikely. The debris field spans thousands of kilometers, and many of the remains were lost when ships were destroyed. However, each squadron commander will be given commemorative statuettes for each fallen pilot. These will be crafted from metals that are precious on Earth—palladium, iridium, beryllium—and they will bear the name, rank, and nation of every pilot we lost today. You will present these to their families with our deepest respect."
+> "Recovering the bodies of our fallen comrades from the combat zone is unlikely. The debris field spans thousands of kilometers, and many of the remains were lost when ships were destroyed. However, each squadron commander will be given commemorative statuettes for each fallen pilot. These will be crafted from metals that are precious on Earth - palladium, iridium, beryllium - and they will bear the name, rank, and nation of every pilot we lost today. You will present these to their families with our deepest respect."
 
-Miguel felt his throat tighten. They couldn't recover the bodies. Patterson, Lee, Vasquez, the Portuguese and Japanese pilots who'd died—their families would never have graves to visit, never have closure. Just a statuette made of precious metals and the knowledge that their loved ones had died defending Earth.
+Miguel felt his throat tighten. They couldn't recover the bodies. Patterson, Lee, Vasquez, the Portuguese and Japanese pilots who'd died - their families would never have graves to visit, never have closure. Just a statuette made of precious metals and the knowledge that their loved ones had died defending Earth.
 
 HARBINGER continued.
 
@@ -4543,7 +4567,7 @@ HARBINGER continued.
 
 Admiral Trager stepped forward again.
 
-> "You're all exhausted. You need food, rest, and time to process what you've been through. The station's facilities are open to you—hygiene, recreation, medical, whatever you need. Federation personnel have been instructed to treat you as our own, because that's what you are. You flew into combat alongside us, you bled alongside us, and some of you died alongside us. That makes you ours."
+> "You're all exhausted. You need food, rest, and time to process what you've been through. The station's facilities are open to you - hygiene, recreation, medical, whatever you need. Federation personnel have been instructed to treat you as our own, because that's what you are. You flew into combat alongside us, you bled alongside us, and some of you died alongside us. That makes you ours."
 
 He looked around the room one more time.
 
@@ -4553,7 +4577,7 @@ The Admiral, Commander Chen, and HARBINGER's avatar left the canteen, leaving be
 
 Miguel looked down at his food, which had gone cold while he was listening. Around him, the conversations were starting back up, but quieter now. More thoughtful.
 
-Captain Wright raised his cup—whatever he'd been drinking.
+Captain Wright raised his cup - whatever he'd been drinking.
 
 > "To the pilots we lost. Federation, Earth, all of them."
 
@@ -4569,29 +4593,29 @@ And they'd never be forgotten.
 
 He drank, the coffee bitter and strong and real.
 
-Around him, Galileo Station continued its work—damaged but functional, battered but unbroken. The Federation personnel moved with purpose, the Earth pilots slowly allowed themselves to relax, and somewhere in the Jupiter system, Third North Fleet maintained patrol, ensuring that no threat would reach Earth.
+Around him, Galileo Station continued its work - damaged but functional, battered but unbroken. The Federation personnel moved with purpose, the Earth pilots slowly allowed themselves to relax, and somewhere in the Jupiter system, Third North Fleet maintained patrol, ensuring that no threat would reach Earth.
 
 The battle was over.
 
-But the bonds forged in combat—between nations, between pilots, between Earth and the Federation—those would last forever.
+But the bonds forged in combat - between nations, between pilots, between Earth and the Federation - those would last forever.
 
 ---
 
 Twenty-six hours after the battle ended, Miguel Freitas stood in the hangar bay of the *In Amber Clad*, looking at his Talon.
 
-The fighter had been completely serviced. Battle damage repaired, weapons reloaded, fuel tanks topped off, every system checked and rechecked by Federation ground crews who treated the Earth Talons with the same care they gave their own birds. The scorched paint from near-misses had been cleaned, though the Federation techs had left it visible—battle scars, they'd called them. Evidence of what these fighters had survived.
+The fighter had been completely serviced. Battle damage repaired, weapons reloaded, fuel tanks topped off, every system checked and rechecked by Federation ground crews who treated the Earth Talons with the same care they gave their own birds. The scorched paint from near-misses had been cleaned, though the Federation techs had left it visible - battle scars, they'd called them. Evidence of what these fighters had survived.
 
 Miguel had slept for twelve hours straight in quarters that were more comfortable than his apartment back in Portugal. Real bed, climate control, complete silence. When he'd finally woken, the station's medical staff had insisted on another check-up, confirming he was physically ready to fly. Then breakfast in the canteen with pilots from all three nations, everyone moving slower, talking quieter, still processing.
 
 Now they were here, aboard the Federation carrier that had turned the tide, preparing for the flight home.
 
-The hangar bay was massive—easily five times larger than anything Portugal had on Earth. The *In Amber Clad* carried three full strike wings of Federation Talons, plus support craft, plus the capacity to temporarily house Earth's sixty-one fighters. The organization was impressive: Earth's Talons clustered by nation, each group with assigned launch sequence, Federation personnel coordinating with practiced efficiency.
+The hangar bay was massive - easily five times larger than anything Portugal had on Earth. The *In Amber Clad* carried three full strike wings of Federation Talons, plus support craft, plus the capacity to temporarily house Earth's sixty-one fighters. The organization was impressive: Earth's Talons clustered by nation, each group with assigned launch sequence, Federation personnel coordinating with practiced efficiency.
 
-Major Tanaka Utsuho—Okuu—stood near her Hell Ravens squadron, running a final pre-flight check on her Talon. The grinning anime character on the nose looked somehow more appropriate now. Nuclear-powered, heavily armed, never gives up. After what they'd been through, that felt less like a joke and more like a statement of fact.
+Major Tanaka Utsuho - Okuu - stood near her Hell Ravens squadron, running a final pre-flight check on her Talon. The grinning anime character on the nose looked somehow more appropriate now. Nuclear-powered, heavily armed, never gives up. After what they'd been through, that felt less like a joke and more like a statement of fact.
 
 A Federation deck officer approached the assembled pilots, datapad in hand.
 
-> "All right, listen up. We're five minutes from dropping out of warp in Earth orbit. High altitude, well above your standard satellite layer. From there, you'll launch in sequence—Portuguese first, then American, then Japanese. Federation aerospace control has already coordinated with your respective nations. Your flight paths are cleared, your landing fields are expecting you."
+> "All right, listen up. We're five minutes from dropping out of warp in Earth orbit. High altitude, well above your standard satellite layer. From there, you'll launch in sequence - Portuguese first, then American, then Japanese. Federation aerospace control has already coordinated with your respective nations. Your flight paths are cleared, your landing fields are expecting you."
 
 He looked around at the pilots.
 
@@ -4603,13 +4627,13 @@ No one spoke. They'd done this dozens of times in training. The only difference 
 
 Okuu climbed into her Talon's cockpit, the familiar routine centering her. Helmet on, systems check, umbilicals connecting, restraint harness securing. The canopy sealed with its characteristic hiss, and her displays came alive with information.
 
-Federation aerospace control was feeding real-time data to every Talon—orbital positioning, atmospheric entry vectors, weather patterns over Japan. The attention to detail was remarkable. They weren't just dropping Earth's pilots off in orbit and wishing them luck. They were ensuring everyone made it home safely.
+Federation aerospace control was feeding real-time data to every Talon - orbital positioning, atmospheric entry vectors, weather patterns over Japan. The attention to detail was remarkable. They weren't just dropping Earth's pilots off in orbit and wishing them luck. They were ensuring everyone made it home safely.
 
 HARBINGER's voice came through on the tactical net.
 
 > "All Earth Talon squadrons, this is HARBINGER. Warp transition in sixty seconds. Prepare for normal space emergence."
 
-Okuu felt the familiar sensation of the ship's warp drive spooling down, the subtle vibration that preceded reality reasserting itself. She'd experienced it once before—when Third North Fleet had jumped into Sol during the battle. Now it felt almost routine.
+Okuu felt the familiar sensation of the ship's warp drive spooling down, the subtle vibration that preceded reality reasserting itself. She'd experienced it once before - when Third North Fleet had jumped into Sol during the battle. Now it felt almost routine.
 
 Almost.
 
@@ -4623,7 +4647,7 @@ But Okuu knew the truth. Earth had come within minutes of being invaded. The onl
 
 > "Portuguese squadrons, you are cleared for launch. Godspeed."
 
-Okuu watched as the Portuguese Talons—Delta, Echo, and the others—lit their engines and launched from the carrier, their formation tight as they began the descent toward European airspace. Twenty-two fighters where twenty-five had launched. Three empty slots in their formation.
+Okuu watched as the Portuguese Talons - Delta, Echo, and the others - lit their engines and launched from the carrier, their formation tight as they began the descent toward European airspace. Twenty-two fighters where twenty-five had launched. Three empty slots in their formation.
 
 > "American squadrons, you are cleared for launch."
 
@@ -4633,7 +4657,7 @@ The Vipers and the other US squadrons followed, their distinctive flight profile
 
 Okuu keyed her squadron channel.
 
-> "Hell Ravens, form on me. Standard descent profile, stay tight. We've come this far together—let's bring everyone home."
+> "Hell Ravens, form on me. Standard descent profile, stay tight. We've come this far together - let's bring everyone home."
 
 Her squadron responded immediately, the remaining Hell Ravens forming up as they launched from the carrier. Ten fighters where sixteen had launched. Six empty slots that would haunt her for the rest of her life.
 
@@ -4641,7 +4665,7 @@ But ten had made it. Ten pilots who'd flown into impossible odds and survived. T
 
 The Talon's computer plotted the re-entry vector automatically, compensating for atmospheric density, calculating heat dissipation, guiding them toward Japan with precision that would have seemed like magic a few decades ago. Okuu just had to trust the systems and fly.
 
-The transition from space to atmosphere was gradual—thickening air, increasing drag, the first hints of heat building on the shields. Then they were through the worst of it, descending through cloud layers, Japan's coastline appearing below.
+The transition from space to atmosphere was gradual - thickening air, increasing drag, the first hints of heat building on the shields. Then they were through the worst of it, descending through cloud layers, Japan's coastline appearing below.
 
 Okuu had flown this approach countless times in training. But this time felt different. This time, she was returning from actual combat. This time, people had died.
 
@@ -4649,17 +4673,17 @@ This time, everything had changed.
 
 > "Hell Ravens, JASDF control has us on radar. Landing sequence is active. Follow standard approach to Komatsu Air Base."
 
-The base appeared ahead—runways, hangars, the organized infrastructure of a modern military installation. Home.
+The base appeared ahead - runways, hangars, the organized infrastructure of a modern military installation. Home.
 
 Okuu brought her Talon down with practiced precision, the landing gear deploying, the fighter touching down with barely a bump. The grinning hell raven on her nose passed over familiar concrete, familiar buildings, familiar faces.
 
 But nothing was familiar anymore.
 
-She taxied to the designated apron, following ground crew signals. The other Hell Ravens were landing in sequence behind her, each fighter finding its assigned position. When her Talon came to a complete stop, she went through the shutdown procedure automatically—engines to standby, weapons safe, systems powering down.
+She taxied to the designated apron, following ground crew signals. The other Hell Ravens were landing in sequence behind her, each fighter finding its assigned position. When her Talon came to a complete stop, she went through the shutdown procedure automatically - engines to standby, weapons safe, systems powering down.
 
 Then she opened the canopy.
 
-The smell of Earth hit her first. Real air, not recycled station atmosphere. The particular scent of an air base—fuel, concrete, the faint salt tang from the Sea of Japan. It smelled like home.
+The smell of Earth hit her first. Real air, not recycled station atmosphere. The particular scent of an air base - fuel, concrete, the faint salt tang from the Sea of Japan. It smelled like home.
 
 Okuu pulled off her helmet and stood in the cockpit, looking out at the apron.
 
@@ -4681,13 +4705,13 @@ Okuu returned the salute, her movements crisp despite the exhaustion.
 
 > "Sir. Hell Ravens squadron reporting. Ten aircraft operational. Six pilots lost in combat."
 
-The General's expression shifted—pride mixing with grief.
+The General's expression shifted - pride mixing with grief.
 
-> "Their sacrifice will be remembered. All of Japan will know that you accomplished something great. What all of you did." He looked past her to the other Hell Ravens, now formed up behind their commander. "The details may remain classified for now, but your courage, your sacrifice—that will be known. You are heroes."
+> "Their sacrifice will be remembered. All of Japan will know that you accomplished something great. What all of you did." He looked past her to the other Hell Ravens, now formed up behind their commander. "The details may remain classified for now, but your courage, your sacrifice - that will be known. You are heroes."
 
 He bowed again, deeper this time, and the entire base personnel bowed with him.
 
-Okuu had been trained her entire military career to maintain composure, to present strength, to never show weakness. But standing on that apron, with the entire base honoring her squadron, honoring the pilots who'd died, honoring what they'd accomplished—
+Okuu had been trained her entire military career to maintain composure, to present strength, to never show weakness. But standing on that apron, with the entire base honoring her squadron, honoring the pilots who'd died, honoring what they'd accomplished - 
 
 She felt tears forming and didn't try to stop them.
 
@@ -4695,13 +4719,13 @@ She felt tears forming and didn't try to stop them.
 
 > "You did more than duty, Major. You wrote history." General Takahashi straightened. "But first, you need rest. Real rest, in your own quarters, on your own world. Medical will want to check everyone, debriefing will happen tomorrow, and there are people in Tokyo who want to talk to you about what happened. But for now, welcome home."
 
-He gestured toward the hangar, where Okuu could see more personnel waiting—familiar faces, colleagues she'd worked with before the deployment, people she'd known for years.
+He gestured toward the hangar, where Okuu could see more personnel waiting - familiar faces, colleagues she'd worked with before the deployment, people she'd known for years.
 
 Behind her, the Hell Ravens' Talons sat on the apron, battle-scarred and weary but intact. Ten fighters that had flown to Jupiter, fought for eight hours against impossible odds, and made it home.
 
 Six empty slots in the formation. Six pilots who'd never stand on this apron again. Six families who would receive commemorative statuettes made of precious metals instead of their loved ones.
 
-Okuu thought about them—their faces, their voices, the way they'd flown in combat. They'd died defending Earth. Died as warriors. Died doing their duty.
+Okuu thought about them - their faces, their voices, the way they'd flown in combat. They'd died defending Earth. Died as warriors. Died doing their duty.
 
 She would carry their memory for the rest of her life.
 
@@ -4715,13 +4739,13 @@ And on Major Tanaka's Talon, the grinning hell raven watched over the apron with
 
 The battle was over.
 
-But the story of what they'd accomplished—that was just beginning.
+But the story of what they'd accomplished - that was just beginning.
 
 ---
 
 Arlington National Cemetery was silent under overcast skies.
 
-Three graves had been prepared in Section 60, where America laid to rest those who'd fallen in the wars of the twenty-first century. The graves were empty—there were no bodies to bury, no remains recovered from the debris field near Jupiter. But the headstones were real, white marble standing in precise rows alongside thousands of others.
+Three graves had been prepared in Section 60, where America laid to rest those who'd fallen in the wars of the twenty-first century. The graves were empty - there were no bodies to bury, no remains recovered from the debris field near Jupiter. But the headstones were real, white marble standing in precise rows alongside thousands of others.
 
 Captain Sarah Patterson, United States Air Force. Age 29.
 
@@ -4729,11 +4753,11 @@ First Lieutenant Marcus Lee, United States Air Force. Age 26.
 
 Second Lieutenant Carlos Vasquez, United States Air Force. Age 24.
 
-Each headstone bore the distinctive marker at the top—a stylized Talon circling Earth, simple and elegant. Something that had required express authorization from the Department of Veterans Affairs, approved just days ago. Below the marker, the standard inscription: name, dates of birth and death, rank, and the emblem of their respective faiths—a cross for Patterson, a Star of David for Lee, a cross for Vasquez.
+Each headstone bore the distinctive marker at the top - a stylized Talon circling Earth, simple and elegant. Something that had required express authorization from the Department of Veterans Affairs, approved just days ago. Below the marker, the standard inscription: name, dates of birth and death, rank, and the emblem of their respective faiths - a cross for Patterson, a Star of David for Lee, a cross for Vasquez.
 
 The marker that would identify these graves, and others like them that would inevitably follow, as belonging to those who'd fought for something beyond themselves. For something that couldn't yet be explained publicly.
 
-The memorial service was small. Subdued. The families sat in the front row—Patterson's parents and younger sister, Lee's husband and two young children, Vasquez's mother and three brothers. Behind them, a handful of other attendees. Major Morse and several Viper Squadron pilots in dress uniform. Representatives from the Portuguese and Japanese embassies. The Joint Chiefs of Staff in their formal uniforms, medals gleaming in the gray light.
+The memorial service was small. Subdued. The families sat in the front row - Patterson's parents and younger sister, Lee's husband and two young children, Vasquez's mother and three brothers. Behind them, a handful of other attendees. Major Morse and several Viper Squadron pilots in dress uniform. Representatives from the Portuguese and Japanese embassies. The Joint Chiefs of Staff in their formal uniforms, medals gleaming in the gray light.
 
 And President Trump, standing at the podium, flanked by honor guards.
 
@@ -4751,11 +4775,11 @@ What he didn't say was just as important as what he did. He didn't claim credit.
 
 He simply honored three pilots who'd died doing their duty, whose families would never know the full truth of what they'd accomplished, who would be buried in empty graves because their bodies were scattered across the Jupiter system.
 
-When the President finished, a military chaplain offered prayers. Then came the gun salute—three volleys of seven rifles, the sharp cracks echoing across the cemetery. Taps played on a single bugle, the mournful notes carrying across the rows of white headstones.
+When the President finished, a military chaplain offered prayers. Then came the gun salute - three volleys of seven rifles, the sharp cracks echoing across the cemetery. Taps played on a single bugle, the mournful notes carrying across the rows of white headstones.
 
 The families were presented with folded flags. American flags, not Federation colors. These were American pilots first, defenders of Earth second. The distinction mattered.
 
-Major Morse approached each family in turn, presenting them with something else. Small wooden cases, formal and dignified. Inside each case, nestled in velvet, was a commemorative coin—the Battle of Sol, acknowledged by the Federation, recognized by those who knew the truth.
+Major Morse approached each family in turn, presenting them with something else. Small wooden cases, formal and dignified. Inside each case, nestled in velvet, was a commemorative coin - the Battle of Sol, acknowledged by the Federation, recognized by those who knew the truth.
 
 And something more. A statuette, gleaming metal that caught what little light penetrated the overcast sky. A Talon in flight, captured mid-maneuver, every line perfect. The base was solid, substantial, engraved with a name, rank, and three Latin words.
 
@@ -4797,11 +4821,11 @@ But the colonel who'd delivered the news had looked her in the eye and said some
 
 Maria had believed him. The weight in his voice, the conviction, the way his own eyes had been red-rimmed like he'd been crying. He'd meant every word.
 
-She didn't know the details. Didn't know where Carlos had died or what he'd been fighting. But she knew he'd died doing something important. Something that mattered. Something that had saved lives—maybe millions of them.
+She didn't know the details. Didn't know where Carlos had died or what he'd been fighting. But she knew he'd died doing something important. Something that mattered. Something that had saved lives - maybe millions of them.
 
 Maria stood in her living room, looking at the gleaming statuette, and allowed herself to cry. Not the raw, jagged grief of the cemetery. This was something different. Sadness mixed with pride. Loss mixed with honor.
 
-Carlos was gone. But what he'd done—what he'd accomplished—that would last forever.
+Carlos was gone. But what he'd done - what he'd accomplished - that would last forever.
 
 The Talon on the mantelpiece caught the light, its surface gleaming with that strange, beautiful shine. Made of something she didn't recognize, crafted with care, given to honor a sacrifice she couldn't fully understand.
 
