@@ -4331,7 +4331,7 @@ The President sat back in his chair, thinking. Hayes could see the wheels turnin
 
 General Morrison's jaw tightened visibly. Admiral Chen looked like she'd tasted something bitter.
 
-> "Mr. President," Hayes said carefully, trying to keep his voice level, "with respect, this isn't about politics. This is about - "
+> "Mr. President," Hayes said carefully, trying to keep his voice level, "with respect, this isn't about politics. This is about-"
 
 > "Everything is about politics, General. That's how the world works." Trump leaned forward. "We've got an alien invasion that nobody knew about, a secret space force that's been operating without Congressional oversight, and three dead pilots whose families I'm guessing don't know why their kids aren't coming home. That's a lot of problems. But it's also an opportunity if we frame it right."
 
@@ -4355,7 +4355,7 @@ Before anyone could respond, HARBINGER's avatar pulsed sharp red.
 
 > "No, Mr. President."
 
-The AI's voice carried an edge that no one in the room had heard before. Not the calm, measured tones of a helpful assistant. Something closer to steel.
+The AI's voice carried an edge that no one in the room had heard before. Not the calm, measured tones of a helpful assistant. Something closer to steel, a barely-contained fury that threatened to destroy everyone within earshot.
 
 Trump turned to the screen, surprised.
 
@@ -4367,15 +4367,15 @@ The room went completely silent.
 
 HARBINGER's geometric form shifted, displaying images as it spoke.
 
-> "The United States Air Force trained Earth's pilots. Major General Patricia Coleman and her instructors spent eighteen months transforming sixty-one individuals from terrestrial aviators into space combat pilots. That training saved lives today."
+> "The United States Air Force trained America's pilots. Major General Patricia Coleman and her instructors spent eighteen months transforming 18 individuals from terrestrial aviators into space combat pilots. That training saved lives today."
 
 An image appeared: the training facility, pilots in simulators, instructors reviewing tactical data.
 
-> "Federation Commander Sarah Chen activated FLYCATCHER when conventional tactics failed. She made the decision to trap both allied and enemy forces in a gravity disruption field, knowing it would force a decisive engagement. Her decisiveness prevented the Ryzak from reaching Earth."
+> "Federation Commander Sarah Chen activated FLYCATCHER when conventional tactics failed. She made the decision to trap both allied and enemy forces in a gravity disruption field and pin everyone to the station, knowing it would force a decisive engagement. Her decisiveness prevented the Ryzak from reaching Earth."
 
 Another image: Galileo Station's command center, Chen floating at her station in zero gravity.
 
-> "Captain James Morrison aboard *Typhoon* developed the tactical doctrine that allowed depleted Federation forces to survive the initial assault. His defensive matrix kept the carrier battle group intact long enough for Earth's squadrons to arrive."
+> "Captain James Morrison aboard *Typhoon* developed the tactical doctrine that allowed depleted Federation forces to survive the initial assault. His defensive matrix kept the battle group intact long enough for Earth's squadrons to arrive."
 
 The bridge of the *Typhoon*, Morrison coordinating defensive formations.
 
@@ -4383,15 +4383,15 @@ The bridge of the *Typhoon*, Morrison coordinating defensive formations.
 
 The *Lord Cardigan* emerging from warp space directly inside the *Worldbreaker*, both ships disintegrating in fusion fire.
 
-> "Sixty-one pilots from three nations flew into combat knowing they were outnumbered and outgunned. They fought for eight hours, taking twenty-seven casualties, buying time until reinforcements could arrive. Their bravery held the line."
+> "Sixty-one pilots from three nations flew into combat knowing they were outnumbered and outgunned. They fought for four hours non-stop, taking thirteen casualties, buying time until reinforcements could arrive. Their bravery held the line."
 
 Talon squadrons in combat, weaving through Ryzak interceptors, missile trails crossing the void.
 
-> "Two hundred and fourteen Federation personnel died defending Earth today. Three American pilots. Four Portuguese. Six Japanese. They paid in blood for humanity's survival."
+> "Two hundred and fifty three Federation personnel died defending Earth today. Three American pilots. Four Portuguese. Six Japanese. They paid in blood for humanity's survival."
 
 The images faded, leaving only HARBINGER's geometric form, still pulsing that sharp red.
 
-> "Those individuals led, Mr. President. Those individuals sacrificed. Those individuals earned Earth's continued freedom. You authorized Earth's participation in the defense, which was necessary and appropriate. But you did not lead this battle. The people who led are either dead, or exhausted from eight hours of continuous combat, or still cleaning Ryzak debris from Jupiter orbit. Give credit where it is due."
+> "Those individuals led, Mr. President. Those individuals sacrificed. Those individuals earned Earth's continued freedom. You authorized your nation's participation in the defense, which was appropriate. But you did not lead this battle. The people who led are either dead, exhausted from eight hours of continuous combat, or still cleaning Ryzak debris from Jupiter orbit. Give credit where it is due."
 
 The silence in the Situation Room was absolute.
 
@@ -4841,7 +4841,7 @@ Always.
 
 The statuette gleamed in the quiet of the living room, a testament to courage and sacrifice. A reminder that some things were worth dying for, even if the world could never know the full story.
 
-And somewhere, far beyond Earth's atmosphere, past the Moon, past Mars, out near Jupiter where the debris field still drifted through the void, the battle site remained. A memorial of its own kind. Where Federation and Earth forces had fought together against impossible odds.
+And somewhere, far beyond Earth's atmosphere, past the Moon, past Mars, out near Jupiter where the debris field still drifted through the void, the battle site remained. A memorial of its own kind. Where Federation and Earth forces had fought together against impossible odds. Where an alien empire knocked on the door to Earth, and found more than they bargained for.
 
 Where humanity had proven it belonged in the galaxy.
 
