@@ -188,7 +188,7 @@ Another pause. Marisa could hear papers rustling, a door closing.
 
 Monroe exhaled slowly.
 
-> "Nightingale was an asset extraction. Moscow. Last year. It should have been impossible—deep penetration, multiple layers of FSB surveillance, hostile territory. We had no options, no angle, no way to get our guy out without triggering an international incident." She paused. "ESF made it happen. I still don't know how. One day our asset was burned and trapped, the next day he was sitting in a safe house in Prague. Like magic."
+> "Nightingale was an asset extraction. Moscow. Last year. It should have been impossible—deep penetration, multiple layers of FSB surveillance, hostile territory. We had no options, no angle, no way to get our guy out without triggering an international incident." She paused. "ESF made it happen. I still don't know how. One day our asset was burned and trapped, the next day he was sitting in a safe house in Paris. Like magic."
 
 Marisa wrote quickly, underlining *Moscow extraction* and *impossible* in her notes.
 
