@@ -175,6 +175,42 @@ A chronological overview of canonical events in the ESF universe.
 
 ---
 
+## 2027
+
+**March 8, 2027** - [Knock Knock](/esf/stories/knock-knock) (Ryzak Intelligence Operation)
+- Ryzak operative Kresh'tar infiltrates Xenari frontier world bar
+- Commander Vael'thi's comm unit compromised via holographic disguise
+- Encryption keys for Xenari fleet coordination channels stolen
+- Intelligence theft enables subsequent Ryzak invasion planning
+
+**March 9, 2027** - [Knock Knock](/esf/stories/knock-knock) (Battle of Sol)
+- Ryzak battle fleet enters Sol system via Jupiter cynosural beacon
+- Fifteen capital ships plus escorts attack Federation positions
+- Commander Sarah Chen activates experimental FLYCATCHER system at Galileo Station
+- Gravity disruption field prevents all warp travel in 250km radius
+- Earth pilots Patterson, Lee, and Vasquez killed in combat
+- Ryzak fleet destroyed by Third North Fleet reinforcements
+- First demonstration of warp disruption capability in galactic warfare
+
+**March 12, 2027** - [Knock Knock](/esf/stories/knock-knock) (Arlington Ceremony)
+- State funeral held at Arlington National Cemetery
+- President Trump presides over memorial for fallen Earth pilots
+- Three empty graves for pilots whose bodies remain at Jupiter
+- Families presented with commemorative coins and metal Talon statuettes
+- Inscribed with "Semper Inter Astra" (Always Among the Stars)
+
+**July 18, 2027** - [Knock Knock](/esf/stories/knock-knock) (Jovian Shipyards Commissioning)
+- FSS Flycatcher (destroyer-class) commissioned at Ganymede orbit
+- FSS Broadsword (cruiser-class) commissioned alongside
+- Both vessels equipped with warp disruption technology
+- SUNTZU confirms no galactic power possesses counter-measures
+- Ryzak leadership unable to investigate loss due to CONCORD restrictions
+- Classified commissioning attended only by Battle of Sol veterans
+- Broadsword deployed to permanent station at Galileo
+- Flycatcher assigned to outer Jupiter system patrol
+
+---
+
 ## Training Programs
 
 **Ongoing** - [Future Flight](/esf/stories/future-flight)
@@ -204,6 +240,9 @@ A chronological overview of canonical events in the ESF universe.
 - **2026**: Large-scale civilian technology transfer (Landmates)
 - **2026**: First human-piloted Federation technology (Tokyo)
 - **2026**: International pilot training program established
+- **2027**: Battle of Sol - first major alien invasion of Sol system
+- **2027**: Warp disruption technology demonstrated and weaponized
+- **2027**: First Federation warships designed around human-discovered physics
 
 ---
 
