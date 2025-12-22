@@ -1610,18 +1610,6 @@ Chen straightened, her voice calm.
 
 > "Here they come. Knock-knock, motherfuckers."
 
-**5**
-
-**4**
-
-**3**
-
-**2**
-
-**1**
-
-**0**
-
 The cynosural field erupted with light.
 
 And the Ryzak fleet emerged into Sol.
@@ -1632,7 +1620,7 @@ And the Ryzak fleet emerged into Sol.
 
 ### Opening Salvo
 
-The Ryzak battleship *Devourer's Pride* materialized first, its bulk emerging from the rippling distortion of the cyno bridge like a predator stepping through a curtain. Fifteen hundred meters of angular plating and weapons emplacements, its shields already raised, scanning arrays sweeping the space ahead.
+The Ryzak battleship *Devourer's Pride* materialized first, its bulk emerging from the rippling distortion of the cyno bridge like a predator stepping through a curtain. Three hundred meters of angular plating and weapons emplacements, its shields already raised, scanning arrays sweeping the space ahead.
 
 It had three seconds of relative peace.
 
