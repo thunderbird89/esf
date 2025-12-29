@@ -1,5 +1,5 @@
 ---
-layout: story
+layout: story_detailed
 type: story
 line: main
 title: Knock Knock
@@ -1166,11 +1166,11 @@ And a homeworld that needed them eight hours ago.
 
 ---
 
-**ESTIMATED RYZAK ARRIVAL: 25 HOURS, 47 MINUTES**
-
 ## Chapter 3: Knock Knock
 
 ### Jovian Shipyards
+
+**ESTIMATED RYZAK ARRIVAL: 25:47:00**
 
 Chief Engineer Marcus Webb stood in the command center, watching the departure sequence for the battleship *Typhoon*. Her engines flared brilliant blue as the docking clamps released, and she began her slow, deliberate pull away from the shipyard, her massive form silhouetted against Jupiter's turbulent atmosphere.
 
@@ -1266,7 +1266,7 @@ Desperate in execution.
 
 Marcus looked at the countdown timer one more time.
 
-**59 MINUTES, 12 SECONDS**
+**ESTIMATED RYZAK ARRIVAL: 00:59:12**
 
 In Bay Three, weapons crews rolled torpedo pallets toward *Gallipoli*'s magazine. In Bay Five, *Lord Cardigan*'s new shield generators hummed with barely-contained power. Throughout the shipyard, hundreds of personnel moved with purpose, knowing that every minute mattered.
 
@@ -1368,7 +1368,7 @@ Her voice hardened.
 
 The countdown timer ticked downward.
 
-**27 MINUTES, 34 SECONDS**
+**ESTIMATED RYZAK ARRIVAL: 00:27:34**
 
 In the operations center, every screen showed the same thing: the jump beacon, hanging in space, its power signature climbing steadily.
 
@@ -1468,9 +1468,9 @@ The math was brutal. But they'd known that from the beginning.
 
 The countdown continued.
 
-**20 MINUTES**
-
 ### Monte Real Air Base, Portugal
+
+**ESTIMATED RYZAK ARRIVAL: 00:20:00**
 
 Lieutenant Miguel Freitas ran his hand along the Talon's fuselage, the smooth composite material warm under his palm. Around him, 24 other pilots were doing the same - final checks, personal rituals, quiet moments before climbing into the cockpit.
 
@@ -1566,11 +1566,9 @@ And now came the test.
 
 ### Galileo Station
 
-**10 MINUTES**
+**ESTIMATED RYZAK ARRIVAL: 00:10:00**
 
 On the main display, the beacon's power signature climbed steadily. Around it, Federation forces held their positions in tense silence. In the operations center, every console showed green status indicators. Weapons charged. Shields at maximum. Crews at combat stations.
-
-**5 MINUTES**
 
 Chen's hands gripped the edge of her console. This was it. Eighty years of preparation. Decades of covert operations. Years of technology transfer and training. All of it came down to the next few hours.
 
@@ -1583,12 +1581,6 @@ On the display, around the beacon in a ten-kilometer sphere, a shimmer appeared 
 Chen keyed the fleet-wide channel.
 
 > "All forces, this is Station Command. Field is active. Hostile emergence imminent. Hold your positions. Hold your fire until we have confirmed targets. And remember - we're defending Earth. Make every shot count."
-
-**3 MINUTES**
-
-**2 MINUTES**
-
-**1 MINUTE**
 
 The operations center was silent except for the soft hum of electronics and the quiet breathing of the crew. On every screen, the cynosural field pulsed and shimmered, waiting to receive the incoming fleet.
 
@@ -1616,9 +1608,7 @@ And the Ryzak fleet emerged into Sol.
 
 ## Chapter 4: Weapons Free
 
-**TIME TO REINFORCEMENTS: 07:53:22**
-
-### Opening Salvo
+### Opening Salvo - TIME TO REINFORCEMENTS: 07:53:22
 
 The Ryzak battleship *Devourer's Pride* materialized first, its bulk emerging from the rippling distortion of the cyno bridge like a predator stepping through a curtain. Three hundred meters of angular plating and weapons emplacements, its shields already raised, scanning arrays sweeping the space ahead.
 
@@ -1818,9 +1808,7 @@ And the Ryzak still hadn't realized they were there.
 
 ---
 
-**TIME TO REINFORCEMENTS: 07:37:13**
-
-### Assuming Control
+### Assuming Control - TIME TO REINFORCEMENTS: 07:37:13
 
 Lieutenant Marcus Jameson's powered armor had taken three hits getting to the console. His HUD showed shield integrity at forty-two percent, and one of his shoulder actuators was responding sluggishly. Behind him, his team held the corridor, plasma rifles crackling as they kept the Ryzak security teams pinned down.
 
@@ -1882,9 +1870,7 @@ And the Ryzak were learning, too late, what it meant to fight an enemy that coul
 
 ---
 
-**TIME TO REINFORCEMENTS: 07:31:45**
-
-### Reinforcements Arrive
+### Reinforcements Arrive - TIME TO REINFORCEMENTS: 07:31:45
 
 The warp signature appeared first - a ripple in space-time that made sensors scream warnings for half a second before resolving into something solid. Then the battleship *Gallipoli* dropped out of warp seventy kilometers from the beacon, her massive bulk bleeding off velocity with thruster burns that lit up the tactical display.
 
@@ -1946,9 +1932,7 @@ And for the first time since the battle started, it wasn't clear the Ryzak were 
 
 ---
 
-**TIME TO REINFORCEMENTS: 07:26:18**
-
-### Target Priority
+### Target Priority - TIME TO REINFORCEMENTS: 07:26:18
 
 The Ryzak fleet commander made his decision.
 
@@ -2032,9 +2016,7 @@ If they were going to be a fixed gun platform, they'd be the deadliest one in th
 
 ---
 
-**TIME TO REINFORCEMENTS: 07:21:34**
-
-### Reaper Flight
+### Reaper Flight - TIME TO REINFORCEMENTS: 07:21:34
 
 Lieutenant Sarah Chen - callsign "Reaper" - watched her tactical display as the Ryzak cruisers swarmed *Gallipoli*. The battleship was taking a beating, her shields failing, her engines gone. She was still fighting, but she was hurt.
 
@@ -2132,9 +2114,7 @@ Seven hours, twenty-one minutes, thirty-four seconds until reinforcements arrive
 
 ---
 
-**TIME TO REINFORCEMENTS: 07:18:47**
-
-### Final Stand
+### Final Stand - TIME TO REINFORCEMENTS: 07:18:47
 
 The *Gallipoli* lasted another three minutes.
 
@@ -2206,9 +2186,7 @@ And two Federation corvettes had been waiting for exactly this moment.
 
 ---
 
-**TIME TO REINFORCEMENTS: 07:16:22**
-
-### Opportunists
+### Opportunists - TIME TO REINFORCEMENTS: 07:16:22
 
 Commander Patricia Hayes, commanding the corvette *Relentless*, watched the tactical display as *Gallipoli* died. The explosion was visible even at seventy kilometers - a brief, brilliant star that outshone Jupiter behind it.
 
@@ -2314,9 +2292,7 @@ They had to.
 
 ---
 
-**TIME TO REINFORCEMENTS: 06:52:14**
-
-### Stalemate
+### Stalemate - TIME TO REINFORCEMENTS: 06:52:14
 
 The *Crimson Fang* - now under HARBINGER's control - had finished destroying the first carrier. The Ryzak vessel was a drifting hulk, atmosphere venting from dozens of breaches, half its launch bays demolished, fires burning in compartments exposed to vacuum. It was still technically intact, but it would never launch another fighter.
 
@@ -2492,9 +2468,7 @@ And whether there would be anything left to save when they did.
 
 ---
 
-**TIME TO REINFORCEMENTS: 06:42:31**
-
-### Attrition
+### Attrition - TIME TO REINFORCEMENTS: 06:42:31
 
 The Federation Talons were dying.
 
@@ -2546,9 +2520,7 @@ Two minutes total jump time. Fifteen minutes for resupply and systems check. The
 
 ---
 
-**TIME TO REINFORCEMENTS: 06:38:17**
-
-### The Call
+### The Call - TIME TO REINFORCEMENTS: 06:38:17
 
 Commander Sarah Chen stood in Galileo Station's operations center, staring at the tactical display. The numbers were stark and getting worse by the minute.
 
@@ -2602,9 +2574,7 @@ It just had to arrive in time.
 
 ---
 
-**TIME TO REINFORCEMENTS: 06:34:52**
-
-### Scramble
+### Scramble - TIME TO REINFORCEMENTS: 06:34:52
 
 At Monte Real Air Base, Lieutenant Miguel Freitas was already in his Talon's cockpit, had been for hours, monitoring the tactical feed from the battle above. He'd watched *Gallipoli* die. He'd watched *Typhoon* withdraw. He'd watched the Federation Talons fight and die against impossible odds.
 
@@ -2656,9 +2626,7 @@ Her hands were steady on the controls.
 
 ---
 
-**TIME TO REINFORCEMENTS: 06:28:11**
-
-### Formation
+### Formation - TIME TO REINFORCEMENTS: 06:28:11
 
 At one hundred and twenty thousand meters above Earth's surface, sixty-one Talons from four nations formed up in a loose sphere. Most of the pilots had never met, had never flown together, but they'd all received the same briefing twelve hours ago. They knew what they were facing. They knew the stakes.
 
@@ -2700,9 +2668,7 @@ Sixty-one fresh Talons, full weapons loadout, pilots ready for their first kills
 
 The Ryzak were about to learn that Earth had arrived.
 
-**TIME TO REINFORCEMENTS: 06:25:13**
-
-### First Blood
+### First Blood - TIME TO REINFORCEMENTS: 06:25:13
 
 Lieutenant Miguel Freitas's targeting system locked on a Ryzak interceptor at eight thousand meters, the alien craft's angular frame highlighted in red on his HUD. The fighter was turning toward him, weapons charging, but Miguel was faster.
 
@@ -2804,9 +2770,7 @@ But "better than expected" wasn't the same as "good enough to win."
 
 And the clock kept ticking.
 
-**TIME TO REINFORCEMENTS: 06:19:37**
-
-### Accumulation
+### Accumulation - TIME TO REINFORCEMENTS: 06:19:37
 
 The battleship *Lord Cardigan* had been fighting for two hours straight with jury-rigged civilian shields and gunners using manual targeting. She'd harassed the Ryzak carrier, forced it to maneuver, destroyed two destroyers through sheer luck and volume of fire.
 
@@ -2913,9 +2877,7 @@ But that battleship had left on her own terms, with music playing and her guns s
 
 And somehow, that mattered.
 
-**TIME TO REINFORCEMENTS: 06:12:44**
-
-### Charge of the Light Brigade
+### Charge of the Light Brigade - TIME TO REINFORCEMENTS: 06:12:44
 
 The *Lord Cardigan* materialized at Jovian Shipyards in a shimmer of twisted space, her scarred hull trailing frozen atmosphere from three separate breaches. Emergency crews were already moving toward her docking position before the ship had finished decelerating.
 
@@ -3079,9 +3041,7 @@ And in the silence that followed, as sensors recalibrated and tactical displays 
 
 Captain William Shaw had taken his broken battleship and ended the war's largest remaining Ryzak carrier in the single most destructive close-range engagement in the battle's history.
 
-**TIME TO REINFORCEMENTS: 06:07:19**
-
-### The Wrath Endures
+### The Wrath Endures - TIME TO REINFORCEMENTS: 06:07:19
 
 Aboard *Vanguard*, Captain Anderson watched the tactical display update as the brilliant flash faded from his sensors. The carrier icon blinked out, replaced by a debris field marker. One Ryzak carrier eliminated. Only one remained operational.
 
@@ -3265,9 +3225,7 @@ And four hours still remained until Third North Fleet could arrive.
 
 The tactical situation had just become critical.
 
-**TIME TO REINFORCEMENTS: 04:12:07**
-
-### Desperate Measures
+### Desperate Measures - TIME TO REINFORCEMENTS: 04:12:07
 
 Commander Sarah Chen stood in Galileo Station's operations center, staring at the tactical display with mounting dread. The icon representing *Vanguard* was moving away from the engagement zone, trailing damage indicators. *Sentinel* followed close behind. Both battleships were withdrawing, their hulls compromised, their combat effectiveness reduced to near zero.
 
@@ -3475,13 +3433,11 @@ Defend Galileo Station. At all costs. For four hours.
 
 And if the station fell, Earth fell with it.
 
-**TIME TO REINFORCEMENTS: 04:06:18**
-
-### Window of Opportunity
+### Window of Opportunity - TIME TO REINFORCEMENTS: 04:06:18
 
 Lieutenant Miguel Freitas felt the change immediately. His Talon's warp drive, which had been on standby for emergency jump-out procedures, suddenly went dark. Warning indicators flashed across his HUD, then resolved into a simple message:
 
-**WARP DRIVE INOPERABLE - GRAVITATIONAL INSTABILITY DETECTED**
+**WARP DRIVE INOPERABLE - EXTERNAL FACTORS PREVENTING WARP**
 
 > "Delta Flight, this is Delta Lead. Anyone else getting warp drive failures?"
 
@@ -3613,9 +3569,7 @@ But now, at least, the Ryzak couldn't threaten the station with massed torpedo s
 
 And the Talons would make them bleed for every attempt.
 
-**TIME TO REINFORCEMENTS: 04:01:47**
-
-### The Long Siege
+### The Long Siege - TIME TO REINFORCEMENTS: 00:44:17
 
 Three hours and seventeen minutes.
 
@@ -3745,9 +3699,7 @@ Forty minutes.
 
 They just had to survive forty more minutes.
 
-**TIME TO REINFORCEMENTS: 00:39:47**
-
-### The Cavalry
+### The Cavalry - TIME TO REINFORCEMENTS: 00:16:52
 
 Twenty-three minutes later, the situation had deteriorated further.
 
@@ -3758,8 +3710,6 @@ Commander Chen floated at her station, watching the shield integrity display wit
 > "Shields at thirty-six percent," Webb reported. "Estimated failure in twenty-eight minutes."
 
 Chen looked at the chronometer.
-
-**TIME TO REINFORCEMENTS: 00:16:52**
 
 Sixteen minutes until Third North Fleet arrived. Twenty-eight minutes until shield failure. The buffer had grown from nine minutes to twelve. They were going to make it.
 
@@ -3863,9 +3813,7 @@ The *Wrath of Dominion* fired again. Shields at thirty-three percent.
 
 But now it didn't matter. The clock was running, and it was running in the Federation's favor.
 
-**TIME TO REINFORCEMENTS: 00:04:37**
-
-### Overwhelming Force
+### Overwhelming Force - TIME TO REINFORCEMENTS: 00:04:37
 
 Four minutes and thirty-seven seconds.
 
@@ -3909,7 +3857,7 @@ Then destroyers. Eight fast attack craft spreading out in a protective screen, p
 
 Nineteen warships materialized from nothing in less than thirty seconds.
 
-Okuu stared through her canopy, watching the ships emerge, watching the bridge collapse back into normal space as the last destroyer cleared the threshold. She'd read about this. She'd seen the specifications. But reading and seeing were different things entirely.
+Okuu stared through her canopy, watching the ships emerge, watching the bridge collapse back into normal space as the last destroyer cleared the threshold.
 
 These ships had just traveled light-years in seconds through a tunnel in space-time.
 
@@ -4846,7 +4794,7 @@ Always Among the Stars.
 ## Epilogue
 
 ### Jovian Shipyards - Ganymede Orbit
-### July 18, 2027 - 0945 hours
+**July 18, 2027 - 0945 hours**
 
 The observation deck offered an unobstructed view of the construction berths, where the skeletal frameworks of a dozen vessels hung against the backdrop of Jupiter's swirling storms. Commander Sarah Chen stood at the forward viewport, watching as two completed hulls moved slowly from their assembly cradles toward the final outfitting stations.
 
@@ -4904,7 +4852,7 @@ The door cycled again. This time, a small group entered - Admiral Trager from Th
 
 > "Improvised successfully," Chen corrected. "Let's not forget that part."
 
-> "Noted." Trager looked at the two vessels. "SUNTZU briefed me on the tactical implications. No galactic power has this capability. Which makes these ships the most strategically significant assets in the Federation fleet."
+> "Noted." Trager looked at the two vessels. "SUNTZU briefed me on the tactical implications. No galactic power has this capability. Which makes these ships the most strategically significant assets in the Federation fleet. Possibly the entire galaxy."
 
 Commander Kim moved up beside them, her eyes fixed on the Flycatcher. "And they're sure the Ryzak can't figure out what happened?"
 
@@ -5003,7 +4951,7 @@ Ships with a capability that had no counter except destruction.
 ---
 
 ### Galileo Station - Commander's Office
-### Same day - 1845 hours
+**Same day - 1845 hours**
 
 Chen stood at her office viewport, watching the Broadsword complete its final approach. The cruiser moved with ponderous grace, its mass requiring careful maneuvering as it positioned itself in the designated patrol orbit. Station traffic control was routing other vessels around the new arrival, clearing space for the ship that would become Galileo's permanent warp disruption platform.
 
