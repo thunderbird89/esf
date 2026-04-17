@@ -354,3 +354,179 @@ Ian nodded, running a thumb across the receiver where the thermal clip seated, t
 > "I'll pass that along to the design team," Reed said, setting the *Needler* back on the table. "Shall we?"
 
 He gestured along the row. There were still several weapons left.
+
+---
+
+## Chapter 4: The Firestorm
+
+### Overview
+
+The next weapon on the table was longer than the *Needler*, with a wider receiver and a barrel that flared slightly at the muzzle. No magazine well. Six rectangular vents — three to a side — were set flush into the receiver, sealed and still.
+
+Reed picked it up and passed it across.
+
+The moment Ian's hands closed around the grip, the vents snapped open. All six at once, with a sharp mechanical click, and then a sound like a sudden inward breath — not slow or subtle, but a fast, purposeful hiss that lasted maybe three seconds before the vents sealed again with a second click, leaving the weapon completely silent.
+
+Ian nearly fumbled it. He got it back under control, held it at arm's length, and stared at it.
+
+> "It just—"
+
+> "Detected a new operator and topped off the reserve," Reed said. "It was at full charge on the table, but the system runs a fill cycle whenever it registers a grip. The vents draw in atmosphere and the ionization chamber processes it in a few seconds. By the time they sealed just now, you're at full capacity."
+
+Ian looked at the overlay. The reserve bar sat at one hundred percent. The thermal clip was full beside it.
+
+> "Two readings," he said, finding his footing again. "Round count and thermal headroom on the *Needler*, but here it's—"
+
+> "Reserve charge and thermal headroom. Same display system, different second parameter. The magazine is the air around you, in effect — as long as there's atmosphere, the weapon can refill. The reserve limits your rate of fire more than anything else. You can deplete it faster than it refills if you're shooting continuously, but at any normal engagement tempo, the cycle keeps pace."
+
+Ian looked at the vents, then back at Reed.
+
+> "It did that because I picked it up."
+
+> "Grip sensor. Soldier picks up the weapon, the weapon prepares itself. You're never waiting on a charge."
+
+Ian absorbed this, then brought the rifle up properly to examine it. Longer than the *Needler*, front-heavy, the mass sitting low in the receiver.
+
+> "This is the *RDP-22*," Reed continued. "Code-named *Firestorm*. Our standard defensive rifle — plasma-based, close-range work."
+
+> "Defensive," Ian said. "Interesting doctrinal category. What makes it defensive rather than offensive?"
+
+> "Effective range, primarily. The *Firestorm* is optimized for engagements out to about a hundred and fifty meters. Beyond that, plasma bolts lose coherence and energy delivery becomes unreliable. Where the *Needler* reaches out at eight hundred meters, the *Firestorm* turns a corridor into a kill zone."
+
+> "So the magazine is the air around you."
+
+> "As long as there's atmosphere, you can fire. The display —" Reed nodded toward Ian's glasses, "— shows the reserve charge as a percentage alongside the thermal headroom. You always know both."
+
+Ian glanced at the overlay: two bars, both full.
+
+> "And output levels? Same system as the *Scorch*?"
+
+> "Same system. Eight levels. Though the *Firestorm* hits harder at every point on the scale — higher baseline output, larger plasma generator. At level one it's already a serious weapon."
+
+### On the Line
+
+They stepped up to the firing line. The steel targets at fifteen and twenty-five meters were still showing the bolt marks from the *Scorch*. Reed had set up a fresh row of plates for this — heavier gauge, Ian noticed, the steel visibly thicker.
+
+> "You stepped up the steel," Ian said.
+
+> "Yes."
+
+> "That tells me something."
+
+> "It should."
+
+Ian raised the *Firestorm*, found the grip natural enough though the balance was front-heavy, and let the crosshair settle on the nearest plate. He pressed the trigger.
+
+The sound was entirely unlike the *Scorch* — fuller, lower, with a sharp snap at the end like a static discharge. The bolt was visible for a fraction of a second as a bright smear of light. The plate rang, rocked, and when it settled there was a clean hole through it, the edges showing that familiar heat discoloration.
+
+> "Level one," he said. "Through the heavier plate."
+
+> "Level one," Reed confirmed.
+
+Ian adjusted the output selector — the same recessed control as on the *Scorch*, stepped up with two firm clicks this time — and checked the overlay. The indicator read three.
+
+He raised the rifle again, aimed at the second plate, and fired.
+
+This time the sound was sharper, the bolt brighter. The plate didn't just ring — it deformed violently on impact, the metal around the strike point peeling outward in a spray of molten fragments that pattered against the berm behind it like thrown coins. The plate was left with a ragged crater rather than a hole, its surface still visibly liquid at the edges, a heat shimmer rising off it in the still desert air.
+
+Ian lowered the rifle.
+
+> "That plate is no longer a plate," he observed.
+
+> "No."
+
+> "The steel went liquid."
+
+> "At the strike point, yes. The plasma transfer at level three exceeds the thermal capacity of the material faster than it can redistribute the heat mechanically. It doesn't punch through so much as it instantaneously vaporizes a volume of material and splashes the rest."
+
+Ian looked at the molten-edged crater. A thin ribbon of smoke was rising from it.
+
+> "What's level five?"
+
+> "Step up and find out."
+
+Ian clicked to five, squared up to the third plate, and fired.
+
+The crack was loud enough to feel in the chest. The bolt arrived at the plate and the plate ceased to exist in any coherent sense — there was a hard *bang* that was more concussion than sound, a brief white flash, and then the plate was gone, replaced by a spreading cloud of superheated metalite vapour and a crater scorched into the berm behind it. Fragments of the steel hanger were still spinning down out of the air when the noise finished echoing off the low hills.
+
+Ian stood very still for a moment.
+
+> "That was an explosion."
+
+> "The plasma at level five vaporizes material fast enough that the expansion is effectively detonative," Reed said. "It's not a chemical reaction — nothing is burning in the conventional sense — but the energy release produces a similar mechanical effect."
+
+> "And this is the *defensive* rifle."
+
+> "It's optimized for close-range work," Reed said, without any particular inflection.
+
+Ian checked the overlay. The reserve charge had dropped to around forty percent across the three shots. The vents had been cycling quietly throughout — he'd stopped noticing them — and the bar was already ticking back upward. The thermal clip had taken a more significant hit than anything the *Needler* had produced — still above fifty percent, but clearly feeling the higher output levels.
+
+He lowered the weapon, set the output back to one, and was about to hand it back when Reed raised a hand.
+
+> "One more thing before you return it. There's an additional mode I think you'll find amusing."
+
+Ian paused, the rifle still in his hands. He looked at the camera with an expression that was trying very hard to stay neutral.
+
+> "More modes."
+
+> "One more mode," Reed said.
+
+### The Lance
+
+Reed stepped up beside him and pointed to a small button recessed into the left side of the receiver, just above the trigger guard. It was flush with the frame, easy to miss if you weren't looking for it.
+
+> "Press that."
+
+Ian pressed it. The vents snapped open with that same sharp click — and stayed open, drawing air in a steady, purposeful hiss. The reserve bar climbed to full in a few seconds and held there, the vents continuing to cycle.
+
+> "It's not sealing."
+
+> "Not in this mode. It keeps the vents open and feeds the ionization chamber continuously. What you fire, it replaces as fast as it can." Reed turned and pointed toward the far end of the range, where a short section of concrete block wall had been set up perpendicular to the firing line — not a target Ian had paid much attention to until now. "Stand about fifteen meters back from that wall. Then hold the trigger down and walk toward it."
+
+Ian looked at the wall. Looked at Reed.
+
+> "Hold the trigger and *approach* the wall."
+
+> "Yes."
+
+> "You're not going to tell me what happens?"
+
+> "I think the experience will communicate it better than I can."
+
+Ian turned back to the camera with an expression that had abandoned all pretence of neutrality, then walked to his mark.
+
+He raised the *Firestorm*, found the wall in the overlay's crosshair, and held the trigger.
+
+What came out of the barrel was not a bolt. It was a continuous beam — a lance of plasma, brilliant white at the core and bleeding violet at the edges, reaching out from the muzzle in a rigid line. Where it hit the concrete it didn't chip or crack. It *melted*, the surface going liquid almost instantly, a small intense circle of destruction that began eating inward.
+
+Ian understood what he had immediately, and started moving the beam.
+
+He walked it left, then right, then back again, dragging the lance across the face of the wall. The concrete came apart wherever it touched — slag running in grey rivulets, steam rising from the cooling edges, the smell of hot mineral dust and electrical discharge building even through his ear protection. Each pass deepened the channel. By the third sweep it was going through, daylight visible in flickers through the molten gap. He widened it deliberately, working the beam methodically, the open vents hissing steadily as the weapon replenished what he was spending.
+
+At roughly five meters the *Firestorm* chirped — a single, flat tone — and went silent. The beam died instantly. The overlay's thermal bar was pinned at the top, the icon beside it blinking amber.
+
+Ian lowered the weapon and looked at what thirty seconds had produced. The wall had a ragged hole through it nearly a meter across, the edges glassy and still faintly glowing, slag pooled thick at the base. The blocks on either side were heat-cracked well beyond the breach. It was less a cavity than a gap — the kind a person could step through.
+
+He stood there for a long moment.
+
+> "The clip saturated," he said.
+
+> "Thirty seconds at sustained output draws considerably more heat than any number of aimed shots. The thermal limit is a hard cutoff — the weapon shuts itself down rather than cook the internals."
+
+> "And then?"
+
+> "Then you swap the clip, wait a few minutes, or accept that you're done with the lance until it cools. In practice the mode is used in short bursts — a few seconds to breach a door, cut through a barricade." Reed looked at the wall. "Thirty seconds is… more of a demonstration than a tactical scenario."
+
+Ian turned back to the camera.
+
+> "So the Federation's standard close-quarters defensive rifle," he said, "also has a flamethrower mode. A plasma flamethrower mode."
+
+> "We don't call it that internally."
+
+> "What do you call it?"
+
+A brief pause.
+
+> "The lance," Reed said.
+
+> "The lance." Ian nodded slowly, then set the *Firestorm* on the table with both hands. "Right. What's next?"
