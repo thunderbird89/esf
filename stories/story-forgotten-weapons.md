@@ -668,3 +668,65 @@ Ian looked at the window, then at the door he hadn't needed to open, then at the
 > "The doctrine is catching up," Reed said. "It takes time. These tools change how you think about a problem, and changing how soldiers think is—" he paused, considering, "—a slower process than building the weapon."
 
 Ian nodded. He turned toward the interior of the building, the remaining red outline still pulsing patiently in the back room, visible through two walls.
+
+### Run and Gun
+
+> "Before we continue," Ian said, turning back to Reed, "I want to do something."
+
+> "I assumed you would."
+
+> "There's a thing that happens in action movies. The hero runs through a building, shooting from the hip, never stops moving, takes out every target. It looks great on screen. In real life it's nonsense — you can't aim on the move, you can't track targets you haven't seen, you'd be shooting blind." He looked down at the *Hornet*. "But I'm wearing a display that shows me every room in this building and every target in it. And I'm holding a rifle whose ammunition finds its own way to whatever I designate." He paused. "I want to run the building."
+
+Reed looked at him for a moment. Then, with the small, controlled smile of someone who had been expecting exactly this request and had quietly prepared for it, he reached for a device on his belt.
+
+> "The previous targets are still on the mesh," he said. "I'm going to re-enable their tags."
+
+He pressed a control. In Ian's overlay, the two outlines in the first room reappeared — fresh red, as though they'd never been cleared. Then new contacts bloomed across the display in quick succession: two more in the second room, one in the corridor between them, two in the third room, one more at the far end of the building. Eight targets total, distributed through every room, rendered in the same patient red.
+
+Ian stood still for a moment, turning his head slowly, reading the building. The overlay tracked with him — every target visible, every room mapped, the geometry of the whole structure laid out in his peripheral vision. His expression had shifted into something that was not quite a grin but was clearly in that direction.
+
+> "Eight contacts," he said.
+
+> "Eight," Reed confirmed. "Whenever you're ready."
+
+Ian checked the magazine. More than forty effectors remaining. He rolled his shoulders once, the way a person does before something they're genuinely looking forward to, and faced the door.
+
+> "Right," he said quietly, mostly to himself.
+
+He went through the door at a walk that became a jog in two strides.
+
+The *Hornet* came up as he crossed the threshold, and he fired without breaking stride, the muzzle tracking across the first room as the effectors arced away from him in tight curves, finding the two reinstated targets as he was already moving past them. He didn't look at where they hit. The overlay told him: both outlines went dark in quick succession, the tags extinguishing behind him as he pushed into the corridor.
+
+The single target in the hallway was ahead and to the right — he had already seen it from outside, already knew the angle. He fired on the move, one round, didn't slow. The tag went dark. He kept going.
+
+The second room opened to his left. Two contacts, both toward the far wall. He swung through the doorframe without stopping, fired twice while his feet were still carrying him in, and was back in the corridor before the second outline deregistered. The effectors had taken separate approach angles to reach around the interior partition between them, each finding its own path.
+
+He was moving faster now, the layout fully internalised, every remaining contact a known position. The corridor jogged right. He took the corner and fired before he completed it, the round already in the air as the doorway came into view, the target behind it still three meters away and already acquired. One outline down.
+
+The last room was at the end. Two targets. He came through the doorway at a full run, put four rounds in the air in two seconds, and stopped in the middle of the room.
+
+Both outlines went dark.
+
+The building was silent. The overlay showed nothing red anywhere.
+
+Ian stood in the back room, chest moving slightly from the exertion, and looked at what the display showed: eight cleared tags distributed through the rooms behind him, the sensor units still pulsing in their fixed positions, and nothing left standing.
+
+He turned around and walked back to the entrance.
+
+Reed was waiting outside where Ian had left him, arms folded, watching the door.
+
+> "Total time?"
+
+> "Twenty-two seconds," Reed said.
+
+Ian glanced back at the building, then at the *Hornet*, then at the camera.
+
+> "Twenty-two seconds. Eight targets. Full building." He considered for a moment. "And I never once aimed."
+
+> "You aimed every time," Reed said. "You just did it with the overlay instead of the sights. The *Hornet* did the geometry. You did the decision-making."
+
+Ian thought about this.
+
+> "That distinction is going to keep a lot of philosophers busy."
+
+> "It already has," Reed said. "Shall we head back to the table?"
