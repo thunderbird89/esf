@@ -677,7 +677,7 @@ Ian nodded. He turned toward the interior of the building, the remaining red out
 
 > "There's a thing that happens in action movies. The hero runs through a building, shooting from the hip, never stops moving, takes out every target. It looks great on screen. In real life it's nonsense — you can't aim on the move, you can't track targets you haven't seen, you'd be shooting blind." He looked down at the *Hornet*. "But I'm wearing a display that shows me every room in this building and every target in it. And I'm holding a rifle whose ammunition finds its own way to whatever I designate." He paused. "I want to run the building."
 
-Reed looked at him for a moment. Then, with the small, controlled smile of someone who had been expecting exactly this request and had quietly prepared for it, he reached for a device on his belt.
+Reed looked at him for a moment. Then, with the small, controlled smile of someone who had been expecting exactly this request and had quietly prepared for it, he reached for what looked like his phone.
 
 > "The previous targets are still on the mesh," he said. "I'm going to re-enable their tags."
 
@@ -689,9 +689,15 @@ Ian stood still for a moment, turning his head slowly, reading the building. The
 
 > "Eight," Reed confirmed. "Whenever you're ready."
 
-Ian checked the magazine. More than forty effectors remaining. He rolled his shoulders once, the way a person does before something they're genuinely looking forward to, and faced the door.
+Ian checked the magazine. More than forty effectors remaining.
 
-> "Right," he said quietly, mostly to himself.
+He looked at the building. Then at the overlay. Then at the rifle. He was doing the thing where he was trying very hard to look like a professional and not quite managing it — the corners of his mouth were losing the argument with the rest of his face.
+
+> "I have," he said to the camera, with the careful enunciation of someone choosing their words to avoid sounding like an excited twelve-year-old, "wanted to do this since the first action movie I ever watched."
+
+He turned back to the door, and whatever was left of the composed-professional expression gave up entirely.
+
+> "Right," he said — not quietly, not to himself, but to no one in particular, in the tone of a man who has just been handed something he wasn't sure was real and has decided not to waste it.
 
 He went through the door at a walk that became a jog in two strides.
 
