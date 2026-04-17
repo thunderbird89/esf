@@ -244,3 +244,113 @@ Ian nodded slowly, processing, then set the *Scorch* back on the table with the 
 > "Okay," he said. "Now we can move on to the rifles."
 
 Reed said nothing. He was already holding one.
+
+---
+
+## Chapter 3: The Needler
+
+### Overview
+
+The rifle Reed had picked up was, at first glance, less obviously alien than the *Scorch*. It had a stock, a barrel, a pistol grip, a trigger guard. The proportions were close enough to familiar that the eye wanted to resolve it into something it recognized—and then couldn't quite complete the comparison. The upper receiver was too smooth, the barrel profile too uniform, and there was no gas tube, no piston system, no ejection port. The magazine well sat in the conventional position but accepted a magazine that was slightly too thick and had no feed lips.
+
+> "*RGK-6*, slash Alpha," Reed said, setting it on the table for Ian to examine. "Code-named *Needler*. Kinetic rifle, general purpose, assault variant. It's one of our standard infantry long arms."
+
+Ian picked it up with both hands, shouldered it briefly to check the length of pull, then brought it back down and began working through his usual inspection. He found the magazine release, pressed it, caught the magazine as it dropped free.
+
+> "No propellant," he said, examining the magazine. The rounds were visible through a small window in the polymer body—small, dark, needle-thin. "These are the flechettes?"
+
+> "Two-millimeter tungsten-carbide," Reed confirmed. "Electromagnetically accelerated. The upper receiver is essentially a linear accelerator—a series of coils that fire in sequence as the round passes through, adding velocity at each stage. By the time it exits the barrel the dart is moving fast enough that aerodynamic drag is the primary constraint on range, not energy."
+
+> "So it's a railgun. A man-portable railgun."
+
+> "Conceptually, yes. The implementation is somewhat more refined than that term usually implies, but the operating principle is the same."
+
+Ian turned the magazine over in his hands, looking at the rounds through the window.
+
+> "And the thermal clip—same system as the *Scorch*?"
+
+> "Same alloy, same interface, different geometry to suit the weapon's output. You'll notice on your display—" Reed nodded toward the glasses, which Ian had kept on more or less out of habit since Reed had stopped him from removing them, "—that you now have two readings instead of one."
+
+Ian glanced to the corner of the overlay. Two bars where before there had been one. He reseated the magazine and the second indicator populated fully.
+
+> "Round count," he said.
+
+> "Round count and thermal headroom, yes. Separate systems—the magazine tracks its own inventory mechanically and broadcasts it the same way the clip broadcasts temperature. You always know both. You're never shooting on a guess."
+
+> "What's the magazine capacity?"
+
+> "Forty rounds standard. The bolt cycles fast enough that trigger discipline matters—it's easy to run through a magazine if you're not paying attention."
+
+Ian weighed the rifle in his hands again, checking the balance. It was lighter than it looked, the weight distributed well forward of the pistol grip.
+
+> "You called this an assault rifle."
+
+> "That's its doctrinal category, yes."
+
+> "What does it do at assault rifle ranges?"
+
+> "Defeats any personal armor currently fielded by any terrestrial military, reliably, out to about eight hundred meters. Beyond that the dart starts to lose coherence in atmosphere and you'd want a dedicated long-range platform."
+
+> "Eight hundred meters," Ian said, neutrally. That was twice the effective range of any assault rifle on Earth, and roughly equivalent to a precision marksman's rifle in the right hands. "And this is the standard infantry weapon."
+
+> "Correct."
+
+### On the Line
+
+The steel targets downrange were the same ones he'd used for the *Scorch*, the nearest at fifteen meters and the furthest just shy of forty. Ian looked at them, then at Reed.
+
+> "These aren't going to tell me much at this range."
+
+> "No," Reed agreed. "Which is why we set up something further out this morning."
+
+He pointed. Past the usual target line, barely visible in the heat shimmer off the desert floor, a row of fresh steel plates had been hung on a frame. Ian squinted. The nearest of them was a long way out.
+
+> "How far?"
+
+> "Six hundred meters to the first plate. Eight hundred to the last."
+
+Ian looked at the rifle in his hands. No bipod. No magnified optic beyond whatever the scope system built into the receiver offered—and when he raised it to his shoulder and looked through, the reticle resolved cleanly at what the overlay read as a six-hundred-meter range, the first plate centered without any visible distortion.
+
+> "The scope is compensating for range automatically," he said. "I can see the ballistic correction built into the reticle."
+
+> "The weapon calculates hold-over in real time based on range to the designated target and current atmospheric conditions. The reticle shows you the adjusted point of impact. You put the dot on the target and fire."
+
+> "No manual doping. No ranging corrections."
+
+> "The rifle handles it."
+
+Ian steadied his stance—no support, standing unsupported, the way he'd shoot a pistol—and pressed the trigger.
+
+The *Needler* fired with a sound unlike anything in his experience: a sharp, dense crack followed immediately by a faint high-pitched ring, like a bat hitting a ball at the exact resonant frequency of the air. There was almost no felt recoil. The plate at six hundred meters rang hard and swung violently on its hanger—and when Ian looked through the scope, there was a clean hole punched through the steel, the edges cold, no heat discoloration, no petaling. Just a precise aperture where the dart had passed straight through.
+
+> "Clean penetration," he said. "No deformation on the steel. The dart went through intact."
+
+> "At that range, yes. The velocity is still high enough that the round doesn't yaw or fragment on mild steel. You'd need considerably heavier plate to see significant deformation."
+
+Ian moved his point of aim to the eight-hundred-meter plate. The overlay shifted, the reticle adjusting almost imperceptibly. He fired.
+
+Same result. The plate swung. Another clean hole.
+
+He lowered the rifle and stood quietly for a moment.
+
+> "On a conventional rifle," he said, finally, "I would have needed to be considerably more careful about my position and my dope to make that shot. Probably a bipod. Definitely a known zero at distance."
+
+> "Our soldiers are expected to make that shot standing, in contact, under stress."
+
+> "With the rifle doing the ballistics."
+
+> "The rifle does the ballistics. The soldier does everything else."
+
+Ian checked the round-count indicator. He'd fired two rounds. The thermal bar had barely moved—the kinetic system ran considerably cooler than the plasma weapons, and the clip was showing well over ninety percent headroom remaining.
+
+> "Low thermal cost compared to the *Scorch*."
+
+> "The magnetic acceleration system is efficient. You'd run a magazine dry before you saturated a fresh clip at normal engagement rates. The thermal limit is a safeguard against sustained suppressive fire more than anything—if you're dumping rounds at full automatic for an extended period, the coils build heat. But in any kind of aimed fire, the clip is essentially a non-factor."
+
+Ian nodded, running a thumb across the receiver where the thermal clip seated, then handed the rifle back to Reed.
+
+> "It shoots better than I do," he said. "Which I'm choosing to take as a compliment to the engineering rather than an insult to my marksmanship."
+
+> "I'll pass that along to the design team," Reed said, setting the *Needler* back on the table. "Shall we?"
+
+He gestured along the row. There were still several weapons left.
