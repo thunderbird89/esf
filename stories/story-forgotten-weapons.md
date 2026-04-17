@@ -530,3 +530,141 @@ A brief pause.
 > "The lance," Reed said.
 
 > "The lance." Ian nodded slowly, then set the *Firestorm* on the table with both hands. "Right. What's next?"
+
+---
+
+## Chapter 5: The Hornet
+
+### The Walk
+
+Reed picked up the last rifle from the table — smaller than either of the weapons Ian had fired so far, compact in the way that suggested every unnecessary centimetre had been removed rather than that anything had been omitted. He handed Ian the *Hornet* and they started walking, away from the range proper and toward a low cluster of structures at the far end of the training ground: a mock building, half a dozen rooms in cinder block and plywood, the kind of urban-warfare practice environment any military base in the world would recognise.
+
+Ian turned the rifle over as they walked. It was light. Lighter than the *Needler* by a significant margin, lighter even than the *Scorch*. The barrel was short, the magazine well central, the whole profile closer to a PDW than an assault rifle. The magazine, when he dropped and caught it, was thick-walled and heavier than its size suggested.
+
+> "*RTK-6*," Reed said. "Code-named *Hornet*. You'll notice it doesn't have a thermal clip."
+
+Ian checked. He was right — no clip slot, no heat sink geometry anywhere on the frame.
+
+> "No thermal management at all?"
+
+> "The effectors produce negligible waste heat on launch. The electromagnetic pre-aligners in the barrel generate some, but at a rate the receiver itself can absorb passively. The *Hornet* is the only infantry weapon in our standard inventory that doesn't run one."
+
+> "And the effectors are—" Ian had retrieved the magazine again and was looking at the rounds through the window in the polymer body. They were small, close to 5.56 in form factor, but there was something at the tip of each one that caught the light differently. Not a conventional projectile. A tiny, complex thing. "—these are the guided munitions."
+
+> "RTK-E Mk.I. Sixty per magazine. Each one is semi-autonomous — passive until it clears the muzzle, then the microdrive activates and it homes to whatever target the rifle has designated. IR lock, thermal lock, or relay from a networked asset."
+
+Ian reseated the magazine and looked at the barrel, which had none of the clean uniformity of the *Needler*'s accelerator system — instead it was subtly lined, a series of faint rings along the interior that he could just make out.
+
+> "The barrel aligns them on the way out?"
+
+> "Magnetic pre-aligners stabilise the microdrives at launch so they don't tumble before guidance activates. The barrel is functionally a launch conduit more than a conventional barrel."
+
+> "Sixty rounds of individually guided micro-explosives," Ian said, mostly to the camera. "Each the size of a standard rifle cartridge."
+
+> "Correct. The effectors are tuned for soft and semi-armoured targets — shaped micro-charge, directed fragmentation. They will defeat light armour reliably. Against vehicle-grade steel you'd want the *Needler* instead, but against anything that breathes—"
+
+He didn't finish the sentence. He didn't need to.
+
+They walked for a moment in silence. The mock building was closer now, its blank cinder-block face showing no windows on this approach.
+
+> "You mentioned networked assets," Ian said. "What does that look like in practice?"
+
+> "The rifle is a node. It shares its targeting telemetry with whatever else is on the mesh — other infantry, vehicles, aerial platforms. If a friendly asset has a lock on a target, the *Hornet* can fire on relay without the operator ever having line of sight. The effectors find the target on their own once they're in the air." Reed reached into a pouch on his belt and produced a small device, holding it up. "Which brings me to this."
+
+It was roughly the size and shape of a grenade — the same general heft, the same one-handed grip — but studded across its surface with small optics and what looked like sensor apertures, each flush-mounted and sealed behind protective covers.
+
+> "Recon grenade," Reed said. "Throw it or roll it into a space. It orients itself, opens the sensors, and broadcasts a full picture of everything inside to all networked HUDs on the mesh. Useful life is about ninety seconds before the power cell depletes."
+
+Ian took it and turned it over, examining the lenses.
+
+> "Field of view?"
+
+> "Three-sixty. It builds a composite picture from all the sensors simultaneously. What you see on your display is effectively a full map of the room, updated in real time for the duration."
+
+> "And if someone picks it up?"
+
+> "It keeps broadcasting. It doesn't announce itself." A beat. "We placed several sensor units inside the building this morning — static emitters, similar role to the grenade but fixed position. They're already on the mesh. When you put the glasses on and approach the building, you'll start seeing what they can see."
+
+Ian looked up at the building. They were perhaps thirty meters from the entrance.
+
+### The Approach
+
+He put the glasses on.
+
+For a moment the building was just a building — blank face, closed door, windows covered with plywood. Then the overlay populated, and he stopped walking.
+
+The walls were still there, solid and opaque, but overlaid on them in clean pale lines were the rooms inside. Not a blueprint — something more immediate than that. Outlines. The geometry of the space rendered in thin wireframe that sat on top of the physical structure as though the cinder block had simply become partially transparent. He could see the partition walls, the doorframes, the angles of the corridors. And within the rooms, tagged in the HUD with small geometric markers: the sensor units Reed had mentioned, each one a pulsing icon at its fixed position.
+
+And in three of the rooms, human-shaped outlines. Rendered in red.
+
+He stood there for a moment, looking at a building he had never entered, seeing its interior laid out in front of him.
+
+> "The sensors have been broadcasting since we set them this morning," Reed said, stopping beside him. "What you're seeing is a composite from all of them. The *Hornet* is reading the same feed."
+
+Ian glanced down at the rifle in his hands, then back at the building.
+
+> "There are figures in there. Three of them, highlighted red."
+
+> "Plywood targets. We designated them as hostiles for the exercise before you arrived." Reed nodded toward the building. "In a real engagement, the colour coding tells you everything at a glance — red for designated hostile, green for confirmed friendly, blue for neutral or unclassified. If you're clearing a building with civilians inside, the blues stay blue. You know not to fire."
+
+> "And the *Hornet* respects that designation."
+
+> "The effectors won't home to a green or blue contact without an explicit override. It's a safeguard against fratricide."
+
+Ian looked at the three red outlines through the wall. Two were in the front room, one further back, partially occluded by an interior partition — but the overlay showed it clearly regardless, the sensor composite filling in what line of sight couldn't provide.
+
+> "So the rifle already knows which ones it can shoot."
+
+> "Before you open the door."
+
+Ian absorbed this. The wireframe building sat in his vision, patient and detailed, every room accounted for, every contact classified.
+
+> "And the recon grenade," he said, "extends that to any space that doesn't already have sensors in it."
+
+> "Roll it in first, wait two seconds, then the *Hornet* knows the room."
+
+Ian looked at the camera. The wireframe building was visible in the footage from his glasses — the same pale overlaid geometry the viewers could see, the red outlines in their rooms.
+
+> "I want to be clear about what I'm looking at," he said. "I am standing outside a building I have never been in. I can see the floor plan, the room layout, the location of every sensor unit, and three designated targets — through solid walls. The rifle in my hands already has firing solutions on all of them." He paused. "Before I've opened the door."
+
+Reed said nothing. He gestured toward the entrance.
+
+Ian walked forward.
+
+### First Room
+
+The entrance was a plain wooden door set into cinder block. The two red outlines in the first room were visible through the wall as Ian approached — standing targets, fixed positions, exactly where the overlay said they were.
+
+He stopped at the window beside the door. A single pane, the glass replaced with plywood for the exercise, leaving a gap of perhaps thirty centimetres at the bottom where the board didn't quite reach the frame. Ian looked at the gap, then at the overlay, then at the *Hornet* in his hands.
+
+He crouched.
+
+He didn't open the door. He didn't stack up on the frame or prepare to breach. He simply lowered himself to one knee, held the rifle by the pistol grip with his arm extended, and raised just the muzzle over the lip of the window gap — barely five centimetres of barrel above the sill, his body entirely below it and to the side, his head nowhere near the opening.
+
+He fired three rounds in quick succession without looking.
+
+The *Hornet* barely moved in his hand — three soft, precise reports, almost polite, the sound of three effectors leaving the barrel. Through the glasses he watched them arc: not straight lines but shallow curves, each one diverging slightly from the others as their microdrives oriented on the target. They came in from different angles, two from the left and one from the right, converging on the first plywood silhouette and impacting within a half-second of each other. Three compact detonations, the cracking of wood, a brief flash visible even through the wall in the thermal overlay.
+
+The red outline didn't move. It simply stopped being tagged as active.
+
+Ian fired three more. Same geometry, same arc, different approach angles. The second outline went dark.
+
+He stood up, lowered the rifle, and looked at Reed.
+
+For a moment neither of them said anything.
+
+> "I should clarify," Ian said finally, "that I did not plan that in advance. I just— the window was there, and the overlay was showing me exactly where they were, and I thought—"
+
+> "You thought correctly," Reed said. There was something in his tone that was not quite approval and not quite surprise — a measured assessment, the way an instructor sounds when a student does something ahead of the curriculum. "Standard training is through the door. Controlled entry, clear the threshold, advance by room. That's what we teach because it works and because it's what soldiers know."
+
+> "But the *Hornet* doesn't need the door."
+
+> "The *Hornet* doesn't need line of sight at all, if the targeting data is there. You found that on your own in about thirty seconds." Reed glanced at the window, at the muzzle that had barely cleared the sill. "Our instructors spend three days getting that point across. Some people never quite believe it until they do it."
+
+Ian looked at the window, then at the door he hadn't needed to open, then at the camera.
+
+> "The doctrine hasn't caught up to the weapon yet," he said.
+
+> "The doctrine is catching up," Reed said. "It takes time. These tools change how you think about a problem, and changing how soldiers think is—" he paused, considering, "—a slower process than building the weapon."
+
+Ian nodded. He turned toward the interior of the building, the remaining red outline still pulsing patiently in the back room, visible through two walls.
