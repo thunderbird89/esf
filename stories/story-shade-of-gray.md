@@ -958,7 +958,7 @@ Rodriguez's voice came back, carefully controlled but carrying an edge of disbel
 
 > "That's... that's not possible. Not with any technology I know about."
 
-> "Fortunate, then, that you have access to technology you don't know about." Dozer's tone was matter-of-fact, almost amused. "Second vehicle stopping now. All occupants are armed. Two with concealed carry, three with rifles in the truck beds. The man exiting the passenger side of the F-150 has his hand near his waistband. Weapon is a Glock 19, loaded, one in the chamber."
+> "Fortunate, then, that we have access to technology you don't know about." Dozer's tone was matter-of-fact, almost amused. "Second vehicle stopping now. All occupants are armed. Two with concealed carry, three with rifles in the truck beds. The man exiting the passenger side of the F-150 has his hand near his waistband. Weapon is a Glock 19, loaded, one in the chamber."
 
 Marisa watched through her optic as the man Dozer described stepped out of the truck. Young, maybe twenty-six, wearing a flannel shirt and jeans. His right hand hovered near his belt, fingers twitching. She couldn't see the weapon from this angle, but she didn't doubt it was there.
 
