@@ -1351,7 +1351,7 @@ Olena Petrenko was making breakfast when the air raid sirens began wailing acros
 
 Now, as she watched, the turrets began to move.
 
-The barrel assemblies rotated with mechanical precision, tracking upward toward the western sky. The cables running back to the container installations began to glow with a faint blue light, as if massive amounts of power were suddenly flowing through them. Even from her apartment window, she could hear a low humming sound building in intensity.
+The barrel assemblies rotated with mechanical precision, tracking upward toward the eastern sky. The cables running back to the container installations began to glow with a faint blue light, as if massive amounts of power were suddenly flowing through them. Even from her apartment window, she could hear a low humming sound building in intensity.
 
 > "Mama, what's happening?" Anya asked, running to the window.
 
