@@ -129,3 +129,95 @@ The door closed behind her before any of them had assembled a question worth ask
 Chandrasekhar, still watching the frozen frame on the wall display - the joint that shouldn't hold, holding - answered without looking away from it.
 
 "I don't think she knows either."
+
+---
+
+## Chapter 2: Secondhand
+
+### Three Weeks In
+
+The working space Weiss had promised them turned out to be a single windowless room with four desks, a wall of monitors, and a whiteboard nobody had erased from whatever program had used the annex before theirs - someone had left a diagram of a turbine cross-section on it, and nobody had yet worked up the nerve to ask if that was permitted to be wiped. The folders that arrived each morning were stamped, in the upper corner, with a name none of them had chosen and none of them were told the meaning of: COLD FORGE. Huels assumed it referred to them. He never confirmed it, because confirming it would have meant asking Weiss a question she'd only answer with another question.
+
+By the third week, the room had developed its own weather. Huels claimed the desk nearest the whiteboard and filled it with a servo textbook he'd had shipped from his own office - approved, after review, redacted in two places for reasons no one explained - and a growing stack of printouts, each frame of Gaza footage annotated with joint angles measured by hand, twice, because he didn't yet trust the software Weiss's people had given them to do it for him.
+
+"The torque doesn't close," he said, to no one, for the fourth time that week. "Not with any actuator ratio I can make fit the housing dimensions. Either the housing is lying to us, or the material is doing something a housing that shape shouldn't allow."
+
+Osei didn't look up from her own desk, where she'd built a private taxonomy of frame captures sorted by weapon impact, dated and cross-referenced against nothing she'd shared with the room yet. "Maybe the material's the point, Matthias, and you're trying to solve a servo problem with a metallurgy answer."
+
+"That's why I'm asking whether you've found one."
+
+"I've found four candidates and disproved all four. I'm not handing you a guess dressed as a finding just so you feel like the room's making progress." She still hadn't looked up. "You'll get it when I trust it."
+
+"We're supposed to be one team."
+
+"We're four people who got kidnapped on the same afternoon," Osei said. "That's not the same thing, and I'd rather you not pretend it is just to make the room easier to sit in."
+
+Huels didn't have an answer for that. He went back to his printouts, and the whiteboard turbine stayed exactly as it was, and nobody spoke again until lunch was delivered by a contractor who never made eye contact and never stayed to collect the trays himself.
+
+---
+
+### Independence Day
+
+They were not told they could not leave the annex on the Fourth of July. They were told, with exquisite politeness, that base access for personnel without a badge tier three or above was restricted during the holiday exercise, and that this was a coincidence of timing rather than a policy aimed at them specifically, and none of the four of them believed it, and none of them said so out loud.
+
+Weiss arranged a cookout on the strip of tarmac behind the annex instead, folding tables and a grill manned by a security contractor who handled the tongs like they were a weapon he'd trained on. It was, in its own grim way, an attempt at kindness, and Huels found he resented it more than he would have resented nothing at all.
+
+Vann talked more than anyone that evening, which was its own kind of tell. He told them about his mother - vascular dementia, a facility in Leesburg, a sister who visited on the days he couldn't - offered up freely, unprompted, the way some people handed over vulnerability as currency, hoping it would buy them something in return.
+
+"They send me a line every morning," he said. "Weiss's people. One line. 'Stable, no change,' usually. I check it before I check anything about the actual job." He laughed, short and humorless. "First good use I've gotten out of a security clearance in eleven months."
+
+Chandrasekhar listened to all of it and said nothing, and later that night, in the notebook she kept in a jacket pocket and had not shown to anyone, she wrote: *E.V. - discloses freely, unprompted, personal/emotional material. Possible genuine openness. Possible pattern of behavior worth normalizing before asking for something back. Watch which.*
+
+It was Osei who noticed, three days later, that Vann had missed his one o'clock check-in on his mother's line and gone gray in the face over it, and it was Osei - furious, unforgiving Osei, who had not offered anyone in the room a kindness yet that she hadn't been shamed into - who walked to Weiss's office unasked and came back twenty minutes later to tell him, flatly, "she had a fall, she's fine, they're adjusting her medication," and then sat back down at her desk and returned to her taxonomy of impact frames as though she had not just spent her only currency with Weiss on someone she'd complained about not trusting four days earlier.
+
+Vann thanked her. Osei said, "Don't," and meant it as a full sentence.
+
+---
+
+### August
+
+The propulsion mystery ate Vann whole, the way problems he loved always had, except this one had no bottom. No jetwash. No detectable reaction mass. No power draw that any sensor Weiss's people could point at the footage would register, and no theoretical framework Vann could build that didn't require inventing physics he had no evidence existed. He requested access to a classified inertial-confinement dataset from a lab in Livermore, on the theory that if anyone on Earth had modeled anything adjacent to what he was chasing, it would be them.
+
+The request came back denied, then came back three days later approved, then came back a week after that with a note that the dataset in question had been reclassified above the project's need-to-know and was no longer available to any personnel below tier four. Nobody in the room held a tier four clearance. Nobody, as far as any of them could determine, held a tier four clearance in the entire annex.
+
+"That's not how classification usually works," Vann said, to the room, holding the denial memo like it had personally insulted him. "You don't reclassify something *up* in response to a request unless someone decided, after the request, that the request itself was the problem."
+
+"Or a clerk made a mistake," Huels said.
+
+"Sure," Vann said. "Or that."
+
+Chandrasekhar didn't say anything at the time. She waited until the room had cleared for the evening, and wrote, in the notebook: *Second incident. First was a materials paper R.O. mentioned losing access to in July, attributed by her to a database migration. This one has no such explanation offered. Neither incident individually is unusual in a classified program. Two in six weeks starts to be a pattern rather than an accident, and I have no way yet to test which.*
+
+She did not mention either incident to Weiss. She did not mention them to Osei or Vann either, not yet, because the version of trust she was building ran on withheld information as collateral, and she was not prepared to spend it on a hypothesis she couldn't yet prove.
+
+---
+
+### September
+
+By September, the grid was hers alone to chase, and she chased it the way she chased everything - by building a model first and asking whether it was true second. Eighty-one hours of Gaza footage, timestamped and cross-referenced against every documented threat-lattice color change anyone in the intelligence community had bothered to log, produced a decision tree that fit the data with an accuracy that frightened her more than it satisfied her.
+
+The lattice was not, she was increasingly certain, a targeting system in the sense any of them had first assumed. It was closer to a running Bayesian estimate of intent, updated continuously against some reference model of hostile action she couldn't see the shape of, except by its outputs. It did not merely detect weapons. It detected *decisions* - the muscular commitment of a body about to use one - with a lead time that implied either superhuman sensor fusion or something that had already, somewhere upstream, solved the problem of predicting human violence before the humans involved had finished deciding to commit it.
+
+She wrote up eleven pages. She submitted them to Weiss, as required, on the Friday deadline. On the following Tuesday, the summary that came back down from whatever tier evaluated their work characterized her central finding - *the system is not reactive, it is predictive, and we do not know against what model* - as "consistent with existing consensus assessment," and attached, as if in support, a consensus assessment she had never seen before and that reached a nearly identical conclusion to hers, in language close enough to her own that it read, to her trained eye, less like independent confirmation than like something that had been quietly reverse-drafted to resemble one.
+
+She did not raise it in the room. She wrote, instead, in the notebook, a single line that took her longer to commit to paper than the eleven pages had: *Either we are not the only team working this problem, or someone wants us to believe we aren't, alone. Either way, nobody has told us the truth about how alone we are.*
+
+---
+
+### Late September
+
+Weiss called the four of them together on a Thursday that had otherwise promised nothing, and delivered the assessment without ceremony.
+
+"Three months," she said. "No hardware. No breakthrough. No consensus among the four of you on anything beyond the fact that you don't yet trust each other, which I'd point out, gets logged too." She let that land. "That's not a criticism. It's the expected shape of a problem this size. But I want to be honest about what happens next, because I don't think any of you have asked, and I think you should have."
+
+"What happens next," Osei repeated, flat.
+
+"You keep going. There's no clock on this beyond the one the world sets for us, and the world isn't obligated to wait for four people to learn to like each other first." Weiss looked, for the first time since Huels had met her, almost tired. "I'd tell you it gets easier. It doesn't. It gets more familiar, which some people mistake for the same thing."
+
+She left them with that, and the room sat in a silence that had, by now, become almost companionable, four people who still did not trust one another with very much, sharing a discomfort none of them yet had a word for that wasn't simply *this*.
+
+Huels was the one who finally spoke, to the whiteboard rather than to any of them, the turbine diagram still ghosted faintly under three months of dry-erase notes nobody had bothered to fully clean.
+
+"I still don't know any of your first names," he said. "Not really. Not the way you'd know someone's."
+
+Nobody offered one. But nobody left the room right away, either, and for the four of them, in September, that was already further than June had promised any of them they'd get.
