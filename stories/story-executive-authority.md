@@ -311,3 +311,65 @@ Huels was the one who finally spoke, to the whiteboard rather than to any of the
 "I still don't know any of your first names," he said. "Not really. Not the way you'd know someone's."
 
 Nobody offered one. But nobody left the room right away, either, and for the four of them, in September, that was already further than June had promised any of them they'd get.
+
+---
+
+### October
+
+The closest thing to a breakthrough the room produced all autumn came out of a fight, which Huels supposed made a certain sense, since nothing else had gotten either of them to actually listen to the other.
+
+"You keep treating the housing as fixed geometry," Osei said, for the second time that week, jabbing a finger at Huels's torque calculations without quite touching the page. "What if it isn't. What if the material under load isn't just carrying force, it's *contributing* it - some kind of distributed contraction across the lattice itself, not a servo at all in the sense you mean, more like the whole limb is the muscle and the joint's just where we happen to be looking."
+
+Huels opened his mouth to argue on reflex, then didn't. He looked at the number again. Then he looked at it a third way, the way she'd just described it, and swore under his breath in German, which he only did when he'd been wrong in a way that impressed him.
+
+"That closes it," he said. "Not the torque - the torque still doesn't close. But the *shape* of the gap closes. If the alloy itself is doing mechanical work under its own internal field, instead of just housing something that does the work, the numbers stop being impossible. They just become a materials science we don't have."
+
+It took them nine days to turn the argument into a paper - twenty-two pages, careful, hedged in every place the data didn't support certainty, the first thing either of them had put their name to jointly. It was, by any reasonable measure, the single most significant finding COLD FORGE had produced since June.
+
+The sample Osei needed to run the confirming stress test - a laboratory-grown analog alloy, six weeks in a controlled curing chamber, logged and re-logged at every stage - came out of the chamber the morning of the test crazed through with microfractures that had not been there twelve hours earlier, in a pattern inconsistent with thermal stress, mechanical stress, or any curing fault the chamber's own engineers could name. The chamber's alarms had not tripped. Its access log showed no one had opened it since Osei herself, at 1900 the previous evening. The one technician cleared for after-hours access to that wing had been off base, at his daughter's soccer game, with forty people and a photo timestamp to prove it.
+
+The inquiry Weiss opened lasted four days and closed with a single line: *cause undetermined, technician's alibi not in dispute, no evidence of external access, sample destroyed, no further action recommended.*
+
+Osei ran the test again, on a second sample, under two technicians instead of one and a camera she paid for herself out of a stipend she wasn't sure she was even allowed to spend on hardware. The second sample cured cleanly. She never learned whether that meant anything.
+
+---
+
+### November
+
+Vann and Chandrasekhar found each other by accident, which was the only way either of them found anything that autumn, comparing notes over a printout neither of them had been asked to share, and realized within an hour that her grid-activation timestamps and his undetected-power-draw anomalies lined up to within a second, every time, across four months of footage.
+
+It wasn't proof of anything. It was, Chandrasekhar said, the first real *seam* either of their two mysteries had shown - a place where propulsion and cognition touched, however briefly, and might be pulled apart from the same thread if anyone got the chance to keep pulling.
+
+They didn't get the chance. The correlated dataset - built across three days of cross-referencing, saved nightly to the shared drive under both their names - was gone by the following Monday. Not deleted; there was no deletion event in any log anyone could produce, no access record of any kind after Chandrasekhar's own save at 2140 on Friday. It was, as far as the system was concerned, a file that had never existed, sitting in a directory that otherwise perfectly remembered every other file that had ever passed through it.
+
+IT security's investigation - two days, three technicians, a full audit of server access for the preceding week - found no unauthorized logins, no anomalous traffic, no hardware fault on the drive itself, which tested, when they finally pulled it for inspection, in perfect working order. Nobody had the access to take it. Nobody who did have access had any plausible reason to. And yet it wasn't there.
+
+"Someone made a copy," Vann said, in the flat, unconvinced voice of a man repeating an explanation he'd already stopped believing. "Has to have. Copied it, then wiped the log of the copy, then wiped the log of the wipe."
+
+"That's not how the log works," Chandrasekhar said. "There's no layer under the layer you're describing. I checked."
+
+Neither of them said the other thing out loud, the thing the whiteboard joke used to cover for and had stopped, some time in September, being able to reach.
+
+---
+
+### December — The Ledger
+
+Chandrasekhar bought a second notebook in December, a plain hardbound one from the base exchange, and started something in it she did not let herself call an investigation for the first two weeks, because naming it would have made it real, and being wrong about it would have made her the kind of person who saw patterns in noise because the alternative was unbearable.
+
+By the second week, she stopped pretending. She ruled a page into columns - date, description, method, motive, opportunity, verdict - and worked backward through everything since June, one entry at a time, in handwriting that got steadier the more of them she wrote down, as if the format itself were a kind of ballast.
+
+> **14 Aug** - Personal laptop, total capacitor failure, all rails, simultaneously. *Method:* none consistent with known failure modes. *Motive:* interrupt grid-model analysis, 55% complete at time of loss. *Opportunity:* overnight, unattended, no forced entry logged, no other equipment in room affected. *Verdict:* unresolved.
+>
+> **3 Sep** - Submitted findings returned as consistent with a prior "consensus assessment" I had never been shown and do not believe existed before my submission. *Method:* unknown access to draft prior to formal submission. *Motive:* obscure the originality of the finding; unclear to what end. *Opportunity:* draft existed only on the internal network. *Verdict:* unresolved.
+>
+> **Oct** - R.O./M.H. confirming sample, six weeks cured, crazed overnight in a monitored, alarmed chamber. *Method:* none identified; chamber undisturbed per its own instrumentation. *Motive:* interrupt confirmation of the joint actuator hypothesis. *Opportunity:* sole cleared technician alibied, forty witnesses. *Verdict:* unresolved.
+>
+> **Nov** - E.V./mine correlated dataset absent from shared drive, no deletion event, no access event, drive hardware sound. *Method:* none the systems administrators can describe. *Motive:* prevent correlation of propulsion and cognition data. *Opportunity:* none demonstrable. *Verdict:* unresolved.
+
+Four entries. Four times, in six months, the room had gotten close enough to something to call it progress, and four times, the progress had been quietly, precisely, un-provably taken back - never violently, never even conclusively, always with exactly one leg of means, motive, or opportunity sawn off before anyone could stand the theory up and walk it into Weiss's office.
+
+She did not show the notebook to Osei, or Vann, or Huels. She told herself this was methodology - that a hypothesis announced too early collected its own false confirmations, that she owed the room certainty before she owed it alarm. She was aware, writing that justification down like the others, that it was also simply how she had always operated, long before any of this, and that she had never before had to ask herself whether the habit was wisdom or just a shape her fear had learned to wear.
+
+At the bottom of the December page, under the fourth entry, she wrote one line more, smaller than the rest, as though writing it quietly might keep it from being true.
+
+*Someone is grading our work. And whoever it is has never once been wrong about which answer to take.*
