@@ -134,11 +134,11 @@ Chandrasekhar, still watching the frozen frame on the wall display - the joint t
 
 ## Chapter 2: Secondhand
 
-### Three Weeks In
+### The First Weeks
 
 The working space Weiss had promised them turned out to be a single windowless room with four desks, a wall of monitors, and a whiteboard nobody had erased from whatever program had used the annex before theirs - someone had left a diagram of a turbine cross-section on it, and nobody had yet worked up the nerve to ask if that was permitted to be wiped. The folders that arrived each morning were stamped, in the upper corner, with a name none of them had chosen and none of them were told the meaning of: COLD FORGE. Huels assumed it referred to them. He never confirmed it, because confirming it would have meant asking Weiss a question she'd only answer with another question.
 
-By the third week, the room had developed its own weather. Huels claimed the desk nearest the whiteboard and filled it with a servo textbook he'd had shipped from his own office - approved, after review, redacted in two places for reasons no one explained - and a growing stack of printouts, each frame of Gaza footage annotated with joint angles measured by hand, twice, because he didn't yet trust the software Weiss's people had given them to do it for him.
+Within the first few weeks, the room had developed its own weather. Huels claimed the desk nearest the whiteboard and filled it with a servo textbook he'd had shipped from his own office - approved, after review, redacted in two places for reasons no one explained - and a growing stack of printouts, each frame of Gaza footage annotated with joint angles measured by hand, twice, because he didn't yet trust the software Weiss's people had given them to do it for him.
 
 "The torque doesn't close," he said, to no one, for the fourth time that week. "Not with any actuator ratio I can make fit the housing dimensions. Either the housing is lying to us, or the material is doing something a housing that shape shouldn't allow."
 
@@ -153,6 +153,10 @@ Osei didn't look up from her own desk, where she'd built a private taxonomy of f
 "We're four people who got kidnapped on the same afternoon," Osei said. "That's not the same thing, and I'd rather you not pretend it is just to make the room easier to sit in."
 
 Huels didn't have an answer for that. He went back to his printouts, and the whiteboard turbine stayed exactly as it was, and nobody spoke again until lunch was delivered by a contractor who never made eye contact and never stayed to collect the trays himself.
+
+It was Osei, three days later, who broke the room's unspoken rule against asking Weiss for anything beyond what arrived unrequested. She asked for the tank.
+
+"Not footage of it. Not photographs. The hull." Weiss had not reacted, which Osei had come to understand was itself a kind of answer. "I can build you four more disproved candidates off pixels, or I can put a probe against the actual melt line and tell you something true. Your call which century you'd like the answer to arrive in."
 
 ---
 
@@ -174,19 +178,59 @@ Vann thanked her. Osei said, "Don't," and meant it as a full sentence.
 
 ---
 
+### The Merkava
+
+It took the government five weeks to produce a tank.
+
+Osei never learned the exact shape of what it had cost - Weiss described it once, dryly, as "two favors and a promise neither of us will enjoy keeping," and declined to elaborate - but on a Tuesday in late July, a flatbed with an Air Force escort and a tarp lashed down tight enough to survive a highway delivered Alpha Six's hull to a hangar behind the annex, and Osei stood in the doorway for a long moment before she made herself walk in.
+
+It had been cleaned. Someone, somewhere along the chain of custody, had made the decision to clean it, and Osei was grateful for that in a way she didn't examine too closely, because the alternative - meeting it as it had been left on the Gaza road, with everyone still inside - was not a version of this work she could have done.
+
+The hole was smaller than the footage had made it look. Twenty centimeters, cored clean through the glacis plate, edges drawn back into the metal like something had reached in from outside and folded the steel away from itself rather than punching through it. She spent four hours with a borescope and a portable spectrometer before she said anything to the two junior technicians Weiss had assigned to help her handle the probe work, and when she did, her voice had lost the flat control it usually carried.
+
+"There's no gradient."
+
+One of the technicians glanced up. "Ma'am?"
+
+"A directed-energy strike - a laser, a particle beam, anything that dumps heat into a surface - leaves a thermal gradient. Melted at the center, softened further out, unaffected further out than that, because heat conducts, it doesn't teleport." She traced the borescope slowly along the inside of the crater, watching the monitor rather than the hole itself. "This isn't graded. It's binary. Pristine martensitic structure one hundred microns from the edge, and completely liquefied structure at the edge, with almost nothing in between. Whatever did this didn't heat the armor. It ended the bonds holding the armor together, in a boundary about as sharp as we can measure, and let the metal do whatever loose atoms do on their own afterward. Which is melt, briefly, and then stop."
+
+"Is that possible?"
+
+"No," Osei said, and kept looking anyway, for another three hours, because the alternative was writing that word down as her finding and she was not yet willing to.
+
+---
+
+### The Laptop
+
+Chandrasekhar's laptop failed to boot on a Wednesday in early August, and for the first ninety seconds, she assumed it was nothing - a battery, a driver, the kind of small mechanical grief that computers were owed occasionally and paid out at random.
+
+It did not take ninety seconds for the feeling underneath that assumption to curdle into something else. Three months of the grid model lived on that machine, backed up nightly to a server she'd never been shown and didn't fully trust, and the gap between *probably fine* and *possibly not* was wide enough that her hands were not quite steady when she finally got the case open on the empty conference table, alone, before anyone else had arrived for the day.
+
+Every capacitor on the board was blown.
+
+Not one, not the handful a genuine power fault might have taken out on its way to tripping a breaker. Every single one, along every rail, swollen and split and some of them scorched black around the vent, in a pattern that had no favorite component and no point of origin she could find by looking. A short took the path of least resistance and left a trail you could follow back to a single failure. This had failed everywhere at once, uniformly, as though the fault hadn't traveled through the circuit at all, but arrived at every point in it simultaneously.
+
+She sat with the open case in her lap for a long time before she closed it again.
+
+She did not report it to facilities as a hardware fault, though that was the form on offer. She wrote, instead, in the notebook, in handwriting slightly less composed than her usual entries: *Every capacitor, every rail, no propagation path, no other equipment in the room affected. This is not a component failure. This is what a room looks like after something passes through it that doesn't leave footprints anywhere except where it was pointed. I do not have a name yet for the thing I am suggesting happened to my laptop, and I am aware of how that sentence reads. I am writing it down anyway.*
+
+---
+
 ### August
 
-The propulsion mystery ate Vann whole, the way problems he loved always had, except this one had no bottom. No jetwash. No detectable reaction mass. No power draw that any sensor Weiss's people could point at the footage would register, and no theoretical framework Vann could build that didn't require inventing physics he had no evidence existed. He requested access to a classified inertial-confinement dataset from a lab in Livermore, on the theory that if anyone on Earth had modeled anything adjacent to what he was chasing, it would be them.
+The propulsion mystery ate Vann whole, the way problems he loved always had, except this one had no bottom. No jetwash. No detectable reaction mass. No power draw that any sensor Weiss's people could point at the footage would register, and no theoretical framework Vann could build that didn't require inventing physics he had no evidence existed. He asked Weiss for the single best real number anyone on Earth had - the most advanced sustained-output fusion concept in private hands, whatever its owners had actually measured on a bench rather than projected on a slide deck - so he'd have at least one honest floor to measure the impossible against.
 
-The request came back denied, then came back three days later approved, then came back a week after that with a note that the dataset in question had been reclassified above the project's need-to-know and was no longer available to any personnel below tier four. Nobody in the room held a tier four clearance. Nobody, as far as any of them could determine, held a tier four clearance in the entire annex.
+What came back, ten days later, was a bound set of engineering schematics and test logs for a magnetized-target fusion unit, watermarked, unredacted, complete down to compression-coil tolerances and shot-cadence data that Vann was fairly certain had never been shown to an outside party before - because the cover memo, when he found it buried at the back of the binder, was addressed not to him but to the company's own general counsel, and referenced, in the dry language of people trying to keep panic off a page, an order compelling disclosure "in the interest of national technological security" that the company had received, contested, and lost, in the span of six days.
 
-"That's not how classification usually works," Vann said, to the room, holding the denial memo like it had personally insulted him. "You don't reclassify something *up* in response to a request unless someone decided, after the request, that the request itself was the problem."
+Nobody at that company had chosen to hand this to him. Somebody had simply decided they didn't get a vote.
 
-"Or a clerk made a mistake," Huels said.
+Vann sat with that for a while before he opened the actual data, in a version of the discomfort he recognized immediately, because he'd worn it himself in June, in a cubicle in Herndon, watching two escorts wait for him to finish signing something he hadn't been offered the option to refuse.
 
-"Sure," Vann said. "Or that."
+Then he ran the numbers, and the discomfort gave way to something colder. Even at the unit's theoretical maximum, scaled generously, assuming losses no engineer would actually accept - it produced perhaps a twentieth of the sustained output his own model said a Landmate needed just to stay upright and load a servo the way Huels's footage showed it loading one. The best fusion concept in private hands on Earth wasn't an answer. It was a floor so far beneath the ceiling he was chasing that it barely qualified as the same category of problem.
 
-Chandrasekhar didn't say anything at the time. She waited until the room had cleared for the evening, and wrote, in the notebook: *Second incident. First was a materials paper R.O. mentioned losing access to in July, attributed by her to a database migration. This one has no such explanation offered. Neither incident individually is unusual in a classified program. Two in six weeks starts to be a pattern rather than an accident, and I have no way yet to test which.*
+"That's not a gap," he told the room, quieter than usual. "That's a different branch of physics wearing our branch's clothes."
+
+Chandrasekhar didn't say anything at the time. She waited until the room had cleared for the evening, and wrote, in the notebook: *Second incident, if the laptop counts as the first, which I believe it must. This one has an explanation offered - a compelled disclosure order, badly hidden in its own paperwork - and is, on its face, less strange than the first. And yet. A private company loses control of its own most sensitive work in six days, on our behalf, without being asked. I am the only person in this room who seems bothered that the government did to a corporation, cleanly and on paper, roughly what it did to the four of us without any paper at all.*
 
 She did not mention either incident to Weiss. She did not mention them to Osei or Vann either, not yet, because the version of trust she was building ran on withheld information as collateral, and she was not prepared to spend it on a hypothesis she couldn't yet prove.
 
