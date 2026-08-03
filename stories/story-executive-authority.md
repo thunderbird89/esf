@@ -439,3 +439,41 @@ Huels caught something in her voice before she'd finished the sentence. "You've 
 "No." Osei picked the lens back up, mostly, Huels thought, so her hands would have something to do. "This is what's left of mine, after something else picked it up, ran forty years further with it than I'll live to see done here, and handed it back to us across a bridge that didn't get two seconds to know it was gone." She turned the panel very slightly under the light, watching the torn steel catch it. "I helped build the ladder. I didn't build what's standing at the top of it."
 
 Nobody said the joke. For once, it would even have been true, and somehow that made it less funny than any of the times it hadn't been.
+
+---
+
+### Blue
+
+While Osei had the bridge panel under lights, Vann had commandeered the room's second monitor for a fight of his own - leaked F-15EX gun-camera footage, unofficial and unwatermarked, that had been circulating for two days before Weiss's classified copy arrived to confirm what everyone had already downloaded. Three black aircraft, escorting rather than engaging, and at the tail of each one, a corona of light so precisely blue it looked, on a bad monitor, almost artificial.
+
+It wasn't artificial. That was the problem.
+
+"Konetz called it on the news panel two days ago," Vann said, more to himself than the room. Caltech's name under a chyron, a laser pointer, the calm of someone trying not to sound as frightened as she clearly was. "Two thousand, five hundred kelvin, minimum, straight off the color temperature. Ionization blue, not combustion orange. She said field-constrained fusion, maybe, and then said that was still fiction." He almost laughed. "She's not wrong. She's just underselling it by about two orders of magnitude."
+
+He'd pulled the actual emission data off the enhanced frames - crude, secondhand, filtered through a fighter's targeting pod rather than a spectrometer, but enough. No rovibrational combustion bands, no soot continuum, no chemistry at all in the signature. Sharp atomic lines, shifted, broadened by a magnetic field strong enough to warp them visibly even through a compressed video codec.
+
+"It's not burning anything," he said. "It's ionizing whatever it's ingesting and then throwing it out the back end at a fraction most fusion labs would sell their souls for. And the thrust-to-mass on this - I've run it four different ways assuming four different exhaust velocities, and every single one of them comes back with an efficiency number I'd have laughed someone out of a conference room for proposing."
+
+"In English," Osei said, without looking up from the panel.
+
+"In English - the only way I can make the numbers behave is if whoever built this solved magnetic mirror confinement." Vann turned the monitor toward the room, freezing the frame on the blue corona at its brightest. "You build a bottle - two magnetic mirrors, one at each end, plasma trapped in between, hot enough to fuse or close enough to it that it doesn't matter. Every fusion program on Earth that's tried this has fought the same problem for seventy years: the bottle always leaks. Particles escape along the axis, through what everyone in the field calls the loss cone, and every design since the fifties has been an argument about how to plug that leak."
+
+He tapped the screen.
+
+"They didn't plug it. They aimed it."
+
+Nobody said anything for a moment.
+
+"An open bottle," Chandrasekhar said slowly, "that's stable."
+
+"That's the contradiction, yeah. Confinement and exhaust are supposed to be opposite design goals. You want the plasma to stay, except for the part you want to leave at a specific velocity, in a specific direction, on command, without the rest of the field collapsing the second you open the door." Vann sat back, and for once the excitement in his voice had something darker running under it. "It's not a new fuel. It's not a new alloy. It's a magnetic bottle that shouldn't be able to exist in the configuration the color temperature says it's in, doing the one thing every real bottle has spent seven decades trying to stop happening, on purpose, at will, hard enough to push a fighter-sized airframe past anything our own engines can touch."
+
+"And the efficiency," Huels said.
+
+"The efficiency is the part that's going to keep me up." Vann didn't look away from the frozen blue frame. "Konetz called it fiction. She's a serious person, and she's right that it's fiction, by every number we've got. It's just apparently also sitting in the sky over the Taiwan Strait, escorting three-plane formations like it's Tuesday."
+
+Osei finally looked up from the bridge panel, the borescope still loose in one hand.
+
+"Two mysteries in one week," she said. "One of them's ours - I built a rung of that ladder, Elias, badly, fourteen years too early to matter. The other one's yours." She looked back down at the torn steel before he could answer. "At least tell me it's a comfort, knowing which flavor of impossible we're each stuck with."
+
+"It's not," Vann said. "But I'll take it over not knowing."
