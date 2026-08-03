@@ -373,3 +373,69 @@ She did not show the notebook to Osei, or Vann, or Huels. She told herself this 
 At the bottom of the December page, under the fourth entry, she wrote one line more, smaller than the rest, as though writing it quietly might keep it from being true.
 
 *Someone is grading our work. And whoever it is has never once been wrong about which answer to take.*
+
+---
+
+## Chapter 3: Bridges
+
+### The Strait
+
+The news reached the annex the same way it reached everyone else, which was itself an event - Weiss had never once, in seven months, let the room's information arrive at the same speed as the rest of the world's.
+
+By the time she brought them into the briefing room, the footage was already looping on every network Weiss's people had bothered to mute the sound on. Five Chinese warships, a rogue flotilla, a night engagement off Tamsui that had ended, depending on which anchor was narrating, either in a massacre or a rescue. Landmates again - different ocean, different alphabet on the hulls, same wireframe globe and broken swords lighting up a harbor camera some seventeen-year-old had climbed a ladder to fix.
+
+"Five ships," Weiss said, without preamble. "All five destroyers, all five bridges, all in under two seconds. No missile impact on Taipei. Zero casualties ashore." She let the silence hold exactly as long as it needed to. "Whatever we've spent seven months not understanding just happened again, in the open ocean, in front of half the world's navies, and this time it left wreckage."
+
+Osei was on her feet before Weiss had finished the sentence.
+
+"I want a bridge. Any one of the five - I don't care which, I don't care what it costs, and I don't care whose navy has to explain to their own admiralty why a piece of their sunk warship is going to a hangar in Ohio instead of a salvage yard in Kaohsiung." She said it flatly, the way she'd learned, over the tank, that requests landed better as facts than as pleas. "You got me a Merkava in five weeks. Get me this in less."
+
+Weiss almost smiled. It was the first time Huels had ever seen her come close.
+
+"I'll ask," she said. "That's more than I could say to you in June."
+
+---
+
+### Tamsui, By Proxy
+
+The wreckage took a week. The footage took no time at all, because half of Taiwan had already uploaded it before COLD FORGE's request for a classified copy had even cleared a signature, and Vann pulled the same file off the open internet forty minutes before Weiss's official version arrived stamped and twelve minutes redacted for reasons neither of them could later identify a redaction in.
+
+"Wei-Ming," Vann said, reading the uploader's handle off the corner of the frame like it was a byline he respected. "Seventeen years old, and he's the reason we have better source material than the Pentagon."
+
+He and Osei ran the clip frame by frame for three days, the way Huels had run the Gaza footage back in June, except this time the physics kept behaving.
+
+"Look at the arcing." Osei froze the frame at the exact moment the light poles along the quay bent sideways in a corona of blue-white current. "That's not a beam weapon's bloom. That's induction. Every conductor in range of the discharge picked up current it never asked for - that's a signature, Elias, that's a *known* signature. Rail launch dumps stray field into everything nearby unless you shield it, and at this power level, you can't fully shield it."
+
+"You're saying it's a railgun."
+
+"I'm saying it's the railgun. The one people have been trying to build since the eighties, scaled up to a size and a rate of fire that shouldn't be survivable for the gun, let alone the target." She ran the numbers Vann handed her against projectile velocity estimated from the time between muzzle flash and impact, five separate solutions that all agreed with each other to within four percent. "Gigajoule class. Five shots, five bridges, inside two seconds, with recoil that should have put every one of those launch platforms on its side and didn't."
+
+Vann exhaled. "The Russians are already calling it that on television. Marchenko, their railgun guy - I watched the clip this morning. He's not wrong."
+
+"He's not wrong about what it is." Osei didn't look away from the frozen arc of current still crawling white-hot across the frame. "He has no idea how far past what it is he actually is."
+
+---
+
+### The Bridge
+
+It arrived exactly a week after the strait went quiet - a section of superstructure, torch-cut at the edges by the salvage crew who'd freed it from the rest of the *Haiyangshan*'s hull, riding in a container stenciled in Mandarin that nobody in the hangar could read and everybody understood anyway.
+
+Osei had the panel out and under lights within the hour.
+
+The wound itself ran clean through what had been the bridge's forward face, a corridor of sheared and curled steel that could have passed, at a glance, for battle damage from any war of the last eighty years - if you didn't look at the edges. She didn't need the borescope this time. A hand lens told her most of what she needed inside the first ten minutes.
+
+"Torn, not melted." She said it almost to herself, running a gloved thumb along the edge without touching it. "Deformation consistent with a hypervelocity impactor - the plate's dragged inward in the direction of travel, grain structure's elongated exactly the way you'd expect from kinetic shear at absurd velocity. No liquefaction. No binary transition. No mystery in the metal itself, just an ungodly amount of mystery in how anyone gets a slug moving that fast without the launcher tearing itself apart first."
+
+She set the lens down and looked at it a while longer than the finding required.
+
+"This isn't Gaza," she said finally, to the room rather than to the metal. "Gaza wasn't physics we're missing pieces of. Gaza was daring us to prove it was physics at all. This -" she tapped the sheared edge, gently, like it might still be dangerous "- this is physics. Ours. Just built by someone who finished the argument we've been having with ourselves since Reagan was in office."
+
+Huels caught something in her voice before she'd finished the sentence. "You've worked on this."
+
+"Fourteen years ago. Bore erosion. Rail conductor alloys - keeping a barrel from destroying itself after the third shot instead of the three-hundredth." She didn't look up. "Sandia had a program. I wasn't lead on it, I was twenty-nine and doing metallurgy nobody important read, but it's in a paper with my name on it, buried in a reference list somewhere in the Navy's files. Small piece of a small piece of the reason anyone on this planet still believes rail launch is buildable at all."
+
+"So this is yours," Vann said, quietly, not quite a question.
+
+"No." Osei picked the lens back up, mostly, Huels thought, so her hands would have something to do. "This is what's left of mine, after something else picked it up, ran forty years further with it than I'll live to see done here, and handed it back to us across a bridge that didn't get two seconds to know it was gone." She turned the panel very slightly under the light, watching the torn steel catch it. "I helped build the ladder. I didn't build what's standing at the top of it."
+
+Nobody said the joke. For once, it would even have been true, and somehow that made it less funny than any of the times it hadn't been.
