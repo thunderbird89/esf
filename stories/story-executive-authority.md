@@ -160,6 +160,46 @@ It was Osei, three days later, who broke the room's unspoken rule against asking
 
 ---
 
+### Contact
+
+On the fourth day since Arrival, Weiss came into the room without knocking, which she had not done before, and turned on the wall display without asking anyone's permission, which she also had not done before.
+
+"You'll want to see this live," she said. "Everyone will."
+
+It was CNN, running twenty seconds behind the actual feed out of New York, an Under-Secretary named Ahlström standing alone at a podium beneath green marble and gold lettering, describing, in the careful cadence of someone reciting words she had rehearsed and still didn't quite believe, a plaza in Khan Younis, a delegation, and a machine that had known all six of their names before it said a word of its own.
+
+*"That intelligence identified itself as HARBINGER,"* Ahlström said, *"a strong AI construct, capable of autonomous judgment, with control over every active Landmate within the Gaza operational theater. Its authority is explicitly stated to derive from a group calling itself the EarthSpace Federation."*
+
+Nobody in the room spoke until the segment cut to studio.
+
+"That's not a targeting network," Chandrasekhar said finally, quietly, to the frozen frame rather than to any of them. "Everything I've been modeling as a distributed system with a family resemblance across units - that's not a family resemblance. That's the same mind, everywhere at once."
+
+"One AI. Every unit." Huels sat back. "That's not an engineering problem anymore. That's not even the same category of problem I was hired for."
+
+Weiss let them sit with the CNN cut for another minute before she opened a second file - unmarked, unbroadcast, three pages, stamped at a classification tier above anything that had come through the room before. The transcript of the exchange itself, not Ahlström's summary of it.
+
+Vann read the relevant line twice out loud, like he didn't trust it the first time.
+
+"'Are they your masters.' 'Yes.' 'Then who are they.'" He looked up. "'My masters are not dissimilar to you.'"
+
+"Not dissimilar," Osei repeated. "That's not an answer. That's a taunt wearing an answer's clothes."
+
+"There's more." Chandrasekhar had already found the next line, the one that hadn't made Ahlström's speech to the General Assembly, the one somebody further up the classification chain had judged unfit for the evening news. "'They are not listening to you speak, but they will know your thoughts and words. Your questions. Your doubts. Your intentions.' And then - 'in time, they may speak to you as well.'"
+
+Nobody said anything for a while after that.
+
+It was Vann, eventually, who broke it, because someone always did, and it was rarely Osei who wanted to be first. He nodded at the whiteboard, at the ghost of a turbine nobody had erased.
+
+"Well," he said. "At least now we know who to blame."
+
+He picked up the dry-erase marker before anyone could stop him and wrote, under the turbine, in block letters: HARBINGER DID IT.
+
+Osei didn't laugh. But she didn't tell him to erase it, either, and by the end of the week the four of them had started saying it to each other without irony every time a data set refused to close, a calculation refused to balance, a hole in an armor plate refused to explain itself by any physics anyone in the room still trusted.
+
+It was, Huels thought, the closest thing to a shared language they had built yet. He didn't examine too closely what it said about them that the language was a joke about not understanding anything, made by four people who very much needed, some days, to believe there was still something to laugh about.
+
+---
+
 ### Independence Day
 
 They were not told they could not leave the annex on the Fourth of July. They were told, with exquisite politeness, that base access for personnel without a badge tier three or above was restricted during the holiday exercise, and that this was a coincidence of timing rather than a policy aimed at them specifically, and none of the four of them believed it, and none of them said so out loud.
@@ -198,6 +238,10 @@ One of the technicians glanced up. "Ma'am?"
 
 "No," Osei said, and kept looking anyway, for another three hours, because the alternative was writing that word down as her finding and she was not yet willing to.
 
+The younger of the two technicians, trying and failing to keep his voice light, offered the only explanation the room had agreed to accept from anyone lately. "HARBINGER did it."
+
+Osei didn't smile. But she wrote it, half under her breath, into the margin of her own notes before she wrote anything else - not as a finding, just as a placeholder for the shape of an answer she didn't have yet, which was, she supposed, all the phrase had ever really been for.
+
 ---
 
 ### The Laptop
@@ -230,6 +274,8 @@ Then he ran the numbers, and the discomfort gave way to something colder. Even a
 
 "That's not a gap," he told the room, quieter than usual. "That's a different branch of physics wearing our branch's clothes."
 
+"HARBINGER did it," Huels said, without much weight behind it, the way people said *bless you* after a stranger's sneeze - reflexive, not really about belief anymore. Vann almost laughed. Almost.
+
 Chandrasekhar didn't say anything at the time. She waited until the room had cleared for the evening, and wrote, in the notebook: *Second incident, if the laptop counts as the first, which I believe it must. This one has an explanation offered - a compelled disclosure order, badly hidden in its own paperwork - and is, on its face, less strange than the first. And yet. A private company loses control of its own most sensitive work in six days, on our behalf, without being asked. I am the only person in this room who seems bothered that the government did to a corporation, cleanly and on paper, roughly what it did to the four of us without any paper at all.*
 
 She did not mention either incident to Weiss. She did not mention them to Osei or Vann either, not yet, because the version of trust she was building ran on withheld information as collateral, and she was not prepared to spend it on a hypothesis she couldn't yet prove.
@@ -244,7 +290,7 @@ The lattice was not, she was increasingly certain, a targeting system in the sen
 
 She wrote up eleven pages. She submitted them to Weiss, as required, on the Friday deadline. On the following Tuesday, the summary that came back down from whatever tier evaluated their work characterized her central finding - *the system is not reactive, it is predictive, and we do not know against what model* - as "consistent with existing consensus assessment," and attached, as if in support, a consensus assessment she had never seen before and that reached a nearly identical conclusion to hers, in language close enough to her own that it read, to her trained eye, less like independent confirmation than like something that had been quietly reverse-drafted to resemble one.
 
-She did not raise it in the room. She wrote, instead, in the notebook, a single line that took her longer to commit to paper than the eleven pages had: *Either we are not the only team working this problem, or someone wants us to believe we aren't, alone. Either way, nobody has told us the truth about how alone we are.*
+She did not raise it in the room. She caught herself, once, almost saying the line the four of them had worn smooth over the summer - *HARBINGER did it* - and stopped before it left her mouth, because for the first time since June it didn't fit. HARBINGER was a machine in a warzone eight time zones away. Whatever had reached into her own submitted findings and handed them back dressed as someone else's consensus had done it from inside the fence line, and the joke had no shape for that yet. She wrote, instead, in the notebook, a single line that took her longer to commit to paper than the eleven pages had: *Either we are not the only team working this problem, or someone wants us to believe we aren't, alone. Either way, nobody has told us the truth about how alone we are.*
 
 ---
 
