@@ -514,7 +514,7 @@ She closed the notebook, and did not, again, show it to anyone.
 
 Weiss called it a stand-down, not a release, and was precise enough about the distinction that Huels understood immediately it wasn't a courtesy.
 
-"Effective the first of March, your active service under 13120/A is suspended." She said it the way she said everything, flatly, without ceremony, sliding four folders across the table - real documents this time, discharge paperwork with actual government letterhead instead of a classification stamp. "Suspended. Not concluded. You'll sign a continuing obligation alongside your release, which means what it sounds like it means - you go home, you resume your lives, and if this office calls again, the same order that brought you here in June brings you back, no more notice than you got the first time."
+"Effective the fifteenth of March, your active service under 13120/A is suspended." She said it the way she said everything, flatly, without ceremony, sliding four folders across the table - real documents this time, discharge paperwork with actual government letterhead instead of a classification stamp. "Suspended. Not concluded. You'll sign a continuing obligation alongside your release, which means what it sounds like it means - you go home, you resume your lives, and if this office calls again, the same order that brought you here in June brings you back, no more notice than you got the first time."
 
 Nobody asked why now. Nine months of frustration had taught all four of them that the answers to *why now* rarely arrived attached to anything they could use.
 
@@ -530,27 +530,31 @@ Osei stood first this time, instead of last.
 
 ---
 
-### March First
+### March Fifteen
 
-They were still in the annex, waiting on transport orders that hadn't finished processing, when Ukraine broke across every screen in the building at once.
+They were still in the annex, waiting on transport orders that hadn't finished processing, when the compiled footage out of Kyiv finally made it past whatever review board had been sitting on the best angles for three days.
 
-It wasn't Gaza. It wasn't Taiwan. It was quieter, stranger - Kyiv, hypersonic interceptions, a defensive umbrella nobody in Kyiv had asked for and everybody in Kyiv was, by the footage, cheering for anyway. Weiss didn't call them in for it. She didn't need to; by then the four of them had spent eight months developing the same reflex, and the reflex pulled them to the monitors on its own.
+It wasn't Gaza. It wasn't Taiwan. It was quieter, stranger, and three days stale by the time it reached them - the largest airstrike of the war, thrown at Kyiv on the twelfth and broken apart in under seven minutes by a defensive umbrella nobody in Kyiv had asked for and everybody in Kyiv was, by the footage, cheering for anyway. Weiss didn't call them in for it. She didn't need to; by then the four of them had spent eight months developing the same reflex, and the reflex pulled them to the monitors on its own.
 
-There wasn't much to work with. Weiss had been right about that in advance, almost apologetic about it - amateur phone footage, a defensive network that intercepted everything and left almost nothing behind to examine, official statements from three governments that amounted to nothing at all. For most of an hour it looked like it would be one more door closing on them exactly as the last one had been closing all morning.
+There wasn't much to work with, at first. Weiss had been right about that in advance, almost apologetic about it - amateur phone footage, a defensive network that intercepted everything and left almost nothing behind to examine, official statements from three governments that amounted to nothing at all. For most of an hour it looked like it would be one more door closing on them exactly as the last one had been closing all morning.
 
-Then Vann pulled a slowed clip off a Ukrainian news feed, a turret mid-engagement, and swore.
+Then Vann pulled a slowed clip off a Ukrainian news feed, a turret mid-engagement at close range, and went very still.
 
 "Osei. Look at this."
 
-She did. On the exhale after each shot, a hatch along the turret's flank cracked open and a thin lance of visible steam vented into the cold air - and, twice in the footage, small dark blocks, no larger than a fist, ejected clean from a second port and clattered onto the frozen ground, discarded and smoking.
+She did. On the exhale after each shot, a hatch along the turret's flank blew open under pressure and a column of superheated steam erupted outward, rolling across the installation's perimeter in a boiling white wall that reached, by the video's own scale markers, six or seven meters before it thinned into the cold air. Bystanders three streets back flinched from it on camera. And twice in the footage, a second port slammed open and threw something the size of a suitcase clear of the turret entirely - a scorched, smoking block of metal that tumbled end over end for what looked like ten meters before it hit the frozen ground and lay there, still hissing, steam rising off it into the night for nearly a minute after it landed.
 
 Osei didn't say anything for a long moment.
 
-"Sacrificial liners," she said finally, quiet, almost reverent. "You don't armor the barrel against erosion if you can just replace the part that erodes. Fire, eject the spent conductor block before it degrades the next shot, load the next one, vent the waste heat while you're at it." She let out something that wasn't quite a laugh. "That's not just a railgun. That's someone who ran into the exact same bore-erosion wall I spent three years running into, and instead of solving it, just stopped treating it as a wall."
+"That's not a spent liner," she said finally, quiet, almost reverent. "That's a heat sink." She watched the block hiss on the frozen ground, replayed it, watched it again. "You don't vent that much steam off a jacket and then eject a separate solid mass right behind it unless the mass is the point. Fire, dump the shot's waste heat into a thermal block instead of the housing, eject the block the instant it's saturated, load a cold one, go again." She let out something that wasn't quite a laugh. "Nobody chases elegant when they can just brute-force it and eat the cost every single shot."
+
+"You're sure it's a heat sink and not liner debris."
+
+"It's obvious once you see it." Osei didn't look away from the screen. "A liner erodes gradually - you'd get flakes, particulate, not a single machined block flying in one clean piece every time. This ejects on a schedule, intact, still holding its shape after it's absorbed enough energy to boil water into a wall seven meters wide. Think about what that means for the material itself for a second." She finally looked up. "Whatever's in that block soaked up the waste heat of a gigajoule-class shot without slumping, without spalling, without losing its geometry, in the time it takes to cycle a magazine. That's not a heat sink doing an adequate job. That's a heat capacity that shouldn't exist in anything with a molecular structure I recognize."
 
 "You're sure."
 
-"I wrote the paper that didn't solve this," Osei said. "I know what solving it looks like when I finally see it."
+"I wrote the paper that didn't solve the erosion side of this," Osei said, still watching the smoking block cool on the screen. "I have no idea what that block is even made of. And that's the part that's actually going to keep me up tonight - not the gun. The trash it leaves behind."
 
 Nobody wrote the joke on anything. There wasn't a whiteboard left to write it on, and in a few hours there wouldn't be a room, either.
 
@@ -580,9 +584,21 @@ The facility looked the same from the parking lot - same brick, same tasteful si
 
 "It wasn't me," Vann said.
 
-He sat with his mother for three hours, and she called him by his name twice, and he let himself have all three hours before he let himself think about what eight months of full disclosure to a government program was worth on an open market, and what it meant that somebody had apparently decided, without asking him, that this was the price they were willing to pay for his silence, his cooperation, his continued willingness to hand over numbers he didn't fully understand the use of.
+He sat with his mother for three hours, and she called him by his name twice, and he let himself have all three hours before he let himself start doing the arithmetic he'd been avoiding since the hallway.
 
-He didn't tell her that part either. There didn't seem to be any version of the sentence that wouldn't have cost her the good afternoon to hear it.
+Bribery was the first theory, and the ugliest, and the one that fit the cleanest: eight months of full disclosure, a program that had already shown him exactly how far it would go to keep a private company's proprietary work flowing on schedule, and a debt of gratitude engineered with surgical precision into the one place he'd never think to question it. Not payment for what he'd already given them. Payment in advance for what they expected him to keep giving, quietly, for the rest of his working life, every time this office decided to call.
+
+He turned it over for most of an hour and couldn't make it fully fit. Bribery implied a lever, something withheld until compliance, some acknowledgment that he was being bought rather than simply provided for - and there had been none of that, no visit, no conversation, no one ever once mentioning it to him before the fact or asking anything of him after. If it was a bribe, it was the strangest one he'd ever heard of, paid in full before the debtor had any chance to negotiate the terms.
+
+Coincidence came next, briefly, and didn't survive the drive back to the hotel. Combination therapies of this caliber didn't clear insurance review by accident in the exact month his mother's son happened to be classified beyond his own government's normal channels of accountability. He wasn't naive enough to spend more than a mile on it.
+
+Guilt, then - not a bribe so much as an offering, something closer to conscience than to leverage, from whoever inside the machinery of 13120/A had enough power to authorize it and enough of a soul left to want to. That one felt truer, and worse in a different way, because it meant somebody with that kind of reach had looked at what the program was doing to four people and decided the correct response was to quietly fix one small, specific, deeply personal thing rather than fix the thing itself.
+
+It was somewhere past midnight, back in a motel room two miles from the facility, that the last theory arrived, and he was almost embarrassed by how much he wanted it to be true. He thought of a man in a suit rather than a flag pin, standing at the head of a table in June, saying *I'd rather you be angry at me in this room than at your country for not being honest with you about what it needs* - a man who had, by his own account, come in person because delegating the cruelty of it would have let him avoid looking anyone in the eye. It wasn't impossible that the same man, months later, quietly, without a camera or a press release or anything that could be called credit, had simply decided that a mother's failing health was one piece of what his country had taken that he was actually in a position to give back.
+
+He would never know which of the three it was. He understood that clearly, lying in the dark, more clearly than he understood almost anything else about the last eight months. But he found, somewhat to his own surprise, that he'd chosen to believe the last one - not because the evidence favored it over the others, which it didn't, but because a man had to decide what kind of world he was living in before he could get up in the morning and keep doing the work, and Vann had decided, that night, that he preferred the version where somebody, somewhere above him, still meant it when they said thank you.
+
+He didn't tell his mother any of it, on that visit or any other. There didn't seem to be any version of the sentence that wouldn't have cost her the good afternoon to hear it.
 
 ---
 
