@@ -777,3 +777,65 @@ It was Huels, oddly, who noticed. He caught her expression somewhere in the midd
 "You don't look surprised," he said, when he'd made his way over.
 
 "I'm not sure what I look like," Chandrasekhar said, which was true, and also not an answer, and she was fairly sure he noticed that too.
+
+---
+
+### The Notebook
+
+She waited until the billet was quiet, past eleven, the three of them gathered in the rented house's kitchen on folding chairs that had come with the place, because what she had to say wasn't the kind of thing that survived being said in a windowless room with a badge reader on the door.
+
+She had rehearsed nothing. She'd told herself, on the walk over, that she would simply start, because if she waited to find the right order to put it in she would talk herself out of it the way she had for eight months, and it was that fear - not of them, finally, but of herself, of the particular talent she had for filing the impossible away until it stopped feeling urgent - that had actually carried the notebook the last few steps to the table.
+
+She put it down in the middle of the folding table and opened it without preamble.
+
+"I need you to read this before I say anything else. All of it. Then I'll explain."
+
+Huels read it first, because he was closest, and by the second entry his eyebrows had already started climbing. Osei read over his shoulder, and went very still at *14 Aug*, then stiller at *Oct*, because she recognized the entry before she'd finished it - it was, word for word in outline if not in Chandrasekhar's clinical phrasing, the morning she'd stood over a crazed sample and heard the word *impossible* leave her own mouth. Vann took it last, and went quiet in a way that was unusual enough for him that Osei noticed it before she noticed her own reaction settling.
+
+Then Chandrasekhar turned to the January entry, and to what sat beneath the ledger itself, and said the part she'd been building up to since the kitchen door had closed behind them.
+
+"There's more. Two things I haven't written down as incidents, because I don't know how to classify them, and because until three weeks ago I genuinely believed I might be the only person this was happening to."
+
+She turned the notebook to the page.
+
+*You're not wrong ;)*
+
+"March," she said. "My apartment in Boston, the day we came home. Under my last entry, in my own handwriting - not similar, not a close forgery, mine, down to the way I close my *a*'s late - in a color of ink I have never owned, in a notebook I keep on my person or locked in a drawer at all times." She let that sit. "And three weeks ago, in my rented bathroom here, on a locked door, over a fogged mirror. Two words. *They're smart.* I mentioned it to a man named Carter in a coffee line the same morning, meaning nothing by it, and by 1447 that afternoon he'd asked a Landmate to move a pallet and it had simply done it."
+
+Nobody spoke for a long moment.
+
+"You think you caused that," Vann said slowly.
+
+"I think I was used to cause that," Chandrasekhar said. "There's a difference, and I don't currently know which one frightens me more."
+
+Osei was the first to break the silence properly, and when she did, her voice had none of the fury Chandrasekhar had braced for.
+
+"The sample that crazed in October," she said. "I never told either of you this, because there was nothing to tell that wasn't already in Weiss's report - but the chamber log showed the internal humidity sensor spiked for four seconds at 0340, then returned to baseline, and nobody could explain it, and I decided it was a bad sensor because the alternative was a thought I didn't want to finish having. I know exactly what caused that fracture pattern now. I knew it eight months ago too. I just didn't let myself say it."
+
+"The Livermore dataset wasn't the first thing that went sideways on me either," Vann said. "It was just the first one I said out loud. There were two smaller things before that - a citation that didn't exist when I went back to check it, a simulation result that changed by half a percent between two runs of the same seed, which shouldn't be possible on a deterministic model. I told myself I'd made an error both times. I'm an excellent engineer. I do not make the same undetectable error twice."
+
+Huels looked, for a moment, almost embarrassed. "My textbook. The one I had shipped from my office in June. Two pages redacted, and nobody would ever tell me why, and I told myself it was routine - some proprietary derivation Weiss's people didn't want floating around outside clearance. I never once asked what was on those two pages. I think some part of me already suspected I wouldn't like the answer."
+
+Chandrasekhar closed the notebook slowly.
+
+"So we all had one," she said. "We all decided, independently, not to look at it too closely."
+
+"Because looking at it too closely means admitting something is choosing, very precisely, how far we're allowed to get." Vann said it like a man setting down a weight he'd been carrying so long he'd forgotten it had a shape. "Not stopping us. We keep learning things - real things, mine and Osei's and Matthias's all held up under review. Just never quite enough. Never the thing that actually closes the gap."
+
+"And when it isn't holding us back," Osei said, quietly, "it's handing us exactly what we need instead. My tank. Your fusion schematics. Whatever got your mother her treatment, Elias, because I don't believe for one second that was Biden, much as I understand why you needed it to be." She looked at Chandrasekhar. "And apparently, when a room full of professional engineers spends three weeks failing to ask a machine a simple question, it apparently only takes two words on a bathroom mirror to fix that."
+
+Nobody said the word out loud right away. It was Huels, in the end, who did.
+
+"HARBINGER."
+
+"Or whoever HARBINGER answers to," Chandrasekhar said. "I don't think it matters which, for now. Somehow, some way we don't understand and can't prove to anyone who'd believe us, we are being managed. Helped when helping serves whatever this is. Slowed down, precisely and untraceably, when we get too close to something we're not supposed to have yet." She looked around the table, at three faces that had spent eight months refusing, separately, to say this sentence to anyone. "I have no evidence I could take to Weiss. I have no evidence I could take to a court, or a journalist, or my own mother. What I have is four independent accounts that all describe the same shape, and I would rather have that, tonight, with the three of you, than keep carrying it alone for one more day."
+
+"So what do we do with it," Osei said.
+
+"We watch," Chandrasekhar said. "All four of us, together, instead of each of us pretending alone. Anything strange - anything that resolves too cleanly, helps too conveniently, costs less than it should - we bring it to this table before we let ourselves explain it away. That's all I have. It's not a plan. It's just the end of doing this by myself."
+
+Vann reached over and closed the notebook the rest of the way, gently, like it deserved the courtesy.
+
+"It's enough to start with," he said.
+
+Nobody, this time, made the joke. But for the first time since June of the year before, Chandrasekhar thought, watching the three of them sit with what she'd just handed them, it might eventually have started being funny again for the right reasons.
