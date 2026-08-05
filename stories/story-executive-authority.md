@@ -970,4 +970,48 @@ Nobody spoke for a moment. Osei looked at the ruined bit still in her hand, Vann
 
 "That whatever we're looking at wasn't built to be studied," Osei said. "It was built to *work*. Studying it is just something we're doing to it on the side, and it's letting us, exactly as much as it feels like."
 
+---
+
+### Four Papers
+
+Nobody suggested it outright. It simply became obvious, over the following week, that none of them could publish anything alone.
+
+A materials paper claiming a coating harder than diamond, submitted without corroboration, would draw a request for independent verification and quietly die in review. A propulsion paper built entirely on one unreproducible flicker from a handheld magnetometer would be rejected before it reached a second reader. A kinematics paper describing a joint with no fixed axis would be read as an instrumentation error by anyone who hadn't stood on that tarmac and watched the cluster of dots jump eleven centimeters with their own eyes. And a cognitive science paper arguing that a machine intelligence solved an unsolvable maze by editing its constraints, while stonewalling every recognized benchmark in the field, would be read - charitably - as a joke.
+
+Four papers, each one independently unpublishable. Weiss, when Huels raised it, saw no reason to object; whatever they wrote would clear COLD FORGE review either way; whether an academic journal believed it afterward was, for the program's purposes, somebody else's problem.
+
+So they wrote four papers instead of one, deliberately, each author citing the other three throughout - Osei's materials data underwriting Huels's kinematic claims, Huels's servo geometry underwriting Vann's propulsion-adjacent power estimates, Vann's numbers underwriting the sheer implausibility Chandrasekhar needed the reader to accept before her cognitive argument could even begin. No single paper could stand on its own credibility. Read together, cross-referenced line by line, they stopped being four separate men and women's hard-to-believe afternoons and became a single, internally consistent account of one object that no existing field could fully explain by itself.
+
+"It's not elegant," Chandrasekhar admitted, reading the stack for what felt like the fortieth time, "but it's the only version of the truth I can imagine surviving peer review without a reviewer laughing until they cried."
+
+"It'll survive," Osei said. "Nobody in this pile is lying. That's not nothing, in this field."
+
+---
+
+### Concluded
+
+Weiss called it concluded this time, not suspended, and made a point of the distinction the same way she'd made a point of the opposite one back in March.
+
+"Ten units, six weeks, everything short of cutting one open," she said, across the same kind of table she'd used to deliver every piece of news that had ever mattered to them. "No hardware compromise, no reproducible propulsion data, no method of interrogating the intelligence beyond the limits it's already decided to observe. Whatever's left to learn here isn't going to come from four more months of you standing in a Florida equipment yard." She slid the closing paperwork across, the twin of the folder from March, except this one didn't carry the word *suspended* anywhere in it. "Your service under 13120/A is concluded. Effective today."
+
+Nobody asked whether that word meant anything more than the last one had. Eight months of learning exactly how much weight to put on Weiss's phrasing had taught all four of them not to bother.
+
+"Thank you," Weiss added, and for once it didn't sound procedural. "I mean that. Whatever ends up happening with those four papers, you gave this office more than most people in your position would have, twice, on short notice, without ever once being asked whether you wanted to."
+
+Osei almost laughed. "Wanting to was never the question."
+
+"No," Weiss agreed. "It wasn't. I'm aware of that. It's part of why I mean the thank you."
+
+---
+
+### Home Again
+
+This time nobody had to explain the silences.
+
+Osei's daughter met her at the door instead of the airport, hugged her before she'd set her bag down, and didn't ask a single question that night, which Osei understood, now, as its own kind of forgiveness. Vann's mother, when he visited, was having a harder week, but knew him anyway, and he let that be enough without reaching for a theory to explain it. Huels found his office undisturbed a second time and didn't bother pretending, even to himself, that he minded coming back to it less than he once had. Chandrasekhar went home to an apartment she'd left in better order this time, and did not find anything written anywhere she hadn't written herself - which she noted in the ledger anyway, because an absence, by now, was its own kind of data point.
+
+Four families exhaled, in four cities, on the same evening, grateful for an ending none of them fully understood and none of them were foolish enough to ask too many questions about.
+
+Only the four of them knew there were four papers still sitting in a shared drive, waiting to be finished, and only Chandrasekhar allowed herself to wonder, privately, whether *concluded* was a word that had ever once meant what it said.
+
 Nobody said the joke. For the first time in a long while, none of them needed to.
