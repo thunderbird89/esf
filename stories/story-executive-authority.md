@@ -507,3 +507,95 @@ She sat with the notebook a long time after that, longer than the entry itself r
 *I still don't know who's listening. I'm starting to think that not knowing is the point.*
 
 She closed the notebook, and did not, again, show it to anyone.
+
+---
+
+### Stand-Down
+
+Weiss called it a stand-down, not a release, and was precise enough about the distinction that Huels understood immediately it wasn't a courtesy.
+
+"Effective the first of March, your active service under 13120/A is suspended." She said it the way she said everything, flatly, without ceremony, sliding four folders across the table - real documents this time, discharge paperwork with actual government letterhead instead of a classification stamp. "Suspended. Not concluded. You'll sign a continuing obligation alongside your release, which means what it sounds like it means - you go home, you resume your lives, and if this office calls again, the same order that brought you here in June brings you back, no more notice than you got the first time."
+
+Nobody asked why now. Nine months of frustration had taught all four of them that the answers to *why now* rarely arrived attached to anything they could use.
+
+"Eight months," Weiss went on. "Two genuine findings, a stalled propulsion model, a partial materials hypothesis, and a threat-assessment framework good enough that three-letter agencies who will never say thank you are already using it. That's not nothing. It's also not enough to keep four people in a windowless room past the point of diminishing returns, and I've said so, in writing, to people who don't often take my recommendations." She almost smiled again, the second time in nine months. "Go home. All of you. Try to remember what that's like."
+
+Osei stood first this time, instead of last.
+
+"When you call," she said, "and you will - I want it on record that I expect to be *asked*, not collected."
+
+"Noted," Weiss said. "I can't promise it'll matter."
+
+"I know," Osei said. "I want it on record anyway."
+
+---
+
+### March First
+
+They were still in the annex, waiting on transport orders that hadn't finished processing, when Ukraine broke across every screen in the building at once.
+
+It wasn't Gaza. It wasn't Taiwan. It was quieter, stranger - Kyiv, hypersonic interceptions, a defensive umbrella nobody in Kyiv had asked for and everybody in Kyiv was, by the footage, cheering for anyway. Weiss didn't call them in for it. She didn't need to; by then the four of them had spent eight months developing the same reflex, and the reflex pulled them to the monitors on its own.
+
+There wasn't much to work with. Weiss had been right about that in advance, almost apologetic about it - amateur phone footage, a defensive network that intercepted everything and left almost nothing behind to examine, official statements from three governments that amounted to nothing at all. For most of an hour it looked like it would be one more door closing on them exactly as the last one had been closing all morning.
+
+Then Vann pulled a slowed clip off a Ukrainian news feed, a turret mid-engagement, and swore.
+
+"Osei. Look at this."
+
+She did. On the exhale after each shot, a hatch along the turret's flank cracked open and a thin lance of visible steam vented into the cold air - and, twice in the footage, small dark blocks, no larger than a fist, ejected clean from a second port and clattered onto the frozen ground, discarded and smoking.
+
+Osei didn't say anything for a long moment.
+
+"Sacrificial liners," she said finally, quiet, almost reverent. "You don't armor the barrel against erosion if you can just replace the part that erodes. Fire, eject the spent conductor block before it degrades the next shot, load the next one, vent the waste heat while you're at it." She let out something that wasn't quite a laugh. "That's not just a railgun. That's someone who ran into the exact same bore-erosion wall I spent three years running into, and instead of solving it, just stopped treating it as a wall."
+
+"You're sure."
+
+"I wrote the paper that didn't solve this," Osei said. "I know what solving it looks like when I finally see it."
+
+Nobody wrote the joke on anything. There wasn't a whiteboard left to write it on, and in a few hours there wouldn't be a room, either.
+
+---
+
+### Cambridge, Massachusetts
+
+The department had kept his office exactly as he'd left it, down to the eleven graded projects still sitting on the desk, which felt less like kindness than like nobody had quite believed, in eight months, that he was coming back to finish them.
+
+Matthias graded the other twenty that first week, in half the time it should have taken, and found he couldn't explain to a single student why a torque calculation that used to take him an hour now took him nine minutes and left him faintly disappointed in how easy it was.
+
+---
+
+### Albuquerque, New Mexico
+
+Her daughter was three inches taller and did not, at first, know how to hug her - not out of anger, Osei understood after the first stiff, careful embrace in the airport terminal, but out of eight months spent learning to need her less, because needing her more hadn't been an option.
+
+They stayed up past midnight the first night, not talking about any of it, just sitting on the same couch watching something neither of them cared about, her daughter's head finding her shoulder around eleven the way it used to when she was small enough to be carried there. Osei did not tell her what she'd spent the winter looking at. She held her instead, and let that be the whole of what she had to offer, and told herself, for the first time in eight months, that it might actually be enough.
+
+---
+
+### Leesburg, Virginia
+
+The facility looked the same from the parking lot - same brick, same tasteful signage - but his mother was sitting up in a chair by the window instead of in the bed, and she knew him before he'd finished crossing the room, which she had not done in over a year.
+
+"They changed her protocol in January," the attending physician told him afterward, in the hallway, with the particular carefulness of someone delivering good news she didn't fully trust either. "A combination therapy - genuinely cutting-edge, the kind of thing insurance doesn't cover and most families can't get access to even when it exists. Somebody authorized full coverage in December. I assumed it was you."
+
+"It wasn't me," Vann said.
+
+He sat with his mother for three hours, and she called him by his name twice, and he let himself have all three hours before he let himself think about what eight months of full disclosure to a government program was worth on an open market, and what it meant that somebody had apparently decided, without asking him, that this was the price they were willing to pay for his silence, his cooperation, his continued willingness to hand over numbers he didn't fully understand the use of.
+
+He didn't tell her that part either. There didn't seem to be any version of the sentence that wouldn't have cost her the good afternoon to hear it.
+
+---
+
+### Boston, Massachusetts
+
+Her apartment smelled like eight months of dust and a refrigerator she should have emptied before she left. Chandrasekhar worked through it methodically, the way she worked through everything, room by room, box by box, until she got to the jacket she'd been wearing the night the two agents came for her, still hanging exactly where she'd left it, the hardbound notebook still in the inside pocket where it had lived every day since June.
+
+She sat down at her kitchen table and opened it, mostly out of habit, meaning only to confirm it was still hers before she put it away somewhere permanent.
+
+Under her last entry - the one from January, the one about signal, the one about someone who understood exactly what evidence she'd go looking for - four words sat in handwriting that was unmistakably her own. The same slight leftward lean on her lowercase *t*. The same habit of closing her *a*'s a fraction late. Her hand, in every particular she would have sworn a signature analyst to.
+
+In ink she had never owned. A blue-green she didn't recognize, in a pen she had never once used in the notebook's entire history, under a sentence she had absolutely, certainly, never written.
+
+*You're not wrong ;)*
+
+Chandrasekhar sat very still in her own kitchen, in her own apartment, with the door locked and the dust of eight months undisturbed around her, and felt, for the first time since a man with a mismatched wedding ring had shown her a badge in June, genuinely and completely afraid.
