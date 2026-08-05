@@ -608,7 +608,7 @@ Her apartment smelled like eight months of dust and a refrigerator she should ha
 
 She sat down at her kitchen table and opened it, mostly out of habit, meaning only to confirm it was still hers before she put it away somewhere permanent.
 
-Under her last entry - the one from January, the one about signal, the one about someone who understood exactly what evidence she'd go looking for - four words sat in handwriting that was unmistakably her own. The same slight leftward lean on her lowercase *t*. The same habit of closing her *a*'s a fraction late. Her hand, in every particular she would have sworn a signature analyst to.
+Under her last entry - the one from January, the one about signal, the one about someone who understood exactly what evidence she'd go looking for - four words sat in handwriting that was unmistakably her own. The same slight leftward lean on her lowercase *t*'s. The same habit of crossing them a fraction high, a tic she'd never managed to train out of herself since grade school. Her hand, in every particular she would have sworn a signature analyst to.
 
 In ink she had never owned. A blue-green she didn't recognize, in a pen she had never once used in the notebook's entire history, under a sentence she had absolutely, certainly, never written.
 
@@ -800,7 +800,7 @@ She turned the notebook to the page.
 
 *You're not wrong ;)*
 
-"March," she said. "My apartment in Boston, the day we came home. Under my last entry, in my own handwriting - not similar, not a close forgery, mine, down to the way I close my *a*'s late - in a color of ink I have never owned, in a notebook I keep on my person or locked in a drawer at all times." She let that sit. "And three weeks ago, in my rented bathroom here, on a locked door, over a fogged mirror. Two words. *They're smart.* I mentioned it to a man named Carter in a coffee line the same morning, meaning nothing by it, and by 1447 that afternoon he'd asked a Landmate to move a pallet and it had simply done it."
+"March," she said. "My apartment in Boston, the day we came home. Under my last entry, in my own handwriting - not similar, not a close forgery, mine, down to the leftward lean on my lowercase *t*'s - in a color of ink I have never owned, in a notebook I keep on my person or locked in a drawer at all times." She let that sit. "And this morning. In my rented bathroom here, behind a locked door, over a fogged mirror. Two words. *They're smart.* I mentioned it to a man named Carter in a coffee line an hour later, meaning nothing by it, and by 1447 this afternoon he'd asked a Landmate to move a pallet and it had simply done it."
 
 Nobody spoke for a long moment.
 
