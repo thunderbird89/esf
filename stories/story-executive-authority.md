@@ -928,8 +928,36 @@ He sat back from the rig, and found he was more unsettled by this than by anythi
 
 He found Osei and Vann at the center of the tarmac twenty minutes later, comparing a ruined drill bit against a single unconvincing flicker on a magnetometer readout, and added his own contribution to the small, useless collection of evidence between them: a printout with three dots on it, each one a different answer to the question *where is the shoulder*, none of them wrong.
 
-Chandrasekhar arrived last, having spent the afternoon with nothing at all to measure, and looked at the three of them - a paint job that ate diamond, a whisper too regular to be noise, a joint with no fixed address - for a long moment before she spoke.
+---
 
-"One afternoon," she said. "Three completely different disciplines. Three results that would each individually end a career if you published them without the other two backing you up." She almost smiled. "At least this time none of us has to carry it alone until dinner."
+### The Maze
+
+Chandrasekhar had spent her own two days on the one instrument nobody else in the yard had thought to bring: a whiteboard's worth of standardized cognitive benchmarks, the same batteries any lab on Earth would run against a language model or a planning agent, translated into tasks a Landmate could physically perform.
+
+It ignored all of them.
+
+Not refused. Not failed. Ignored, in a way that felt, the longer she sat with it, more pointed than any error message could have been. She read out abstract reasoning grids adapted from ARC-AGI, one shape transformation at a time, phrased as instructions - and the Landmate simply stood, attentive, waiting for a command it could act on rather than a puzzle to solve in the abstract. She tried framing a SWE-bench-style task as a real request - describing a broken process, asking it to identify the fault - and got the same patient, unresponsive stillness, not even the dignity of a clarifying question. It never once said *I don't understand*. It behaved, each time, like a system that had simply declined to notice the test had been administered at all.
+
+Then she gave it something to actually do.
+
+Colored pallets, six of them, and an instruction to move the ones matching a criterion she changed each trial - not a search term, not a label, an actual judgment call: *put the ones that seem out of place over there.* Four trials, four different arrangements, and every time it sorted by whatever underlying logic she'd been gesturing at rather than any single visible feature, correctly, immediately, as though the ambiguity in her instruction had never existed at all.
+
+The maze was her idea, chalk-painted across forty meters of tarmac by a bored FEMA crew on their lunch break, and it was the maze that finally cracked something open in her.
+
+The Landmate solved the first three configurations without hesitation, tracing the correct path at an unhurried walking pace as if the exercise bored it slightly. The fourth maze, painted in a hurry, turned out - nobody noticed until afterward, checking the design against the chalk - to have no solution at all. A closed loop. A dead end at every branch.
+
+The Landmate entered it anyway, walked the interior for perhaps four seconds, considering, and then crouched, took hold of one painted line with something at the end of its arm too fine to have been visible in any of Gaza's footage, and wiped it away. A gap opened where a wall had been. It walked through the gap it had just created and out the other side.
+
+Chandrasekhar had stood very still for a long moment after that, the way she imagined the FEMA crew must have stood eighteen months earlier, watching a tank round shatter against a chest plate.
+
+"It's not failing our tests," she told the three of them now, laptop open on the tarmac between all four of them, the chalk maze still visible in the distance with its neat, deliberate gap. "It's refusing to take them, the way you'd refuse to answer a question in a language you'd decided wasn't worth learning. But hand it a problem with a real object and a real outcome, even one that requires actual judgment - ambiguous categories, no fixed rule, a maze that isn't supposed to have an exit - and it doesn't just solve it. It renegotiates the terms of the problem until a solution exists." She looked at the gap in the chalk, small and neat and utterly deliberate. "We've been trying to measure its intelligence with the same yardsticks we use on each other. I don't think intelligence is even the right axis. I think what we're actually measuring is how much it respects the question being asked - and by that standard, it's told us, pretty clearly, exactly how much it thinks of ARC-AGI."
+
+Nobody spoke for a moment. Osei looked at the ruined bit still in her hand, Vann at the printout of a single stubborn flicker, Huels at three dots that each claimed to be the same shoulder.
+
+"So," Osei said eventually. "A paint job harder than diamond. A power source that doesn't want to be found. A joint that isn't anywhere until you ask it to be. And a mind that only bothers answering when the question is real." She let out a breath that wasn't quite a laugh. "Four disciplines. Same afternoon. Same answer, really, just wearing four different coats."
+
+"Which is?" Huels asked, though he already knew.
+
+"That whatever we're looking at wasn't built to be studied," Osei said. "It was built to *work*. Studying it is just something we're doing to it on the side, and it's letting us, exactly as much as it feels like."
 
 Nobody said the joke. For the first time in a long while, none of them needed to.
