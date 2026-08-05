@@ -709,3 +709,71 @@ Nobody in the tent said anything for a long moment. It was Chandrasekhar, finall
 "Is that better?" Huels asked.
 
 "I don't know yet," she said. "Ask me after we find out what they didn't bother hiding."
+
+---
+
+### The Yard
+
+For three weeks, what they didn't bother hiding turned out to be almost everything, and almost nothing useful.
+
+Huels had never in his life had this much unsupervised time with a real actuator joint, and it showed. He spent four days on a single knee assembly, borrowed a FEMA engineer's boroscope without asking twice, and came back to the tent each evening with a fresh page of sketches and the specific, giddy exhaustion of a man who'd been allowed, for once, to simply look at a thing instead of guess at it from a grainy frame. Osei ran a portable XRF spectrometer over every exposed surface of all ten units twice each, cataloguing an alloy composition that made sense element by element and no sense at all in combination, and admitted to no one but Vann that she'd started humming while she worked, for the first time since June of the previous year. Vann, denied anything resembling a running engine to examine, settled for mapping the geometry of the empty hardpoints where Gaza's rifles had been, and spent an entire evening happily arguing with Huels about mounting tolerances that neither of them could prove mattered.
+
+None of it produced anything Weiss's superiors would call an answer. The alloy still didn't behave like alloys were supposed to behave. The joints still implied a servo architecture nobody could reverse from the outside without cutting the machine open, which nobody was authorized to do, HARBINGER's gift or not. But for three weeks, the three of them worked the yard every day with something that looked, from a distance, uncomfortably like joy, and Huels caught himself, more than once, forgetting to resent the six-digit callback code that had put him there.
+
+Chandrasekhar didn't share it.
+
+There was nothing for her here. Ten silent, motionless machines produced no grid, no lattice, no scanning sweep, no threat-assessment output to model - nothing resembling the one thing she'd spent eight months learning to read. She sat in on Huels's joint sketches and Osei's spectrometer runs out of a sense of obligation to the room rather than any expectation of use, and found herself, for the first time since this had started, genuinely idle - a feeling she discovered she disliked considerably more than fear.
+
+"You could go home," Vann told her once, not unkindly, watching her watch nothing happen for the third hour running. "Nobody would fault you for it. There's no grid to chase yet."
+
+"I know," she said. She didn't go home. She wasn't sure, if she was honest with herself, that home was where she wanted to be idle either.
+
+---
+
+### Fogged Glass
+
+She was three and a half weeks into standing around a Florida equipment yard doing, by her own accounting, nothing of any value, when she got out of the shower on a Tuesday morning and found two words written into the fog on the bathroom mirror of her rented billet.
+
+*They're smart.*
+
+Block letters, a fingertip's width, drawn - she checked, immediately, stupidly, as if it would tell her anything - from the outside surface of the glass, in condensation that had not existed when she stepped into the shower nine minutes earlier, in a room with a door she had locked and a window with a latch she had tested twice before bed. No smiley face this time. No punctuation at all, just the flat, declarative shape of something being told to her rather than asked.
+
+She almost brushed it off. That was the part that frightened her most, turning it over on the drive to the depot - it had taken real, deliberate effort not to let it become just one more strange thing in a year full of strange things, filed and dismissed the way she'd trained herself to file and dismiss the impossible so she could keep functioning in a room with it. She wrote it in the notebook instead, dated, exact, and did not tell Huels, or Osei, or Vann, because eight months of practice had made silence her only reliable instrument.
+
+She did mention it to Carter.
+
+Not the mirror. Not the notebook. She didn't even entirely decide to say it - it arrived somewhere in the middle of a coffee-line conversation about nothing, the kind of idle observation you make to a stranger you'll forget by lunch, while Carter complained about being pulled off proper logistics work to shuffle pallets around some engineer's radar experiment.
+
+"You ever get the feeling they're not just sitting there because nothing's gotten through yet?" she said, mostly to her coffee. "Like maybe something has gotten through, and we just haven't asked it the right way. They're smart. I don't know why I think that. I just do."
+
+Carter shrugged, said something about above his pay grade, and went back to his pallet.
+
+She thought nothing more of it until 1447 that afternoon.
+
+---
+
+### Move This
+
+She was fifty meters away when it happened, close enough to see it and too far to have stopped it even if she'd known, in that coffee-line moment three hours earlier, that there was anything to stop.
+
+Carter had been helping an engineer named Thompson clear space around a radar array, hauling an equipment pallet toward an empty stretch of tarmac, when he stopped, looked at the pallet, looked at the nearest Landmate, and did the thing eleven hundred engineers and three governments' worth of linguists had apparently never quite thought to do without a protocol attached to it.
+
+"Hey. You. Move this pallet over there."
+
+He pointed.
+
+The Landmate moved.
+
+Chandrasekhar heard Huels's boroscope hit the tarmac before she registered the machine taking its first step - three smooth strides, a controlled crouch, two tons of pallet lifted like an afterthought and set down exactly where Carter's finger had indicated, and then the unit straightened and returned, without being told, to its place in formation. Ten seconds, if that. The yard went silent in the specific way a room goes silent when forty people simultaneously realize they've been asking the wrong question for three straight weeks.
+
+Osei was already running toward it. Vann said something with several curse words wound through it, delighted rather than dismayed. Huels stood absolutely still, staring at the empty space where the pallet had been, visibly recalculating everything he thought he understood about what "no response to any tested stimulus" had actually meant.
+
+Chandrasekhar didn't move at all.
+
+She watched Carter stand frozen with his arm still extended, watched Peter come sprinting down from the observation deck, watched the whole yard reorganize itself in real time around a fact that had apparently been sitting in plain, patient reach the entire three weeks. And she felt, underneath the general astonishment she made sure her face performed correctly, nothing that could honestly be called surprise.
+
+It was Huels, oddly, who noticed. He caught her expression somewhere in the middle of the commotion - not shock, not delight, something quieter and stiller than either - and frowned at her across the tarmac like a man cataloguing one more measurement that didn't fit the model.
+
+"You don't look surprised," he said, when he'd made his way over.
+
+"I'm not sure what I look like," Chandrasekhar said, which was true, and also not an answer, and she was fairly sure he noticed that too.
