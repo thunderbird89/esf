@@ -899,3 +899,37 @@ Across the tarmac, Osei's rig shrieked once more and went silent - the third bit
 "A very expensive paint job."
 
 Neither of them said the joke. It hung in the air between the two ends of the yard anyway, unspoken, which by now amounted to nearly the same thing.
+
+---
+
+### No Fixed Axis
+
+Huels had the easiest time of the three of them, in the sense that his subject actually moved.
+
+He'd spent the better part of two days asking a Landmate through the same shoulder motion at every speed and load he could think to request - fast and unloaded, slow and bearing a two-hundred-kilogram test mass, everything between - while he tracked the limb with external markers and pressed a contact microphone flush against the joint housing itself, recording through the plating Osei couldn't scratch to whatever was moving underneath it.
+
+The microphone gave him something, at least. A hum, low and steady during motion, silent at rest - something that behaved enough like a motor's signature that he'd let himself, for about six hours, believe he was closing in on an answer. He'd chased that hum through every frequency band his equipment could resolve, hoping to find a harmonic structure that would tell him gear ratio, winding count, anything a real motor would have been forced to confess.
+
+It confessed nothing. The hum shifted pitch with load in a way no motor he knew would, smooth and continuous rather than stepped, as if whatever was making the sound didn't have discrete states to shift between at all.
+
+The axis was worse.
+
+"Run it again," he told the technician, for perhaps the twentieth time, watching the tracking software plot the shoulder's instantaneous center of rotation across a slow, heavy lift. The software drew its usual small cluster of dots, converging - as it should, as any real hinge would force it to - on a single point buried somewhere inside the joint housing.
+
+Then he had the Landmate repeat the same nominal motion, fast, unloaded, and the cluster of dots reconverged eleven centimeters away.
+
+"That's not the same joint," the technician said, echoing, almost word for word, what Osei's own tech had said over a ruined drill bit an hour earlier.
+
+"It has to be the same joint. There's only one shoulder there." Huels ran it a third time, at a middling speed with a middling load, and got a third cluster, sitting neither at the first point nor the second, but somewhere that made a kind of geometric sense only if he stopped assuming the joint was, in any classical sense, a joint at all. "A hinge has a fixed axis because it's a physical object with a physical pin through it. A ball joint has a fixed center for the same reason. This has neither. This has a *different* effective pivot for every combination of speed and load I throw at it, which means whatever's actually doing the work isn't rotating around anything fixed - it's reconfiguring, on the fly, into whatever kinematic shape best serves what I just asked it to do."
+
+He sat back from the rig, and found he was more unsettled by this than by anything Gaza's footage had shown him eighteen months earlier, because Gaza had at least been a mystery he could hold at arm's length on a screen. This was eleven centimeters, twice measured, sitting under his own hand.
+
+"Osei had a theory," he said slowly, half to the technician, half to himself. "Back in October, on paper, off nothing but grainy footage and stubbornness. That the material under load wasn't just carrying force, it was contributing it - the whole limb acting as the muscle, the joint just wherever we happened to be looking that day." He looked at the shoulder, motionless again, giving away nothing now that the load was gone. "I thought it was a good hypothesis. I did not expect to spend two days proving it undersold the problem. She guessed the material does work. I'm telling you the *entire kinematic structure* is negotiable, moment to moment, and I don't have a word for a joint that isn't in any fixed place until you've already told it what you need."
+
+He found Osei and Vann at the center of the tarmac twenty minutes later, comparing a ruined drill bit against a single unconvincing flicker on a magnetometer readout, and added his own contribution to the small, useless collection of evidence between them: a printout with three dots on it, each one a different answer to the question *where is the shoulder*, none of them wrong.
+
+Chandrasekhar arrived last, having spent the afternoon with nothing at all to measure, and looked at the three of them - a paint job that ate diamond, a whisper too regular to be noise, a joint with no fixed address - for a long moment before she spoke.
+
+"One afternoon," she said. "Three completely different disciplines. Three results that would each individually end a career if you published them without the other two backing you up." She almost smiled. "At least this time none of us has to carry it alone until dinner."
+
+Nobody said the joke. For the first time in a long while, none of them needed to.
