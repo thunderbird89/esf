@@ -873,3 +873,29 @@ Huels, drawn over by the smell of scorched drill bit, looked at the pristine for
 "HARBINGER did it," he said, mild, testing the shape of the old joke out loud for the first time in a year.
 
 Osei didn't laugh again, but she didn't stop him, either, and that - Huels thought, watching her carefully pack away three bits' worth of expensive failure - was probably as close to funny as any of this was going to get for a while.
+
+---
+
+### Lower Back
+
+At the other end of the yard, close enough that the intermittent shriek of Osei's rig carried across the tarmac between attempts, Vann worked a different unit with a handheld magnetometer and a thermal camera balanced on a tripod, chasing a hypothesis he'd built out of nothing more than geometry and stubbornness.
+
+"Jump jets fire from the back and the legs," he said, mostly for the technician's benefit, mostly to keep himself talking through the tedium of a sweep that wasn't turning up much. "Whatever's feeding them has to sit somewhere central enough to reach both without running a power bus the length of the frame. Lower back puts it close to the hip actuators too, and it's the most structurally protected volume on the whole chassis - flanked by the pelvic housing, shielded by the frame itself on every side that isn't facing directly into the machine's own mass." He shifted the magnetometer another few centimeters and watched the readout do almost nothing interesting, again. "If I were designing this, that's where I'd put a reactor. Something self-sustaining. Not the plasma drive itself - that's the exhaust end of the problem, that's Taiwan's mystery, not this one. Something upstream of it. A cell, a bottle, whatever keeps the whole thing running for however many years it runs without anyone topping off a tank."
+
+"You have anything to back that up?" the technician asked, watching the flat readout with open skepticism.
+
+"No," Vann admitted. "I have a shape the numbers would make sense in, and nowhere else on this machine they'd make sense instead. That's not evidence. That's just the least stupid guess I've got."
+
+He got a flicker on the third pass - nothing dramatic, no needle-pinning spike, just a faint, structured distortion in the ambient field that behaved less like noise than like something small and quiet doing purposeful work behind a wall Osei had just spent an hour proving nobody could open. He held the sensor steady over the spot for almost a minute, watching the pattern repeat with a periodicity too regular to be interference, too weak to be anything he could responsibly call a finding.
+
+"There's something under there," he said, quietly, more to himself than the technician. "I'd stake my career on that much. I could not, in front of a committee, tell you what it is, how big it is, or how it works, and I have exactly one flicker on a secondhand magnetometer to show for an afternoon of standing next to something that could probably power a small city and has decided not to tell me how."
+
+Across the tarmac, Osei's rig shrieked once more and went silent - the third bit, dying the same death as the first two. Vann looked over just in time to see her sit back on her heels and start laughing the way she had twenty minutes earlier.
+
+"Find anything?" she called over.
+
+"A whisper," Vann called back. "You?"
+
+"A very expensive paint job."
+
+Neither of them said the joke. It hung in the air between the two ends of the yard anyway, unspoken, which by now amounted to nearly the same thing.
