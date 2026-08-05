@@ -615,3 +615,97 @@ In ink she had never owned. A blue-green she didn't recognize, in a pen she had 
 *You're not wrong ;)*
 
 Chandrasekhar sat very still in her own kitchen, in her own apartment, with the door locked and the dust of eight months undisturbed around her, and felt, for the first time since a man with a mismatched wedding ring had shown her a badge in June, genuinely and completely afraid.
+
+---
+
+## Chapter 4: Recall
+
+### Cambridge, Massachusetts
+
+Huels was proctoring a make-up final when his phone lit up on the desk beside the exam roster, silenced but not, he'd forgotten, turned face-down. COLD FORGE. Not a name, not a number - a six-digit callback code he'd been told in June he would recognize on sight and had spent eighteen months hoping he'd never have to test that claim.
+
+He let it ring through. He excused himself the moment the last student had turned in a blue book, and called it back from the stairwell, where the reception was bad enough that Weiss had to repeat herself twice.
+
+"You'll want a television," she said, without preamble, which by now he understood was simply how she opened every conversation that mattered. "HARBINGER addressed the UN General Assembly forty minutes ago. You're being collected at 0500 tomorrow."
+
+"I have a class at nine."
+
+"You don't," Weiss said, not unkindly, "anymore," and the line went dead before he could decide whether that had been a joke.
+
+---
+
+### Herndon, Virginia
+
+Vann was three sentences into explaining, to a room of engineers half his age, why their thermal model was wrong, when his phone buzzed against the conference table hard enough that everyone in the room saw the callback code before he did.
+
+He didn't finish the sentence. Nobody asked him to.
+
+---
+
+### Boston, Massachusetts
+
+Chandrasekhar had the notebook open on her kitchen table - she kept it open now, most evenings, the way a person keeps a light on in a house they no longer trust to be empty - when the call came, and for one long, unsteady second she let herself believe the two things were connected before she made herself stop.
+
+They weren't connected. They were, in a way she couldn't yet decide how to feel about, almost a relief. Whatever was reading her handwriting in a color of ink she'd never bought could presumably do it whether she was in Boston or Ohio. At least in Ohio, she wouldn't be doing it alone.
+
+---
+
+### Albuquerque, New Mexico
+
+Osei watched the address happen live, standing in her own kitchen with her phone in one hand and the television remote forgotten in the other, and had the call from Weiss's office before HARBINGER had finished offering the fourth nation its ten free machines.
+
+Her daughter watched it too, from the couch, seventeen now, sharp in the particular way children of absent parents got sharp, already looking at her mother instead of the screen by the time the vote count froze at one hundred sixty-two.
+
+"That's it, isn't it." Not a question. "That's the thing you were gone for."
+
+Osei set the remote down very carefully, the way she'd learned to handle anything in the last two years that she wasn't ready to drop.
+
+"Some of it," she said. "Not all of it. I still can't tell you all of it."
+
+"But you can tell me some."
+
+And that, Osei found, standing in her kitchen with a recall order already sitting unread in her inbox, was the part nobody had warned her would be the hard one. Eight months of *work trip* and *I can't say* had been its own kind of misery, but it had at least been simple - a wall, flat and total, that neither of them had to negotiate the shape of. This was worse. This was a door cracked open just far enough to make her daughter believe, correctly, that there was more on the other side of it than her mother was willing to hand across.
+
+She told her what she could. That the machines on the screen were related to the ones from Gaza, from Taiwan, from a night in a Ukrainian field neither of them had ever discussed. That her mother had spent eight months trying to understand where they came from and had not gotten far enough to be useful, and was being asked to try again, tomorrow, with less notice than the first time. That she didn't know for how long. That she would call when she could, the way she had before, except this time her daughter would at least know what the silences were made of, if not what filled them.
+
+Her daughter listened to all of it without interrupting, which was somehow worse than if she'd argued.
+
+"Do you want to go?" she asked, when Osei had finished.
+
+Osei thought about lying, and found, for the first time in this entire conversation, that she couldn't.
+
+"No," she said. "But I don't think that's ever been the question they're asking."
+
+Her daughter nodded slowly, the way people nod when they've just learned something true and useless, something that changes nothing about what happens next. She crossed the kitchen and hugged her mother - not stiff this time, not careful, but hard, the way she used to before she'd learned to need her less.
+
+"Come back on time," she said, into her mother's shoulder. "Not late this time. On time."
+
+"I'll try," Osei said, which was the only promise she had left that she was certain she could keep.
+
+---
+
+### Camp Blanding, Florida
+
+They landed at 0512, in the dark, on a runway that existed for exactly this kind of arrival and nothing else, and were in a FEMA staging tent behind the depot's perimeter fence with eleven minutes to spare - Weiss's doing, Huels assumed, though she never once said so, only checked her watch and nodded once when the convoy cleared the last checkpoint at 0549.
+
+The depot itself was unremarkable in the dark - floodlit tarmac, a scatter of FEMA vehicles, a knot of personnel in windbreakers who had clearly been told to expect something and just as clearly hadn't been told what. Osei recognized the mood before she recognized anything else about it: the particular quiet of people trying to look prepared for an event none of them had a frame of reference for.
+
+At 0600, the sky opened.
+
+Five aircraft, matte black, dropping out of a cloud ceiling nobody had tracked them through, and Vann - despite eight months, despite everything he now knew to look for - still made a sound low in his throat at the sight of them, the same blue-white fire Taiwan had taught him to recognize washing off their trailing edges as they slowed from something well past reasonable to a hover in the space of a few seconds.
+
+The cargo doors opened. Ten shapes dropped clear into the dark.
+
+"Jump jets," Huels said, mostly to himself, watching the blue-white bloom ignite along each falling shape's back and legs in perfect unison, a forty-meter fall arrested into a landing so controlled it barely registered as deceleration at all. Two ranks of five, touching the tarmac within a heartbeat of each other, feet meeting asphalt with a sound too soft for machines that size, and then - stillness. Hands at their sides. No weapons mounted, no hardpoints, nothing where Gaza's rifles had been but smooth, empty attachment points, exactly as HARBINGER had shown the General Assembly on a rotating schematic the evening before.
+
+Above them, the cargo doors closed. The engine pods rotated forward, and the five aircraft climbed away and were gone, swallowed back into the same cloud ceiling that had produced them, the whole delivery finished in under a minute by Osei's count.
+
+Ten Landmates stood motionless on a floodlit runway in northern Florida, unarmed, silent, waiting for someone to tell them what they were for.
+
+Nobody in the tent said anything for a long moment. It was Chandrasekhar, finally, who broke it, quiet enough that only Huels beside her caught it.
+
+"Last time, we spent eight months trying to explain something we only ever saw on somebody else's camera." She didn't look away from the ten still shapes on the tarmac. "This time it's forty meters away, and it isn't even trying to hide anything from us."
+
+"Is that better?" Huels asked.
+
+"I don't know yet," she said. "Ask me after we find out what they didn't bother hiding."
