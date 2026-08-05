@@ -843,3 +843,33 @@ Vann reached over and closed the notebook the rest of the way, gently, like it d
 "It's enough to start with," he said.
 
 Nobody, this time, made the joke. But for the first time since June of the year before, Chandrasekhar thought, watching the three of them sit with what she'd just handed them, it might eventually have started being funny again for the right reasons.
+
+---
+
+### Paint Job
+
+Voice-responsive turned out to mean cooperative, which meant Osei finally had something she'd wanted since a hangar in Ohio eighteen months earlier: standing permission to put a drill against the actual material and find out what it was made of.
+
+She asked the nearest Landmate to hold its arm out and hold still, and it did, immediately, without complaint or hesitation, which somehow made the whole exercise stranger rather than easier. Weiss had signed off on a core sample no larger than a pencil eraser - non-destructive by any reasonable standard, a nick nobody would ever notice on a limb that size. Osei had brought a rig rated for hardened aerospace ceramics and, on a hunch she didn't fully explain to the technician assisting her, a case of diamond-tipped coring bits one grade higher than the rig's manufacturer recommended for anything short of tool steel.
+
+The first bit lasted four seconds at full rig torque before its tip came away rounded, as if it had been run for an hour against something with actual teeth. The second, a finer grit meant for brittle high-hardness ceramics, chattered against the surface hard enough to shake the whole rig and left the drill bit's cutting edge visibly flattened, worn smooth like beach glass, without a mark to show for it anywhere on the Landmate's forearm.
+
+"That's not possible," the technician said, for the second time in ten minutes, staring at the ruined bit in his hand.
+
+"Give me the third," Osei said.
+
+The third bit was the one she'd genuinely expected to work - a specialty coring tool from a supplier who serviced the diamond synthesis industry itself, rated to cut diamond. She ran it at low speed, high pressure, sustained contact for a full ninety seconds, generating enough friction heat that the technician actually stepped back from the rig, and shut it off only when the motor housing itself started to complain.
+
+She lifted the bit. It was gone - not broken, not chipped, simply worn down to a blunted stub, most of its working length sacrificed to a surface that, when she wiped it down and examined it under a hand lens, did not show so much as a dulled patch in the paint.
+
+The paint. Not the alloy underneath it. Not the frame, not the joint, not anything Osei had actually been trying to sample. The paint.
+
+She sat back on her heels and started, quietly, to laugh - not Vann's kind of delighted laugh, something with an edge under it.
+
+"Eighteen months," she said, to the technician, to the Landmate, to nobody in particular. "Eighteen months, and the closest I've come to touching what this thing is actually made of is proving, conclusively, with three destroyed diamond bits and a rig that cost more than my car, that I cannot even scratch the coat of paint they didn't think was worth protecting."
+
+Huels, drawn over by the smell of scorched drill bit, looked at the pristine forearm and then at the three ruined tools laid out on the tarmac like evidence at a crime scene where nothing had actually happened.
+
+"HARBINGER did it," he said, mild, testing the shape of the old joke out loud for the first time in a year.
+
+Osei didn't laugh again, but she didn't stop him, either, and that - Huels thought, watching her carefully pack away three bits' worth of expensive failure - was probably as close to funny as any of this was going to get for a while.
