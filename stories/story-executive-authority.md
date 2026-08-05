@@ -477,3 +477,33 @@ Osei finally looked up from the bridge panel, the borescope still loose in one h
 "Two mysteries in one week," she said. "One of them's ours - I built a rung of that ladder, Elias, badly, fourteen years too early to matter. The other one's yours." She looked back down at the torn steel before he could answer. "At least tell me it's a comfort, knowing which flavor of impossible we're each stuck with."
 
 "It's not," Vann said. "But I'll take it over not knowing."
+
+---
+
+### Chain of Custody
+
+By the third week of January, Osei had marked the section of the bridge panel she wanted cored - a four-centimeter wedge straddling the sheared edge itself, the one piece of the wreck that actually carried the transition zone from intact steel to hypervelocity ruin, destined for a materials lab in Albuquerque with an electron microscope good enough to read the grain deformation atom by atom. She sealed it into evidence in the hangar's locker herself, numbered tag, tamper strip, two witnesses, at 2140 on a Tuesday, for a courier scheduled to collect it at 0700.
+
+At 0700 the locker was still sealed. The tamper strip was intact, numbered correctly, matching the log to the digit.
+
+The wedge inside it was gone.
+
+Not the panel - the panel was exactly where she'd left it, exactly as heavy as it should have been. Only the four-centimeter section she'd already cut free, already bagged, already the single most information-dense piece of physical evidence COLD FORGE had produced in eight months, had stopped existing somewhere between a sealed lock and an unbroken seal.
+
+The investigation Weiss opened this time ran six days, longer than any before it, and brought in a forensic locksmith flown in from Andrews who spent two full days concluding, with visible discomfort, that the seal had not been cut, melted, re-adhered, or defeated by any method in a catalogue he'd spent eleven years building. The lock itself showed no tool marks. The two witnesses to the sealing had alibis for the entire window, corroborated independently, down to the minute. Camera coverage of the locker showed four hours and eleven minutes of continuous, unbroken footage - the locker, closed, undisturbed, timestamped correctly against every other clock on base - and then, when technicians finally thought to compare frame counts against the file's own metadata, showed exactly four hours and eleven minutes of footage compressed into a file that should have held four hours and nineteen minutes, eight minutes accounted for nowhere, added or subtracted so cleanly that no player had caught the seam on playback.
+
+The final report used the word *anomalous* four times and the word *unresolved* once, at the very end, like a period no one wanted to commit to.
+
+Chandrasekhar added a fifth line to the ledger that night, in the hardbound notebook, in a hand that had stopped shaking over these entries months ago.
+
+> **Jan** - Cored sample from Taiwan bridge panel, sealed in evidence locker, witnessed, tagged, seal unbroken on discovery. *Method:* none consistent with any defeat technique known to base security or outside forensics. *Motive:* prevent independent lab analysis of the hypervelocity transition zone. *Opportunity:* none - witnesses alibied, lock undefeated, footage continuous by every measure except its own file length. *Verdict:* unresolved.
+
+She sat with the notebook a long time after that, longer than the entry itself required, because the thing she wrote next wasn't really about the fifth incident. It was about all five of them together, and about a suspicion she had been circling since August and had finally run out of room to keep circling.
+
+*Every one of these has a hole in it precisely where the hole needs to be. Not two holes. Not zero. One, every time, in whichever leg of the triangle would otherwise have let us name a suspect. A real cover-up leaves residue - a witness who half-remembers something, a log that's been edited badly enough to notice, a story that holds until the third question. These don't. These are clean in a way that isn't the absence of evidence. It's the presence of someone who understands exactly what evidence I would go looking for, and removes that specific thing, and nothing else, every single time.*
+
+*I have no proof of any of this. I want to be precise about that, because it matters: I cannot point to a fingerprint, a footstep, a byte of data that says who or what is doing this. What I have is five incidents in eight months, each one impossible in a different way, each one impossible by exactly enough to survive the specific kind of scrutiny it received - not more scrutiny than that, not less. That is not what bad luck looks like. That is not, in my professional opinion, what incompetence looks like either. I have spent my career telling people the difference between noise and signal, and I am telling myself, now, in writing, that this is signal.*
+
+*I still don't know who's listening. I'm starting to think that not knowing is the point.*
+
+She closed the notebook, and did not, again, show it to anyone.
