@@ -1069,3 +1069,27 @@ He didn't get a sound out before his legs simply stopped answering him, and the 
 By the time his knees found the ground, there was no one left standing on 72nd Street to see it. He was in the shadow of the nearest building within seconds, laid down with more care than the moment seemed to call for, breathing, unmarked, gone from the street as completely as if he had never walked down it at all.
 
 The five reformed their wedge without a word passed between them, and kept moving toward officers' quarters.
+
+---
+
+### Officers' Quarters
+
+Corporal Reyes and Private Landry had been standing post outside the visiting flag officer's assigned quarters for forty minutes, doing what soldiers on a boring detail did best, which was talk about nothing in particular to keep the cold from becoming the only thing worth thinking about.
+
+The radio crackled between them at 1911.
+
+> "All perimeter and interior posts, this is Bragg-Six actual. Be advised, unconfirmed reports of unusual visual disturbances along the northern and central corridors. Increase vigilance. Report anything out of the ordinary immediately."
+
+Reyes frowned at his handset. "Bragg-Six? We're not Bragg."
+
+"Static must've crossed a relay," Landry said, already reaching for his own radio to key a request for clarification. "Weird night for it."
+
+Neither of them got the chance to find out whether it was static or something else entirely.
+
+Reyes felt it first - a flat, precise impact against his chest, no louder than a knuckle rapping a door, and then the ground was rising to meet him with an unhurried, dreamlike speed that didn't match how fast he understood, dimly, that he was actually falling. Landry went down half a second behind him, closer to silent than a two-hundred-pound man in full kit had any right to be.
+
+Reyes's vision was already narrowing to a gray, closing tunnel by the time the streetlight shadows at the corner of the building resolved into shapes - five of them, stepping out of a darkness they seemed to have been part of all along rather than emerging from, silhouettes that shimmered even standing still, as though the porch light couldn't quite decide they were really there.
+
+One of them crossed the last few meters unhurried and knelt beside him, close enough that Reyes could have reached out and touched the blurred edge of its shoulder if his arm had still been willing to answer him. It didn't examine him the way a threat examines a target. It checked him the way a medic checks a patient - brief, competent, almost gentle - before straightening and turning, without a word, toward the door Reyes and Landry had spent forty cold minutes guarding.
+
+Reyes's last conscious thought, sliding away from him along with everything else, was that he'd never once heard a boot fall on the gravel the entire time.
