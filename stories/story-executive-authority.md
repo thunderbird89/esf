@@ -1101,3 +1101,21 @@ The door swung inward on a dim entry hall. Two more MPs, posted inside as a seco
 They went down mid-motion, weapons never quite reaching level, folding to the floor of the entry hall in near-perfect unison, as quietly as everyone else that shimmering forms had touched since 1857.
 
 The five moved past them into the house without breaking stride, already fanning toward the room at the end of the hall where a light still burned under the door.
+
+---
+
+Major General David Chen was reading, badly, the same page of a briefing packet he'd already failed to absorb twice, when he heard two thuds through the wall - close together, heavy, wrong in a way he couldn't immediately name but that made him lift his head from the page before his conscious mind had finished registering why.
+
+He didn't get time to name it. Three sharp, flat pops sounded in quick succession from the direction of the entry hall - not gunfire, something smaller and more precise, more like knuckles of sound than explosions - and his door, still latched, still locked, tipped inward off its frame in a single controlled motion, as though something had simply decided the hinges no longer applied.
+
+Breacher charge, was the only thought that had time to fully form, arriving with the flat, useless clarity of training kicking in a half-second too late to do anything with it.
+
+Then they were in the room.
+
+Five shapes, if shapes was even the word - the air around each of them held the barest oily distortion of something being deliberately unseen rather than genuinely absent, an edge that refused to resolve no matter how hard his eyes tried to fix on it. He couldn't find faces, couldn't find hands, couldn't find weapons if they were carrying any.
+
+They moved like a single organism split into five bodies. Two peeled toward the windows without a word passed between them and stayed there, backs to the room, watching the dark outside instead of the man inside - their outlines nothing but shimmer, offering him nothing to fix on. It was the other three who gave him something to look at, and he wished, within a second of seeing it, that they hadn't: where a face should have been on each of them, four small lenses sat in a tight quad cluster, glowing a dim, steady red that the shimmer around them couldn't quite swallow the way it swallowed everything else. Three clusters. Twelve unblinking red points, dividing the room between the doorway, the near wall, and the closet door, in a cross-covering stance so textbook it could have been lifted from a training manual - except no human team he had ever served with, in over two decades of service, had ever cleared a room this fast, this silently, or this completely without a single wasted motion between them.
+
+In under four seconds, every corner of Major General David Chen's quarters had been checked, confirmed, and closed off.
+
+And three clusters of red lenses turned, unhurried, to face him.
