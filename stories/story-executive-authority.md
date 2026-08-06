@@ -1152,13 +1152,17 @@ By the time Major General David Chen found the strength to reach for his phone, 
 
 Corporal Reyes woke to fluorescent light and a blood pressure cuff tightening around his arm, and for several long seconds had no idea where the previous four hours had gone.
 
-The physician's assistant who came by twenty minutes later was brisk, unbothered, and entirely unsurprised by the question Reyes hadn't even finished asking. "Vitals are clean. Bloodwork's clean. No cardiac markers, no signs of a seizure, nothing on the scans that explains the syncope." She made a note without looking up. "Working theory is a vasovagal episode - cold night, standing post, low blood sugar, it happens more than people think. You're being cleared for light duty starting tomorrow."
+The attending physician who came by twenty minutes later was brisk, professionally composed, and, Reyes thought, not nearly as unbothered as she was trying to sound. "Vitals are clean. Bloodwork's clean. No cardiac markers, no signs of a seizure, nothing on the scans that explains the syncope." She made a note without quite meeting his eyes. "Working theory is a vasovagal episode. Cold night, standing post, low blood sugar - it happens more than people think."
 
 "I didn't faint," Reyes said. "Something hit me."
 
-"There's no mark," she said, not unkindly, already moving toward the door. "No entry wound, no bruising, nothing consistent with a projectile of any kind. I understand that's not the answer you want. It's the one I've got."
+"There's no mark," she said, not unkindly. "No entry wound, no bruising, nothing consistent with a projectile of any kind. I understand that's not the answer you want."
 
-He didn't argue further. He'd already watched Landry get the same conversation two curtains over, and watched Landry stop arguing at roughly the same point Reyes now understood he was about to stop arguing too - not because either of them believed it, but because there was nowhere left to push once the paperwork had already decided what had happened to them.
+She hesitated at the curtain, and for a moment the composure slipped enough that Reyes caught what was actually underneath it.
+
+"I've been in emergency medicine eleven years," she said, quieter, more to herself than to him. "I could believe one healthy twenty-three-year-old syncoping on a cold post. I could probably believe two, if I stretched. I cannot make myself believe six - six soldiers, no cardiac history, no shared exposure, no common medication, collapsing within an eleven-minute window in six completely different sets of circumstances. One alone in a tower reaching for a radio. One walking home from the DFAC. Two standing static guard. Two more indoors, mid-motion, weapons half-raised. Vasovagal syncope doesn't cluster like that. It isn't contagious. It doesn't coordinate itself across a post in real time." She caught herself, visibly, and straightened back into the version of her voice meant for a patient chart rather than a colleague. "That's not something I'm going to be able to say in the after-action report, Corporal. So it's going in as six isolated episodes, because six isolated episodes is a sentence someone above me will actually let stand. You're being cleared for light duty starting tomorrow."
+
+He didn't argue further. He'd already watched Landry get some version of the same conversation two curtains over, and watched Landry go quiet at roughly the point Reyes now understood he was about to go quiet too - not because either of them believed the six separate diagnoses stacked up in six separate charts, but because there was nowhere left to push once the paperwork had already decided, collectively and with visible relief, what it was going to call the thing that had happened to all of them at once.
 
 What nobody's paperwork could touch was the thing that came back to him anyway, unbidden, every time the ward went quiet enough to let it in.
 
