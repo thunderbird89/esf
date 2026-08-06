@@ -1171,3 +1171,91 @@ It wasn't the fall. He didn't remember hitting the ground, didn't remember the i
 He hadn't told the physician's assistant that part. He hadn't told anyone that part. He understood, on some level below language, that the moment he did, he would become exactly the kind of soldier nobody wanted standing post with a weapon anymore - and some colder, more practical part of him suspected that the twelve red points staring down at him in the dark had understood, with total certainty, that he'd make that calculation and stay quiet.
 
 He was cleared for light duty the next morning, as promised. He went back to the wire six days later, and stood his post, and did his job, and never once, for the rest of his enlistment, was able to look at a streetlight's edge of shadow without his pulse climbing before the rest of him had decided there was any reason for it to.
+
+---
+
+## Epilogue: You Were Close
+
+### Fort Bragg, North Carolina
+
+Major General David Chen requested the follow-up meeting himself, which surprised no one more than it surprised him.
+
+"I'm withdrawing the autocannon proposal," he told Webb, across the same table where he'd first pitched it three weeks earlier, in a voice he'd worked hard, in the car on the drive over, to make sound like a considered professional judgment rather than what it actually was. "Granger's instincts were right. We don't have enough information about intent to justify the risk, and I don't think we're going to get that information by acting first and asking forgiveness later."
+
+Webb studied him for a moment longer than the statement strictly required. "That's a significant reversal, David."
+
+"It's the correct one," Chen said, and left it there, because there was no version of the actual reason that would have survived being spoken aloud in a secure room at Fort Bragg, and because some part of him suspected, without evidence he could have defended to anyone, that the room might not be as secure as everyone in it wanted to believe.
+
+The Fort Hood incident closed four months later, officially, as six isolated medical events with no connection to base security and no evidence of intrusion. Chen read the closure memo twice, noted that it didn't once mention the door, and signed off on it anyway. He never learned who had knelt over him with a helmet full of red lenses, or what flag they served, or whether *we* in *what we can do when we need to* meant a nation, an alliance, or something that had never bothered to file paperwork with anyone's United Nations. He asked, quietly, through channels he trusted, exactly once, eight months later, and received nothing back but silence and a mild, unspoken suggestion from a colleague that he stop asking.
+
+He never mentioned Agincourt to anyone. He didn't need to. He thought about it more often than he let himself admit, usually late at night, usually when the house was quiet enough to let it in.
+
+---
+
+### Cambridge, Massachusetts
+
+Huels found it on a Tuesday in late January, three weeks after Fort Hood made the kind of small, un-followed-up regional news item that nobody outside central Texas would ever read twice.
+
+He'd pulled the old servo textbook down from his shelf for a lecture reference - the same one shipped from his office back in June of the year before last, the one with two pages redacted for reasons Weiss's people had never explained and he had never pushed hard enough to learn. He opened, out of old habit, directly to the gap.
+
+It wasn't blank anymore.
+
+Two words, and a string of ten digits, set in the same typeface as the rest of the chapter, printed - not written, printed, kerned and justified like it had always belonged on the page and merely waited eighteen months for him to look again.
+
+*You were close.*
+
+He read it four times before he closed the book, and did not open it again that night.
+
+---
+
+### Albuquerque, New Mexico
+
+Osei found hers on the windshield of her car, in frost, on a morning cold enough that frost made sense and warm enough, by the time she noticed it, that it shouldn't have lasted the twenty minutes it had clearly been sitting there.
+
+Written from the outside. Legible only from the driver's seat, the way handwriting on glass always somehow was, as if whoever left it had known exactly where she'd be standing when she read it.
+
+The number matched the one Huels would describe to her forty minutes later, digit for digit, before either of them had said a word about where they'd each found it.
+
+---
+
+### Leesburg, Virginia
+
+Vann's arrived exactly where it always did - the one line, every morning, the small mercy he'd stopped taking for granted the day he'd first walked into his mother's room and found her sitting up.
+
+*Stable, no change,* the message read, same as always.
+
+Below it, in the same account, from the same facility number, in a second line that had never once appeared in eight months of daily reports: *You were close.* And the number.
+
+He stared at his phone for a long time in the parking lot before he made himself go inside. He did not tell his mother. There didn't seem to be any version of that sentence that would have cost her less than the good part of the visit to hear.
+
+---
+
+### Boston, Massachusetts
+
+Chandrasekhar's came where she'd known, somehow, it would come, before she'd even opened the notebook to check - under her most recent entry, in her own hand, in a color of ink that had stopped surprising her the second time it happened and had never once stopped frightening her.
+
+*You were close.*
+
+The number sat beneath it, ten digits, no area code she immediately recognized, no country code at all.
+
+She did not write anything back. There was, as far as she'd ever been able to determine, no page anyone but her had ever been able to read.
+
+---
+
+### A Call
+
+They were on the phone together within the hour - an old habit from a program that had technically concluded twice now, reconstituted itself twice, and apparently still hadn't finished with any of them - four voices on a line none of them fully trusted, comparing four identical messages that had each arrived through a different impossible door.
+
+"It's the same number," Osei said. "All four of us. Not four numbers. One."
+
+"An invitation," Vann said.
+
+"Or a test," Chandrasekhar said. "Of the same kind we've been failing and passing in equal measure since June before last. I don't think there's a way to know which without finding out."
+
+"And if we call and it's neither," Huels said. "If it's just a phone that rings forever, or a voice that tells us nothing, or -"
+
+He didn't finish the sentence. None of them finished it for him.
+
+They talked for a long time after that, circling the same ten digits from four directions, none of them quite willing to be the one who said *I already dialed it* and none of them quite willing to be the one who said *let's agree never to*.
+
+Whether any of them eventually did was not a thing any of the four ever discussed with the other three again.
