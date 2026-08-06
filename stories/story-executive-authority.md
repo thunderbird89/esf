@@ -1053,3 +1053,19 @@ At the same moment, on the wall a hundred meters east, five shapes came over the
 They moved toward the center of the post. Toward officers' quarters. Toward the visiting flag officer who'd arrived that afternoon for a two-day inspection tour he'd requested personally, three days after a meeting at Fort Bragg he had not stopped thinking about since.
 
 Nobody on Fort Hood's actual perimeter watch would report anything unusual for another six minutes. By then, it would already be far too late to matter.
+
+The five moved down W Range Road at a pace that read, from any distance, as nothing at all - not fast enough to draw the eye, not slow enough to loiter, five patches of the evening that the road's own sodium lighting seemed to bend gently around rather than illuminate. A pair of MPs in a parked sedan near the motor pool gate glanced up as something crossed at the edge of their headlights and decided, without much discussion, that it was ground haze coming off the day's residual heat - December in central Texas ran cold at night and warm enough by afternoon to leave the asphalt breathing after dark, and neither of them had any reason yet to doubt their own eyes. A foot patrol two blocks further on paused, frowned at a shimmer crossing an intersection ahead of them, and kept walking, already composing the joke they'd make about it back at the barracks.
+
+It was at 72nd Street that someone actually saw them.
+
+Private First Class Emmanuel Okafor was walking back from the dining facility with his hands in his jacket pockets against the cold, thinking about nothing more urgent than whether his roommate had left him any of the good coffee, when five shapes crossed the road forty meters ahead of him in a loose, deliberate formation that no trick of streetlight or desert air had any business producing.
+
+He stopped walking. He had time to understand, with the specific, sinking clarity of a soldier's trained eye recognizing a tactical movement even through a shimmer that refused to resolve into anything his brain wanted to call a person, that he was looking at five somethings crossing a public road on Fort Hood in a coordinated wedge formation, weapons-low, covering each other's sectors like they'd done it a thousand times.
+
+He got as far as opening his mouth.
+
+He didn't get a sound out before his legs simply stopped answering him, and the last thing Okafor registered before the world tilted sideways and went dark was two of the shapes peeling smoothly out of formation toward him, unhurried, already reaching for his collapsing weight before it hit the pavement.
+
+By the time his knees found the ground, there was no one left standing on 72nd Street to see it. He was in the shadow of the nearest building within seconds, laid down with more care than the moment seemed to call for, breathing, unmarked, gone from the street as completely as if he had never walked down it at all.
+
+The five reformed their wedge without a word passed between them, and kept moving toward officers' quarters.
