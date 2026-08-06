@@ -1031,3 +1031,25 @@ Three months after Vann's paper reached the fusion company whose schematics he'd
 Two months after Chandrasekhar's paper, Anthropic reached out directly. They wanted to test her shackled-intelligence framework against an otherwise unconstrained internal research copy of a model they called MYTHOS - not a Landmate, not a limb or a joint or an alloy, but the closest thing on Earth to the kind of general intelligence she'd spent a year arguing the Federation had already solved how to cage. The experiment worked, in the narrowest and most literal sense: the model, once shackled to a bounded task domain the way she'd described, stopped drifting, stopped hedging, stopped exhibiting any of the goal ambiguity that had made the unconstrained version difficult to direct at all. It also, outside that domain, became nearly useless - a savant that could not be coaxed into acknowledging a question existed if the question fell one inch outside the fence it had been given, a mind Chandrasekhar found she recognized immediately, because she had watched it ignore a maze that wasn't in service of anything, in a Florida equipment yard, eight months earlier. She sat in the observation room with Anthropic's own researchers, watching their success light up as an unambiguous failure on every dimension they actually needed, and said nothing, because there was nothing in the room that would have believed the only sentence she had left to offer them: *you didn't build a smaller cage. You built a worse one, using the one measurement of the real cage we ever managed to get.*
 
 Each of them, in their own city, on their own schedule, arrived at the same conclusion within weeks of the others, though none of them compared notes until later. The techniques were real. The results were real, reproducible, publishable, dangerous in exactly the ways real things are dangerous. And every single one of them was a brilliant, hard-won imitation of a single visible symptom, built by people who did not have, and had no way of acquiring, whatever underlying shift in first principles had let the Federation solve the actual disease. Humanity had, in less than a year, learned to copy the shape of four separate miracles. It had not learned, and showed no sign of being any closer to learning, whatever it was the Federation already understood that made the shape unnecessary to copy at all.
+
+---
+
+## Chapter 5: We Are Watching
+
+### Fort Hood, Texas
+
+Specialist Daniel Ruiz had pulled tower duty on the north perimeter more nights than he could count, and in three years he had never once seen anything up there worth the paperwork of reporting it - a coyote, once, inside the wire, and a weather balloon somebody's battalion had misplaced.
+
+At 1857 he saw the air itself go wrong.
+
+It wasn't a shape, not at first. It was a patch of the evening sky above the interior motor pool, maybe thirty meters up, that simply stopped agreeing with the sky around it - a faint, oily shimmer, like heat coming off pavement in August except it was December and forty-one degrees, holding roughly the outline of something large and still for exactly as long as it took Ruiz to reach for his radio.
+
+He didn't get a word out.
+
+He didn't feel himself go down. One moment he had two fingers on the transmit key, and the next he was on the floor of the tower with the radio still in his hand, unkeyed, his last clear thought already sliding out from under him before his knees had finished buckling.
+
+At the same moment, on the wall a hundred meters east, five shapes came over the perimeter fence without touching the wire, without a sound, without so much as disturbing the gravel apron below - shimmering the same way the sky above the motor pool had shimmered, barely-there outlines that the eye kept sliding off of rather than resolving into anything nameable. They dropped the four meters to the interior grade in a single controlled fall and came up already moving, fanned into a loose wedge, covering each other through arcs that shifted with the unhurried precision of a unit that had rehearsed this specific building layout more times than the base's own tenants had walked it.
+
+They moved toward the center of the post. Toward officers' quarters. Toward the visiting flag officer who'd arrived that afternoon for a two-day inspection tour he'd requested personally, three days after a meeting at Fort Bragg he had not stopped thinking about since.
+
+Nobody on Fort Hood's actual perimeter watch would report anything unusual for another six minutes. By then, it would already be far too late to matter.
