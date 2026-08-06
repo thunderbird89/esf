@@ -1119,3 +1119,29 @@ They moved like a single organism split into five bodies. Two peeled toward the 
 In under four seconds, every corner of Major General David Chen's quarters had been checked, confirmed, and closed off.
 
 And all three faces turned, unhurried, to look at him.
+
+One of them stepped forward, and the shimmer simply stopped.
+
+There was no fade to it, no dissolve - one instant the figure was a barely-there distortion in the lamplight, and the next it was simply *there*, solid and present in a way that felt almost more violating than the invisibility had, as if it had decided Chen no longer merited the courtesy of being spared the sight of it. The suit beneath the cloak was tight to the body, matte, built from angular interlocking panels where armor plate should have been - not bulk, not the heavy ceramic slab-work of anything in the Army's own inventory, but something closer to a second skeleton worn on the outside, each plate meeting the next in a hard, faceted line that caught the lamp's light and gave almost none of it back. The helmet held its three clusters of red lenses steady on him, unblinking, and somewhere behind or beneath them, Chen understood with total, wordless certainty, there was nothing human left visible to see at all.
+
+It leaned down toward him, unhurried, until the angles of its helmet filled most of what he could focus on.
+
+When it spoke, the voice came out flattened and layered, synthetic in a way that felt deliberate rather than incidental - filtered through something built for exactly one purpose, which was to leave nothing of the person underneath it for anyone to ever recognize again.
+
+> "The Landmates are a gift, not a weapon."
+
+> "You *really* don't want to see what they can do when you piss them off, because what happened in Gaza and in Taiwan was nothing compared to what we can do when we need to."
+
+A pause, long enough that Chen understood it was deliberate, not hesitation.
+
+> "Drop your plans to arm them."
+
+> "Or remember Agincourt."
+
+Chen's mind, even through the paralysis, even through the animal terror of a helmet full of red lenses six inches from his own face, reached for the reference on pure trained reflex and found it immediately, and wished he hadn't - a battlefield where armor, numbers, and centuries of doctrine had meant nothing at all against a weapon nobody on the receiving end had been prepared to survive. He understood, with a clarity that would stay with him longer than the fear itself, exactly what was being promised, and exactly how little his own service's four-kilometer autocannon schematics would matter against it.
+
+The figure straightened. The shimmer closed back over it in the same instant it had opened, no fade this time either, simply *there* and then simply *not*, and by the time Chen's breath came back to him in a single ragged pull, all three sets of red lenses had already turned away.
+
+The two at the windows peeled off first, then the three from the center of the room, passing back through the broken doorway in the same unhurried, soundless order they'd entered it. Nobody spoke again. Nobody looked back.
+
+By the time Major General David Chen found the strength to reach for his phone, the only sound left in the room was his own breathing, and the only evidence that any of it had happened at all was a door hanging off one hinge, and two unconscious soldiers in his entry hall who would wake, in a few minutes, remembering nothing.
