@@ -1093,3 +1093,11 @@ Reyes's vision was already narrowing to a gray, closing tunnel by the time the s
 One of them crossed the last few meters unhurried and knelt beside him, close enough that Reyes could have reached out and touched the blurred edge of its shoulder if his arm had still been willing to answer him. It didn't examine him the way a threat examines a target. It checked him the way a medic checks a patient - brief, competent, almost gentle - before straightening and turning, without a word, toward the door Reyes and Landry had spent forty cold minutes guarding.
 
 Reyes's last conscious thought, sliding away from him along with everything else, was that he'd never once heard a boot fall on the gravel the entire time.
+
+The one who'd checked him stepped over both bodies without hurry and crossed to the door. Something small and dark, no larger than a lighter, came up in its hand and settled against the card reader beside the frame - no glow, no sound, nothing to mark the exchange happening between the device and the lock except the faint, businesslike click of a mechanism deciding, a second later, that it had no further objection to opening.
+
+The door swung inward on a dim entry hall. Two more MPs, posted inside as a second layer nobody outside the detail had been told about, turned toward the sound of the latch at the same moment - weapons already coming up, training doing exactly what training was built to do, a fraction of a second too slow to matter against something that had already decided the outcome before either of them had finished turning.
+
+They went down mid-motion, weapons never quite reaching level, folding to the floor of the entry hall in near-perfect unison, as quietly as everyone else that shimmering forms had touched since 1857.
+
+The five moved past them into the house without breaking stride, already fanning toward the room at the end of the hall where a light still burned under the door.
