@@ -1145,3 +1145,25 @@ The figure straightened. The shimmer closed back over it in the same instant it 
 The two at the windows peeled off first, then the three from the center of the room, passing back through the broken doorway in the same unhurried, soundless order they'd entered it. Nobody spoke again. Nobody looked back.
 
 By the time Major General David Chen found the strength to reach for his phone, the only sound left in the room was his own breathing, and the only evidence that any of it had happened at all was a door hanging off one hinge, and two unconscious soldiers in his entry hall who would wake, in a few minutes, remembering nothing.
+
+---
+
+### Fort Hood, Medical Treatment Facility
+
+Corporal Reyes woke to fluorescent light and a blood pressure cuff tightening around his arm, and for several long seconds had no idea where the previous four hours had gone.
+
+The physician's assistant who came by twenty minutes later was brisk, unbothered, and entirely unsurprised by the question Reyes hadn't even finished asking. "Vitals are clean. Bloodwork's clean. No cardiac markers, no signs of a seizure, nothing on the scans that explains the syncope." She made a note without looking up. "Working theory is a vasovagal episode - cold night, standing post, low blood sugar, it happens more than people think. You're being cleared for light duty starting tomorrow."
+
+"I didn't faint," Reyes said. "Something hit me."
+
+"There's no mark," she said, not unkindly, already moving toward the door. "No entry wound, no bruising, nothing consistent with a projectile of any kind. I understand that's not the answer you want. It's the one I've got."
+
+He didn't argue further. He'd already watched Landry get the same conversation two curtains over, and watched Landry stop arguing at roughly the same point Reyes now understood he was about to stop arguing too - not because either of them believed it, but because there was nowhere left to push once the paperwork had already decided what had happened to them.
+
+What nobody's paperwork could touch was the thing that came back to him anyway, unbidden, every time the ward went quiet enough to let it in.
+
+It wasn't the fall. He didn't remember hitting the ground, didn't remember the impact he was fairly sure he'd felt, didn't remember anything about the actual moment his legs had stopped answering him. What he remembered - what he kept remembering, in the particular unhelpful clarity memory reserved for the things a person most wanted to forget - was the shape kneeling beside him afterward. The shimmer that never quite resolved into a person no matter how close it got. And within that shimmer, steady, patient, utterly unbothered by the body failing on the pavement in front of it, three tight clusters of small red lenses, arranged where a face should have been, looking him over the way you'd look over a piece of equipment to confirm it had been properly disabled.
+
+He hadn't told the physician's assistant that part. He hadn't told anyone that part. He understood, on some level below language, that the moment he did, he would become exactly the kind of soldier nobody wanted standing post with a weapon anymore - and some colder, more practical part of him suspected that the twelve red points staring down at him in the dark had understood, with total certainty, that he'd make that calculation and stay quiet.
+
+He was cleared for light duty the next morning, as promised. He went back to the wire six days later, and stood his post, and did his job, and never once, for the rest of his enlistment, was able to look at a streetlight's edge of shadow without his pulse climbing before the rest of him had decided there was any reason for it to.
