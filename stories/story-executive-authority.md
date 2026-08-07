@@ -32,7 +32,7 @@ Matthias read for ninety seconds. It was enough to establish that the document w
 
 "This can't be legal."
 
-"It's very legal. It's just never been public." The man in the windbreaker checked his watch. "Bag. Ten minutes. Leave the phone."
+"It's very legal. It's just never been public." The man in the windbreaker checked his watch. "Bag. Ten minutes. Leave the phone, the watch, anything that syncs to anything. It'll all be waiting for you when you're read off."
 
 ---
 
@@ -42,7 +42,7 @@ Renata Osei was in the middle of explaining to her daughter, over speakerphone, 
 
 "Mom? Mom, who's that?"
 
-"I have to call you back, baby." She did not call back. She would not be permitted to for four days, and when she finally was, it would be from a satellite phone with a forty-second delay and a federal minder listening on the line, and she would tell her daughter it was a work trip, and her daughter, fifteen and no fool, would not believe her, and would be right not to.
+"I have to call you back, baby." She did not call back. She would not be permitted to for four days, and when she finally was, it would be over a link-encrypted satellite handset with a forty-second round-trip delay and a federal minder auditing the line, and she would tell her daughter it was a work trip, and her daughter, fifteen and no fool, would not believe her, and would be right not to.
 
 They let her keep the folder open on her lap in the car. She read the addendum three times, less to understand it than to memorize the exact wording of the sentence that ended her summer, so that whoever eventually asked her to explain herself - a lawyer, her ex-husband, herself in a mirror - she could recite it back word for word: *the President is authorized to direct into service any individual whose specialized expertise the Secretary of Defense certifies as necessary to preserve the technological superiority of the United States.*
 
@@ -72,7 +72,7 @@ Priya Chandrasekhar noticed the discrepancy before she noticed the fear.
 
 The two agents who came to her firm's offices identified themselves as FBI. The one who did the talking wore a wedding ring with a slightly different tan line than his hands otherwise suggested, and referred once, in passing, to "the Bureau's Newark field office" when Boston's was the one that should have jurisdiction. Small things. The kind of small thing her actual job - modeling how systems drift from their stated procedures under stress - had trained her to log automatically, filed for later use before she'd decided whether there would be a later.
 
-She asked to see credentials twice. They obliged both times, patiently, and the second set of credentials was flawless in a way that told her more than the first set's flaw had.
+She asked to see credentials twice. They obliged both times, patiently, and the second set - laminate, hologram, badge number check digit all correct on inspection - was flawless in a way that told her more than the first set's flaw had.
 
 *Contractors playing federal,* she thought, riding down in the elevator between them. *Or federal, badly briefed on their own cover.* Either was interesting. Neither was reassuring.
 
@@ -82,7 +82,7 @@ She kept that observation to herself for eleven weeks. It would turn out to matt
 
 ### Wright-Patterson Air Force Base, Ohio
 
-The annex was three buildings back from anything with a public designation, connected to the rest of the base by a single road with two checkpoints where there should have been none for a facility this size. Small, deliberately - Huels counted, in the windowless conference room they were finally allowed to sit in, exactly three other new faces besides his own. A woman with graying locs and the drawn, furious calm of someone doing arithmetic on how much of her life had just been rescheduled without consent. A man roughly Huels's age, restless in his chair in a way that read as anticipation rather than dread. A younger woman who had said nothing since arriving except to correct, once, quietly, a security officer's misstatement of the time.
+The annex was three buildings back from anything with a public designation, connected to the rest of the base by a single road with two checkpoints where there should have been none for a facility this size - the first a badge-and-biometric pair reader, the second nothing but two armed contractors and a clipboard that never seemed to have anyone else's name on it. Small, deliberately - Huels counted, in the windowless conference room they were finally allowed to sit in, exactly three other new faces besides his own. A woman with graying locs and the drawn, furious calm of someone doing arithmetic on how much of her life had just been rescheduled without consent. A man roughly Huels's age, restless in his chair in a way that read as anticipation rather than dread. A younger woman who had said nothing since arriving except to correct, once, quietly, a security officer's misstatement of the time.
 
 No one had told them each other's names yet. That happened when the door opened again and a woman in a plain gray suit came in alone - no uniform, no visible rank, which was somehow worse than either would have been.
 
@@ -96,7 +96,7 @@ The Secret Service came first, two of them, filling the doorway the way weather 
 
 Osei's jaw was tight enough that Huels could see the muscle working. She said nothing, not yet.
 
-"Executive Order 13120 is public record," Biden went on. "Signed by President Clinton, April 27th, 1999 - reserve call-up authority, nothing anyone would blink at. What isn't public is that the same afternoon, he signed an addendum. 13120/A. Patterned after the Defense Production Act of 1950, but narrower, and a great deal less accountable to anyone outside this program. It exists because one month earlier, we lost an F-117 over Serbia to a nineteen-sixties missile system operating on nothing but patience and a spotter with binoculars. The wreckage was on the ground for hours before we could deny anyone a look at it. Within a year, two governments understood our stealth coating better than they had any right to, and we understood exactly what it costs a country to lose a technological edge one afternoon at a time, through nobody's malice, just because we hesitated to act while the wreckage was still smoking."
+"Executive Order 13120 is public record," Biden went on. "Signed by President Clinton, April 27th, 1999 - reserve call-up authority, nothing anyone would blink at. What isn't public is that the same afternoon, he signed an addendum. 13120/A. Patterned after the Defense Production Act of 1950, but narrower, and a great deal less accountable to anyone outside this program. It exists because one month earlier, we lost an F-117 over Serbia to an SA-3 battery running guidance electronics older than most of the crew that fired it, operating on nothing but patience and a spotter with binoculars. The wreckage was on the ground for hours before we could deny anyone a look at it. Within a year, two governments understood our stealth coating better than they had any right to, and we understood exactly what it costs a country to lose a technological edge one afternoon at a time, through nobody's malice, just because we hesitated to act while the wreckage was still smoking."
 
 He let that sit.
 
@@ -136,7 +136,7 @@ Chandrasekhar, still watching the frozen frame on the wall display - the joint t
 
 ### The First Weeks
 
-The working space Weiss had promised them turned out to be a single windowless room with four desks, a wall of monitors, and a whiteboard nobody had erased from whatever program had used the annex before theirs - someone had left a diagram of a turbine cross-section on it, and nobody had yet worked up the nerve to ask if that was permitted to be wiped. The folders that arrived each morning were stamped, in the upper corner, with a name none of them had chosen and none of them were told the meaning of: COLD FORGE. Huels assumed it referred to them. He never confirmed it, because confirming it would have meant asking Weiss a question she'd only answer with another question.
+The working space Weiss had promised them turned out to be a single windowless room with four desks, a wall of monitors, and a whiteboard nobody had erased from whatever program had used the annex before theirs - someone had left a diagram of a turbine cross-section on it, and nobody had yet worked up the nerve to ask if that was permitted to be wiped. The folders that arrived each morning carried a full classification block in the upper corner - TOP SECRET, a compartment caveat none of them recognized, NOFORN, and beneath all of it a name none of them had chosen and none of them were told the meaning of: COLD FORGE. Huels assumed it referred to them. He never confirmed it, because confirming it would have meant asking Weiss a question she'd only answer with another question.
 
 Within the first few weeks, the room had developed its own weather. Huels claimed the desk nearest the whiteboard and filled it with a servo textbook he'd had shipped from his own office - approved, after review, redacted in two places for reasons no one explained - and a growing stack of printouts, each frame of Gaza footage annotated with joint angles measured by hand, twice, because he didn't yet trust the software Weiss's people had given them to do it for him.
 
@@ -176,7 +176,7 @@ Nobody in the room spoke until the segment cut to studio.
 
 "One AI. Every unit." Huels sat back. "That's not an engineering problem anymore. That's not even the same category of problem I was hired for."
 
-Weiss let them sit with the CNN cut for another minute before she opened a second file - unmarked, unbroadcast, three pages, stamped at a classification tier above anything that had come through the room before. The transcript of the exchange itself, not Ahlström's summary of it.
+Weiss let them sit with the CNN cut for another minute before she opened a second file - unmarked, unbroadcast, three pages, banner-stamped at a classification tier above anything that had come through the room before, ORCON, no further dissemination without originator authorization. The transcript of the exchange itself, not Ahlström's summary of it.
 
 Vann read the relevant line twice out loud, like he didn't trust it the first time.
 
@@ -226,7 +226,7 @@ Osei never learned the exact shape of what it had cost - Weiss described it once
 
 It had been cleaned. Someone, somewhere along the chain of custody, had made the decision to clean it, and Osei was grateful for that in a way she didn't examine too closely, because the alternative - meeting it as it had been left on the Gaza road, with everyone still inside - was not a version of this work she could have done.
 
-The hole was smaller than the footage had made it look. Twenty centimeters, cored clean through the glacis plate, edges drawn back into the metal like something had reached in from outside and folded the steel away from itself rather than punching through it. She spent four hours with a borescope and a portable spectrometer before she said anything to the two junior technicians Weiss had assigned to help her handle the probe work, and when she did, her voice had lost the flat control it usually carried.
+The hole was smaller than the footage had made it look. Twenty centimeters, cored clean through the glacis plate, edges drawn back into the metal like something had reached in from outside and folded the steel away from itself rather than punching through it. She spent four hours with a borescope and a portable XRF-LIBS spectrometer, cross-checking every reading twice against two different excitation sources before she'd trust either of them, before she said anything to the two junior technicians Weiss had assigned to help her handle the probe work, and when she did, her voice had lost the flat control it usually carried.
 
 "There's no gradient."
 
@@ -252,7 +252,7 @@ It did not take ninety seconds for the feeling underneath that assumption to cur
 
 Every capacitor on the board was blown.
 
-Not one, not the handful a genuine power fault might have taken out on its way to tripping a breaker. Every single one, along every rail, swollen and split and some of them scorched black around the vent, in a pattern that had no favorite component and no point of origin she could find by looking. A short took the path of least resistance and left a trail you could follow back to a single failure. This had failed everywhere at once, uniformly, as though the fault hadn't traveled through the circuit at all, but arrived at every point in it simultaneously.
+Not one, not the handful a genuine power fault might have taken out on its way to tripping a breaker. Every single one, along every rail - 3.3, 5, 12 volt, it made no difference - swollen and split and some of them scorched black around the vent, in a pattern that had no favorite component and no point of origin she could find by looking. A short took the path of least resistance and left a trail you could follow back to a single failure. This had failed everywhere at once, uniformly, more like the induced-current signature of a close-proximity electromagnetic pulse than any propagating fault a circuit diagram could explain, as though whatever caused it hadn't traveled through the board at all, but arrived at every point on it simultaneously.
 
 She sat with the open case in her lap for a long time before she closed it again.
 
@@ -342,7 +342,7 @@ It wasn't proof of anything. It was, Chandrasekhar said, the first real *seam* e
 
 They didn't get the chance. The correlated dataset - built across three days of cross-referencing, saved nightly to the shared drive under both their names - was gone by the following Monday. Not deleted; there was no deletion event in any log anyone could produce, no access record of any kind after Chandrasekhar's own save at 2140 on Friday. It was, as far as the system was concerned, a file that had never existed, sitting in a directory that otherwise perfectly remembered every other file that had ever passed through it.
 
-IT security's investigation - two days, three technicians, a full audit of server access for the preceding week - found no unauthorized logins, no anomalous traffic, no hardware fault on the drive itself, which tested, when they finally pulled it for inspection, in perfect working order. Nobody had the access to take it. Nobody who did have access had any plausible reason to. And yet it wasn't there.
+IT security's investigation - two days, three technicians, a full audit of server access for the preceding week, SIEM logs and write-once backup manifests pulled and cross-checked line by line - found no unauthorized logins, no anomalous traffic, no hardware fault on the drive itself, which tested, when they finally pulled it for inspection, in perfect working order. Nobody had the access to take it. Nobody who did have access had any plausible reason to. And yet it wasn't there.
 
 "Someone made a copy," Vann said, in the flat, unconvinced voice of a man repeating an explanation he'd already stopped believing. "Has to have. Copied it, then wiped the log of the copy, then wiped the log of the wipe."
 
@@ -382,7 +382,7 @@ At the bottom of the December page, under the fourth entry, she wrote one line m
 
 The news reached the annex the same way it reached everyone else, which was itself an event - Weiss had never once, in seven months, let the room's information arrive at the same speed as the rest of the world's.
 
-By the time she brought them into the briefing room, the footage was already looping on every network Weiss's people had bothered to mute the sound on. Five Chinese warships, a rogue flotilla, a night engagement off Tamsui that had ended, depending on which anchor was narrating, either in a massacre or a rescue. Landmates again - different ocean, different alphabet on the hulls, same wireframe globe and broken swords lighting up a harbor camera some seventeen-year-old had climbed a ladder to fix.
+By the time she brought them into the briefing room, the footage was already looping on every network Weiss's people had bothered to mute the sound on, alongside a raw SIGINT dump from Seventh Fleet that nobody outside the room was ever going to see. Five Chinese warships, a rogue flotilla, a night engagement off Tamsui that had ended, depending on which anchor was narrating, either in a massacre or a rescue. Landmates again - different ocean, different alphabet on the hulls, same wireframe globe and broken swords lighting up a harbor camera some seventeen-year-old had climbed a ladder to fix.
 
 "Five ships," Weiss said, without preamble. "All five destroyers, all five bridges, all in under two seconds. No missile impact on Taipei. Zero casualties ashore." She let the silence hold exactly as long as it needed to. "Whatever we've spent seven months not understanding just happened again, in the open ocean, in front of half the world's navies, and this time it left wreckage."
 
@@ -398,7 +398,7 @@ Weiss almost smiled. It was the first time Huels had ever seen her come close.
 
 ### Tamsui, By Proxy
 
-The wreckage took a week. The footage took no time at all, because half of Taiwan had already uploaded it before COLD FORGE's request for a classified copy had even cleared a signature, and Vann pulled the same file off the open internet forty minutes before Weiss's official version arrived stamped and twelve minutes redacted for reasons neither of them could later identify a redaction in.
+The wreckage took a week. The footage took no time at all, because half of Taiwan had already uploaded it before COLD FORGE's request for a classified copy had even cleared a signature, and Vann pulled the same file off the open internet forty minutes before Weiss's official version arrived stamped SECRET//REL, chain-of-custody log attached, and twelve minutes redacted for reasons neither of them could later identify a redaction in.
 
 "Wei-Ming," Vann said, reading the uploader's handle off the corner of the frame like it was a byline he respected. "Seventeen years old, and he's the reason we have better source material than the Pentagon."
 
@@ -444,7 +444,7 @@ Nobody said the joke. For once, it would even have been true, and somehow that m
 
 ### Blue
 
-While Osei had the bridge panel under lights, Vann had commandeered the room's second monitor for a fight of his own - leaked F-15EX gun-camera footage, unofficial and unwatermarked, that had been circulating for two days before Weiss's classified copy arrived to confirm what everyone had already downloaded. Three black aircraft, escorting rather than engaging, and at the tail of each one, a corona of light so precisely blue it looked, on a bad monitor, almost artificial.
+While Osei had the bridge panel under lights, Vann had commandeered the room's second monitor for a fight of his own - leaked F-15EX gun-camera footage, unofficial and unwatermarked, EXIF stripped and re-encoded at least twice before it reached him, that had been circulating for two days before Weiss's classified copy arrived to confirm what everyone had already downloaded. Three black aircraft, escorting rather than engaging, and at the tail of each one, a corona of light so precisely blue it looked, on a bad monitor, almost artificial.
 
 It wasn't artificial. That was the problem.
 
@@ -686,7 +686,7 @@ Her daughter nodded slowly, the way people nod when they've just learned somethi
 
 ### Camp Blanding, Florida
 
-They landed at 0512, in the dark, on a runway that existed for exactly this kind of arrival and nothing else, and were in a FEMA staging tent behind the depot's perimeter fence with eleven minutes to spare - Weiss's doing, Huels assumed, though she never once said so, only checked her watch and nodded once when the convoy cleared the last checkpoint at 0549.
+They landed at 0512, in the dark, on a runway that existed for exactly this kind of arrival and nothing else, and were in a FEMA staging tent behind the depot's perimeter fence with eleven minutes to spare - Weiss's doing, Huels assumed, though she never once said so, only keyed her radio once to confirm "Cold Forge, inbound, five pax" to someone who never answered aloud, checked her watch, and nodded once when the convoy cleared the last checkpoint at 0549.
 
 The depot itself was unremarkable in the dark - floodlit tarmac, a scatter of FEMA vehicles, a knot of personnel in windbreakers who had clearly been told to expect something and just as clearly hadn't been told what. Osei recognized the mood before she recognized anything else about it: the particular quiet of people trying to look prepared for an event none of them had a frame of reference for.
 
@@ -716,7 +716,7 @@ Nobody in the tent said anything for a long moment. It was Chandrasekhar, finall
 
 For three weeks, what they didn't bother hiding turned out to be almost everything, and almost nothing useful.
 
-Huels had never in his life had this much unsupervised time with a real actuator joint, and it showed. He spent four days on a single knee assembly, borrowed a FEMA engineer's boroscope without asking twice, and came back to the tent each evening with a fresh page of sketches and the specific, giddy exhaustion of a man who'd been allowed, for once, to simply look at a thing instead of guess at it from a grainy frame. Osei ran a portable XRF spectrometer over every exposed surface of all ten units twice each, cataloguing an alloy composition that made sense element by element and no sense at all in combination, and admitted to no one but Vann that she'd started humming while she worked, for the first time since June of the previous year. Vann, denied anything resembling a running engine to examine, settled for mapping the geometry of the empty hardpoints where Gaza's rifles had been, and spent an entire evening happily arguing with Huels about mounting tolerances that neither of them could prove mattered.
+Huels had never in his life had this much unsupervised time with a real actuator joint, and it showed. He spent four days on a single knee assembly on Unit Four - FEMA had tail-numbered all ten the first morning, One through Ten, stenciled low on each leg in yellow, and the designation stuck harder than anyone expected - borrowed a FEMA engineer's boroscope without asking twice, and came back to the tent each evening with a fresh page of sketches and the specific, giddy exhaustion of a man who'd been allowed, for once, to simply look at a thing instead of guess at it from a grainy frame. Osei ran a portable XRF spectrometer over every exposed surface of all ten units twice each, cataloguing an alloy composition that made sense element by element and no sense at all in combination, and admitted to no one but Vann that she'd started humming while she worked, for the first time since June of the previous year. Vann, denied anything resembling a running engine to examine, settled for mapping the geometry of the empty hardpoints where Gaza's rifles had been, and spent an entire evening happily arguing with Huels about mounting tolerances that neither of them could prove mattered.
 
 None of it produced anything Weiss's superiors would call an answer. The alloy still didn't behave like alloys were supposed to behave. The joints still implied a servo architecture nobody could reverse from the outside without cutting the machine open, which nobody was authorized to do, HARBINGER's gift or not. But for three weeks, the three of them worked the yard every day with something that looked, from a distance, uncomfortably like joy, and Huels caught himself, more than once, forgetting to resent the six-digit callback code that had put him there.
 
