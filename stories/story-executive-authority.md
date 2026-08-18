@@ -970,7 +970,21 @@ Chandrasekhar went quiet for a second, and Osei watched something behind her eye
 
 Nobody spoke for a moment. Osei looked at the ruined bit still in her hand, Vann at the printout of a single stubborn flicker, Huels at three dots that each claimed to be the same shoulder.
 
-"So," Osei said eventually. "A paint job harder than diamond. A power source that doesn't want to be found. A joint that isn't anywhere until you ask it to be. And a mind that only bothers answering when the question is real." She let out a breath that wasn't quite a laugh. "Four disciplines. Same afternoon. Same answer, really, just wearing four different coats."
+"I still don't actually understand why it killed the bits," Vann said eventually, nodding at the ruined diamond in Osei's palm. "Hard, I get. Diamond's hard too, and diamond still cuts diamond if you're patient about it. What you're describing sounds like it shouldn't be cuttable by *anything*."
+
+"Because there's nothing in it shaped like a weakness." Osei turned the bit over once, looking at the rounded, glassy stub where a cutting edge used to be. "Every way we know to cut a hard material - diamond included - depends on finding some plane in the structure that fails before the rest of it does. Diamond cuts diamond because real diamond has cleavage planes, dislocations, grain boundaries in polycrystalline samples - imperfections a second stone can find and split along, the same way you can split a log along the grain instead of across it. Ordinary metals are worse than that. They yield through dislocation glide - line defects sliding through the lattice under stress, letting the material deform instead of snapping, which is exactly the mechanism a cutting edge exploits to shear material away in the first place."
+
+She set the bit down on the tarmac between them, next to the printouts, like one more piece of evidence.
+
+"This doesn't have any of that. The metal atoms in that lattice aren't touching each other - they're not in metallic bonding with their neighbors at all, so there's no electron sea for a dislocation to glide through, no slip system, nothing to yield. Every atom's isolated in its own cage, and the cages are bonded to each other through covalent carbon-carbon bonds, the same family of bond that makes diamond diamond and graphene stronger than steel by weight. So you've got a lattice with no metallic failure mode, built entirely out of the one class of bond that doesn't have an easy failure mode either, repeating without a single defect for as far as I could image it. A drill bit doesn't fail against that by cutting badly. It fails because there was never a plane in the material willing to go first." She looked up at the two of them. "Diamond cuts things because somewhere in almost everything else, something agrees to break. Nothing in that arm ever agreed to anything."
+
+"So it's not that it's harder than diamond," Huels said slowly. "It's that it doesn't play the same game diamond plays."
+
+"That's exactly it," Osei said. "And I don't have the faintest idea how you'd manufacture a structure like that at any scale bigger than what fits under an electron microscope, which is, incidentally, also the part of my paper I expect to get me laughed out of the loudest room."
+
+She pushed herself up off her heels, and when she spoke again her voice had shifted back out of the lecture and into something closer to a summary.
+
+"So," she said. "A paint job harder than diamond. A power source that doesn't want to be found. A joint that isn't anywhere until you ask it to be. And a mind that only bothers answering when the question is real." She let out a breath that wasn't quite a laugh. "Four disciplines. Same afternoon. Same answer, really, just wearing four different coats."
 
 "Which is?" Huels asked, though he already knew.
 
