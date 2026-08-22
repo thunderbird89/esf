@@ -29,6 +29,10 @@ The Federation classes its spaceships similar to terrestrial navies, into the fo
 
 The Dreadnoughts, Carriers, Supercarriers, and Titans are not used in the Solar System, due to their conspicuousness, and are only employed when their alien benefactors require their help elsewhere in the universe.
 
+### Distances
+Most ships in the galaxy are equipped with high-speed computers and dedicated evasion/defense algorithms running on specialized hardware. This is especially true for warships and combat-oriented vessels. With the ability to react to outside threats almost in real time, space combat is drastically different from science-fiction depictions, where enormous ranges separate combatants - from outside of ≈250 km, almost no weapon has a chance of inflicting meaningful damage (missiles are intercepted by point defenses, lasers are neutralized by shifting shields, plasma bolts lose coherence, railgun slugs are deflected/destroyed by momentary shield concentrations).  
+This forces space combat to occur at a relatively short range, often within 100 km or less, especially among smaller ships that cannot mount weapons large enough to reach that far. Frigate fights routinely take place inside 1 km, destroyers and cruisers might fight at 1-5 km, with only battleships reaching the 30-50 km ranges.
+
 ## Dropships
 The Federation maintains multiple dropship classes, for transporting personnel, vehicles, and even prefabricated buildings between the surface and planetary orbits.
 
