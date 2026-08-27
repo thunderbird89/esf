@@ -6,36 +6,25 @@ permalink: /foundations/galaxy/ryzak
 category: galaxy
 order: 4
 ---
+The _Ryzak_ are a belligerent, expansionist reptilian empire, one of the galaxy's four great races, built on warfare, subjugation, and the pursuit of honor through combat — a philosophy that shapes everything from their politics to their day-to-day lives.
 
-The *Ryzak* are a belligerent and expansionist reptilian species, renowned for their aggressive militarism and unyielding thirst for conquest. As one of the four great races of the galaxy, they command a vast empire forged through warfare, subjugation, and relentless ambition. Their society revolves around the pursuit of honor and glory in combat, shaping every aspect of their civilization—from politics and diplomacy to everyday life.
+## Physiology
+Ryzak evolved on a harsh, high-gravity world of extreme temperatures and relentless predators, and it shows: thick scaly hides that can turn small-arms fire, powerful limbs tipped with razor claws, and reinforced bone structure built for close combat. Their fangs still carry a vestige of that evolutionary past in the form of a paralytic venom, secondary eyelids shield their eyes from bright flashes and environmental hazards, and redundant organ structures make them unusually hard to kill outright.
 
-#### Biology and Physiology
-- **Reptilian Heritage**: The Ryzak evolved on a harsh, high-gravity world filled with extreme temperatures and relentless predators. Their bodies reflect this adversity, boasting thick, scaly hides capable of deflecting small arms fire, powerful limbs with razor-sharp claws, and reinforced bone structures that make them formidable in hand-to-hand combat.
-- **Carnivorous Diet**: Their metabolism is optimized for high-protein consumption, leading to a culture that glorifies the hunt and the ritualistic consumption of the vanquished.
-- **Combat Adaptations**:
-  - Their fangs secrete a paralytic venom, a vestige of their evolutionary past.
-  - Secondary eyelids protect against bright flashes and environmental hazards.
-  - Redundant organ structures make them highly resilient to injury.
-- **Lifespan**: While a Ryzak can live up to 250 standard years, few survive that long due to their warrior-driven culture.
+They are strict carnivores, and their culture glorifies the hunt, including the ritualistic consumption of defeated enemies. A Ryzak can live up to 250 years, though few survive that long given how their culture treats combat.
 
-#### Society and Culture
-- **Honor Through Strength**: Ryzak society is built around the philosophy that strength determines worth. The weak are either subjugated or eliminated, and all positions of power are earned through combat trials.
-- **Trial-by-Combat**: Disputes—whether political, personal, or judicial—are often settled in ritualized duels. Defeat does not necessarily mean death, but it does mean dishonor.
-- **Clan-Based Hierarchy**: The empire is structured around *Clans*, each vying for dominance. The ruling *Supreme Warlord* emerges from the strongest clan, determined through a brutal contest of strategy and martial prowess.
-- **Merciless Conquerors**: Ryzak do not negotiate from weakness. They will respect strength in adversaries but despise diplomacy that does not involve a show of force.
+## Society and Culture
+Ryzak society runs on a single principle: strength determines worth. The weak are subjugated or eliminated, and every position of power is won through combat trial rather than inherited or appointed. Disputes of any kind — political, personal, judicial — are typically settled through ritualized duels; losing costs a Ryzak standing, not necessarily their life.
 
-#### Technology and Warfare
-- **Armored Juggernauts**: Ryzak starships and vehicles are heavily armored, favoring overwhelming firepower and brute force over agility or stealth.
-- **Gladiatorial Recruitment**: Elite warriors are selected through live combat trials, ensuring only the strongest take to the battlefield.
-- **Genetic Engineering**: While they value natural strength, they are not above enhancing their warriors through selective breeding and genetic modification, creating specialized warrior castes.
-- **Boarding Warfare Doctrine**: Their preferred method of space combat is *direct boarding assaults*, wherein heavily armored shock troops breach enemy vessels and engage in brutal melee combat.
+The empire is organized around competing Clans, and the Supreme Warlord rises from whichever clan currently proves strongest, through a brutal contest of strategy as much as combat. Ryzak do not negotiate from a position of weakness, and treat diplomacy without a credible show of force as beneath contempt — though they will respect an adversary who can match their strength.
 
-#### Relations with Other Races
-- **Xenari**: The benevolent Xenari stand in direct ideological opposition to the Ryzak. While the Ryzak respect the Xenari’s advanced technology, they view their pacifistic guidance as weakness.
-- **Seraphyn**: The enigmatic Seraphyn’s lack of overt aggression confounds the Ryzak. They consider the Seraphyn "honorless" but acknowledge their vast intelligence.
-- **Kryllians**: The industrious Kryllians serve as a necessary evil—though the Ryzak despise non-warrior species, they recognize the Kryllians' role in galactic logistics and occasionally tolerate them as suppliers.
-- **Humans**: Earth lies in a contested region between Ryzak and Xenari influence. The Ryzak see humanity as an upstart species with untapped potential—worthy of conquest or, in rare cases, of recruitment.
+## Technology
+Ryzak ships and vehicles favor mass and firepower over agility or stealth, built as armored juggernauts rather than precision instruments. Elite warriors are selected through live combat trials, and where natural strength falls short, the Ryzak are willing to engineer it — selective breeding and genetic modification produce specialized warrior castes for the empire's armies.
 
-#### Strategic Goals
-The Ryzak empire continues its campaign of galactic dominance, seeking to expand its borders through sheer force. Their long-term ambitions are simple: *total conquest*. Earth, being in a contested border region, remains under Ryzak scrutiny, though CONCORD-imposed restrictions prevent them from openly engaging humanity—for now.
+Their preferred mode of space combat is direct boarding action: heavily armored shock troops breach an enemy vessel and settle the engagement in brutal melee, rather than relying on standoff weapons to win a fight at range.
 
+## Relations with Other Races
+- _Xenari_: open ideological opposition. The Ryzak respect Xenari technology, but read their pacifism as weakness rather than restraint.
+- _Seraphyn_: baffling and "honorless" by Ryzak standards, though even the Ryzak concede their intelligence.
+- _Kryllians_: tolerated as a necessary evil — the Ryzak have little patience for non-warrior species, but rely on Kryllian suppliers regardless.
+- Humans: an upstart species with untapped potential, sitting in a contested border region between Ryzak and Xenari influence — worth conquering, or on rare occasions, worth recruiting. CONCORD's protected-zone ruling keeps the Ryzak from acting on either impulse for now.

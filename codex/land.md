@@ -24,4 +24,4 @@ The Federation's networked point-defense system, pairing battery nodes carrying 
 
 ## Infantry
 ### [Jaegers]({{ '/foundations/land/jaegers' | relative_url }})
-The Federation's overt special operations squads, four-person teams built around long-range precision elimination and infrastructure disruption, serving as a visible counterpart to the covert ops teams.
+The Federation's overt special operations squads, four- or five-person teams built around long-range precision elimination and infrastructure disruption, serving as a visible counterpart to the covert ops teams.

@@ -6,147 +6,45 @@ permalink: /foundations/galaxy/xenari
 category: galaxy
 order: 1
 ---
-Here’s a detailed description of the **Xenari**, focusing on their **physiology** and **biological traits** based on your initial concept:
+The _Xenari_ are a benevolent, technologically advanced reptilian species and the EarthSpace Federation's extraterrestrial benefactors. Tall, frail, and bioluminescent, they favor deliberation and long-term influence over force, and govern themselves by consensus rather than rulers.
 
----
+## Physiology
+Xenari stand taller than humans, averaging 2.2 to 2.8 meters, with long spindly limbs, four-fingered hands, and three-toed feet tipped with short claws. Their endoskeleton is a lightweight fibrous lattice reinforced with silica, closer to cartilage and hollow bird bone than dense human bone, and their low muscle density leaves them physically frail; fast-twitch fibers give them bursts of speed and precision rather than raw strength.
 
-#### Xenari Physiology Overview
-The **Xenari** are an **advanced, benevolent reptilian species** that stand taller than humans, with an average height of **2.2 to 2.8 meters (7.2 to 9.2 feet)**. They are characterized by **long, spindly limbs**, **large eyes with expansive pupils**, and **bioluminescent markings** that shift in response to their physiological and emotional state. Despite their height, they are relatively **frail in build**, their evolutionary path favoring agility and intellect over brute strength.
+Their smooth, semi-translucent skin — pale green, blue, or lavender — secretes a mild antibacterial compound and is patterned with bioluminescent markings that shift with emotional state: a soft cyan-green glow signals ease, bright blue-white pulses excitement, dimming grey-blue fear, and rapid violet-pink flickering deep concentration. These serve as a non-verbal layer alongside their spoken language.
 
-##### Skeletal and Muscular Structure
-- **Lightweight but Durable Bones**: The Xenari have an endoskeleton composed of a **fibrous lattice-like material**, reinforced with naturally occurring silica compounds. Their bones are flexible yet resistant to fractures, akin to a combination of **cartilage and hollow bird bones**, reducing their overall weight.
-- **Elongated Limbs**: Their **arms and legs are longer than those of humans**, ending in **four-fingered hands and three-toed feet**, each tipped with short, **claw-like nails**. The fingers are highly dexterous, optimized for precision manipulation rather than strength.
-- **Frailty in Physical Combat**: Unlike predatory reptiles or mammalian analogues, the Xenari have **low muscle density**, making them significantly weaker than a human of the same size. However, their **fast-twitch muscle fibers** allow for short bursts of rapid movement, compensating with speed and precision.
-  
-##### Skin and Bioluminescence
-- **Smooth, Semi-Translucent Skin**: Their **pale green, blue, or lavender-hued** skin lacks scales and is **covered in a thin layer of biofilm**, which helps with moisture retention. Their skin secretes a mild **antibacterial** compound, making infections rare among their species.
-- **Bioluminescent Markings**: Patterns of **luminescent bands and spots** run along their **arms, back, and face**, shifting in **brightness and hue** based on their emotional state. These serve as an **evolved non-verbal communication system** among Xenari, supplementing their spoken language. 
-  - **Soft glow (cyan-green)** = Neutral or at ease.
-  - **Bright pulses (blue-white)** = Excitement or engagement.
-  - **Dimming (grayish blue)** = Fear or uncertainty.
-  - **Rapid flickering (violet-pink)** = Intense focus or deep thought.
+Their eyes take up nearly 40% of the face and see into the infrared, giving them excellent low-light and heat vision. In place of external ears they have internal tympanic membranes sensitive to both subsonic and ultrasonic frequencies, and a flexible vocal structure lets them reproduce human speech and tone with near-perfect accuracy.
 
-##### Facial Features and Sensory Adaptations
-- **Large, Reflective Eyes**: Their **disproportionately large eyes** take up nearly **40% of their face**, granting them **exceptional low-light vision**. The pupils **dilate significantly**, allowing them to see in dim conditions. 
-  - Their vision extends into the **infrared spectrum**, giving them an intuitive ability to detect heat signatures.
-- **Thin Nasal Ridges**: The Xenari lack prominent nostrils, instead featuring **slit-like openings** along the sides of their elongated, tapered faces.
-- **High-Resolution Hearing**: Instead of **external ears**, Xenari have **internal tympanic membranes** capable of picking up both **subsonic** and **ultrasonic frequencies**, making them extremely perceptive to subtle audio cues.
-- **Vocal Adaptability**: Unlike many alien species, Xenari possess a **flexible vocal structure**, allowing them to **imitate and articulate human speech** with near-perfect accuracy. They are capable of producing **a wide range of tones**, making them adept at learning and speaking multiple languages.
+Xenari are strict herbivores, grinding plant matter with flat, plate-like teeth; a single dense meal can sustain one for two to three days. Like most sentient species in the galaxy, they lack an adrenal fight-or-flight response, favoring rational assessment over panic — a trait that makes them measured under pressure but slower to react to sudden threats, and one they compensate for with agility and foresight rather than reflex.
 
-##### Metabolism and Dietary Habits
-- **Strict Herbivores**: Despite their reptilian appearance, Xenari evolved as **gatherer-herbivores**, feeding on **high-fiber plant matter**, including **algae, fungi, and nutrient-dense vegetation**. They lack the **carnivorous teeth** or **jaw strength** seen in predatory species, instead possessing **flat, plate-like dental structures** for grinding plant material.
-- **Long-Duration Digestion**: Their digestive system **extracts nutrients gradually**, and they do not require frequent meals. A single nutrient-dense meal can sustain a Xenari for **two to three Earth days**.
-- **Lack of Adrenaline**: Like most sentient species of the galaxy, **Xenari lack an adrenal gland equivalent** and do not experience **a traditional "fight-or-flight" response**. Instead, their bodies favor **rational problem-solving**, making them **less prone to panic** but also **slower to react to immediate threats**. They compensate by **avoiding direct confrontation**, relying on their **agility, intelligence, and predictive capabilities**.
+Xenari reproduction is oviparous: females lay nutrient-rich eggs incubated communally, and individuals aren't bound to a fixed gender across their lifetime, shifting biological and social roles as circumstances require. They live 300 to 400 years with little senescence, and their elders are treated as living repositories of knowledge, often serving as advisors, scientists, or historians into extreme old age.
 
-##### Neurology and Cognitive Abilities
-- **Enhanced Cognitive Function**: The Xenari brain is **larger relative to their body size**, with an **expanded prefrontal cortex**, giving them **enhanced analytical skills and pattern recognition**. Their **working memory capacity** is significantly greater than that of humans.
-- **Non-Aggressive Conflict Resolution**: Due to the absence of a **panic reflex**, they excel in **diplomacy and strategic planning**, preferring **long-term solutions over immediate, reactionary decisions**.
-- **Multi-Tasking Minds**: Xenari thought processes are **multi-threaded**, capable of **analyzing multiple scenarios at once**, which contributes to their **rapid decision-making abilities** in complex situations.
+Their prefrontal cortex is proportionally larger than a human's, giving them strong pattern recognition and working memory, and their thought is multi-threaded — they weigh several scenarios simultaneously rather than settling on one line of reasoning at a time, which underlies their reputation as careful, unhurried decision-makers.
 
-##### Reproduction and Lifecycle
-- **Egg-Laying Species**: Xenari reproduction follows a **non-mammalian, oviparous process**. Females lay **gelatinous, nutrient-rich eggs**, which are **incubated externally** in carefully maintained communal nests.
-- **Extended Lifespan**: Xenari have a **life expectancy of 300-400 Earth years**, experiencing **gradual aging** without significant senescence. Their society values **elders as living repositories of knowledge**, and many serve as **advisors, scientists, or historians**.
-- **Gender Fluidity**: Xenari do not have a strict binary gender system. Individuals may express a **range of biological and social roles** throughout their lifetimes, with some able to shift reproductive functions depending on population needs.
+## Society and Culture
+Xenari society has no rulers and little hierarchy; individuals contribute according to aptitude, wired for cooperation and consensus rather than personal authority. They regard violence as an evolutionary dead end, preferring covert influence, negotiation, and indirect intervention — though they will act decisively, and lethally, when a threat can't be resolved any other way, particularly in defense of species under their guidance.
 
-##### Cultural and Behavioral Traits
-- **Innate Cooperation**: As a species, Xenari are **wired for collaboration**, often **forming collective decision-making groups** where consensus is prioritized over individual leadership.
-- **Technological Mastery**: Their ability to **process vast amounts of information intuitively** has enabled them to become **masters of advanced technology**, particularly in **energy manipulation, artificial intelligence, and bioengineering**.
-- **Preference for Non-Violence**: While technologically capable of warfare, they view **violent conflict as an evolutionary dead-end**, favoring **covert influence, negotiation, and indirect intervention**. However, they **will** act decisively if a situation requires it, particularly in **defense of younger species** they have taken under their guidance.
+### Guilds
+Every Xenari aligns with one or more of three guilds, moving between them freely over the course of a long life:
+- The _Va'shar_ ("Guild of the Mind") — scientists, diplomats, and philosophers who oversee Xenari AI, cybernetics, and bioengineering, and who conduct nearly all direct contact with younger species, including the Federation.
+- The _Ka'lar_ ("Guild of the Hand") — engineers and terraformers responsible for stargates, orbital stations, and planetary ecosystems.
+- The _Zai'nor_ ("Guild of the Heart") — the closest thing the Xenari have to a military: specialists in stealth, intelligence, and crisis response who intervene only when necessary, and who train allied species such as the Federation in advanced tactics.
 
----
+### Governance
+The Xenari have no centralized rulers, governing instead through nested deliberative bodies collectively called the _Ish'kai_, the Circles of Deliberation. Local circles, the _Ish'kai-Vel_, let any adult speak and continue until they reach consensus, aided by AI models that keep proposals grounded in data. Representatives from local circles sit on the _Ish'kai-Zor_, the Great Circle, which sets planetary and interstellar policy; representatives hold no personal authority and act purely as conduits for their circle's will, and decisions are made with centuries rather than decades in mind.
 
-##### Xenari Social Structure and Government  
+Xenari foreign policy runs on the _Zai'kar-Thun_, the Stewardship Compact: a self-imposed doctrine of non-aggression that bars invasion, conquest, or forced assimilation, but permits intervention to prevent a younger species' self-destruction, subject to full deliberation by the Great Circle. The EarthSpace Federation operates under a specific mentorship clause of the Compact — the Xenari provide technology and guidance, but stop short of ruling or directly controlling it.
 
-The **Xenari** are an **ancient, highly advanced civilization** that has developed a **non-hierarchical, consensus-driven society** based on **collective knowledge-sharing, cooperative decision-making, and long-term planning**. Their culture revolves around the **pursuit of wisdom, scientific advancement, and interstellar stewardship**, rather than conquest or material wealth. 
+### Decision-making
+Lacking a fight-or-flight response, Xenari process situations in parallel rather than committing to a single reaction, letting them weigh long-term consequences even in the middle of a crisis — a trait aggressive species like the _Ryzak_ often mistake for hesitation. Xenari rarely meet force with force, preferring to shape events beforehand through intelligence networks and quiet influence; when direct action becomes necessary, they aim to neutralize a threat before the other side realizes it was ever compromised.
 
----
+### Artificial intelligence
+Xenari AI is built to advise, not to rule: it models probabilities and long-term consequences but never sets policy, preserving the free will that underpins Circle governance. Many Xenari work in close partnership with AI to augment their own cognition, and Xenari cities and infrastructure are largely self-regulating, dynamically balancing resources to avoid the kind of scarcity that breeds conflict.
 
-#### I. Social Structure: A Society of Consensus
-Unlike many species that develop rigid social hierarchies, **the Xenari operate on a system of distributed responsibility**, where **every individual contributes to the whole** based on their skills, knowledge, and experience. Their society is **fluid**, adapting to new challenges without centralized power.
+## Technology
+Most Xenari engineering — stargates, orbital infrastructure, terraforming — falls to the _Ka'lar_ guild. In the Sol system specifically, the Xenari maintain a remotely operated cynosural beacon around Jupiter, since Sol has no stargate of its own; it is the only sanctioned route for Federation transit in or out of the system.
 
-##### The Triadic Guild System  
-Xenari social organization revolves around **three interwoven societal "guilds"**, which are not classes but rather spheres of contribution. **Each Xenari aligns with one (or more) of these guilds**, based on personal aptitude and interest.
-
-###### 1A. The Guild of the Mind ("Va'shar") – Scholars, Scientists, and Diplomats
-- Members of **Va’shar** dedicate their lives to **science, diplomacy, philosophy, and technological development**.
-- They function as **advisors, researchers, and mediators**, working to ensure the continued prosperity of Xenari civilization and their allies.
-- Most Xenari interacting with **younger species**, including humans, come from this guild, as they specialize in **non-violent conflict resolution** and **knowledge transfer**.
-- Xenari artificial intelligence, cybernetics, and bioengineering are **overseen by this guild**.
-
-###### 1B. The Guild of the Hand ("Ka'lar") – Engineers, Builders, and Artisans
-- This guild focuses on **infrastructure, technological maintenance, and planetary engineering**.
-- They construct **stargates, orbital stations, and planetary ecosystems**, ensuring **long-term stability for Xenari colonies**.
-- Members often serve as **"terraformers"**, responsible for **ecological restoration** and ensuring **harmony between civilization and nature**.
-
-###### 1C. The Guild of the Heart ("Zai’nor") – Caretakers, Strategists, and Protectors  
-- Xenari do not have a **traditional military**, but the **Zai’nor** guild is responsible for **defense, protection, and risk management**.
-- They specialize in **stealth, intelligence gathering, and counter-threat operations**, preferring to **neutralize conflicts before they escalate**.
-- Members of this guild **coordinate interstellar crisis response teams**, intervening **only when absolutely necessary**.
-- They **train select younger species (such as the EarthSpace Federation) in advanced tactics**, allowing them to defend themselves.
-
-Xenari frequently **shift between guilds** as they **grow in experience**, meaning that a Xenari scientist might later become a strategist, or a diplomat might choose to focus on planetary engineering.
-
----
-
-#### II. Governance: The "Circles of Deliberation"
-Xenari **do not have centralized rulers** like kings, presidents, or emperors. Instead, they operate through a system called **the Circles of Deliberation ("Ish'kai")**, which ensures **true consensus governance** on both **local and interstellar scales**.
-
-##### The Local Circles ("Ish'kai-Vel") – Regional Decision-Making
-- At the local level, Xenari **gather in deliberative circles** to discuss issues affecting their immediate environment.
-- **Every adult Xenari is permitted to speak**, and **discussions continue until a broad consensus is reached**.
-- **AI-driven data models help process and refine proposals**, ensuring that **outcomes are based on facts, not emotion**.
-- This system prevents **autocratic rule or political corruption**.
-
-##### The Great Circle ("Ish'kai-Zor") – Planetary and Interstellar Policy
-- Instead of a single ruling body, **representatives from different circles participate in the "Great Circle"**, which functions as the **highest form of governance**.
-- **Representatives do not hold personal authority**—they are **conduits for collective decisions**, ensuring **no single Xenari wields disproportionate power**.
-- **Long-term foresight drives all decisions**—policy is crafted with **centuries, not decades, in mind**.
-- AI **assists but does not govern**, providing **logistical insight rather than making decisions outright**.
-
-##### The Stewardship Compact ("Zai'kar-Thun") – Galactic Relations and Interventions  
-- The Xenari have a **self-imposed doctrine of non-aggression**, meaning they **do not invade, conquer, or forcibly assimilate** other civilizations.
-- However, they **do interfere to prevent existential threats**, particularly when younger species risk catastrophic self-destruction.
-- The **Compact ensures that interventions are carefully weighed**, requiring **a full deliberation within the Great Circle** before action is taken.
-- **Federation involvement:** The **EarthSpace Federation operates under a special "mentorship clause"**, where the Xenari provide **technological assistance but do not directly rule or control them**.
-
----
-
-#### III. Decision-Making and Conflict Resolution
-Because Xenari **lack an adrenaline system and do not experience "fight-or-flight"**, their approach to conflict is **fundamentally different from most species**.
-
-##### Decision-Making Through Simultaneous Thought
-- Xenari **think in parallel**—meaning they can **process multiple perspectives at once** rather than forming singular viewpoints.
-- This allows them to **consider long-term consequences in real-time**, making them **exceptional strategists and diplomats**.
-- **Aggressive species (such as the Ryzak) often mistake this for weakness**, failing to understand that Xenari decision-making is **deliberate rather than slow**.
-
-##### Conflict Avoidance and Influence
-- **Instead of brute force**, Xenari use **strategic influence** to **shape events behind the scenes**.
-- They are **masters of social engineering**, capable of **nudging civilizations toward stability** through **carefully placed interventions**.
-- **Their intelligence networks surpass most galactic empires**, allowing them to act **before threats emerge**.
-- **However, they are not pacifists**—if direct action is needed, they will **neutralize threats surgically, often before an enemy realizes they were compromised**.
-
----
-
-#### IV. The Role of AI in Xenari Society
-Unlike many civilizations where AI is feared or restricted, the **Xenari embrace AI as an integral part of governance**.
-
-##### AI as an Advisor, Not a Ruler
-- Xenari AI operates as a **guiding intelligence**, ensuring that **decisions are based on logic and deep historical analysis**.
-- AI systems **model future probabilities** but **never dictate policy**, ensuring **Xenari free will is preserved**.
-- **Hybrid Intelligence:** Many Xenari operate in **symbiotic partnerships with AI**, augmenting their **cognitive processing power** without replacing biological intuition.
-
-##### AI-Guided Infrastructure
-- **Cities are self-regulating**, adjusting dynamically to population needs.
-- **Resource allocation is fully optimized**, preventing **scarcity-based conflict**.
-- **Predictive analytics help prevent disasters**, from planetary collapse to interstellar trade crises.
-
----
-
-#### V. Strategic Implications for the Galaxy
-The **Xenari's governance model and society** grant them **unparalleled long-term influence**, making them **one of the most powerful factions in the galaxy**.
-
-- **They outmaneuver rivals through long-term strategy rather than brute force.**
-- **They cultivate alliances with younger species, subtly directing their development.**
-- **They prevent interstellar war through diplomacy, sabotage, and predictive countermeasures.**
-- **Their stewardship of the EarthSpace Federation ensures humanity's survival, but at a controlled pace.**
-
+## Relations with Other Races
+- _Seraphyn_: mutual respect. The two occasionally collaborate on guiding galactic affairs, though the Xenari's direct engagement with younger species sits awkwardly against the Seraphyn's preference to simply observe.
+- _Kryllians_: respectful but wary. The Kryllians value Xenari stability and wisdom but find their philosophical bent inefficient; the two collaborate often on large infrastructure, Kryllians handling the engineering while the Xenari plan for the long term.
+- _Ryzak_: open ideological opposition. The Ryzak respect Xenari technology, but read their pacifism, and their lack of a panic response, as weakness rather than restraint.
