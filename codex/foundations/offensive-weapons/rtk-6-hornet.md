@@ -6,91 +6,16 @@ permalink: /foundations/foundations/offensive-weapons/rtk-6-hornet
 category: offensive-weapons
 order: 1
 ---
+The RTK-6 *Hornet* is a compact smart rifle issued by Federation Armaments Division to frontline operatives working in mixed-visibility, multi-domain combat. Despite its designation, it functions less like a rifle than a man-portable guided-effector launcher, trading raw muzzle energy for a near-guaranteed hit against mobile or obscured targets through Federation-exclusive micro-guidance and sensor fusion.
 
-**Project Code**: RTK-6
-**System Type**: Individual Infantry Weapon – Smart Effectors Platform
-**Issued By**: EarthSpace Federation Armaments Division
-**Designation**: *Hornet*
+## Ammunition
+The Hornet fires the RTK-E Mk.I, a micro-explosive guided munition roughly the size of a 5.56mm cartridge that begins semi-autonomous homing the instant it clears the muzzle. Its shaped micro-charge and directed fragmentation are tuned for soft and semi-armored targets, with enough yield to defeat most light armor fielded by extraterrestrial or augmented terrestrial adversaries. A 60-round STANAG-20 magazine of Federated composite alloy, EM-shielded against interference, feeds the weapon; since each effector carries its own propulsion, none of the waste-heat problems of a conventional cartridge apply, and the rifle needs no thermal dissipation system at all.
 
----
+## Weapon system
+The barrel is less a conventional bore than an effector guidance conduit, lined with magnetic pre-aligners that stabilize each round's microdrive at launch. Fire control supports full-auto at a nominal 850 rounds per minute, with system-managed burst spacing to avoid saturating guidance in electronically dense combat zones, and an optional burst-fire mode available as a squad-configurable software setting. Target acquisition can come from in-scope laser designation, a passive IR/thermal lock, or a remote relay from any networked battlefield asset — the rifle doesn't need its operator to have eyes on target to engage it.
 
-##### 1. Overview
+## Optics and targeting
+An integrated SmartScope Mk.IV handles targeting, cycling between night vision, thermal imaging, and backscatter X-ray, and overlaying real-time target ID, threat prioritization, and rangefinding directly onto the sight picture; its multi-spectral tracking holds a lock with limited persistence even through cover. The scope is sensor-fusion capable, sharing targeting telemetry with other infantry, vehicles, and aerial drones over an encrypted line-of-sight mesh that auto-hands-off if the operator goes down.
 
-The RTK-6 *Hornet* is a compact, high-lethality infantry rifle designed for frontline operatives operating in mixed-visibility and multi-domain combat environments. It leverages Federation-exclusive micro-guidance and sensor fusion technologies to deliver a high hit probability against mobile or obscured targets. Though categorized as a rifle, the RTK-6 is functionally closer to a man-portable effector launcher, optimized for suppression, elimination, and precision target neutralization roles.
-
----
-
-##### 2. Ammunition System
-
-**Effector Type**: RTK-E Mk.I Micro-Explosive Guided Munitions
-**Dimensions**: Comparable to a 5.56mm cartridge in form factor
-**Guidance**: Semi-autonomous homing; active upon muzzle exit
-**Explosive Yield**: Sufficient to defeat most known *light armor* fielded by extraterrestrial or augmented terrestrial adversaries
-**Warhead**: Shaped micro-charge with directed fragmentation; tuned for soft and semi-armored targets
-
-**Magazine**:
-
-* Capacity: 60 effectors per magazine
-* Format: STANAG 20-form factor
-* Construction: Federated composite alloys with EM shielding
-* Note: No thermal dissipation system required; effectors produce negligible waste heat
-
----
-
-##### 3. Weapon System
-
-**Fire Modes**:
-
-* Fully automatic
-* Burst mode (optional software mod, squad-dependent)
-
-**Cycle Rate**: 850 RPM nominal; system-managed burst spacing to prevent saturation interference in dense electronic combat zones
-
-**Guidance Acquisition**:
-
-* In-scope laser designation
-* Passive IR/thermal lock
-* Remote relay via networked battlefield assets
-
-**Barrel**:
-
-* Functionally acts as an effector guidance conduit
-* Lined with magnetic pre-aligners to stabilize effector microdrives at launch
-
----
-
-##### 4. Optics & Targeting
-
-**Scope Package**: Integrated SmartScope Mk.IV
-
-* Modes: Night Vision (3rd gen), Thermal Imaging, Backscatter X-Ray
-* Overlay: Real-time target ID, threat prioritization, rangefinder
-* Target Locking: Multi-spectral tracking with limited persistence through cover
-
-**Networking**:
-
-* Sensor fusion capable
-* Shares targeting telemetry with infantry units, vehicular platforms, and aerial drones
-* Encrypted line-of-sight mesh relay; auto-handoff in case of operator downing
-
----
-
-##### 5. Operational Use
-
-The RTK-6 is intended to act as both a direct-fire smart weapon and as a node in a broader tactical network. It excels in environments where target occlusion, clutter, or EM interference would render conventional fire support ineffective. The rifle’s ability to autonomously engage hostile elements behind cover or in motion reduces the cognitive load on the operator and enhances unit lethality.
-
----
-
-##### 6. Notable Advantages
-
-* High-efficiency ammo-to-kill ratio
-* Low thermal signature
-* Superior magazine density
-* Integrated intelligence and cross-platform coordination
-* Suppression capabilities approaching man-portable support weapons with minimal bulk
-
----
-
-##### 7. Deployment Notes
-
-Currently standard-issue for covert operations teams and high-priority infantry elements operating in environments where collateral minimization, stealth, and rapid engagement cycles are mission-critical. Incompatible with conventional Earth ammunition; Federation-exclusive logistics.
+## Deployment
+The Hornet is built to function as much as a network node as a weapon: it lets an operator engage hostile elements behind cover or in motion without the cognitive overhead of tracking them manually, and its suppression capability rivals a man-portable support weapon despite its compact size, backed by an ammo-to-kill efficiency well beyond conventional small arms. It's currently standard-issue for covert operations teams and other high-priority infantry roles where minimizing collateral damage, staying undetected, and cycling engagements quickly all matter more than raw firepower. Like most Federation ordnance, it's entirely incompatible with terrestrial ammunition — logistics for it run exclusively through Federation channels.

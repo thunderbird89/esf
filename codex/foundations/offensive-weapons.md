@@ -12,7 +12,7 @@ The Federation relies mainly on magnetic accelerators for offensive purposes, bu
 A compact, high-lethality smart rifle firing semi-autonomous guided micro-explosive effectors, standard-issue for covert operations teams.
 
 ## [RSK-5/M Sniper Rifle]({{ '/foundations/foundations/offensive-weapons/rsk-5m-sniper-rifle' | relative_url }})
-A levitated-barrel railgun sniper rifle with a lethal range out to 15,000 meters.
+The _Whisperglass_, a levitated-barrel railgun sniper rifle with a lethal range out to 15,000 meters.
 
 ## [Thermal Clips]({{ '/foundations/foundations/offensive-weapons/thermal-clips' | relative_url }})
 The lithium-beryllium heat sinks nearly all Federation firearms use to manage waste heat, and why that specific alloy was chosen.

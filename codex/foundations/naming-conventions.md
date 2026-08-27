@@ -38,7 +38,7 @@ The Federation employs a standardized system to designate and categorize its div
       - **S**: Superiority
       - **D**: Defense
    3. Artillery
-      - **S**: Tactical
+      - **S**: Strategic
       - **T**: Tactical
 
 3. **Operation/Modality**: Technology or specific operational focus.
@@ -68,5 +68,5 @@ The Federation employs a standardized system to designate and categorize its div
 
 #### Examples
 - VGA-6 Dragon: Vehicle, gunship, aerial, design iteration #6, code name _Dragon_, a heavy attack gunship built to prioritize firepower and survival in open combat.
-- RSK-4/CM Whisperglass: Rifle, sniper, kinetic, design iteration #4, magnetic accelerator variant, covert, code name _Whisperglass_, commonly-used sniper rifle in covert operations.
+- RSK-5/M Whisperglass: Rifle, sniper, kinetic, design iteration #5, marksman variant, code name _Whisperglass_, commonly-used sniper rifle in covert operations.
 - PGP-8 Scorch: Pistol, general purpose, plasma-based, code name _Scorch_, the Federation's general issue infantry sidearm.
