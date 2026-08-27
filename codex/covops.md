@@ -42,7 +42,7 @@ This copying ability is sufficiently close to fool facial recognition systems, i
 
 By refracting sound waves internally, it can alter the operative's voice to match the extrapolated voice print of the target. With sufficient samples (at least 30 seconds of speech), the extrapolation is close enough to pass digital voice print recognition systems.
 
-The 3D scans needed to create a face can be acquired by covert stereoscopic structured-light cameras hidden in the oeprative's glasses, enabling a single operative to mimic a number of faces on-the-fly during a mission.
+The 3D scans needed to create a face can be acquired by covert stereoscopic structured-light cameras hidden in the operative's glasses, enabling a single operative to mimic a number of faces on-the-fly during a mission.
 
 #### Other tools
 Other tools include personal video scramblers that employ directed radiation to scramble surveillance cameras; directional speakers that can be utilized to cast sound elsewhere and create distractions; or armoring gloves that can structurally reinforce objects in contact to create improvised cover out of mundane items (one of the few instances of nanite technology utilized by the Federation).
