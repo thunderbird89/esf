@@ -2,9 +2,9 @@
 layout: page
 type: codex-item
 title: RTK-6 Hornet Smart Rifle
-permalink: /foundations/foundations/rtk-6-hornet
-category: foundations
-order: 10
+permalink: /foundations/foundations/offensive-weapons/rtk-6-hornet
+category: offensive-weapons
+order: 1
 ---
 
 **Project Code**: RTK-6
@@ -94,4 +94,3 @@ The RTK-6 is intended to act as both a direct-fire smart weapon and as a node in
 ##### 7. Deployment Notes
 
 Currently standard-issue for covert operations teams and high-priority infantry elements operating in environments where collateral minimization, stealth, and rapid engagement cycles are mission-critical. Incompatible with conventional Earth ammunition; Federation-exclusive logistics.
-

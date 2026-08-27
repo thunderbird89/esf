@@ -40,13 +40,4 @@ Federation infantry makes heavy use of powered exoskeletons even before making t
 ### Infantry weapons
 Regular infantry is usually assigned magnetic accelerator rifles using 2 mm tungsten darts, but depending on the mission profile, might be assigned low-power (25-50 MW) plasma rifles. For sidearms, smaller, 10-15 MW plasma pistols are used.
 
-Magnetic rifles can launch a variety of rounds, from simple kinetic penetrators through explosive rounds to specialty rounds with various exotic effects.
-
-### [RTK-6 Hornet Smart Rifle]({{ '/foundations/foundations/rtk-6-hornet' | relative_url }})
-A compact, high-lethality smart rifle firing semi-autonomous guided micro-explosive effectors, standard-issue for covert operations teams.
-
-### [RSK-5/M Sniper Rifle]({{ '/foundations/foundations/rsk-5m-sniper-rifle' | relative_url }})
-A levitated-barrel railgun sniper rifle with a lethal range out to 15,000 meters.
-
-### [Thermal Clips]({{ '/foundations/foundations/thermal-clips' | relative_url }})
-The lithium-beryllium heat sinks nearly all Federation firearms use to manage waste heat.
+Magnetic rifles can launch a variety of rounds, from simple kinetic penetrators through explosive rounds to specialty rounds with various exotic effects. See [Offensive Weapons]({{ '/foundations/foundations/offensive-weapons' | relative_url }}) for the Federation's specific small-arms designs, including the RTK-6 Hornet and RSK-5/M.
