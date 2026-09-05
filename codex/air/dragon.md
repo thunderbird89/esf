@@ -8,7 +8,7 @@ order: 5
 ---
 ### Overview
 
-The *VAA-6 Dragon* is a heavy gunship aerodyne designed by EarthSpace Federation Aerospace Command in response to sustained combat operations on Xenari client worlds, particularly against Ryzak-backed surface militias. Where the *Scorpion* excels in surgical fire support, the *Dragon* represents the next echelon: brute-force aerial dominance. It is optimized for close air support, battlefield suppression, and combat insertion in high-threat environments. Its structural silhouette, firepower, and survivability place it among the most formidable rotary-winged aerodynes in the Federation’s arsenal.
+The *VGA-6 Dragon* is a heavy gunship aerodyne designed by EarthSpace Federation Aerospace Command in response to sustained combat operations on Xenari client worlds, particularly against Ryzak-backed surface militias. Where the *Scorpion* excels in surgical fire support, the *Dragon* represents the next echelon: brute-force aerial dominance. It is optimized for close air support, battlefield suppression, and combat insertion in high-threat environments. Its structural silhouette, firepower, and survivability place it among the most formidable rotary-winged aerodynes in the Federation’s arsenal.
 
 ---
 
@@ -82,4 +82,4 @@ Where the *Scorpion* supports limited insertions or urban overwatch, the *Dragon
 
 ### Summary
 
-The *VAA-6 Dragon* embodies the Federation's escalating response posture in proxy conflicts throughout the galaxy. It fills the critical gap between high-agility skirmishers like the *Scorpion* and full-scale orbital strike assets. Its unmistakable profile bristling with weaponry and flanked by sensor drones is often the last thing an entrenched militia sees before they are obliterated.
+The *VGA-6 Dragon* embodies the Federation's escalating response posture in proxy conflicts throughout the galaxy. It fills the critical gap between high-agility skirmishers like the *Scorpion* and full-scale orbital strike assets. Its unmistakable profile bristling with weaponry and flanked by sensor drones is often the last thing an entrenched militia sees before they are obliterated.

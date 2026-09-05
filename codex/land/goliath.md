@@ -1,12 +1,12 @@
 ---
 layout: page
 type: codex-item
-title: Goliath
+title: MAT-2 Goliath
 permalink: /foundations/land/goliath
 category: land
 order: 2
 ---
-The Goliath is a large (app. 5 meters tall) bipedal, non-humanoid mech designed for anti-armor combat and assault missions, with back-bent legs for improved stability. 
+The Goliath, designated MAT-2, is a large (app. 5 meters tall) bipedal, non-humanoid mech designed for anti-armor combat and assault missions, with back-bent legs for improved stability. 
 
 It has two integrated rapid-fire plasma cannons in its arms, and the flat-topped cockpit section has several hardpoints for heavy weapons (most often guided missile pods). It can also use its four grabber claws to physically assault any tanks that get too close; and can close the distance by using its integrated jump jets to leap or briefly hover over the battlefield.
 

@@ -1,12 +1,12 @@
 ---
 layout: page
 type: codex-item
-title: Aeon
+title: VPA-5 Aeon
 permalink: /foundations/air/aeon
 category: air
 order: 2
 ---
-The Aeon _Extreme Deep Invader_ is a strange-looking lifting-body aircraft whose very few surfaces - only five flat planes forming a deltoid-based pyramid, inspired by taking the F-117's airframe to a logical extreme - deflect radar waves away. 
+The Aeon _Extreme Deep Invader_, designated VPA-5, is a strange-looking lifting-body aircraft whose very few surfaces - only five flat planes forming a deltoid-based pyramid, inspired by taking the F-117's airframe to a logical extreme - deflect radar waves away. 
 The craft is equipped with a MASER emitter in the nose, a rapid-fire gatling coilgun at the front housed inside the fuselage, and can open its sides to expose a rack of four missiles on each side. It can also open only it's aft surfaces to expose its pair of plasma engines and achieve much greater speeds at the expense of breaking its stealth. It's intended to execute precision strikes deep in enemy territory using its MASER weapon, but can defend itself in a dogfight to a degree using its other weapons.
 
 #### Overview

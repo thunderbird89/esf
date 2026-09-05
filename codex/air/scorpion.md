@@ -1,12 +1,12 @@
 ---
 layout: page
 type: codex-item
-title: Scorpion
+title: VGA-3 Scorpion
 permalink: /foundations/air/scorpion
 category: air
 order: 3
 ---
-The Scorpion is an aerial gunship with limited transport capability, intended to provide close air support to infantry and mechanized infantry, including in built-up settings, providing scouting and heavy cover fire. It was described as a hybrid of the U. S. Apache and the Russian Mil Mi-24 Hind.
+The Scorpion, designated VGA-3, is an aerial gunship with limited transport capability, intended to provide close air support to infantry and mechanized infantry, including in built-up settings, providing scouting and heavy cover fire. It was described as a hybrid of the U. S. Apache and the Russian Mil Mi-24 Hind.
 
 The Scorpion has two hybrid air-breathing/plasma engines mounted on short high-mounted wings with swivel joints that allow the engines to rotate and vector thrust independently (somewhat similar to the V-22 Osprey, but also capable of swiveling outwards for better thrust vectoring). The hull has mid-class shield generators and is space-capable. Inside, there's room for 12 infantry units on jump seats accessible via side doors, or 3 Landmates, with another 2 capable of being secured under the wings. Both side doors have gimbaled plasma cannons that infantry can utilize, but the onboard AI can also control to provide cover fire. The Scorpion utilizes the same modular framework all other Federation vehicles and units do, with internal module racks providing an extensible system.
 

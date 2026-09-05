@@ -1,12 +1,12 @@
 ---
 layout: page
 type: codex-item
-title: Marauder
+title: ATT-3 Marauder
 permalink: /foundations/land/marauder
 category: land
 order: 4
 ---
-The Marauder is intended for harassment and hit-and-run tactics in situations where superiority in the air or on the ground is not a given.
+The Marauder, designated ATT-3, is intended for harassment and hit-and-run tactics in situations where superiority in the air or on the ground is not a given.
 
 The Marauder is built on a heavy truck bed, capable of relatively high speeds even over rough terrain, and is conceived to travel along a pre-planned route, stopping for short intervals at pre-selected locations to fire up to five artillery rounds (of various payloads) at designated targets. By pre-calculating the firing solutions and only *fine-tuning* them on-site, the Marauder is capable of laying down accurate fire from the designated locations while remaining highly mobile and resistant to counter-artillery.
 

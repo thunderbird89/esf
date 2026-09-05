@@ -1,12 +1,12 @@
 ---
 layout: page
 type: codex-item
-title: Knightmare
+title: MFT-3 Knightmare
 permalink: /foundations/land/knightmare
 category: land
 order: 3
 ---
-The Knightmare is a larger, more imposing development of the Landmate designed for force projection and psychological combined warfare. It has many of the features of the Landmate, such as modular extensibility and a humanoid frame for mobility, but stands taller and more physically imposing at app. 3.75 meters, being able to carry heavier weaponry.
+The Knightmare, designated MFT-3, is a larger, more imposing development of the Landmate designed for force projection and psychological combined warfare. It has many of the features of the Landmate, such as modular extensibility and a humanoid frame for mobility, but stands taller and more physically imposing at app. 3.75 meters, being able to carry heavier weaponry.
 
 Its defining feature is its integrated *Banshee memetic emitter*. 
 The device projects memetic information directly into the brains of surrounding people over a configurable area (up to 500 meters away) to achieve a variety of effects. M

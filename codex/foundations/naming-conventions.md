@@ -22,6 +22,7 @@ The Federation employs a standardized system to designate and categorize its div
    - **M**: Mech
    - **P**: Pistol or sidearm
    - **A**: Artillery
+   - **T**: Turret or fixed emplacement
 
 2. **Purpose**: The primary mission role of the asset. Available purposes differ based on type.
    1. Weapons
@@ -32,11 +33,15 @@ The Federation employs a standardized system to designate and categorize its div
       - **H**: Heavy
       - **T**: Tactical
       - **D**: Defense
-   2. Vehicles, drones, and mechs
+   2. Vehicles, drones, mechs, and turrets
       - **A**: Assault
       - **G**: Gunship
       - **S**: Superiority
       - **D**: Defense
+      - **M**: Multirole
+      - **F**: Force Projection
+      - **P**: Precision Strike
+      - **H**: Harassment
    3. Artillery
       - **S**: Strategic
       - **T**: Tactical
@@ -48,10 +53,11 @@ The Federation employs a standardized system to designate and categorize its div
       - **E**: Directed energy
       - **K**: Kinetic
       - **C**: Covert
-   2. Vehicles
+   2. Vehicles, drones, mechs, turrets, and artillery
       - **A**: Aerial
       - **S**: Space
       - **T**: Terrestrial
+      - **X**: Multi-domain (interchangeable operation across two or more of the above without reconfiguration)
 
 4. **Iteration Number**: Specifies the design version or iteration. 
    - Represents technological evolution or upgrades in the platform.
@@ -70,3 +76,6 @@ The Federation employs a standardized system to designate and categorize its div
 - VGA-6 Dragon: Vehicle, gunship, aerial, design iteration #6, code name _Dragon_, a heavy attack gunship built to prioritize firepower and survival in open combat.
 - RSK-5/M Whisperglass: Rifle, sniper, kinetic, design iteration #5, marksman variant, code name _Whisperglass_, commonly-used sniper rifle in covert operations.
 - PGP-8 Scorch: Pistol, general purpose, plasma-based, code name _Scorch_, the Federation's general issue infantry sidearm.
+- MMT-4 Landmate: Mech, multirole, terrestrial, design iteration #4, code name _Landmate_, the mainstay exoskeleton of the Federation's mechanized infantry.
+- VSX-7 Talon: Vehicle, superiority, multi-domain, design iteration #7, code name _Talon_, a fighter capable of operating in air, space, and underwater without reconfiguration.
+- TDT-1 Guardian: Turret, defense, terrestrial, design iteration #1, code name _Guardian_, the Federation's networked point-defense platform, fielded in railgun (/K), pulse laser (/L), beam laser (/B), and plasma burst (/P) variants.

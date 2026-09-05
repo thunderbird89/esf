@@ -1,12 +1,12 @@
 ---
 layout: page
 type: codex-item
-title: Aurora
+title: DAA-2 Aurora
 permalink: /foundations/air/aurora
 category: air
 order: 4
 ---
-The Aurora high-speed attack drone is made to be invulnerable to anti-air defenses by virtue of its astonishing speed. Four high-performance plasma engines can accelerate the "flying wing" drone to speeds where the compression heating of the air alone creates a plasma sheath around the unit, and its dedicated high-performance AI allows it to avoid any incoming attacks.
+The Aurora, designated DAA-2, is a high-speed attack drone made to be invulnerable to anti-air defenses by virtue of its astonishing speed. Four high-performance plasma engines can accelerate the "flying wing" drone to speeds where the compression heating of the air alone creates a plasma sheath around the unit, and its dedicated high-performance AI allows it to avoid any incoming attacks.
 Notably, the Aurora is *not* stealthy - considering the plasma sheath created by atmospheric heating renders stealth moot - nor does it feature the modular architecture common to Federation units, being focused solely on overwhelmingly fast and precise strikes. When in flight, the Aurora's path is marked by a bright, luminous trail of cooling plasma, visible in the night sky, sometimes even in daylight.
 
 The Aurora utilizes the _Stiletto fast missile_ as its *only* armament. The Stiletto uses another plasma engine to accelerate rapidly to Mach 15 on launch, covering the distance to its target almost immediately. Its armored tip allows it to penetrate reinforced structures by virtue of its sheer speed and detonate its warhead inside for maximum destruction.

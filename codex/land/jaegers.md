@@ -6,7 +6,7 @@ permalink: /foundations/land/jaegers
 category: land
 order: 6
 ---
-The _Jaegers_ are a critical element of the EarthSpace Federation's special operations forces, functioning as precision-strike units for high-risk missions. Structured into compact, four-person squads, the _Jaegers_ excel in long-range elimination of high-value targets and disruption of enemy infrastructure. They are distinct from the covert ops teams, serving as the Federation's overt, high-profile instruments of deterrence and enforcement.
+The _Jaegers_ are a critical element of the EarthSpace Federation's special operations forces, functioning as precision-strike units for high-risk missions. Structured into compact, four- or five-person squads, the _Jaegers_ excel in long-range elimination of high-value targets and disruption of enemy infrastructure. They are distinct from the covert ops teams, serving as the Federation's overt, high-profile instruments of deterrence and enforcement.
 
 #### Operational Focus
 The _Jaegers_ are primarily deployed for missions requiring:
@@ -31,12 +31,13 @@ The _Jaegers_ are primarily deployed for missions requiring:
    - Embedded squad-level tactical AIs support operational coordination, providing real-time intelligence and countermeasure solutions.
 
 #### Tactical Doctrine
-Operating in teams of four, the _Jaegers_ adopt a disciplined approach:
+Operating in teams of four or five, the _Jaegers_ adopt a disciplined approach:
 1. **Role Specialization**:
    - **Marksman**: Primary sniper focusing on long-range target elimination.
    - **Spotter**: Tactical coordinator providing situational awareness and reconnaissance.
    - **Demolitions Expert**: Handles all explosive and breaching operations.
    - **Squad Leader**: Oversees mission execution, integrating input from the team and AI systems.
+   - **Gunner**: Optionally handles defense and heavy firepower. The squad leader often fulfills this role, but a separate person can be brought on board for complex missions.
 
 2. **Engagement Philosophy**:
    - Avoid direct confrontation when possible, relying on long-range precision and subterfuge.

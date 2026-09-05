@@ -1,12 +1,12 @@
 ---
 layout: page
 type: codex-item
-title: Talon
+title: VSX-7 Talon
 permalink: /foundations/air/talon
 category: air
 order: 1
 ---
-The *Talon* is the latest addition to the Federation air force. It's a multi-role, *multi-mode* aircraft, capable of operating in air, space, and underwater without reconfiguration (i.e. it can transition between all three within the same mission). The airframe is a variable wing geometry design ("swing-wing") capable of moving from back-swept wings through minimum-sweep all the way to locking the wings into the forward canards for a high-speed delta wing configuration
+The *Talon*, designated VSX-7, is the latest addition to the Federation air force. It's a multi-role, *multi-mode* aircraft, capable of operating in air, space, and underwater without reconfiguration (i.e. it can transition between all three within the same mission). The airframe is a variable wing geometry design ("swing-wing") capable of moving from back-swept wings through minimum-sweep all the way to locking the wings into the forward canards for a high-speed delta wing configuration
 
 Its modular framework allows customization to a wide range of potential missions by varying its armaments and various support modules before the mission. The framework is centered around a core engineering system that integrates the air-breathing and plasma engines and the pilot life-support system with the power and computing systems, to be augmented by various modules installed on hardpoints and internal module racks.
 

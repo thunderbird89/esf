@@ -1,12 +1,12 @@
 ---
 layout: page
 type: codex-item
-title: Landmate
+title: MMT-4 Landmate
 permalink: /foundations/land/landmate
 category: land
 order: 1
 ---
-The mainstay of the Federation's mechanized infantry is the *Landmate* powered exoskeleton.
+The mainstay of the Federation's mechanized infantry is the *Landmate* powered exoskeleton, designated MMT-4.
 
 The pilot is housed in the chest cavity of the unit, which is substantially larger than a human (standing app. 3 meters tall), and is operated via motion capture of the pilot's limbs and force feedback to the user, though its onboard AI can also operate the unit autonomously and follow simple commands ("Move!", "Attack [there]!", "Defend!", "Return [to formation]!") - this is automatically used if the pilot leaves the unit to operate, perhaps in confined spaces - or it can be controlled remotely by a more advanced AI core.
 
