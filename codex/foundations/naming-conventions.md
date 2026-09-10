@@ -42,6 +42,7 @@ The Federation employs a standardized system to designate and categorize its div
       - **F**: Force Projection
       - **P**: Precision Strike
       - **H**: Harassment
+      - **I**: Interdiction
    3. Artillery
       - **S**: Strategic
       - **T**: Tactical
@@ -79,3 +80,5 @@ The Federation employs a standardized system to designate and categorize its div
 - MMT-4 Landmate: Mech, multirole, terrestrial, design iteration #4, code name _Landmate_, the mainstay exoskeleton of the Federation's mechanized infantry.
 - VSX-7 Talon: Vehicle, superiority, multi-domain, design iteration #7, code name _Talon_, a fighter capable of operating in air, space, and underwater without reconfiguration.
 - TDT-1 Guardian: Turret, defense, terrestrial, design iteration #1, code name _Guardian_, the Federation's networked point-defense platform, fielded in railgun (/K), pulse laser (/L), beam laser (/B), and plasma burst (/P) variants.
+- VIS-1 Flycatcher: Vehicle, interdiction, space, design iteration #1, code name _Flycatcher_, a destroyer that seeds a battlespace with deployable warp disruption probes.
+- VIS-2 Broadsword: Vehicle, interdiction, space, design iteration #2, code name _Broadsword_, a cruiser that projects a continuous warp disruption field of its own.

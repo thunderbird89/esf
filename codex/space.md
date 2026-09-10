@@ -33,5 +33,11 @@ The Dreadnoughts, Carriers, Supercarriers, and Titans are not used in the Solar 
 Most ships in the galaxy are equipped with high-speed computers and dedicated evasion/defense algorithms running on specialized hardware. This is especially true for warships and combat-oriented vessels. With the ability to react to outside threats almost in real time, space combat is drastically different from science-fiction depictions, where enormous ranges separate combatants - from outside of ≈250 km, almost no weapon has a chance of inflicting meaningful damage (missiles are intercepted by point defenses, lasers are neutralized by shifting shields, plasma bolts lose coherence, railgun slugs are deflected/destroyed by momentary shield concentrations).  
 This forces space combat to occur at a relatively short range, often within 100 km or less, especially among smaller ships that cannot mount weapons large enough to reach that far. Frigate fights routinely take place inside 1 km, destroyers and cruisers might fight at 1-5 km, with only battleships reaching the 30-50 km ranges.
 
+## [VIS-1 Flycatcher-class Destroyer]({{ '/foundations/space/flycatcher' | relative_url }})
+A destroyer built around deployable warp disruption probes, seeding a battlespace with fields that trap warp-capable ships in normal space before withdrawing at speed.
+
+## [VIS-2 Broadsword-class Cruiser]({{ '/foundations/space/broadsword' | relative_url }})
+A heavily armored cruiser that projects a warp disruption field of its own, indefinitely, trading mobility for the ability to hold a volume of space closed to warp-capable forces.
+
 ## [Dropships]({{ '/foundations/space/dropships' | relative_url }})
 The Federation's light, medium, and heavy dropship classes, covering everything from infantry transit to vehicle lift and the delivery of entire prefabricated buildings between orbit and the surface.
