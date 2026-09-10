@@ -4,6 +4,7 @@
   {%- assign lines = story_pages | map: "line" | uniq | sort -%}
   {%- assign line_labels = site.data.line_labels -%}
   {%- assign codex_pages = site.pages | where: "type", "codex" | sort: "order" -%}
+  {%- assign codex_items = site.pages | where: "type", "codex-item" | sort: "order" -%}
 
   <ul class="nav-menu">
     {%- if lines.size > 0 -%}
@@ -37,7 +38,37 @@
       <ul class="submenu">
         {%- for page in codex_pages -%}
           {%- if page.title -%}
-            <li><a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+            {%- assign cat_key = page.url | split: "/" | last -%}
+            {%- assign cat_items = codex_items | where: "category", cat_key -%}
+            {%- if cat_items.size > 0 -%}
+              <li class="submenu-item has-submenu">
+                <a class="nav-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}<span class="chevron">›</span></a>
+                <ul class="subsubmenu">
+                  {%- for item in cat_items -%}
+                    {%- if item.title -%}
+                      {%- assign sub_key = item.url | split: "/" | last -%}
+                      {%- assign sub_items = codex_items | where: "category", sub_key -%}
+                      {%- if sub_items.size > 0 -%}
+                        <li class="submenu-item has-submenu">
+                          <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.title | escape }}<span class="chevron">›</span></a>
+                          <ul class="subsubmenu">
+                            {%- for subitem in sub_items -%}
+                              {%- if subitem.title -%}
+                                <li><a class="nav-item" href="{{ subitem.url | relative_url }}">{{ subitem.title | escape }}</a></li>
+                              {%- endif -%}
+                            {%- endfor -%}
+                          </ul>
+                        </li>
+                      {%- else -%}
+                        <li><a class="nav-item" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></li>
+                      {%- endif -%}
+                    {%- endif -%}
+                  {%- endfor -%}
+                </ul>
+              </li>
+            {%- else -%}
+              <li><a class="nav-item" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+            {%- endif -%}
           {%- endif -%}
         {%- endfor -%}
       </ul>

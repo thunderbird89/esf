@@ -4,247 +4,40 @@ type: codex
 title: Foundations
 permalink: /foundations/foundations
 ---
-## Naming conventions
-The Federation employs a unified designation system for its assets. Designations consist of one or more letters designating the type, purpose, and operation, followed by a dash, a number signifying iteration count, then a code name for the design.
-
-### Unified Designation Framework
-The Federation employs a standardized system to designate and categorize its diverse arsenal of platforms and equipment. This system enables quick identification, classification, and deployment of assets across various mission profiles.
-
-**Format**:  
-`[Type]-[Purpose]-[Operation/Modality](-[Iteration Number]/[Variant]) [Code Name]`
-
-#### Designation Components
-1. **Type**: The general classification of the asset.
-   - **R**: Rifle
-   - **V**: Vehicle
-   - **D**: Drone
-   - **M**: Mech
-   - **P**: Pistol or sidearm
-   - **A**: Artillery
-
-2. **Purpose**: The primary mission role of the asset. Available purposes differ based on type.
-   1. Weapons
-      - **G**: General Purpose
-      - **S**: Sniper
-      - **A**: Assault
-      - **C**: Covert
-      - **H**: Heavy
-      - **T**: Tactical
-      - **D**: Defense
-   2. Vehicles, drones, and mechs
-      - **A**: Assault
-      - **G**: Gunship
-      - **S**: Superiority
-      - **D**: Defense
-   3. Artillery
-      - **S**: Tactical
-      - **T**: Tactical
-
-3. **Operation/Modality**: Technology or specific operational focus.
-   1. Weapons
-      - **P**: Plasma
-      - **L**: Laser
-      - **E**: Directed energy
-      - **K**: Kinetic
-      - **C**: Covert
-   2. Vehicles
-      - **A**: Aerial
-      - **S**: Space
-      - **T**: Terrestrial
-
-4. **Iteration Number**: Specifies the design version or iteration. 
-   - Represents technological evolution or upgrades in the platform.
-
-5. **Variant Letter**: One or more letters identifying mission-specific design variants, appended to the iteration number after a `/`.
-   - **A**: Assault  
-   - **D**: Defense  
-   - **R**: Recon  
-   - **C**: Covert  
-   - **U**: Urban combat  
-   - (Additional letters are reserved for other specialized roles.)
-
-6. **Code Name** *(Optional)*: Descriptive name for unique identification.
-
-#### Examples
-- VGA-6 Dragon: Vehicle, gunship, aerial, design iteration #6, code name _Dragon_, a heavy attack gunship built to prioritize firepower and survival in open combat.
-- RSK-4/CM Whisperglass: Rifle, sniper, kinetic, design iteration #4, magnetic accelerator variant, covert, code name _Whisperglass_, commonly-used sniper rifle in covert operations.
-- PGP-8 Scorch: Pistol, general purpose, plasma-based, code name _Scorch_, the Federation's general issue infantry sidearm.
+## [Naming Conventions]({{ '/foundations/foundations/naming-conventions' | relative_url }})
+The Federation's unified type-purpose-modality designation system for its equipment, covering everything from the VGA-6 Dragon to the RTK-6 Hornet.
 
 ## Foundational technologies
-The Federation, thanks to its extraterrestrial benefactors, has access to several technologies and materials beyond the reach of current terrestrial nation. These include high-performance engines and power plants, energy weapons and shields, advanced AI systems, and many others. 
+The Federation, thanks to its extraterrestrial benefactors, has access to several technologies and materials beyond the reach of current terrestrial nation. These include high-performance engines and power plants, energy weapons and shields, advanced AI systems, and many others.
 
-### Neural interfacing
-Federation platforms rarely use neural interfacing, as the technology is deemed to be too noisy under field conditions for reliable control. As such, Talons, Landmates, and other vehicles don't require "synchronization" or similar practices.
+### [Neural Interfacing]({{ '/foundations/foundations/neural-interfacing' | relative_url }})
+Why Federation platforms avoid neural "synchronization" for control, and where neural implants are used instead.
 
-That said, neural *implants* are in use, especially by covert ops specialists where it's used for communications and controlling other cybernetics. 
+### [Nanotechnology]({{ '/foundations/foundations/nanotechnology' | relative_url }})
+The limited, non-self-replicating nanotech the benefactors have permitted the Federation to field.
 
-### Nanotechnology
-Notably, however, the benefactors have **not** granted access to self-replicating nanotechnology, citing the dangerous nature of such nanites. Nanotechnology is available to the Federation in limited modalities, usually restricted to _Utility Fog_-type deployments or small-scale pre-programmed self-assembling structures (such as wound dressings).
+### [Plasma Turbines]({{ '/foundations/foundations/plasma-turbines' | relative_url }})
+The core propulsion technology behind nearly all Federation aerial platforms.
 
-### Plasma turbines
-Plasma turbines are a core propulsion method employed by the Federation, using micro fusion power plants to generate thrust outstripping conventional jet engines by several orders of magnitude and are capable of operating both inside and outside the atmosphere. They are used across almost all aerial platforms in the Foundation for their thrust and top speed, which is unparalleled on Earth, and on par with alien adversaries.
+### [Shields]({{ '/foundations/foundations/shields' | relative_url }})
+The shaped energy fields the Federation uses to diffract energy weapons and deflect physical projectiles.
 
-### Shields
-The Federation employs shield generators that create constrained energy fields capable of being shaped according to the subject needs. They diffract/disrupt energy weapons like laser and plasma bolts, and deflect physical projectiles, even various hypervelocity rounds employed by extraterrestrial forces.
+### [Offensive Weapons]({{ '/foundations/foundations/offensive-weapons' | relative_url }})
+The magnetic accelerators, lasers, and plasma weapons that make up the Federation's offensive arsenal.
 
-### Offensive weapons
-The Federation relies mainly on magnetic accelerators for offensive purposes, but also makes use of various laser-, microwave-, and plasma-based weapons, including using micro plasma generators accelerated from a weapon that ionize and gather atmospheric gases as they travel, becoming more destructive as they travel downrange.
+### [Artificial Intelligence]({{ '/foundations/foundations/artificial-intelligence' | relative_url }})
+How the Federation employs shackled and unshackled AI, including its named, exceptional-hardware AIs.
 
-### Artificial Intelligence
-The Federation utilizes AI broadly. 
+### [Modularity]({{ '/foundations/foundations/modularity' | relative_url }})
+The engineering-core-and-module-rack architecture shared across most Federation platforms.
 
-They equip most vehicles and robotic units with shackled AIs to make them able to operate autonomously, but only within predefined mission parameters. These AIs utilize various motivator modules in the programming to direct their actions towards preset goals, in various ways.
+### [FTL]({{ '/foundations/foundations/ftl' | relative_url }})
+The Federation's three modes of faster-than-light travel — warp drives, jump drives, and stargates — including the secret of warp disruption.
 
-Administratively, various unshackled AI systems support the Federation's operations in the various theatres and battlespaces, not just militarily, but also bureacratically.
-
-There are also a number of specialized AIs with distinct personalities, geared towards various tasks. These named AIs include the following:
-- `HARBINGER`: specialized for massive parallel control of various combat units, capable of operating up to 2,500 simultaneous units in the field.
-- `CIPHER`: specialized for cryptographics and codebreaking operations, as well as hacking and electronic intrusion.
-- `SUNTZU`: optimized for large-scale strategic planning and execution control.
-- `ARCHIMEDES`: specializing in scientific research and creation of new technologies, as well as physical data analysis.
-
-The names of these named AIs are always written in all-uppercase to distinguish them from the lesser AIs who do not enjoy the degree of freedom and ability afforded to these by their exceptional hardware.
-
-### Modularity
-Most Federation platforms are *modular*, with an engineering core consolidating power generation and computing systems with life support (if necessary), surrounded by one or more *module racks* that accept modules via standardized high-/mid-/low-power connectors to extend functionality. These modules can be changed quickly even in forward operating bases with little engineering equipment, allowing units to change loadout and capabilities in response to shifting mission profiles.
-
-### FTL
-The Federation has access to limited FTL capacities, provided by the benefactors. These are only suitable for in-system travel and cannot achieve interstellar travel. If interstellar travel is required, the benefactors will send long-range ships to act as transports for Federation personnel and materiel.
-
-Overall, the galaxy has three main methods of FTL travel available to them:
-1. _Warp drives_ for intra-system travel
-2. A galaxy-spanning network of _stargates_ for system-to-system travel along prescribed connections
-3. _Jump drives_ for instant travel to any location marked by an active beacon
-
-#### Warp drives
-The primary mode of FTL travel available (both for the Federation and for aliens) is the _warp drive_. This is based on the concept of the _Alcubierre drive_, as the benefactors have solved the mathematical/physical challenge of reconciling warped space with the theory of relativity, without the use of negative matter.
-Short-range warp drives installed on larger space-faring vessels (usually transports or freighters) are capable of up to 8 AU/s, while the _Talon_ multi-mode fighter boasts an impressive warp drive capable of 20 AU/s displacement.
-
-Warp drives operate by locking onto remote gravimetric signatures, then forming a tunnel of warped space through which the ship can travel. While the method is fast and simple to start (provided sufficient power is available, all that is required is for the ship's velocity vector to be within 5º of its target *and* for the ship to be travelling at least 25 m/s), it suffers from the fact that once the tunnel forms, the ship has no control over it, and is restricted to moving in straight lines towards its target. However, since the ship travels in a tunnel of warped space, it can "pass through" solid objects while en route (since they don't actually occupy the same 3-space), and is only affected by gravitational disturbances.
-
-##### Warp disruption
-On 2027-03-08, during the _Battle of Sol_, the Federation discovered that warp travel can be disrupted using gravity generators, albeit at significant energy expense. This led to the creation of specialized ship classes using this technology to create volumes of space where warp travel is temporarily impossible: ships in the area cannot form warp tunnels to egress, and any warp tunnels that intersect the volume drop back to 3-space at the boundary.
-
-Importantly, the Federation is the only galactic power to have realized this, with not even the Great Races being aware that warp travel can be disrupted. The Federation guards this secret tightly, even from its Xenari benefactors, despite fielding ships that weaponize the technology, as one of their few trump cards over alien adversaries. Whenever warp disruption ships are fielded, officers are trained with plausible cover stories to explain to any alien partners why seemingly-intact targets fail to warp out from an engagement.
-
-#### Jump drives
-Jump drives are installed on larger ships (titans, dreadnoughts, carriers, supercarriers) as well as dedicated jump freighters, and provide "personal" point-to-point interstellar travel. A jump drive-equipped ship may lock on to a suitable beacon - which the Federation refers to as a _cynosural field/beacon_ - whose field signature is transmitted to it in normal communication channels, and can then open a wormhole to the location, emerging within 10 kms of the field's center. This allows these ships to traverse large distances immediately, without the use of the gate network's routing, but the field can be disrupted, rendering a jump impossible - this is routinely done in high-security systems as a precaution.
-Alternatively, the ship might keep the wormhole open from one side, creating a "jump bridge" other, smaller vessels can use. This is still subject to the ship maintaining the bridge having a stable lock on the cynosural field signature.
-
-#### Stargates
-Stargates are the primary method of traversing interstellar distances, using megastructures constructed at the edge of a system's gravity well. Gates connect to one and only one system, providing bidirectional transit between the two points and forming a point-to-point network throughout the galaxy.
-
-Stargates are "public access" in the sense that any ship may use the network to travel from one system to the next. However, ships or captains with sufficiently low security ratings may be restricted from entering higher-security systems - though gate transit is still possible, the ship may be attacked by local law enforcement on the other side.
-
-The Sol system has no stargate, but the Xenari have left a remotely operated cynosural beacon around Jupiter for transit into the system when necessary.
-
-### Infantry
+## Infantry
 Federation infantry makes heavy use of powered exoskeletons even before making the step to mechanized infantry, from lightweight frames with minimal motion assist to heavy bulky units with armor and shield generators. The exoskeletons allow them increased survivability on the battlefield and enables infantrymen to wield heavy weapons.
 
 ### Infantry weapons
 Regular infantry is usually assigned magnetic accelerator rifles using 2 mm tungsten darts, but depending on the mission profile, might be assigned low-power (25-50 MW) plasma rifles. For sidearms, smaller, 10-15 MW plasma pistols are used.
 
-Magnetic rifles can launch a variety of rounds, from simple kinetic penetrators through explosive rounds to specialty rounds with various exotic effects.
-
-#### RTK-6 *Hornet* Smart Rifle
-
-**Project Code**: RTK-6
-**System Type**: Individual Infantry Weapon – Smart Effectors Platform
-**Issued By**: EarthSpace Federation Armaments Division
-**Designation**: *Hornet*
-
----
-
-##### 1. Overview
-
-The RTK-6 *Hornet* is a compact, high-lethality infantry rifle designed for frontline operatives operating in mixed-visibility and multi-domain combat environments. It leverages Federation-exclusive micro-guidance and sensor fusion technologies to deliver a high hit probability against mobile or obscured targets. Though categorized as a rifle, the RTK-6 is functionally closer to a man-portable effector launcher, optimized for suppression, elimination, and precision target neutralization roles.
-
----
-
-##### 2. Ammunition System
-
-**Effector Type**: RTK-E Mk.I Micro-Explosive Guided Munitions
-**Dimensions**: Comparable to a 5.56mm cartridge in form factor
-**Guidance**: Semi-autonomous homing; active upon muzzle exit
-**Explosive Yield**: Sufficient to defeat most known *light armor* fielded by extraterrestrial or augmented terrestrial adversaries
-**Warhead**: Shaped micro-charge with directed fragmentation; tuned for soft and semi-armored targets
-
-**Magazine**:
-
-* Capacity: 60 effectors per magazine
-* Format: STANAG 20-form factor
-* Construction: Federated composite alloys with EM shielding
-* Note: No thermal dissipation system required; effectors produce negligible waste heat
-
----
-
-##### 3. Weapon System
-
-**Fire Modes**:
-
-* Fully automatic
-* Burst mode (optional software mod, squad-dependent)
-
-**Cycle Rate**: 850 RPM nominal; system-managed burst spacing to prevent saturation interference in dense electronic combat zones
-
-**Guidance Acquisition**:
-
-* In-scope laser designation
-* Passive IR/thermal lock
-* Remote relay via networked battlefield assets
-
-**Barrel**:
-
-* Functionally acts as an effector guidance conduit
-* Lined with magnetic pre-aligners to stabilize effector microdrives at launch
-
----
-
-##### 4. Optics & Targeting
-
-**Scope Package**: Integrated SmartScope Mk.IV
-
-* Modes: Night Vision (3rd gen), Thermal Imaging, Backscatter X-Ray
-* Overlay: Real-time target ID, threat prioritization, rangefinder
-* Target Locking: Multi-spectral tracking with limited persistence through cover
-
-**Networking**:
-
-* Sensor fusion capable
-* Shares targeting telemetry with infantry units, vehicular platforms, and aerial drones
-* Encrypted line-of-sight mesh relay; auto-handoff in case of operator downing
-
----
-
-##### 5. Operational Use
-
-The RTK-6 is intended to act as both a direct-fire smart weapon and as a node in a broader tactical network. It excels in environments where target occlusion, clutter, or EM interference would render conventional fire support ineffective. The rifle’s ability to autonomously engage hostile elements behind cover or in motion reduces the cognitive load on the operator and enhances unit lethality.
-
----
-
-##### 6. Notable Advantages
-
-* High-efficiency ammo-to-kill ratio
-* Low thermal signature
-* Superior magazine density
-* Integrated intelligence and cross-platform coordination
-* Suppression capabilities approaching man-portable support weapons with minimal bulk
-
----
-
-##### 7. Deployment Notes
-
-Currently standard-issue for covert operations teams and high-priority infantry elements operating in environments where collateral minimization, stealth, and rapid engagement cycles are mission-critical. Incompatible with conventional Earth ammunition; Federation-exclusive logistics.
-
-#### RSK-5/M Sniper rifle
-Although the speed of the round means even the regular magnetic rifle is longer-range than almost all conventional rifles (much less assault and battle rifles), the Federation also employs a designated sniper rifle, the `RSK-5/M`.
-
-This rifle is a compact railgun design comparable to most designated marksmans rifles, utilizing magnetic repulsors along the upper receiver and the barrel, so that when the trigger is squeezed to the first stage, the targeting scope locks the target under the reticle, and levitates the barrel to decouple it physically from the receiver, preventing small movements from throwing off aim. As long as the trigger is held, the rifle automatically tracks the target within a 5º cone, but only on squeezing the trigger further is the round actually fired.
-
-Range is stated to be in excess of 5,000 meters, with lethal range all the way out to 15,000 meters (at the expense of some accuracy). The rifle is stated to be able to fire five rounds in quick succession before saturating its thermal clip.
-
-The builtin scope can switch between visible-light, night vision, and thermal imaging modes, with up to 5x optical zoom. It automatically establishes range to target using a laser rangefinder, and calculates ballistics accordingly, tracking a variety of factors (range, crosswind, Coriolis force, potential ricochets, target movement, etc.), providing an overlaid aimpoint for the shooter once a target is acquired.
-
-#### Thermal clips
-Nearly all Federation firearms use _thermal clips_, machined blocks of a proprietary lithium-beryllium alloy of large heat capacity, to store waste heat of their operation. Most weapons can cool down naturally over a few minutes if the rate of fire is kept low enough, but can also be ejected from the gun and replaced with a fresh clip to keep firing immediately.
-
+Magnetic rifles can launch a variety of rounds, from simple kinetic penetrators through explosive rounds to specialty rounds with various exotic effects. See [Offensive Weapons]({{ '/foundations/foundations/offensive-weapons' | relative_url }}) for the Federation's specific small-arms designs, including the RTK-6 Hornet and RSK-5/M.
