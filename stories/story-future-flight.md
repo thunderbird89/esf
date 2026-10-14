@@ -1,6 +1,6 @@
 ---
 type: story
-layout: page
+layout: story
 line: main
 title: Flight of Icari
 permalink: /stories/flight-of-icari
@@ -8,15 +8,15 @@ timeline: 2026-06-15
 ---
 ## Blue Sky Killbox
 
-The coast shimmered under morning haze as Vandenberg Air Force Base came alive with jetwash and radio chatter. Concrete vibrated with the weight of purpose. NATO brass, consultants, and a smattering of civilian observers lined the open-air viewing gantries, craning necks against the Californian sun. Among them, a small delegation from the Portuguese Air Force stood with the quiet confidence of those who already knew what the Talon could do—they'd been flying their own for nearly a year.
+The coast shimmered under morning haze as Vandenberg Space Force Base came alive with jetwash and radio chatter. Concrete vibrated with the weight of purpose. NATO brass, consultants, and a smattering of civilian observers lined the open-air viewing gantries, craning necks against the Californian sun. Among them, a small delegation from the Portuguese Air Force stood with the quiet confidence of those who already knew what the Talon could do—they'd been flying their own for nearly a year.
 
-On the tarmac, four aircraft sat at idle. Three familiar silhouettes—F-22, Typhoon, Gripen—stood in stark contrast to the alien geometry of the *Talon*. Angular and predatory, its airframe shimmered subtly even at rest, as though deflecting more than radar. *Federation Aerospace Tactical Frame - Talon.* 
+On the tarmac, four aircraft sat at idle. Three familiar silhouettes—F-22, Typhoon, Gripen—stood in stark contrast to the alien geometry of the *Talon*. Angular and predatory, its airframe shimmered subtly even at rest, as though deflecting more than radar. *VSX-7 Talon.* 
 
 Sergeant Nathaniel Voss sat in its cockpit, visor dark, suit perfectly still. The others couldn't see the expression under his helmet—nor the way his breathing slowed before missions. Years off-world did that. You learned to conserve effort. And respect the unknown.
 
 Above them, the Control Tower barked life into the frequency.
 
-> “All right, airmen. The rules are simple: the three of you will team up against the Talon. You may use any tactic or weapon at your disposal to defeat the target. If you manage to land a successful hit, Control will update you on the status of the target—once you hit 10%, you will have won the engagement.”
+> “All right, airmen. The rules are simple: the three of you will team up against the Talon. You may use any tactic or weapon at your disposal to defeat the target. If you manage to land a successful hit, Control will update you on the status of the target—once you bring it down to 10%, you will have won the engagement.”
 
 > “Sir, what about the Talon's victory conditions?” came Colonel Kraus’s voice, clipped and efficient.
 
@@ -24,7 +24,7 @@ Above them, the Control Tower barked life into the frequency.
 
 > “So we use live ordnance and they can't?” Adams, the Raptor pilot, scoffed. “Doesn’t sound fair...”
 
-> “You’ll be surprised, sergeant. Now get ready for takeoff!”
+> “You’ll be surprised, Captain. Now get ready for takeoff!”
 
 The skies above were cleared to 80,000 feet. No satellites, no stray aircraft. Only radar ghosts and godlike ambition.
 
@@ -50,7 +50,7 @@ A bloom of light flared against the Talon’s shield envelope. The shimmer pulse
 
 > “Talon shield integrity at 98%.”
 
-Adams whistled into the comms. “You’ve *got* to be kidding me.”
+> Adams whistled into the comms. “You’ve *got* to be kidding me.”
 
 > “Keep on him!” barked Kraus. The Typhoon peeled into a wide flanking arc, gun ports hot.
 
@@ -126,7 +126,7 @@ The next pass would be closer. And the Talon was no longer drifting. It was *hun
 
 ---
 
-The Typhoon swept in from high altitude, vapor trails cutting through fractured cirrus. Colonel Kraus had waited—patient, silent—as his wingmen fell away. Now, alone, he executed a descending spiral, vectoring for a snap-deflection shot before the *thing* below could reacquire.
+The Typhoon swept in from high altitude, vapor trails cutting through fractured cirrus. Colonel Kraus had held high—patient—as his wingmen fell away. Now, alone, he executed a descending spiral, vectoring for a snap-deflection shot before the *thing* below could reacquire.
 
 The Talon rotated mid-arc, pivoting along its yaw axis with predatory stillness. The canopy turned toward Kraus like an eye.
 
@@ -158,7 +158,7 @@ Kraus juked left, fired a flare, then dumped chaff to throw off any track—refl
 
 > “Four...”
 
-> “*Gripen returning to airspace,*” Central cut in.
+> “*Gripen returning to airspace,*” Control cut in.
 
 Lindholm burst into the zone from the east, streaking low. His Gripen’s Mauser cannon thundered.
 
@@ -220,7 +220,7 @@ One by one, contrails curled as the four fighters banked toward Vandenberg. The 
 
 > “You were supposed to. It’s not a compliment.”
 
-> “Still took all three of you to get me to ninety-one,” Voss said, casually. “And that was with me standing still, more or less.”
+> “Still took all three of you to get me to eighty-eight,” Voss said, casually. “And that was with me standing still, more or less.”
 
 > “*Standing still* while breaking physics in half,” Lindholm chimed in. “What is that thing even *made* of?”
 
@@ -242,7 +242,7 @@ The Talon, black against blue, held perfect formation. Despite its size, it made
 
 > “You really from off-world, Voss?” Lindholm asked, more curious now than combative.
 
-> “Several deployments,” he said. “Most recently Kaldrith Prime. You wouldn’t like the weather.”
+> “Several deployments,” he said. “Somewhere you can’t pronounce. You wouldn’t like the weather.”
 
 > “How’d you end up here?” Adams asked. “This demo?”
 
@@ -280,6 +280,8 @@ At the front, a large screen showed a frozen frame: the Talon, mid-roll, sheddin
 
 The four pilots sat side by side, still in partial flight gear, facing the audience.
 
+Colonel Hargreaves, the range commander, stepped aside for the next speaker.
+
 > “Begin playback,” a voice said.
 
 Footage resumed. Gun cams, thermal overlays, telemetry. Vectors and time stamps crawled across the bottom of each quadrant. One by one, the Talon danced through them, untouched.
@@ -290,7 +292,7 @@ From the side door, a woman entered—black jumpsuit, Federation insignia in mut
 
 The device blinked once, then projected a perfectly aligned overlay onto the main screen. Timelines lit up. Shots were color-coded. Shield responses were animated.
 
-> “Ember has annotated the relevant frames,” Halden said, with no hint of boast. “As you’ll note, Sergeant Voss flew without active jamming, smart countermeasures, the ability to fire any weapons, **and** restricted him to visual and manual boresight.”
+> “Ember has annotated the relevant frames,” Halden said, with no hint of boast. “As you’ll note, Sergeant Voss flew without active jamming, smart countermeasures, or the ability to fire any weapons, *and* was restricted to visual and manual boresight.”
 
 A murmur moved through the room.
 
@@ -301,6 +303,8 @@ Lindholm leaned forward.
 > “Yes,” Halden said simply.
 
 One of the British analysts coughed into his hand.
+
+Halden went on.
 
 > “We observed full visual tracking in 100% of engagement passes. No radar lock, no optical suppression, no datalink coordination. And it still maintained angle and energy superiority.”
 
@@ -344,9 +348,9 @@ Liaison Halden stepped aside, letting Ember zoom the display with a subtle motio
 
 The room stilled.
 
-> “All four of you have been cleared for conditional flight certification on the *Talon* airframe. The next phase is a series of tiered integration scenarios—each building on the last. Familiarization. Weapons. Multi-role combat. Off-axis maneuvering. Interceptor doctrine.”
+> “All three of you have been cleared for conditional flight certification on the *Talon* airframe. The next phase is a series of tiered integration scenarios—each building on the last. Familiarization. Weapons. Multi-role combat. Off-axis maneuvering. Interceptor doctrine.”
 
-> “All four?” Adams asked, brow raised. “You’re letting *us* fly that?”
+> “All three?” Adams asked, brow raised. “You’re letting *us* fly that?”
 
 > “Under supervision,” Halden replied. “You’ll operate Talon frames in a distributed training environment, beginning with base-level handling and systems integration. Your first exercise is a simple patrol route. No engagement. No threats. Just airframe fluency.”
 
@@ -354,9 +358,9 @@ The room stilled.
 
 > “Flight school *on Mars*,” Adams shot back.
 
-Ember projected pilot designations over the icons—*Talon-One* through *Talon-Four*—then began a slow pan along the route, highlighting altitude layers, comms relay nodes, and fuel-equivalent ranges.
+Ember projected pilot designations over the icons—*Talon-1* through *Talon-4*—then began a slow pan along the route, highlighting altitude layers, comms relay nodes, and fuel-equivalent ranges.
 
-> “Each of you will pilot a training-configured Talon under AI-assisted logging,” Halden continued. “The patrol will assess not only handling, but synchronization of the interface. If your neural latency doesn’t match the control lattice, you’ll know before the first turn is over.”
+> “Each of you will pilot a training-configured Talon under AI-assisted logging,” Halden continued. “The patrol will assess not only handling, but synchronization of the interface. If your motion profile doesn’t match the control lattice, you’ll know before the first turn is over.”
 
 > “Sounds reassuring,” Kraus said dryly.
 
@@ -370,7 +374,7 @@ Voss folded his arms, watching the map.
 
 > “You’ll lose,” Voss said. No smile.
 
-> “Control simulators are prepped,” Ember announced. “Flight data from today’s engagement has been uploaded to your neural latency profiles. Preliminary sync in progress.”
+> “Control simulators are prepped,” Ember announced. “Flight data from today’s engagement has been uploaded to your motion-capture profiles. Preliminary sync in progress.”
 
 The screen blinked again. A new line appeared at the bottom: *Training Block One – Talon Handling Familiarization – 0600 Tomorrow*.
 
@@ -394,7 +398,7 @@ Kraus tapped the edge of his glass against the manual for emphasis.
 
 > “That implies autonomous behavior. Not just automation. The frame is *deciding*.”
 
-Voss nodded. “That’s the point.”
+> Voss nodded. “That’s the point.”
 
 > “No,” Adams said, leaning forward, “the *point* of a manned aircraft is that the *pilot* decides. Otherwise you’ve just built a drone with an expensive seat.”
 
@@ -456,7 +460,7 @@ They slowed when the Talons came into view.
 
 Kraus said nothing. His eyes moved across the leading edges, the absence of seams, the subtle iridescent shimmer that pulsed once every few seconds—barely visible unless you were looking.
 
-The new suits carried the same feel—alien but tailored. Micro-actuated pressure seams. Non-invasive neural relay mesh. Breathable even under full seal, but heavy with potential.
+The new suits carried the same feel—alien but tailored. Micro-actuated pressure seams. Full-body motion-capture mesh. Breathable even under full seal, but heavy with potential.
 
 > “I see you made it,” Voss said.
 
@@ -468,19 +472,19 @@ They each approached their assigned craft. The canopies opened without visible h
 
 Adams climbed in first. The cockpit molded subtly around him—not claustrophobic, but personal. He hesitated, then placed his hands on the throttle and the stick.
 
-> “Sergeant Christopher Adams, reporting for duty,” he said to nobody in particular.
+> “Captain Christopher Adams, reporting for duty,” he said to nobody in particular.
 
 Suddenly, the cockpit came alive. A soft cascade of lights arced across the canopy rim. Screens lit up with no startup sequence. He felt a low vibration beneath the seat—like a purr—and somewhere behind him, the Talon’s power plant flared to life.
 
 Then came the voice.
 
-> “Sergeant Adams, *welcome on board*.”
+> “Captain Adams, *welcome on board*.”
 
 It was smooth. Genderless. Direct.
 
-Adams blinked. “Okay. That’s new.”
+> Adams blinked. “Okay. That’s new.”
 
-Lindholm, climbing into his own bird, was watching with narrowed eyes. “Did it *talk* to you?”
+> Lindholm, climbing into his own bird, was watching with narrowed eyes. “Did it *talk* to you?”
 
 > “Yeah,” Adams replied. “And I think it meant it.”
 
@@ -500,7 +504,7 @@ All four Talons sat ready now, their cockpits sealed, systems primed, and inerti
 
 From Control, Ember’s voice entered their helmets:
 
-> “Talon Flight, this is Command. Systems green across the board. Begin taxi to Runway One-Seven. Confirm formation takeoff. You are cleared for Training Block One: Familiarization Patrol.”
+> “Talon Flight, this is Control. Systems green across the board. Begin taxi to Runway Three-Zero. Confirm formation takeoff. You are cleared for Training Block One: Familiarization Patrol.”
 
 Voss grinned behind his visor.
 
@@ -508,7 +512,7 @@ Voss grinned behind his visor.
 
 ---
 
-The four Talons roared off Vandenberg’s Runway 17, staggered two-by-two, afterburners spooling with eerie restraint—no fireballs, no sonic boom, just a low-frequency thrum that you *felt* more than heard.
+The four Talons roared off Vandenberg’s Runway 30, staggered two-by-two, afterburners spooling with eerie restraint—no fireballs, no sonic boom, just a low-frequency thrum that you *felt* more than heard.
 
 Voss led the formation, his bird climbing smoothly into the rising sun, banking west over the ocean. The others followed, less fluid. *Almost* tight. Almost.
 
@@ -570,7 +574,7 @@ Adams leaned into a wide arc, this time not gripping the stick like a lifeline.
 
 Lindholm followed in echelon, climbing in a slow spiral before flattening into level flight.
 
-> “It’s responding before I move. Like it's listening to my spine, not my hands.”
+> “It’s responding before I finish the move. Like it's reading my whole body, not just my hands.”
 
 Kraus remained quiet, but the crispness of his turns spoke for him.
 
@@ -590,7 +594,7 @@ In the lower left, a thrust output gauge pulsed in real-time—subtle, clean, dy
 
 > “I see it too,” Kraus said. “Fuel reserves, velocity delta, wind vector alignment. All in the periphery.”
 
-Adams turned to check Lindholm’s position. As he looked, something else materialized—soft lines outlining the other Talon, annotations drifting into place: *TALON-3 – SGT LINDHOLM – STATUS: GREEN*. A translucent ring highlighted his distance and relative pitch.
+Adams turned to check Lindholm’s position. As he looked, something else materialized—soft lines outlining the other Talon, annotations drifting into place: *TALON-3 – CPT LINDHOLM – STATUS: GREEN*. A translucent ring highlighted his distance and relative pitch.
 
 He looked at Kraus. The same: *TALON-2 – COL KRAUS – SYNC: 97%*.
 
@@ -648,7 +652,7 @@ Their vision narrowed. Fingers curled instinctively, even though the stick was n
 
 Every heartbeat felt delayed. The G-suit strained. The canopy shook—not from turbulence, but from the *sheer violence* of exit velocity.
 
-Lindholm grit his teeth.
+Lindholm gritted his teeth.
 
 > “Is—this—normal—?!”
 
@@ -658,7 +662,7 @@ Below them, Earth receded.
 
 The ascent wasn’t a climb. It was a *puncture*.
 
-At 120,000 feet, atmospheric drag was irrelevant. The plasma drives dimmed to a low hum, and the black of near-space enveloped them, studded with cold starlight.
+At 120 kilometers, atmospheric drag was irrelevant. The plasma drives dimmed to a low hum, and the black of near-space enveloped them, studded with cold starlight.
 
 Silence.
 
@@ -694,7 +698,7 @@ He let the silence linger.
 
 They didn't speak. They didn't need to.
 
-Below them, the Pacific glinted like a molten coin under sunlight, and far to the north, faint auroras curled along the pole. Their Talons held perfect station with no effort—like they belonged here.
+Below them, the Pacific glinted like a molten coin under sunlight. Their Talons held perfect station with no effort—like they belonged here.
 
 > "We'll be back in a few days," Voss said. "You'll do this again. For longer. Harder. With objectives."
 
@@ -722,7 +726,7 @@ They simply looked.
 
 The descent was gentle—eerie in how little it felt like reentry.
 
-The Talons bled altitude without drag, slipping back into atmosphere like shadows returning to a body. The transition to air-breathing mode occurred automatically at 67,000 feet, marked only by a low, tactile hum through the cockpit as the turbines spun back to life. Control systems dampened the shift, feeding velocity into a high-altitude glide until Vandenberg's coastline appeared beneath them.
+The Talons bled altitude without drag, slipping back into atmosphere like shadows returning to a body. The transition to air-breathing mode occurred automatically at 70,000 feet, marked only by a low, tactile hum through the cockpit as the turbines spun back to life. Control systems dampened the shift, feeding velocity into a high-altitude glide until Vandenberg's coastline appeared beneath them.
 
 They touched down just past sunset, wheels kissing the runway with barely a whisper. Four silhouettes. One formation.
 
@@ -768,7 +772,7 @@ They'd earned that much.
 
 The sky over Groom Lake was scrubbed clear by altitude and design. The test range sprawled out in concentric zones, bristling with remote towers, observation arrays, and reconfigurable target fields.
 
-The four Talons sat on the apron, gleaming under morning light. Each of them now bore a slim weapons signature beneath the canopy—no hardpoints, no pylons, just internal bays that hinted at teeth behind the sleek.
+The four Talons sat on the apron, gleaming under morning light. Each of them now bore a slim weapons signature beneath the canopy—hardpoints bare, weapons stowed in internal bays that hinted at teeth behind the sleek.
 
 From the observation deck, Ember’s voice chimed into their helmets.
 
@@ -786,7 +790,7 @@ Adams locked his vision on it and felt the crosshair bloom to life.
 
 He didn’t move his hands.
 
-The HUD lock shifted the moment he *thought* about switching targets—glancing toward a mobile drone sweeping low across the field.
+The HUD lock shifted the moment his eyes flicked toward a mobile drone sweeping low across the field.
 
 > “Whoa.”
 
@@ -794,7 +798,7 @@ The HUD lock shifted the moment he *thought* about switching targets—glancing 
 
 > “It jumped,” Adams replied. “I didn’t touch the stick. I just looked.”
 
-> “Intent tracking is real,” Voss said. “It knows what you’re thinking about. It’ll wait for certainty, but if your focus shifts... it’ll follow.”
+> “Intent tracking is real,” Voss said. “It tracks where you’re looking. It’ll wait for certainty, but if your focus shifts... it’ll follow.”
 
 Lindholm tested it—hard look right, then back left. Sure enough, the lock trailed his attention like a hawk’s gaze.
 
@@ -930,7 +934,7 @@ The Talon kept pace—but not quite enough. Not *clever* enough. Not yet.
 
 Then instinct took over.
 
-> “After him!” Lindholm barked while focused on the remaining F-16, more out of habit than out of consideration.
+> “After him!” Lindholm barked while focused on the Bravo F-16, more out of habit than out of consideration.
 
 Immediately, the Talon chimed a tone in his helmet, subtle but bright, and the stick in his hand shifted—resistance softening, tension vectors bleeding off. The entire airframe reoriented beneath him like a wolf falling into stride behind a fleeing deer.
 
@@ -954,9 +958,9 @@ The Bravo banked right—too sharp. Its envelope collapsed just slightly. Lindho
 
 He squeezed the trigger.
 
-A short burst from the plasma cannon lanced out, clean and invisible save for the brief flicker of residual ionization in the slipstream. The rounds struck clean—mid-spine, just above the engine housing.
+A short burst from the plasma cannon lanced out, a thin pale-blue line trailing a brief flicker of residual ionization in the slipstream. The rounds struck clean—mid-spine, just above the engine housing.
 
-The F-16 detonated in a white-orange bloom, shrapnel spinning out like glitter in vacuum.
+The F-16 detonated in a white-orange bloom, shrapnel spinning out like glitter in the desert sun.
 
 > “Bravo down,” Ember announced.
 
@@ -1058,7 +1062,7 @@ Gone.
 
 Lindholm hesitated. His stomach curled.
 
-“Every instinct and every brain cell in Lindholm’s head screamed against him as he dove his Talon directly at the water.”
+Every instinct and every brain cell in Lindholm’s head screamed against him as he dove his Talon directly at the water.
 
 And then, he was underwater and *still flying*.
 
@@ -1164,37 +1168,37 @@ A *submarine*.
 
 Kraus zoomed in on the silhouette.
 
-> “That’s no decoy. That’s a Jin-class.”
+> “That’s no decoy. That’s a Shang-class.”
 
 ---
 
-### 410 meters below – PLAN Strategic Reconnaissance Submarine *Hǎishì Yǐng*
+### 410 meters below – PLAN Nuclear Attack Submarine *Hǎishì Yǐng*
 
 Sonar Officer Liu’s brow furrowed as the display updated. The signature was *wrong*—not a whale, not geological noise. Too fast. Too deliberate.
 
 > “Captain, we have multiple contacts. No acoustic match in the database. Speed... excessive for manned vessels at this depth.”
 
-Commander Zhen approached the console, eyes narrowing. Four objects. No ping response. No IFF. One swept overhead with impossible precision, decelerating with no prop wash or cavitation trail.
+Captain Zhen approached the console, eyes narrowing. Four objects. No ping response. No IFF. One swept overhead with impossible precision, decelerating with no prop wash or cavitation trail.
 
 > “Visuals?” he asked.
 
-The periscope module—retracted but always ready—was deployed through a slender hull sleeve fitted for high-depth observations. A low-light external camera snapped into place.
+An external low-light camera pod extended from a hull sleeve fitted for deep observation.
 
 And there they were.
 
 Four sleek shapes. Angular, faceted, glowing faintly along their control surfaces. They moved with uncanny grace—*intelligent* grace—circling the submarine with practiced curiosity. One passed within twenty meters of the conning tower and didn’t leave so much as a pressure wake.
 
-Not fish. Not American. Not Russian. Not anything they’d ever seen.
+Not fish. Not American. Not Russian. Nothing that belonged at this depth.
 
 > “What *are* they?” Liu asked quietly.
 
-Commander Zhen said nothing. Just watched.
+Captain Zhen said nothing. Just watched.
 
 ---
 
 ### Back with Talon Flight
 
-The Talons glided around the Jin-class, silent but deliberate.
+The Talons glided around the Shang-class, silent but deliberate.
 
 > “What the hell is a Chinese sub doing here?” Adams asked. “They’re way outside patrol zones.”
 
@@ -1264,7 +1268,7 @@ They were building it.
 
 ### Aboard *Hǎishì Yǐng* – Depth 320 meters, Eastern Pacific
 
-The hum of the Jin-class submarine’s systems filled the control room—steady, low, familiar. But the bridge crew remained tense, faces drawn, eyes flicking from consoles to the forward screens and back again.
+The hum of the Shang-class submarine’s systems filled the control room—steady, low, familiar. But the bridge crew remained tense, faces drawn, eyes flicking from consoles to the forward screens and back again.
 
 Sonar Officer Liu studied the playback loop for the third time. No cavitation, no propulsion wake, no conventional signature of *any* kind. Just the tracks—fast, tight, purposeful—moving around them like wolves circling a penned animal.
 
@@ -1356,15 +1360,15 @@ Lindholm blinked.
 
 Halden stepped forward, clearly used to this moment.
 
-> "Today, you'll also be introduced to Talon warp capability. This includes FTL vector alignment, bubble projection, and subspace braking procedures. Each frame is fitted with a short-hop spatial drive calibrated to interplanetary transit. These systems are not theoretical. They are *routine*."
+> "Today, you'll also be introduced to Talon warp capability. This includes alignment, tunnel formation, and exit procedures. Each frame is fitted with a short-hop spatial drive calibrated to interplanetary transit. These systems are not theoretical. They are *routine*."
 
-The wall screen shifted, now showing schematics of the Talon's warp nacelles—stealthed inside the fuselage until extended during high-velocity operations. Next to them, transit paths: Earth to Luna, Luna to Mars, Mars to Belt—each labeled not in days or hours, but *seconds*.
+The wall screen shifted, now showing schematics of the Talon's warp drive. Next to them, transit paths: Earth to Luna, Luna to Mars, Mars to Belt—each labeled not in days or hours, but *seconds*.
 
 > "You will begin in orbit," Halden continued. "Once you've completed your maneuvering evaluations and weapons sync in zero-gravity conditions, Ember will authorize your transition to lunar space. All transitions are frame-locked. The system will not allow miscalculated jumps."
 
 > "That's comforting," Adams muttered.
 
-> "You'll thank it later," Voss said. "Mars gets *crowded* fast."
+> "You'll thank it later," Voss said. "Mars comes up fast."
 
 Lindholm rubbed the back of his neck, glancing at the trajectory map. One of the arcs pulsed—highlighted in red.
 
@@ -1394,13 +1398,13 @@ But that didn't last.
 
 > "Talon-4, standing by."
 
-Voss chimed in last. "Talon-1, cleared. Let's take the high road."
+> Voss chimed in last. "Talon-1, cleared. Let's take the high road."
 
 The HUDs flashed green. The familiar pulse beneath the cockpit returned—that subtle shift in engine tone, the whisper that things were about to become *unreasonable*.
 
 > "Orbital engines primed. Atmospheric vector lock achieved," Ember said.
 
-They passed 68,000 feet.
+They passed 70,000 feet.
 
 > "Engage plasma thrust. Full ascent profile."
 
@@ -1412,7 +1416,7 @@ The Talons leapt upward as if shot from railguns. There was no afterburner flare
 
 Lindholm's teeth rattled as the Mach indicator blurred past readable. The blue of the atmosphere peeled away into violet, then black. Clouds shrank to texture. Coastlines bent into curve.
 
-Altitude: 140,000 feet.
+Altitude: 350 kilometers.
 
 Velocity: hypersonic.
 
@@ -1484,9 +1488,9 @@ The last maneuvering drill ended in perfect silence, four Talons drifting over t
 
 > "Drills complete," Ember confirmed. "Ready for vector alignment."
 
-Back at Vandenberg, the Portuguese delegation leaned forward in the observation gallery. Their own Talons had performed admirably in atmospheric and orbital operations over the past year, but interplanetary warp remained theoretical. Every officer present had a tablet or notepad ready, documenting what came next.
+Back at Vandenberg, the Portuguese delegation leaned forward in the observation gallery. Their own Talons had performed admirably in atmospheric and orbital operations over the past year, but beyond one demonstration flight to Jupiter, none of their own pilots had been cleared to warp. Every officer present had a tablet or notepad ready, documenting what came next.
 
-On cue, the Talons reoriented. Their HUDs recalibrated for long-range interbody flight, showing a clean vector spike arcing toward the Moon—just a quarter-million kilometers away.
+On cue, the Talons reoriented. Their HUDs recalibrated for long-range interbody flight, showing a clean vector spike arcing toward the Moon—barely four hundred thousand kilometers away.
 
 A line appeared across their cockpits: *Lunar Trajectory Locked – Warp Initiation Pending.*
 
@@ -1520,19 +1524,19 @@ The grey surface rolled beneath them—impact craters sharp in low-angle sunligh
 
 ### Aboard Tiangong Station – Low Earth Orbit
 
-"Radar contact. Multiple objects," said Commander Guo, squinting at his monitor. "No thermal signatures. No comms. Not tracking like debris."
+> "Radar contact. Multiple objects," said Commander Guo, squinting at his monitor. "No thermal signatures. No comms. Not tracking like debris."
 
 Lieutenant Sun leaned in. The dots were *weird*. Not in pattern. No decay in orbit. Not a single retrograde trajectory.
 
 > "That's... not a satellite cluster," he muttered. "Could be black project test vehicles?"
 
-Guo frowned. "They just... disappeared."
+> Guo frowned. "They just... disappeared."
 
 > "Sensor error?"
 
 > "No. It was coordinated."
 
-Sun pushed away from the console, walking to the viewing panel. Then, an idea—he grabbed the fixed-range telescope, manually slewed it to the patch where the contacts had last been.
+Sun pushed away from the console, drifting to the viewing panel. Then, an idea—he grabbed the fixed-range telescope, manually slewed it to the patch where the contacts had last been.
 
 He peered through.
 
@@ -1548,11 +1552,11 @@ Sun lowered the telescope, still staring.
 
 > "I... don't know what I saw," he said slowly. "But I don't think we were supposed to see it."
 
-They stood there in silence, above a world that still believed in limits.
+They hung there in silence, above a world that still believed in limits.
 
 ---
 
-### Vandenberg Air Force Base – Observation Gallery
+### Vandenberg Space Force Base – Observation Gallery
 
 The room had gone silent the moment the Talons vanished from Earth orbit. NATO brass, consultants, and observers stood frozen, eyes locked on telemetry screens showing impossible data. Transit time to lunar orbit: 0.3 seconds. Distance covered: 384,400 kilometers.
 
@@ -1562,11 +1566,11 @@ Among the Portuguese delegation, Colonel Tavares set down his tablet with trembl
 
 > "Less than a second," Tavares murmured in Portuguese, shaking his head. "Meu Deus."
 
-An American general near the front turned to his aide, voice low but carrying in the stunned quiet. "Confirm that telemetry. I need to know we're not looking at a systems error."
+> An American general near the front turned to his aide, voice low but carrying in the stunned quiet. "Confirm that telemetry. I need to know we're not looking at a systems error."
 
 > "Telemetry confirmed, sir. All four Talons now in stable lunar orbit. No anomalies detected."
 
-Silva leaned closer to Tavares. "We've been flying these for a year and never knew they could do *this*."
+> Silva leaned closer to Tavares. "We've been flying these for a year and never flown them like *this*."
 
 > "Because we never asked," Tavares replied quietly. "We never thought to ask if science fiction was real."
 
@@ -1622,7 +1626,7 @@ Kraus turned hard, trying to outmaneuver a drone approaching from below.
 
 > “Say it,” Voss cut in. “*Tell* it what you need.”
 
-Kraus grit his teeth. “Get me nose-on!”
+> Kraus gritted his teeth. “Get me nose-on!”
 
 The Talon flipped *without* rolling, applying thrust along a new axis entirely. The nose snapped onto the target line as if gravity itself had been rewritten.
 
@@ -1630,7 +1634,7 @@ He fired. Direct hit.
 
 > “Talon-2, target destroyed.”
 
-Adams started to laugh, breathless. “It’s *listening* to us.”
+> Adams started to laugh, breathless. “It’s *listening* to us.”
 
 > “Always was,” Voss replied, already mid-chase. “You’re just finally talking like a pilot.”
 
@@ -1665,15 +1669,15 @@ One by one, they reached out and poked the air where the icon was.
 The menu expanded.
 
 Targets appeared:  
-- **Luna** (grayed out)  
-- **Mars**  
-- **Jupiter**  
-- **Belt Sectors Alpha–Delta**  
-- **Jovian Shipyards**  
-- **Cyno Point**  
-- **Frontier Listening Post #1**
+- Luna (grayed out)  
+- Mars  
+- Jupiter  
+- Belt Sectors Alpha–Delta  
+- Restricted (grayed out)  
+- Restricted (grayed out)  
+- Restricted (grayed out)
 
-> “What the hell is *Cyno Point*?” Adams murmured.
+> “What’s behind the *restricted* ones?” Adams murmured.
 
 > “You’ll find out,” Voss said. “Today? Mars.”
 
@@ -1863,7 +1867,7 @@ The darkness between the rocks shifted.
 
 > “Share vector,” Voss said.
 
-The HUD shifted again. Kraus’ visual data appeared in the others’ cockpits, layered in crisp wireframe.
+The HUD shifted again. Kraus’s visual data appeared in the others’ cockpits, layered in crisp wireframe.
 
 > “We see it,” Lindholm confirmed. “Angle’s clean. Let’s check it.”
 
@@ -1897,13 +1901,13 @@ But this time, the Talons were ready.
 
 > “Share vectors,” Voss said. “No one sees alone.”
 
-The sensor fusion grid flared brighter. Lindholm’s perspective popped into Adams’ side panel, showing the drone weaving between two long boulders. Kraus marked a predictive intercept vector. Adams took the angle.
+The sensor fusion grid flared brighter. Lindholm’s perspective popped into Adams’s side panel, showing the drone weaving between two long boulders. Kraus marked a predictive intercept vector. Adams took the angle.
 
 > “Firing.”
 
 A clean burst. The plasma beam curved around the rock’s edge like a scalpel through fog. First drone: destroyed.
 
-Lindholm, now fully synced to the shared data, used Kraus’ thermal trail to time his thrust. He darted forward and shot through a narrow asteroid canyon, cutting his target in half at point-blank range.
+Lindholm, now fully synced to the shared data, used Kraus’s thermal trail to time his thrust. He darted forward and shot through a narrow asteroid canyon, cutting his target in half at point-blank range.
 
 > “Two down,” Ember reported. “One remains.”
 
@@ -1921,7 +1925,7 @@ Silence returned to the belt. Their sensor grid widened once more, resuming the 
 
 > “Well executed,” Voss said. “Now you’re not just flying. You’re *thinking as a system*.”
 
-Adams exhaled. “And they didn’t even scratch us.”
+> Adams exhaled. “And they didn’t even scratch us.”
 
 > “Let’s keep it that way,” Kraus replied.
 
@@ -1965,7 +1969,7 @@ The missile launched without fanfare—just a faint glow and a straight line.
 
 Two seconds later, it hit.
 
-The Inferno missile bloomed with staggering ferocity—no concussive fireball, just a cascade of shaped plasma bursts detonating in precise intervals. Four drones in tight formation were obliterated instantly, fragments spinning like slag.
+The Inferno missile bloomed with staggering ferocity—no concussive fireball, just a cascade of shaped plasma bursts detonating in precise intervals. Five drones in tight formation were obliterated instantly, fragments spinning like slag.
 
 For a brief second, the surrounding field lit up like a miniature sun, shadows warping across nearby rocks.
 
@@ -2087,9 +2091,9 @@ Space folded—and in less than a minute, they re-emerged just outside Earth’s
 
 ### Aboard Tiangong Station – LEO
 
-“Sir, radar contact. Brief. High velocity. Low signature.”
+> “Sir, radar contact. Brief. High velocity. Low signature.”
 
-Commander Guo frowned, stepping toward the console.
+Commander Guo frowned, pushing off toward the console.
 
 > “Display it.”
 
@@ -2133,7 +2137,7 @@ At the head of the room stood Mira Halden, flanked by Ember and a row of Federat
 
 She turned slightly, letting the statement hang.
 
-> “You are the first humans outside the Federation to experience warp travel. To execute coordinated Talon operations across multiple celestial bodies. And to return without error.”
+> “You are the first humans outside the Federation to qualify on warp travel. To execute coordinated Talon operations across multiple celestial bodies. And to return without error.”
 
 That last line wasn’t just a compliment—it was a statement of baseline expectation.
 
@@ -2173,25 +2177,25 @@ Because they *were*.
 
 ---
 
-### People’s Liberation Army Strategic Intelligence Bureau – Beijing
+### Joint Staff Department Intelligence Bureau – Beijing
 
-The lights were dimmed in the subterranean briefing room, the only illumination coming from the screen at the front—split into two grainy feeds. One, a periscope-captured silhouette of a shadowy object weaving through the Pacific depths. The other, an optical snapshot from Tiangong Station, four black forms slicing through Earth’s upper atmosphere, glowing faintly as they broke reentry.
+The lights were dimmed in the subterranean briefing room, the only illumination coming from the screen at the front—split into two grainy feeds. One, a hull-camera silhouette of a shadowy object weaving through the Pacific depths. The other, an optical snapshot from Tiangong Station, four black forms slicing through Earth’s upper atmosphere, glowing faintly as they broke reentry.
 
 At the long table, a dozen military analysts sat tense, their expressions strained with the weight of the unexplainable.
 
 Colonel Zhang stood with arms crossed, gaze fixed on the screen. He didn’t look back when he spoke.
 
-> “We have two independent sightings. One underwater, the other in orbit. No common telemetry, no known configuration. Yet they are identical. Same dimensions. Same behavior.”
+> “We have two independent sightings. One underwater, the other in orbit. No common telemetry. Yet they are identical. Same dimensions. Same behavior. The same airframe that escorted our J-16s out of the Strait last year.”
 
 No one replied.
 
 The silence lingered too long.
 
-> “But they are American,” he added, more as an assertion than a question.
+> “But these are American,” he added, more as an assertion than a question.
 
-A few uncomfortable shifts around the table. Eyes flicked toward Liu, the senior technical analyst.
+A few uncomfortable shifts around the table. Eyes flicked toward Tang, the senior technical analyst.
 
-> “Unknown, sir,” Liu said carefully. “They were operating within U.S. naval and aerospace corridors with full freedom of movement. But considering how little we know, I think they could have done so in *any* nation's domain…”
+> “Unknown, sir,” Tang said carefully. “They were operating within U.S. naval and aerospace corridors with full freedom of movement. But considering how little we know, I think they could have done so in *any* nation's domain…”
 
 He trailed off, choosing his next words with care.
 
@@ -2199,13 +2203,13 @@ He trailed off, choosing his next words with care.
 
 Zhang’s jaw tightened. He turned fully now, eyes hard.
 
-> “If this is a next-generation strike system, it is decades beyond anything in our black labs. You’re telling me our submarines and our orbital station both observed the same... ghosts?”
+> “Whoever built this airframe is decades beyond anything in our black labs. You’re telling me our submarines and our orbital station both observed the same... ghosts?”
 
-> “They left no emissions. No backscatter,” Liu said. “Even our AI-assisted frame analysis can’t determine a propulsion method. The one engaged by the *Hǎishì Yǐng* deployed no weapons, no signature. But it maneuvered like it had unlimited thrust and zero mass.”
+> “They left no emissions. No backscatter,” Tang said. “Even our AI-assisted frame analysis can’t determine a propulsion method. The one engaged by the *Hǎishì Yǐng* deployed no weapons, no signature. But it maneuvered like it had unlimited thrust and zero mass.”
 
 > “And Tiangong?”
 
-Liu gestured to the still image: four dark streaks over Earth.
+Tang gestured to the still image: four dark streaks over Earth.
 
 > “Station recorded only seconds of data. But enough to match profiles. Perfect formation. Hypersonic descent through controlled reentry. No ablative flare. They disappeared into cloud at Mach 10.”
 
@@ -2213,9 +2217,9 @@ Zhang exhaled slowly. For a long moment, no one spoke.
 
 Then he walked to the screen and tapped the blurred silhouette, frozen mid-frame, crossing the stars like a myth made metal.
 
-> “Find out where these came from.”
+> “Find out who is flying these.”
 
-> “Yes, sir,” Liu said.
+> “Yes, sir,” Tang said.
 
 But they all knew the truth: they weren’t going to find anything.
 
@@ -2223,7 +2227,7 @@ But they all knew the truth: they weren’t going to find anything.
 
 The mess hall at Vandenberg hadn’t seen this much laughter in a long time.
 
-They’d been quiet at first—grateful, tired. But with each drink, the tension of asteroid duels and orbital war began to dissolve into something more human. Lindholm started telling a garbled version of how he “almost got sucked into Phobos,” which wasn’t even close to true, but no one corrected him. Kraus, ever stoic, even smirked once. Maybe twice.
+> They’d been quiet at first—grateful, tired. But with each drink, the tension of asteroid duels and orbital war began to dissolve into something more human. Lindholm started telling a garbled version of how he “almost got sucked into Phobos,” which wasn’t even close to true, but no one corrected him. Kraus, ever stoic, even smirked once. Maybe twice.
 
 Adams, halfway through a third glass of something that claimed to be whiskey, lifted it in a solemn toast.
 
@@ -2245,9 +2249,9 @@ Red lights flared to life across the control room.
 
 > “General alert. High-altitude intrusion over the eastern Pacific.”
 
-Radar operators leaned in, scrolling through sweeps of the upper atmosphere. Something massive—fast, irregular—was entering from the west at impossible altitude.
+Radar operators leaned in, scrolling through sweeps of the upper atmosphere. Something massive—slow, irregular—was drifting in from the west at extreme altitude.
 
-> “Unidentified object. No IFF, no satellite trajectory match. Speed: 5,200 knots. Altitude: 74,000 feet. Crossing into air defense corridor now.”
+> “Unidentified object. No IFF, no satellite trajectory match. Speed: 40 knots. Altitude: 81,000 feet. Crossing into air defense corridor now.”
 
 Brigadier General Harris was already storming in, still pulling on his uniform jacket.
 
@@ -2299,15 +2303,15 @@ Behind him, Mira Halden had been watching with the same unreadable calm she alwa
 
 > “That might not be necessary,” she said quietly.
 
-He turned, mid-step, eyes narrowing. “What?”
+> He turned, mid-step, eyes narrowing. “What?”
 
 She lifted her phone-like device and spoke into it with quiet precision.
 
 > “Ember, would you be so kind as to send Voss’s plane to investigate and handle this?”
 
-> “Certainly, Ms. Halden. Talon One is launching momentarily,” came the AI’s smooth voice from the tiny speaker.
+> “Certainly, Ms. Halden. Talon-1 is launching momentarily,” came the AI’s smooth voice from the tiny speaker.
 
-Harris blinked. “Voss’s—?”
+> Harris blinked. “Voss’s—?”
 
 Outside, across the paddocks, the low whine began to rise—soft at first, then unmistakable. Maintenance crews, who had been rushing to tow out a conventional interceptor, paused mid-motion. Heads turned.
 
@@ -2321,17 +2325,17 @@ Voss, still seated at the table, lifted his glass in salute.
 
 > “Nobody. Cheers.”
 
-Outside, Talon One accelerated into the night.
+Outside, Talon-1 accelerated into the night.
 
 ---
 
-Talon One climbed through the darkness on a smooth arc, guided by no human hands. Its plasma engines shimmered softly in the upper atmosphere, painting a halo behind it as it ascended toward the unknown contact—still classified by NORAD as an “unresolved high-altitude anomaly.”
+Talon-1 climbed through the darkness on a smooth arc, guided by no human hands. Its plasma engines shimmered softly in the upper atmosphere, painting a halo behind it as it ascended toward the unknown contact—still classified by NORAD as an “unresolved high-altitude anomaly.”
 
 At 81,000 feet, the target resolved visually. A large envelope, white and slow-moving, tethered beneath it an undercarriage bristling with sensors and antennas.
 
 A Chinese surveillance balloon. Advanced, but nothing new.
 
-Talon One didn’t hesitate.
+Talon-1 didn’t hesitate.
 
 ---
 
@@ -2352,16 +2356,16 @@ Its nose-mounted aperture pulsed once—an invisible lattice of directed EM fiel
 [DEBUG] ∷ Command protocol identified: 64-bit encryption, low-frequency handshake.
 [INFO] ∷ Exploit library match: CN-SAT-VU27.
 [INFO] ∷ Engaging infiltration routine.
-[SUCCESS] ∷ Access granted. Payload telemetry accessed.
+[INFO] ∷ Access granted. Payload telemetry accessed.
 [INFO] ∷ Downloading onboard storage (16.2GB).
 [INFO] ∷ Download complete. Purging uplink buffer.
 ```
 
 ---
 
-Talon One drifted to the side, observing the tethered array for another moment. Inside the balloon’s electronics, data packets were unraveling—silently stolen, copied, replaced with null feedback loops.
+Talon-1 drifted to the side, observing the tethered array for another moment. Inside the balloon’s electronics, data packets were unraveling—silently stolen, copied, replaced with null feedback loops.
 
-Its mission complete, Talon One pulled slightly back, recalculated wind drift vectors, then realigned its trajectory.
+Its mission complete, Talon-1 pulled slightly back, recalculated wind drift vectors, then realigned its trajectory.
 
 A pulse of light.
 
@@ -2378,7 +2382,7 @@ The plasma cannon fired once.
 
 The balloon tore open with a gentle puff, almost undramatic—until the payload housing ignited and tumbled earthward in a slow, terminal descent.
 
-Talon One angled east, already curving into descent.
+Talon-1 angled east, already curving into descent.
 
 ---
 
@@ -2395,11 +2399,11 @@ And with that, it disappeared into the night—an automated ghost, silent and sa
 
 The Talon came in low and smooth, just a whisper on Vandenberg’s radar—its engines modulated to an almost ghostlike profile. It flared over the runway with eerie precision, decelerated gently, then rolled to a stop as if guided by the hand of some invisible pilot.
 
-Hydraulic actuators hummed softly. The landing gear locked. Taxi lights flicked on autonomously as the aircraft turned itself toward the paddocks.
+Actuators hummed softly. The landing gear locked. Taxi lights flicked on autonomously as the aircraft turned itself toward the paddocks.
 
 The air crews stood aside. No one touched it.
 
-Talon One pulled into position, parked, and powered down without ceremony. The nacelle glow dimmed, HUDs faded, and the canopy remained closed. No cockpit opened. No canopy hissed.
+Talon-1 pulled into position, parked, and powered down without ceremony. The nacelle glow dimmed, HUDs faded, and the canopy remained closed. No cockpit opened. No canopy hissed.
 
 Nothing moved.
 
@@ -2475,7 +2479,7 @@ That got their attention.
 
 > “You do,” Voss added. “You *can*.”
 
-Adams leaned back, eyes on the paused screen. “Feels backwards. Machine flying while we’re drunk in a mess hall.”
+> Adams leaned back, eyes on the paused screen. “Feels backwards. Machine flying while we’re drunk in a mess hall.”
 
 > “No,” Voss said. “That was exactly how it was *meant* to work.”
 
@@ -2503,7 +2507,7 @@ He no longer second-guessed the aircraft. He didn’t fight its logic—he *lean
 
 And now, he had a wingman.
 
-Jessica Parker, callsign “Spitfire,” USAF. Former F-15E Strike Eagle pilot, two deployments over the Taiwan Strait, and a steady hand with none of the bravado. She took to the Talon like she was born in its cockpit—quiet, quick-thinking, a perfect mirror to Adams’s tempo.
+Jessica Parker, callsign “Spitfire,” USAF. Former F-15E Strike Eagle pilot, two deployments to Kadena, and a steady hand with none of the bravado. She took to the Talon like she was born in its cockpit—quiet, quick-thinking, a perfect mirror to Adams’s tempo.
 
 The two of them were running an altitude sweep over the Mojave when the alert hit.
 
@@ -2523,7 +2527,7 @@ Parker’s voice came through crisp.
 
 > “Better than the funeral detail.”
 
-Command’s voice replaced Ember’s.
+Control’s voice replaced Ember’s.
 
 > “Talon Two-One and Two-Two, you are cleared for immediate orbital launch. Authorization vector uploaded. Objective: intercept and escort PLAAF assets out of Taiwanese airspace. Avoid escalation.”
 
@@ -2595,15 +2599,15 @@ Then the plasma drives kicked back in, and the Talons punched upward in perfect 
 
 ---
 
-### People’s Liberation Army Strategic Intelligence Bureau – Beijing
+### Joint Staff Department Intelligence Bureau – Beijing
 
 The room was quiet save for the rhythmic clatter of keystrokes and the hum of filtered ventilation. On the screen, a grainy feed from a high-altitude surveillance drone played in a continuous loop: two angular, black aircraft descending from the stratosphere with terrifying grace, flanking two J-20s, and then ascending again on what analysts had confirmed was a suborbital trajectory.
 
 Colonel Zhang watched in silence.
 
-> “This is the third recorded encounter,” said Liu, standing beside the projection. “One underwater, one in orbit, and now this—an overt deployment over the Taiwan Strait.”
+> “This is the third recorded encounter this year,” said Tang, standing beside the projection. “One underwater, one in orbit, and now this—an overt deployment over the Taiwan Strait.”
 
-> “And still no confirmation of origin beyond circumstantial association with the United States,” Zhang said flatly.
+> “And still no confirmation of who flies them beyond circumstantial association with the United States,” Zhang said flatly.
 
 > “Yes, sir. But this time, they bore USAF insignia. Deliberately. Clearly visible to both radar and optical systems. If they were intended to be deniable before, they are not now.”
 
@@ -2619,7 +2623,7 @@ Around the table, aides shifted uncomfortably. One, a younger analyst, spoke up.
 
 > “But they don’t *engage*,” Zhang said. “They simply arrive. Watch. Leave.”
 
-> “Dominance posturing,” Liu added. “Without the need to fire a shot.”
+> “Dominance posturing,” Tang added. “Without the need to fire a shot.”
 
 Zhang exhaled slowly.
 
@@ -2637,7 +2641,7 @@ Instead, he studied the still frame of the two Talons holding position alongside
 
 > “We’ve lost *exclusivity*,” he said finally. “And that is worse.”
 
-He looked to Liu.
+He looked to Tang.
 
 > “Reassess all regional engagement thresholds. If this platform can deploy globally and engage at will, we no longer control the tempo. They do.”
 
@@ -2653,7 +2657,7 @@ The projector flickered slightly in the gray-lit chamber beneath Khoroshovskoye 
 
 Colonel Mikhailov leaned forward, hands clasped under his chin, as the footage replayed for the third time.
 
-> “Same frame geometry as the high-atmosphere objects seen by Tiangong,” said Captain Voronov, gesturing with a laser pointer. “Exact dimensions match. Flight envelope still unconfirmed—acceleration models show G-forces well outside human tolerances.”
+> “Same frame geometry as the high-atmosphere objects seen by Tiangong,” said Captain Voronov, gesturing with a laser pointer. “Exact dimensions match. So do those of the aircraft Portugal has flown in NATO exercises since last year. Flight envelope still unconfirmed—acceleration models show G-forces well outside human tolerances.”
 
 > “So it’s a drone?”
 
@@ -2689,13 +2693,13 @@ Mikhailov leaned back.
 
 He stood.
 
-> “Because I don’t like mysteries in American airspace that *China* is asking us to solve.”
+> “Because I don’t like mysteries in American hands that *China* is asking us to solve.”
 
 ---
 
 ### Research and Analysis Wing (R&AW) Technical Bureau – New Delhi
 
-A wall of screens cast their pale light across the room’s matte black surfaces. Engineers and analysts stood clustered around one feed in particular—video from the Tiangong station, another from the South China Sea, and now, the unmistakable footage of two aircraft appearing over the Taiwan Strait and guiding Chinese jets back toward home like sheepdogs with wings.
+A wall of screens cast their pale light across the room’s matte black surfaces. Engineers and analysts stood clustered around one feed in particular—video from the Tiangong station, another from the Eastern Pacific, and now, the unmistakable footage of two aircraft appearing over the Taiwan Strait and guiding Chinese jets back toward home like sheepdogs with wings.
 
 At the head of the room, Director Pranav Mehta sighed heavily and tapped the table with the end of his pen.
 
@@ -2709,7 +2713,7 @@ The footage rolled again. Frame by frame. The Talons tipped their wings and surg
 
 A physicist from DRDO stepped forward, arms crossed.
 
-> “We’ve analyzed the launch vectors, propulsion shape, flight time, everything. The intercept path from California to the Strait in under five minutes is physically impossible for conventional aircraft. But it’s there. And clean.”
+> “We’ve analyzed the launch vectors, propulsion shape, flight time, everything. The intercept path from California to the Strait in under twenty minutes is physically impossible for conventional aircraft. But it’s there. And clean.”
 
 > “Could it be a suborbital drone with unknown drive systems?” someone asked.
 
@@ -2717,9 +2721,9 @@ A physicist from DRDO stepped forward, arms crossed.
 
 Another analyst, younger, slid a tablet across the table.
 
-> “We ran signatures through all foreign experimental aviation profiles. No match. No transponder bleed. Not even anomalous gravimetric wake.”
+> “We ran signatures through all foreign experimental aviation profiles. One match only: the airframe Portugal flies, the same one seen over the Strait last year. No transponder bleed. Not even anomalous gravimetric wake.”
 
-> “Then we’re left with deduction,” Mehta said. “Either this is American—something black, something deep—or something *new* entirely. But either way, China has no idea what they saw. That’s why they’re letting *us* see it.”
+> “Then we’re left with deduction,” Mehta said. “Either this is American—something black, something deep—or someone *else* is handing these out. But either way, China has no idea what they saw. That’s why they’re letting *us* see it.”
 
 He turned to the projection, eyes narrowing.
 
@@ -2727,7 +2731,7 @@ He turned to the projection, eyes narrowing.
 
 Silence.
 
-> “Keep digging,” Mehta said. “And alert Prime Minister’s Office. Not urgent. Not yet. But keep them awake.”
+> “Keep digging,” Mehta said. “And alert the Prime Minister’s Office. Not urgent. Not yet. But keep them awake.”
 
 ---
 
@@ -2735,7 +2739,7 @@ Silence.
 
 The lights were low in the secure conference chamber, but the tension hung like static. A still frame of the Taiwan Strait intercept held on the central screen: two matte-black aircraft flanking a pair of Chinese J-20s, guiding them away like shepherds with no visible weapons drawn.
 
-The assembled officials said little at first. There was nothing to *add*. The video, like the previous two clips—submarine periscope and Tiangong scope—had all arrived through the same quiet backchannel. Everyone in the room knew the source.
+The assembled officials said little at first. There was nothing to *add*. The video, like the previous two clips—submarine camera and Tiangong scope—had all arrived through the same quiet backchannel. Everyone in the room knew the source.
 
 > “China’s rattling its own cage,” said Deputy Director Ishikawa, fingers steepled in front of him. “This isn’t a leak. This is an *invitation*. They’re hoping someone else will make sense of the ghosts they can’t explain.”
 
@@ -2755,7 +2759,7 @@ That hung longer than anyone liked.
 
 A tech analyst finally broke the silence.
 
-> “We’ve run the data against every known prototype in the US arsenal. B-21s, X-planes, even edge-case DARPA entries. Nothing fits. Flight time from California to the Strait? Four minutes. Suborbital. With no observed launch platform.”
+> “We’ve run the data against every known prototype in the US arsenal. B-21s, X-planes, even edge-case DARPA entries. Nothing American fits. The only match is the Portuguese fleet. Flight time from California to the Strait? Eighteen minutes. Suborbital. With no observed launch platform.”
 
 > “So either the Americans have *broken* everything we know about propulsion,” Ishikawa said, “or they’ve acquired something they didn’t build.”
 

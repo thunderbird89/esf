@@ -18,12 +18,13 @@ Defensively, the Landmate is equipped with shields, as well as a modular armor s
 
 1. **Humanoid Framework**:
    - The Landmate adopts a humanoid design, with the pilot housed within its chest cavity. 
+   - The head is faceted and swept back, with no visible eyes or camera domes; its sensors sit behind a single visor band, which can project a scanning light grid and laser target designators.
    - Motion capture and force-feedback systems replicate the pilot's movements, providing intuitive control and precision.
    - An onboard AI allows for autonomous operation when needed, enabling continued functionality if the pilot is incapacitated or temporarily leaves the unit.
 
 2. **Modularity**:
    - A modular frame enables the Landmate to customize its loadout based on mission requirements.
-   - Equipped with two shoulder-mounted attachment points, the unit can mount missile pods, gimbaled autocannons, or other specialized weaponry.
+   - Equipped with two shoulder-mounted attachment points, the unit can mount missile pods, gimbaled autocannons, or other specialized weaponry, such as long-barreled rail cannons that stow folded along the back and swing forward over the shoulder to fire.
    - Armament compatibility includes scaled-up versions of standard infantry weapons powered by the Landmate’s integrated powerplant.
 
 ---

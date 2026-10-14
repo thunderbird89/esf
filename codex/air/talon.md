@@ -26,10 +26,11 @@ One of its most spectacular capabilities is the *sub-orbital boost*, where the p
 3. **Sub-Orbital Boost Capability**: 
    - The *Talon* can execute a sub-orbital boost, propelling itself to near-escape velocity before re-entry.
    - The maneuver uses a pre-programmed trajectory, often resulting in pilot blackout due to extreme G-forces. The craft autonomously navigates during this phase, ensuring safety and mission success.
+4. **Warp Drive**: A short-hop, in-system warp drive rated at 20 AU/s (see [FTL]({{ '/foundations/foundations/ftl' | relative_url }})). It cannot be engaged toward targets closer than about 100 km, so it serves transit between bodies rather than tactical repositioning.
 
 #### Performance Parameters
 - **Speed**: Mach 5+ in atmosphere, hypersonic in space.
-- **Range**: Virtually unlimited in space; extended range within atmosphere and underwater due to hybrid propulsion.
+- **Range**: Interplanetary in space by warp, though endurance away from a base is limited; extended range within atmosphere and underwater due to hybrid propulsion.
 - **Payload Capacity**: Configurable to support heavy weaponry, recon pods, or electronic warfare systems.
 
 ---
@@ -63,4 +64,6 @@ One of its most spectacular capabilities is the *sub-orbital boost*, where the p
 
 ### Strategic Implications
 The *Talon* exemplifies EarthSpace Federation's technological superiority, enabling rapid, flexible responses to both terrestrial and extraterrestrial threats. Its multi-environment capability allows it to fill gaps in conventional military operations, while its advanced technology remains a closely guarded secret, preserving the Federation's edge over adversaries.
+
+Although its engineering stays secret, the Federation has placed *Talons* with select national forces: two airframes went on loan to the JSDF for evaluation at Kaneda Air Base in 2023, Portugal received twenty-five in 2025, and by 2027 the United States and Japan flew *Talon* squadrons of their own.
 

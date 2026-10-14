@@ -24,4 +24,4 @@ That efficiency disappears the moment real thrust is demanded. Diverting the rin
 ## Deployment across platforms
 The full-scale version of the turbine, sized for sustained high-speed flight, drives nearly every Federation aircraft: the _Talon_'s core plasma engine, the _Aeon_'s aft-mounted pair, the _Scorpion_'s hybrid air-breathing/plasma nacelles, and the _Aurora_'s four high-performance units all trace back to the same underlying design, scaled and tuned for their airframe.
 
-Smaller, purely generator-mode variants — sized down as micro-fusion cores rather than full turbines, since nothing needs to be expelled as thrust — show up wherever a platform needs sustained power without needing to fly: the _Goliath_'s fusion core, and the micro-fusion cores that back up the battery systems in covert-ops Q-Cars.
+Smaller, purely generator-mode variants — sized down as micro-fusion cores rather than full turbines, since nothing needs to be expelled as thrust — show up wherever a platform needs sustained power without needing to fly: the _Goliath_'s fusion core, and the micro-fusion cores that back up the battery systems in covert-ops Q-cars.

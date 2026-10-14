@@ -69,6 +69,11 @@ The Federation employs a standardized system to designate and categorize its div
    - **R**: Recon  
    - **C**: Covert  
    - **U**: Urban combat  
+   - **M**: Marksman  
+   - **K**: Kinetic armament  
+   - **L**: Pulse laser armament  
+   - **B**: Beam laser armament  
+   - **P**: Plasma armament  
    - (Additional letters are reserved for other specialized roles.)
 
 6. **Code Name** *(Optional)*: Descriptive name for unique identification.
@@ -82,3 +87,6 @@ The Federation employs a standardized system to designate and categorize its div
 - TDT-1 Guardian: Turret, defense, terrestrial, design iteration #1, code name _Guardian_, the Federation's networked point-defense platform, fielded in railgun (/K), pulse laser (/L), beam laser (/B), and plasma burst (/P) variants.
 - VIS-1 Flycatcher: Vehicle, interdiction, space, design iteration #1, code name _Flycatcher_, a destroyer that seeds a battlespace with deployable warp disruption probes.
 - VIS-2 Broadsword: Vehicle, interdiction, space, design iteration #2, code name _Broadsword_, a cruiser that projects a continuous warp disruption field of its own.
+
+### Ship names
+Federation warships carry the hull prefix FSS before their individual names (e.g. FSS _Broadsword_), separate from the class designation above. Alien vessels are named without a prefix.

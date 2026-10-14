@@ -10,15 +10,15 @@ timeline: 2024-06-13
 
 Gaza Strip, June 2024. Noon.
 
-The air was thick with dust and heat. Sunlight baked the shattered concrete and charred rebar as Israeli Merkavas crept forward in staggered formation through the ruins of Zeitoun, their engines growling like beasts ready to pounce. Drones circled above like vultures. Infantry fanned out behind armored bulldozers, pressing toward Gaza City with purpose sharpened by months of blood and fury.
+The air was thick with dust and heat. Sunlight baked the shattered concrete and charred rebar as Israeli Merkavas crept forward in staggered formation through the ruins of Zeitoun, their engines growling like beasts ready to pounce. Drones circled above like vultures. Infantry fanned out behind armored bulldozers, pressing deeper into Gaza City with purpose sharpened by months of blood and fury.
 
-Lieutenant Colonel Dov Mazar, Gaza One Actual, squinted past the optics of his command vehicle. His face was sun-worn, jaw clenched. Somewhere in the city beyond, his niece's left arm had been taken by a rocket-propelled grenade on October 7th. He didn't hate the people here. He just didn't have room for sympathy anymore.
+Lieutenant Colonel Dov Mazar, Gaza One Actual, squinted past the optics of his command vehicle. His face was sun-worn, jaw clenched. His niece had lost her left arm to a rocket-propelled grenade on October 7th; the men who fired it were somewhere in the city beyond. He didn't hate the people here. He just didn't have room for sympathy anymore.
 
 Then the voice crackled over comms.
 
 > "Gaza One Actual, be advised, multiple unknown contacts are approaching your location at low altitude."
 
-He blinked. "Say again?"
+> He blinked. "Say again?"
 
 > "Unknowns. Fast movers. No IFF. Bearing north by northeast, vectoring straight toward the city."
 
@@ -26,11 +26,11 @@ Before he could respond, they came.
 
 No sonic booms, no warning. Just long shadows and a tearing sound across the sky as five aircraft screamed in just above rooftop level - sleek, silver-black delta shapes with no visible insignia, too angular, too clean. They banked hard over the combat zone and released cargo.
 
-Massive drop-pods broke free with concussive hisses, trailing white vapor. At first, Mazar thought they were munitions - some new deep-penetration ordinance, maybe American. But they didn't impact. They *slowed*, decelerating in synchronized bursts as retro-rockets ignited at the last hundred feet, stabilizers flaring out like petals. The pods hovered for a split-second, then *opened*.
+Massive drop-pods broke free with concussive hisses, trailing white vapor. At first, Mazar thought they were munitions - some new deep-penetration ordnance, maybe American. But they didn't impact. They *slowed*, decelerating in synchronized bursts as retro-rockets ignited at the last thirty meters, stabilizers flaring out like petals. The pods hovered for a split-second, then *opened*.
 
 What emerged didn't belong in any war Mazar knew.
 
-They were humanoid - massive, bipedal, twice the height of a tank and shaped like soldiers of some terrible myth. Gleaming alloy skin. Broad armored shoulders. Fluid, weightless motion. Each bore a wireframe globe encircled by laurels on its chest, flanked by two crossed broken swords  -  alien and unfamiliar.
+They were humanoid - massive, bipedal, as tall as a tank's turret roof and shaped like soldiers of some terrible myth. Gleaming alloy skin. Broad armored shoulders. Fluid, weightless motion. Each bore a wireframe globe encircled by laurels on its chest, two broken swords crossed in saltire beneath it - alien and unfamiliar.
 
 They landed with a ground-shaking *thud* in a perimeter around the makeshift refugee camp at Shuja'iyya. Dust swirled around them as they raised squat, heavy-barreled weapons. One rotated its head and spoke in a perfectly modulated voice, amplified for the battlefield:
 
@@ -46,7 +46,7 @@ And then in Hebrew.
 
 Mazar stared.
 
-"What the hell are those?" muttered his gunner, half-risen from the hatch.
+> "What the hell are those?" muttered his gunner, half-risen from the hatch.
 
 Mazar keyed into battalion net.
 
@@ -54,15 +54,15 @@ Mazar keyed into battalion net.
 
 There was no immediate response. Only the distant report of gunfire and the dull, electric hum of the mechs as they adjusted their stance.
 
-From behind a collapsed wall, Leila Farrah's voice whispered excitedly into a mic.
+From behind a collapsed wall, Leila Farrah, a Gaza-based journalist filing for CNN, whispered excitedly into a mic.
 
 > "CNN, live from Gaza. Something extraordinary is happening. Several unidentified aerial craft have dropped what appear to be mechanized suits - larger than anything we've ever seen - around the refugee center. They're... protecting it. This is not IDF. This is not Hamas. These are *new players*."
 
-Her cameraman zoomed in on the insignia. "Do you know that logo?" he whispered.
+> Her cameraman zoomed in on the insignia. "Do you know that logo?" he whispered.
 
 Leila shook her head, eyes wide.
 
-Far away in the IDF HQ, Brigadier-General Tamir Gonen stood in a command post, peering at the drone feed. He saw the line drawn. Saw the motionless titans holding the perimeter. He didn't flinch. But he issued the order without hesitation.
+Far away in the IDF HQ, Major General Tamir Gonen stood in a command post, peering at the drone feed. He saw the line drawn. Saw the motionless titans holding the perimeter. He didn't flinch. He issued the order without hesitation.
 
 > "All units halt. Air assets to hold position. Do *not* test them. Not until we know what the hell we're looking at."
 
@@ -76,15 +76,15 @@ The command post buzzed with tension, every station lit up, overlapping voices t
 >
 > "Beit Lahia reports same. Three of them, standing silent just outside the UN shelter perimeter. Infantry's holding position, awaiting orders."
 >
-> "Khan Yunis. They dropped in the marketplace, sir. *Right* in the middle of it. Didn't fire. Just...stood there."
+> "Khan Younis. They dropped in the marketplace, sir. *Right* in the middle of it. Didn't fire. Just...stood there."
 
 Tamir Gonen didn't answer immediately. He leaned forward, hands on the table, eyes scanning the real-time satellite feed assembling on the main wall. One by one, red tags - Israeli forces - froze along every axis of approach. And around each population center, blue rings had appeared, growing steadily with each report. Within the rings were the same figures: humanoid, colossal, unmoving. Always the same insignia.
 
 It was as though someone had drawn a precise, deliberate box around every city, refugee camp, and dense civilian cluster in the Gaza Strip... and posted these things like guardian statues.
 
-"Not one of ours?" he asked quietly.
+> "Not one of ours?" he asked quietly.
 
-"No sir. No nation claims them. No chatter. No intel. Mossad's blind. Langley's calling them 'angels,' but they're just as in the dark."
+> "No sir. No nation claims them. No chatter. No intel. Mossad's blind. Langley's calling them 'angels,' but they're just as in the dark."
 
 He exhaled slowly. A machine was humming in the corner - coffee forgotten mid-brew. A junior officer rubbed his face, muttering to no one.
 
@@ -126,7 +126,7 @@ No response.
 
 As he clambered up from the hatch, ready to signal manually if he had to, something shimmered in the air.
 
-A faint lattice of yellow light flickered to life around the Landmate closest to the rogue tank. Hexagonal, almost translucent. It played across the mech's frame like a net made of sunlight. At first, it did nothing - passive, humming.
+A faint lattice of yellow light flickered to life around the machine closest to the rogue tank. Hexagonal, almost translucent. It played across the mech's frame like a net made of sunlight. At first, it did nothing - passive, humming.
 
 Then the turret locked on.
 
@@ -146,7 +146,7 @@ The tank didn't stop. There was no flash of hesitation. No retraction.
 
 The main gun fired.
 
-A sabot round - tungsten dart, armor-piercing, meant to punch through enemy steel like paper - streaked downrange toward the Landmate.
+A sabot round - tungsten dart, armor-piercing, meant to punch through enemy steel like paper - streaked downrange toward the machine.
 
 And the grid pulsed.
 
@@ -188,7 +188,7 @@ Slowly, as if nothing had happened, the lattice shifted. The burning red faded t
 
 > "Pleasure to be here, Emily."
 
-> "We're looking now at the slowed footage from Gaza - specifically, the exchange between what are being called the 'Golems' and the Israeli Merkava tank. Colonel, walk us through what we're seeing."
+> "We're looking now at the slowed footage from Gaza - specifically, the exchange between what are being called 'guardians' and the Israeli Merkava tank. Colonel, walk us through what we're seeing."
 
 Footage plays on split screen: high-resolution, frame-by-frame sequence of the confrontation.
 
@@ -196,7 +196,7 @@ Footage plays on split screen: high-resolution, frame-by-frame sequence of the c
 
 > "And yet it didn't do anything."
 
-> "Correct. If you freeze the frame right here - " *(Footage pauses as the round impacts the Golem)* " - you can actually see the sabot shattering. It hits center mass and *disintegrates*. No deflection, no penetration, just fragmentation and vapor."
+> "Correct. If you freeze the frame right here - " *(Footage pauses as the round impacts the machine)* " - you can actually see the sabot shattering. It hits center mass and *disintegrates*. No deflection, no penetration, just fragmentation and vapor."
 
 > "So the unit wasn't damaged at all?"
 
@@ -206,7 +206,7 @@ Footage plays on split screen: high-resolution, frame-by-frame sequence of the c
 
 Footage resumes - one single flash, the tank imploding.
 
-> "This... this is the part that should be studied frame-by-frame in every defense ministry on the planet. The Golem returns fire with a single round. No muzzle flash, no shell casing. Just a pulse - something fast and invisible."
+> "This... this is the part that should be studied frame-by-frame in every defense ministry on the planet. The machine returns fire with a single round. No muzzle flash, no shell casing. Just a pulse - something fast and invisible."
 
 > "And the result?"
 
@@ -214,7 +214,7 @@ Footage resumes - one single flash, the tank imploding.
 
 > "In your professional opinion, how powerful is that weapon?"
 
-> "Let me put it plainly: on a tactical battlefield, there is no current weapon more effective than what we just saw. Short of dropping a MOAB or using nuclear arms, no army has *anything* that can deal that kind of damage to a tank, much less with this kind of precision. It makes the Golem the most dangerous combatant in any known theater today."
+> "Let me put it plainly: on a tactical battlefield, there is no current weapon more effective than what we just saw. Short of dropping a MOAB or using nuclear arms, no army has *anything* that can deal that kind of damage to a tank, much less with this kind of precision. It makes that machine the most dangerous combatant in any known theater today."
 
 > "And what about the broader implications?"
 
@@ -234,7 +234,7 @@ The operations floor was chaos wrapped in fluorescent light. Analysts huddled in
 >
 > "1833 - unit's lattice changes to red. No visible change in posture."
 >
-> "1836 - shot fired. 1837... impact."
+> "1836 - shot fired. Impact, same frame."
 
 Silence. Then:
 
@@ -246,11 +246,11 @@ Just *cored*.
 
 A clean, 20-centimeter hole melted straight through the armor like a drill press made of hellfire. Edges molten, smoothed by temperatures far beyond what any known kinetic penetrator or shaped charge could produce.
 
-"Could be directed-energy," one analyst offered.
+> "Could be directed-energy," one analyst offered.
 
-"Not a beam," another snapped. "There's no heat plume, no residual radiation, no dispersion. And that strike was instantaneous. No time of flight."
+> "Not a beam," another snapped. "There's no heat plume, no residual radiation, no dispersion. And that strike was instantaneous. No time of flight."
 
-Brigadier-General Tamir Gonen loomed behind them all, arms crossed, face carved from stone.
+Major General Tamir Gonen loomed behind them all, arms crossed, face carved from stone.
 
 > "So what are we looking at? A railgun? Particle lance? Plasma?"
 
@@ -280,13 +280,13 @@ The metal giants still hadn't moved.
 
 Lieutenant Colonel Dov Mazar sat on the engine deck of his command Merkava, a cigarette burning low between his fingers, headset pressed tight to one ear. The line crackled to life.
 
-> "This is Brigadier-General Gonen. Mazar, report."
+> "This is Major General Gonen. Mazar, report."
 
-He sat up straighter. "Sir. We're holding position. No further provocation. Units - whatever they are - remain stationary. Grid pattern still active. Yellow."
+> He sat up straighter. "Sir. We're holding position. No further provocation. Units - whatever they are - remain stationary. Grid pattern still active. Yellow."
 
 > "You sent us a picture."
 
-Mazar exhaled slowly. "Yes, sir."
+> Mazar exhaled slowly. "Yes, sir."
 
 > "That hole wasn't made by anything we've ever seen. Tell me exactly what happened."
 
@@ -296,7 +296,7 @@ He hesitated, then spoke with clinical precision.
 
 > "And?"
 
-> "The unit fired one shot. No visible projectile. No warning. Instant strike. Hit the glacis plate and cored it like an apple. No secondary, no overpenetration. Just... annihilation."
+> "The unit fired one shot. No visible projectile. No warning. Instant strike. Hit the glacis plate and cored it like an apple. No overpenetration. Just... annihilation."
 
 Silence on the line.
 
@@ -334,28 +334,28 @@ Mazar's jaw tensed.
 
 ---
 
-### CNN Live – "Understanding the Golems" Panel Discussion
+### CNN Live – "Understanding the Guardians" Panel Discussion
 
 **Studio Anchor (Emily Zhao):**  
-> "We're now joined by a panel of experts from different fields to discuss the psychological and symbolic dimensions of the Golems - those massive, unknown entities currently enforcing a still-undeclared ceasefire in the Gaza Strip."
+> "We're now joined by a panel of experts from different fields to discuss the psychological and symbolic dimensions of the guardians - those massive, unknown entities currently enforcing a still-undeclared ceasefire in the Gaza Strip."
 
 The screen splits into four:  
-- **Dr. Mina Kalderon**, Professor of Semiotics, University of Toronto  
-- **Dr. David Lutz**, Professor of Communications Theory, MIT  
-- **Dr. Samira Qasrawi**, Professor of Anthropology, University of Edinburgh  
-- **Janet Ryland**, Senior Strategy Director at ArchonPR, a top-tier marketing firm
+- Dr. Mina Kalderon, Professor of Semiotics, University of Toronto  
+- Dr. David Lutz, Professor of Communications Theory, MIT  
+- Dr. Samira Qasrawi, Professor of Anthropology, University of Edinburgh  
+- Janet Ryland, Senior Strategy Director at ArchonPR, a top-tier marketing firm
 
 **Emily Zhao:**  
-> "Let's begin with you, Dr. Kalderon. The grid - the green, yellow, red lattice that seems to project from these machines. What are we seeing here, symbolically?"
+> "Let's begin with you, Dr. Kalderon. The grid - the yellow-to-red lattice that seems to project from these machines. What are we seeing here, symbolically?"
 
 **Dr. Kalderon (smiling faintly):**  
-> "It's a visual language, Emily. A semiotic system built on color-coding that is *immediately* understood, no matter your culture or background. Green - safe. Yellow - caution. Red - threat. It's universal. They've designed this to bypass language and go straight to instinct."
+> "It's a visual language, Emily. A semiotic system built on color-coding that is *immediately* understood, no matter your culture or background. Yellow - caution. Red - threat. It's universal. They've designed this to bypass language and go straight to instinct."
 
 **Emily:**  
 > "Dr. Lutz, your take?"
 
 **Dr. Lutz:**  
-> "It's *brilliant* communication. We're looking at a deterrence model that communicates intent without ambiguity. The Golems don't posture, don't taunt, don't provoke. They simply *inform.* The message is: 'You are being watched. Act accordingly.'"
+> "It's *brilliant* communication. We're looking at a deterrence model that communicates intent without ambiguity. The guardians don't posture, don't taunt, don't provoke. They simply *inform.* The message is: 'You are being watched. Act accordingly.'"
 
 **Emily:**  
 > "But then there's the roar - massive, low-frequency, almost animalistic. Doesn't that contradict their controlled, almost surgical demeanor?"
@@ -371,13 +371,13 @@ She adjusts her glasses, leaning slightly forward.
 > "So it's not emotional - it's *deliberate*?"
 
 **Dr. Qasrawi:**  
-> "Exactly. The Golems are not emotional entities. But they *simulate* what works. They're tacticians not just of war, but of *presence.* The roar says: 'You have crossed the line.' And for nearly every person who hears it, that's enough."
+> "Exactly. The guardians are not emotional entities. But they *simulate* what works. They're tacticians not just of war, but of *presence.* The roar says: 'You have crossed the line.' And for nearly every person who hears it, that's enough."
 
 **Emily:**  
 > "Ms. Ryland, from a messaging perspective - how do you interpret their restraint? Their silence?"
 
 **Janet Ryland (calm, confident):**  
-> "It's controlled branding, whether intentional or not. The silence, the stillness, the refusal to overexplain - it *builds mystique*. The Golems don't demand legitimacy. They simply *act* with it. And when violence does occur, it's not chaotic - it's *surgical*. That's terrifying, yes, but also persuasive. They're presenting violence as *inevitability*, not spectacle."
+> "It's controlled branding, whether intentional or not. The silence, the stillness, the refusal to overexplain - it *builds mystique*. The guardians don't demand legitimacy. They simply *act* with it. And when violence does occur, it's not chaotic - it's *surgical*. That's terrifying, yes, but also persuasive. They're presenting violence as *inevitability*, not spectacle."
 
 **Emily Zhao:**  
 > "So they're not just enforcers. They're messengers."
@@ -412,7 +412,7 @@ The head was faceted and swept back, almost avian, with no visible eyes or camer
 
 He lowered the binos slightly and studied the weapon.
 
-It was rifle-shaped, but only loosely. No barrel he could identify. No gas block. No optic, no sling. The lines were smooth, almost sculptural, as if someone had designed a weapon for *appearance* as much as function. Where a conventional rifle would have a bolt or ejection port, there were layered heat vents - fins that shimmered faintly in the cool morning air. And where a magazine would sit, there was... something else.
+It was rifle-shaped, but only loosely. No bore he could identify. No gas block. No optic, no sling. The lines were smooth, almost sculptural, as if someone had designed a weapon for *appearance* as much as function. Where a conventional rifle would have a bolt or ejection port, there were layered heat vents - fins that shimmered faintly in the cool morning air. And where a magazine would sit, there was... something else.
 
 A heat haze. The air around it warped gently, like the edge of a jet turbine. No sound. No smell. Just that distortion, faint and constant.
 
@@ -422,7 +422,7 @@ He spoke again, slowly.
 
 A voice crackled in reply from Be'er Sheva - one of the analysts.
 
-> "Copy that, Gaza One. We're tracking. Visual grid you mentioned is consistent across all units. Drone footage confirms similar behavior at Rafah, Khan Yunis, and Gaza City. Repeat: *all units still in overwatch posture*. No movement detected."
+> "Copy that, Gaza One. We're tracking. Visual grid you mentioned is consistent across all units. Drone footage confirms similar behavior at Rafah, Khan Younis, and Gaza City. Repeat: *all units still in overwatch posture*. No movement detected."
 
 Another voice, this one sharper.
 
@@ -470,7 +470,7 @@ A single hexagonal tile glowed fiercely on the projection, centered on his right
 
 A blade.
 
-He looked down. The K-Bar was still strapped there, tight against his ankle, an afterthought in routine kit.
+He looked down. The Ka-Bar was still strapped there, tight against his ankle, an afterthought in routine kit.
 
 Slowly - painfully aware of every micro-movement - he reached down, unstrapped the knife, and knelt. He laid it gently on the cracked asphalt and raised both hands.
 
@@ -498,7 +498,7 @@ He nodded.
 
 > "Always," she said.
 
-They looked at each other for a heartbeat. Then both of them glanced back - past the edge of the camp, toward the motionless giants standing sentinel just a few meters behind.
+They looked at each other for a heartbeat. Then both of them glanced back - past the edge of the camp, toward the motionless giants standing sentinel some distance behind.
 
 > "What are they?" she asked.
 
@@ -524,17 +524,17 @@ Mazar leaned against the crumbling frame of a shattered storefront, eyes scannin
 
 > "Drop-pods. Controlled descent. Landed with precision I've never seen outside simulations. They didn't come out shooting. They just stood there. Formed a perimeter around the camp." He paused. "Spoke in three languages. Warned us off. Hebrew. Arabic. English."
 
-Leila nodded, lips pressed into a thin line. "We caught it all on tape."
+> Leila nodded, lips pressed into a thin line. "We caught it all on tape."
 
-Mazar's gaze grew distant. "They didn't bluff. One of my tank commanders panicked. Fired a sabot." He exhaled sharply. "Didn't even scratch it. The thing retaliated with a single round. Punched straight through the front armor of a Merkava. No survivors."
+> Mazar's gaze grew distant. "They didn't bluff. One of my tank commanders panicked. Fired a sabot." He exhaled sharply. "Didn't even scratch it. The thing retaliated with a single round. Punched straight through the front armor of a Merkava. No survivors."
 
 > "We saw it," Leila said quietly. "Everyone did. The feed went global within minutes."
 
-He gave a humorless smile. "Wasn't part of the plan."
+> He gave a humorless smile. "Wasn't part of the plan."
 
-She tilted her head. "And now? Just... silence?"
+> She tilted her head. "And now? Just... silence?"
 
-Mazar nodded. "Same across the Strip. Rafah, Khan Yunis, Beit Hanoun. The pattern's identical. Units took positions around population centers - just outside the densest areas. They haven't moved since. Anyone approaches with a weapon, they flash red. If you're clean... green."
+> Mazar nodded. "Same across the Strip. Rafah, Khan Younis, Beit Hanoun. The pattern's identical. Units took positions around population centers - just outside the densest areas. They haven't moved since. Anyone approaches with a weapon, they flash red. If you're clean... green."
 
 > "You're telling me they built a fence. One we can't cross."
 
@@ -546,7 +546,7 @@ They stood there a moment, the sounds of the waking city beginning to rise - dis
 
 > "Of us?"
 
-She shook her head. "Of *them*. They don't know what they are, why they're here, or if they're going to turn on them the moment someone steps wrong. They're silent statues with guns. People think maybe it's all just a pause before a purge."
+> She shook her head. "Of *them*. They don't know what they are, why they're here, or if they're going to turn on them the moment someone steps wrong. They're silent statues with guns. People think maybe it's all just a pause before a purge."
 
 Mazar looked back at the mech again, its frame etched in early morning light.
 
@@ -620,7 +620,7 @@ He exhaled.
 
 > "We still don't know what kind of weapon it was. But it was controlled. Surgical. They didn't fire on anyone else. Not before, not after."
 
-Leila's brow furrowed. "You keep calling them 'they.' You think they're crewed?"
+> Leila's brow furrowed. "You keep calling them 'they.' You think they're crewed?"
 
 > "No," he said, then hesitated. "Maybe. Doesn't matter. They're not dumb machines. They *react*. They watch. They make judgments."
 
@@ -636,19 +636,19 @@ Mazar shifted his stance slightly, eyes flicking toward the mech behind him, the
 
 > "This morning, I tested something. I left my rifle and sidearm behind. Walked straight toward one of them."
 
-Leila leaned in slightly. "Why?"
+> Leila leaned in slightly. "Why?"
 
 > "To see if they'd stop me. Or kill me." He gave a grim half-smile. "Neither happened."
 
 > "What did happen?"
 
-> "That grid they project - light, scanning, constant - it swept over me. Turned red when it hit a knife I'd forgotten was strapped to my boot. Just a K-Bar. But it *noticed.*"
+> "That grid they project - light, scanning, constant - it swept over me. Turned red when it hit a knife I'd forgotten was strapped to my boot. Just a Ka-Bar. But it *noticed.*"
 
 He let that hang in the air for a beat.
 
 > "I took it off. Laid it on the ground. The grid went green. They ignored me after that."
 
-Leila looked stunned. "You walked past it? Unarmed?"
+> Leila looked stunned. "You walked past it? Unarmed?"
 
 > "Walked into the city. Past civilians, rubble, everything. It didn't even track me."
 
@@ -674,7 +674,7 @@ Leila gave a small nod to her cameraman, who slowly lowered the rig. The red lig
 
 > "Thank you," she said quietly. "For talking to us. For being honest."
 
-Mazar offered a tired smile. "Not much point in lying. Not anymore."
+> Mazar offered a tired smile. "Not much point in lying. Not anymore."
 
 They stood in silence a moment longer. The sound of life returning to Gaza filtered in - clinking metal, low voices, cautious footsteps. The Golem behind them remained still as a monument.
 
@@ -692,11 +692,11 @@ He didn't speak until he reached the tank.
 
 > "Status?" he asked, voice level.
 
-A sergeant answered. "No change. Golems haven't moved."
+> A sergeant answered. "No change. Golems haven't moved."
 
-Mazar nodded. "Good. Let's make sure they don't have to."
+> Mazar nodded. "Good. Let's make sure they don't have to."
 
-He sat on the glacis of the command vehicle again, helmet in his lap, eyes scanning the horizon.
+He sat on the engine deck of the command vehicle again, helmet in his lap, eyes scanning the horizon.
 
 The lines had frozen - but for the first time in his life, Mazar didn't feel like he was at war. He felt like he was being *watched*.
 
@@ -766,7 +766,7 @@ He paused, eyes steady.
 
 The command center was a furnace of noise - keyboards clacking, radio chatter bleeding through speakers, frustrated murmurs crisscrossing over the sound of looping footage and printouts hitting tables. Every screen in the room bore the same towering shape in different angles and resolutions: the Golems.
 
-A senior analyst gestured to a holographic projection of Mazar's interview, paused mid-sentence.
+A senior analyst gestured to a wall monitor showing Mazar's interview, paused mid-sentence.
 
 > "This is the most actionable intel we've had. He walked up to one unarmed and survived. The knife triggered a red response. No other aggression, no escalation."
 
@@ -804,7 +804,7 @@ The colonel nodded grimly.
 
 On a secondary screen, Mazar's face flickered again, just as his words played back from the live interview:
 
-> "They don't care who you are... only what you're *about to do*."
+> "I think the Golems don't care who you are... What matters is intent."
 
 The room fell quiet.
 
@@ -838,7 +838,7 @@ Seconds later, the CIA joined.
 
 > "Moscow believes it's Chinese," a GRU officer broke in, gruff and flat. "Experimental units. Uncrewed. Autonomous. Projected deterrence with AI parameters. That grid behavior? Predictive modeling. Too clean."
 
-> "The Chinese aren't claiming it either," the Mossad man snapped. "They issued a statement two hours ago calling it a 'sovereign violation of airspace.'"
+> "The Chinese aren't claiming it either," the Mossad man snapped. "They issued a statement two hours ago calling it 'a violation of international law.'"
 
 Gonen leaned forward toward his mic.
 
@@ -908,11 +908,11 @@ The call ended without ceremony - just a flicker of signals going dark one by on
 
 In the silence that followed, Be'er Sheva's analysts sat back in their chairs, exhausted. Minds burned out from circling an answer they couldn't reach.
 
-And in Washington, Langley-5 stood alone in a darkened briefing room, staring at a printed still from Mazar's interview. His fingers rested on the logo, faintly trembling.
+And at Langley, Langley-5 stood alone in a darkened briefing room, staring at a printed still from Mazar's interview. His fingers rested on the logo, faintly trembling.
 
-Moscow's Captain Semyonov reviewed his grandfather's journal entries again, flipping past yellowed pages that no longer felt like war stories but warnings.
+Moscow's Captain Semyonov reviewed his grandfather's old journal, flipping past yellowed pages that no longer felt like war stories but warnings.
 
-In Riyadh, a GID officer sent an encrypted memo marked *خطر: المحتوى مجهول* - *Danger: Identity Unknown* - to his sovereign.
+In Riyadh, a GID officer sent an encrypted memo marked *خطر: الهوية مجهولة* - *Danger: Identity Unknown* - to his sovereign.
 
 In Paris, in Berlin, in Ankara and New Delhi and Beijing, the same question began to take root like mold in the walls of every intelligence service:
 
@@ -945,7 +945,7 @@ If the Golems came, they wouldn't *ask*.
 **Emily Zhao:**  
 > "Let's pull the emblem up on the screen now."
 
-*(The emblem appears: a wireframe globe, encircled by classical laurel branches, and flanked by two broken swords crossed in saltire beneath it.)*
+*(The emblem appears: a wireframe globe, encircled by classical laurel branches, with two broken swords crossed in saltire beneath it.)*
 
 **Elbridge (smiling faintly):**  
 > "A fascinating composition. Ancient. Medieval. Modern. It's not just a logo - it's a visual *thesis.*"
@@ -1012,7 +1012,7 @@ The camera panned to show one of the Golems standing sentinel at a crossroads. I
 
 Leila continued.
 
-> "Even militant presence has evaporated. Hamas commanders have vanished from the streets. Sources confirm that four days ago, a fighter attempted to commandeer an aid drop near Nuseirat. Witnesses say the Golem standing nearby issued a verbal warning."
+> "Even militant presence has evaporated. Hamas commanders have vanished from the streets. Sources confirm that two days ago, a fighter attempted to commandeer an aid drop near Nuseirat. Witnesses say the Golem standing nearby issued a verbal warning."
 
 A still image flashed - charred pavement, a single AK half-melted into the concrete.
 
@@ -1070,9 +1070,9 @@ She looked westward, toward the sea, where smoke no longer rose.
 > "With the world still reeling from the appearance of the Golems - those enigmatic humanoid machines now standing guard across the Gaza Strip - we turn now to some of the brightest minds in robotics and artificial intelligence."
 
 The screen splits into three remote feeds:  
-- **Dr. Aaron Kessler**, senior systems engineer at Boston Dynamics  
-- **Dr. Priya Malhotra**, roboticist and gait modeling specialist, also from Boston Dynamics  
-- **Professor Kenji Watanabe**, artificial intelligence theorist, University of Tokyo
+- Dr. Aaron Kessler, senior systems engineer at Boston Dynamics  
+- Dr. Priya Malhotra, roboticist and gait modeling specialist, also from Boston Dynamics  
+- Professor Kenji Watanabe, artificial intelligence theorist, University of Tokyo
 
 **Emily Zhao:**  
 > "Dr. Kessler, let's start with you. As someone who's worked at the cutting edge of robotics - what's your first reaction?"
@@ -1195,7 +1195,7 @@ A ripple of agreement from the others.
 
 > "Are you afraid of them?" Leila asked gently.
 
-A girl with a scraped knee shook her head. "No. They don't hurt us. They just stand there. Like they're waiting for something."
+> A girl with a scraped knee shook her head. "No. They don't hurt us. They just stand there. Like they're waiting for something."
 
 Another boy piped up.
 
@@ -1213,7 +1213,7 @@ The smallest of them, no more than five, hugged her knees and whispered.
 
 > "I wave."
 
-Leila smiled. "Do they wave back?"
+> Leila smiled. "Do they wave back?"
 
 The girl grinned, gap-toothed.
 
@@ -1270,16 +1270,16 @@ Everywhere in the Strip, carried in the air on invisible waves no agency could i
 
 > "Tonight, we've invited religious scholars from four major world faiths to explore a question many are now daring to ask: *Is this divine intervention?* And if so - what does it mean?"
 
-- **Father Matteo Duval**, Catholic theologian, Vatican Pontifical Academy  
-- **Rabbi Elisheva Horowitz**, scholar of Kabbalah and Judaic mysticism, Jerusalem  
-- **Dr. Arjun Mehra**, professor of Hindu philosophy, Benares Hindu University  
-- **Imam Yusuf Al-Khattab**, Islamic jurisprudence scholar, Cairo Al-Azhar University
+- Father Matteo Duval, Catholic theologian, Pontifical Academy of Theology  
+- Rabbi Elisheva Horowitz, scholar of Kabbalah and Judaic mysticism, Jerusalem  
+- Dr. Arjun Mehra, professor of Hindu philosophy, Banaras Hindu University  
+- Imam Yusuf Al-Khattab, Islamic jurisprudence scholar, Cairo Al-Azhar University
 
 **Emily Zhao:**  
 > "Father Duval, let's begin with you. The phrase 'angels in armor' - does that hold weight in Christian tradition?"
 
 **Father Duval (soft-spoken, thoughtful):**  
-> "Yes, Emily. In fact, it immediately reminded me of the *Cherubim* - not the small, winged infants popular in Renaissance art, but the Biblical ones who stood guard at the Gates of Eden with *flaming swords that turned every way*. These were not messengers, but *enforcers* of sacred boundaries. The Landmates, unmoving yet absolute in presence, echo that image. Silent guardians. Terrifying, yes - but only to those who would trespass."
+> "Yes, Emily. In fact, it immediately reminded me of the *Cherubim* - not the small, winged infants popular in Renaissance art, but the Biblical ones who stood guard at the Gates of Eden beside *a flaming sword which turned every way*. These were not messengers, but *enforcers* of sacred boundaries. The Landmates, unmoving yet absolute in presence, echo that image. Silent guardians. Terrifying, yes - but only to those who would trespass."
 
 **Emily Zhao:**  
 > "Rabbi Horowitz, the name 'Golems' - which we first heard from Colonel Mazar - is rooted in Jewish tradition. But these machines are protecting Palestinian civilians. Does the legend still fit?"
@@ -1291,13 +1291,13 @@ Everywhere in the Strip, carried in the air on invisible waves no agency could i
 > "Dr. Mehra, from the Hindu perspective - do any stories come to mind?"
 
 **Dr. Mehra (smiling faintly):**  
-> "Oh, many. In the Mahabharata, Lord Krishna sends avatars - *Vibhutis* - to restore balance. Sometimes gods arrive not to guide, but to correct. Kali, the goddess of destruction, clears the field so life can begin anew. What strikes me about these Landmates is their detachment. They don't seek worship. They don't claim moral high ground. They *act*. In Hindu thought, that's very close to *dharma* - cosmic duty carried out without ego."
+> "Oh, many. In the Mahabharata, Lord Krishna - himself an avatar of Vishnu - says he takes form in every age to restore balance. Sometimes gods arrive not to guide, but to correct. Kali, the goddess of destruction, clears the field so life can begin anew. What strikes me about these Landmates is their detachment. They don't seek worship. They don't claim moral high ground. They *act*. In Hindu thought, that's very close to *dharma* - cosmic duty carried out without ego."
 
 **Emily Zhao:**  
 > "And finally, Imam Al-Khattab. There's been quiet discussion online of an old Hadith. Would you share your thoughts?"
 
 **Imam Al-Khattab (measured, calm):**  
-> "Yes. There is a Hadith, not widely cited, that speaks of 'strangers descending who wear neither dust nor weariness, and whose faces are unknown among men. They walk the Earth briefly, and leave behind justice.' Many say it is metaphorical - others see prophecy. These machines... they speak all languages. They defend without asking who prays which direction. Their clothes do not gather dust."
+> "Yes. There is a Hadith, not widely cited and considered weak by most scholars, that speaks of 'strangers descending who wear neither dust nor weariness, and whose faces are unknown among men. They walk the Earth briefly, and leave behind justice.' Many say it is metaphorical - others see prophecy. These machines... they speak all languages. They defend without asking who prays which direction. Their clothes do not gather dust."
 
 He pauses, then adds:
 
@@ -1318,19 +1318,19 @@ He pauses, then adds:
 
 ### Hamas Tunnels
 
-Deep beneath the fractured soil of Khan Yunis, in the carved concrete and iron maze that had served as Hamas' shadow capital, the air was thick with frustration and the reek of stale sweat. The walls shuddered occasionally - *not* from bombs, but from the distant hum of something unnatural moving above.
+Deep beneath the fractured soil of Khan Younis, in the carved concrete and iron maze that had served as Hamas' shadow capital, the air was thick with frustration and the reek of stale sweat. The walls shuddered occasionally - *not* from bombs, but from the distant hum of something unnatural moving above.
 
 In the dimly lit command room, Abu Sharif paced like a caged animal. The flickering fluorescent light cast sharp shadows across the walls lined with maps, comm units, and weapons crates. None of it mattered anymore. None of it worked.
 
 He slammed a hand onto the table.
 
-> "Five days," he spat. "Five days and we haven't moved *anything.* No convoys hit. No outposts raided. Every *single* corridor watched."
+> "Three days," he spat. "Three days and we haven't moved *anything.* No convoys hit. No outposts raided. Every *single* corridor watched."
 
-One of his lieutenants kept his eyes down. "We sent teams north and east. Rafah, Zeitoun. All gone. Not even a radio call before they vanished."
+> One of his lieutenants kept his eyes down. "We sent teams north and south. Zeitoun, Rafah. All gone. Not even a radio call before they vanished."
 
-Abu Sharif's eyes burned. "*Vanished.* Just like that. Shot? Taken? We don't even know. We don't *see* them fire."
+> Abu Sharif's eyes burned. "*Vanished.* Just like that. Shot? Taken? We don't even know. We don't *see* them fire."
 
-Another fighter nodded grimly. "You don't *see* anything. The moment you step into their shadow, it's like Allah himself closes the gate."
+> Another fighter nodded grimly. "You don't *see* anything. The moment you step into their shadow, it's like Allah himself closes the gate."
 
 > "Stop quoting scripture," Sharif growled. "This is not divine. This is *control.* Some outside force, unknown, faceless, armed with machines - and *no one* knows who sent them. Not the Americans. Not the Mossad. Not even the damned Egyptians."
 
@@ -1422,7 +1422,7 @@ She leans forward slightly, more animated now.
 
 ### Hamas Tunnels
 
-The fluorescent lights buzzed overhead as Abu Sharif hunched over the encrypted satellite phone, the heat of the tunnels pressing in like a second skin. The connection hissed, then stabilized. A dry, heavily-accented Farsi voice came through - gravelled and sardonic.
+The fluorescent lights buzzed overhead as Abu Sharif hunched over the encrypted satellite phone, the heat of the tunnels pressing in like a second skin. The connection hissed, then stabilized. A dry, heavily accented Farsi voice came through - gravelled and sardonic.
 
 > "You sound like a man screaming into a sealed room."
 
@@ -1558,7 +1558,7 @@ Its voice was synthetic, toneless - but loud, clear, and filled with something f
 
 The plaza seemed to freeze.
 
-> "You will place yourself under my custody where you will be tried for your crimes in a fair trial."
+> "You will place yourself in my custody, and you will receive a fair trial for your crimes."
 
 A pause. Then:
 
@@ -1596,11 +1596,11 @@ The Golem turned, still silent, and began walking.
 
 Sharif dangled, feet dragging along the plaza's dust-swept stone, head lolling to the side. The machine carried him across the open square, past market stalls emptied in haste, past shuttered doorways where eyes watched from behind cloth and broken shutters.
 
-At the far end of the plaza, nestled among rubble, one of the original drop-pods from Arrival Day remained - partially embedded in the ground like a seed that never sprouted. As the Golem approached, its surface came alive with soft pulses of green-blue light. It opened with a soft hiss.
+At the far end of the plaza, nestled among rubble, one of the original drop-pods from Arrival Day remained - half-buried in drifted sand, like a seed that never sprouted. As the Golem approached, its surface came alive with soft pulses of green-blue light. It opened with a soft hiss.
 
 The Golem stepped inside.
 
-A low whine built beneath the earth, barely audible at first. Then came the crescendo: a deep *thoom* as the pod ignited its ascent engines and rose vertically into the sky, trailing a column of fire and soundless thrust.
+A low whine built beneath the earth, barely audible at first. Then came the crescendo: a deep *thoom* as the pod ignited its ascent engines and rose vertically into the sky, trailing a column of fire and shimmering thrust.
 
 People spilled into the plaza moments later, drawn by the noise, the light. They watched the glowing streak vanish into the upper sky.
 
@@ -1616,7 +1616,7 @@ Just silence.
 
 And the message was understood.
 
-That night, in Rafah, in Khan Yunis, in Gaza City and the bones of Beit Hanoun, something changed. Tunnels were abandoned. Small groups of fighters emerged from the earth like shadows surrendering to dawn.
+That night, in Rafah, in Khan Younis, in Gaza City and the bones of Beit Hanoun, something changed. Tunnels were abandoned. Small groups of fighters emerged from the earth like shadows surrendering to dawn.
 
 They bore no weapons.
 
@@ -1626,7 +1626,7 @@ No resistance.
 
 Just footfalls and silence. AKs had been discarded in piles at tunnel mouths hours earlier. Explosives buried, or left behind entirely.
 
-They moved toward the PA checkpoint at Salah al-Din Road, where Authority forces - uneasy, outnumbered, but alert - watched from behind sandbags and taped barricades.
+They moved toward the PA checkpoint at Salah al-Din Road, where Authority police - let back into the Strip only days before, uneasy, outnumbered, but alert - watched from behind sandbags and taped barricades.
 
 The Hamas commander at the front, once a man who barked orders and filmed propaganda videos from underground bunkers, now approached with a slow, heavy tread. A Red Crescent medic intercepted him.
 
@@ -1723,9 +1723,9 @@ Five Days After Arrival Day
 
 Rain streaked the windows of the Palais des Nations, washing the city's skyline into soft focus. Inside Conference Room B-23, the air was sharp with tension and coffee. Security personnel, technical advisors, and diplomats clustered in subdued conversation, voices pitched low, as if anything louder might draw the attention of the steel giants watching the world from Gaza.
 
-At the center of the long table sat Under-Secretary Leena Ahlström, envoy to extraordinary security events. Her brow was furrowed, fingers drumming against a pad of notes written in four languages. Around her sat a carefully curated team: linguists, AI theorists, ex-military attachés, and one faintly disheveled historian of symbolic communication.
+At the center of the long table sat Under-Secretary-General Leena Ahlström, envoy to extraordinary security events. Her brow was furrowed, fingers drumming against a pad of notes written in four languages. Around her sat a carefully curated team: linguists, AI theorists, ex-military attachés, and one faintly disheveled historian of symbolic communication.
 
-A projector hummed to life, displaying the now-universally recognized insignia: the wireframe globe, flanked by laurel branches, broken swords crossed beneath.
+A projector hummed to life, displaying the now-universally recognized insignia: the wireframe globe, encircled by laurel branches, broken swords crossed beneath.
 
 > "We all know why we're here," Ahlström said without preamble. "As of this morning, the last confirmed hostile actor in Gaza surrendered. No further attacks have been recorded. The Landmates remain in place. They are clearly operating under rules of engagement we do not understand. They have not made formal contact. It's time we attempt *ours*."
 
@@ -1737,13 +1737,13 @@ A military liaison leaned forward.
 
 > "Or they're waiting to see *who* tries."
 
-Ahlström nodded. "Which is why this delegation has been assembled. Your brief is simple: initiate peaceful, clear, and non-provocative first contact. No demands. No posturing. No flags."
+> Ahlström nodded. "Which is why this delegation has been assembled. Your brief is simple: initiate peaceful, clear, and non-provocative first contact. No demands. No posturing. No flags."
 
 A linguist raised a hand.
 
 > "Do we have a contact point?"
 
-> "We've selected Khan Younis. One of the Landmates there broke silence when it captured Abu Sharif. That's our best candidate for responsiveness."
+> "We've selected Khan Younis. One of the Landmates there was the first to address someone by name when it captured Abu Sharif. That's our best candidate for responsiveness."
 
 > "And if they don't reply?"
 
@@ -1773,14 +1773,14 @@ Jan Roussel, the Belgian peace linguist brought in from the EU Observer Mission,
 
 > "It's deliberate. A language in itself. We've agreed: no cultural flags, no national emblems in the protocol document. Only visual, neutral representations of our role: observers. Peace envoys. Noncombatants."
 
-Ahlström nodded. "Good. Proceed."
+> Ahlström nodded. "Good. Proceed."
 
 They spent hours parsing every line. The draft protocol was to be simple. Not a treaty. Not a declaration. Just a gesture.
 
-1. **Identity** – We are representatives of international civil order.  
-2. **Intent** – We come unarmed, to learn, not to interfere.  
-3. **Recognition** – We acknowledge your presence and your actions.  
-4. **Inquiry** – We respectfully request communication.
+1. Identity – We are representatives of international civil order.  
+2. Intent – We come unarmed, to learn, not to interfere.  
+3. Recognition – We acknowledge your presence and your actions.  
+4. Inquiry – We respectfully request communication.
 
 Delivery method was still debated. Physical printout? Visual projection? Spoken greeting in multiple languages? They settled on *all three*. Redundancy would be safety.
 
@@ -1817,7 +1817,7 @@ She rose, signaling the end of the session.
 ---
 
 ### En Route to Gaza – UN Mission Flight 117  
-Day 6, 0710 Hours
+Day 6, 0540 Hours
 
 The roar of the C-130's turboprops was a constant thrum beneath every conversation, rattling clipboards and thermoses on the collapsible tray tables. The aircraft, painted in UN white, bore no national insignia beyond the blue flag. It was old, loud, and utterly transparent in purpose.
 
@@ -1827,7 +1827,7 @@ Dr. Song adjusted her headset, leaning toward Jan Roussel.
 
 > "If they respond at all, we need to watch for symbolic behavior - changes in posture, light signatures, spatial shifts. Their grid projection might be their primary method of engagement. It's not just surveillance. It *communicates*."
 
-Jan nodded. "That's why we'll stand two meters apart, arms visible, no objects in hand. Even paper might be read as concealment."
+> Jan nodded. "That's why we'll stand two meters apart, arms visible, nothing in hand but paper."
 
 Across the aisle, Dr. Iqbal reviewed the escalation matrix they'd prepared. It was blank beyond Stage One.
 
@@ -1851,11 +1851,11 @@ She looked down the row.
 
 > "No cameras. No media. This isn't a press moment. This is first contact."
 
-Someone across the bay muttered, "With what, exactly?"
+> Someone across the bay muttered, "With what, exactly?"
 
 No one answered.
 
-The wheels thumped down hard on the runway an hour later. The aircraft rolled to a halt under the haze of early morning light at a secured strip outside Rafah. Beyond the perimeter fence, the silence of a warless zone stretched outward.
+The wheels thumped down hard on the runway at El Arish an hour later. The aircraft rolled to a halt under the haze of early morning light, and the delegation transferred to a waiting convoy for the drive up the coast road to the Rafah crossing. Beyond the crossing's perimeter fence, the silence of a warless zone stretched outward.
 
 And in the distance - tall, unmoving, inevitable - a single Landmate stood alone at the edge of a shattered road.
 
@@ -1868,7 +1868,7 @@ Day 6, 0852 Hours
 
 The UN convoy moved slowly, deliberately. Three white armored SUVs, flags fluttering on short poles, rolled through the broken streets of Khan Younis, their tires crunching over gravel and spent shell casings. Dust swirled in lazy eddies as they passed through silent intersections flanked by crumbling buildings and the skeletal remnants of concrete homes.
 
-Inside the lead vehicle, Under-Secretary Ahlström sat in the front passenger seat, flanked by two local liaisons. Behind her, the delegation maintained a tense silence, eyes flicking between windows, clipboards, and each other.
+Inside the lead vehicle, Under-Secretary-General Ahlström sat in the front passenger seat beside a local liaison. Behind her, the delegation maintained a tense silence, eyes flicking between windows, clipboards, and each other.
 
 It was Dr. Song who noticed it first.
 
@@ -1882,13 +1882,13 @@ Dr. Song leaned forward between the seats.
 
 > "That's the third one. Same behavior. Passive scan. No posture shift. Always green."
 
-Jan Roussel, scribbling shorthand notes, nodded. "That's *recognition*. Not identity - *intent*. We're transmitting something they trust."
+> Jan Roussel, scribbling shorthand notes, nodded. "That's *recognition*. Not identity - *intent*. We're transmitting something they trust."
 
 > "UN livery?" someone offered.
 
 > "Uniform movement, slow speed, no weapons," Dr. Iqbal said. "It's all a visual grammar."
 
-They passed a second, then a third - each stationed like monolithic gatekeepers. Each one observed. Each grid shifted from gold to green. Each let them pass.
+They passed a fourth, then a fifth - each stationed like monolithic gatekeepers. Each one observed. Each grid shifted from gold to green. Each let them pass.
 
 The closer they drew to the plaza, the quieter the city became.
 
@@ -2021,7 +2021,7 @@ The gravel in its voice was deeper this time. Not threatening - simply undeniabl
 
 The team stood still beneath the pale blue tarp, staring up into the dark faceplate of the towering machine.
 
-And for the first time in recorded human history, formal dialogue with a true non-human intelligence had begun.
+And for the first time on the public record, formal dialogue with a true non-human intelligence had begun.
 
 ---
 
@@ -2045,7 +2045,7 @@ It stepped forward once - no aggression, but the sheer gravity of its motion mad
 
 > "Violence. Suffering. Instability. These conditions were analyzed and determined untenable. A corrective presence was required. The vacuum of power had to be filled."
 
-Roussel, throat dry, muttered, "By *you*?"
+> Roussel, throat dry, muttered, "By *you*?"
 
 > "By what I represent," `HARBINGER` said. "By those entrusted with preventing systemic collapse where local mechanisms have failed or refused to act."
 
@@ -2057,7 +2057,7 @@ The visor didn't glow, didn't flicker - but somehow, the reply came with unmista
 
 > "Nothing gives it. It was *taken*, when all others failed to hold it."
 
-> "But nobody *asked* for you, the people didn't *vote* for this.
+> "But nobody *asked* for you. The people didn't *vote* for this," Dr. Song said.
 
 There was a barely perceptible nod from `HARBINGER`.
 
@@ -2115,7 +2115,7 @@ Jan Roussel stared up at the towering frame.
 
 > "Then you will see me again."
 
-Behind them, the sun crested over the eastern skyline of Khan Younis, illuminating the plaza in pale gold.
+Behind them, the sun climbed higher over the eastern skyline of Khan Younis, washing the plaza in hard light.
 
 The Landmate stood perfectly still - silent, monolithic, inevitable.
 
@@ -2133,7 +2133,7 @@ The air held its stillness like a breath between thunder.
 
 Ahlström took one more step forward, her voice measured now with something new - *deference*, tinged with curiosity that outpaced fear.
 
-> "You mentioned you act under authority. You spoke of the EarthSpace Federation. Are they your... masters?"
+> "You mentioned you act under authority. Whose authority? Do you have... masters?"
 
 A faint hum pulsed under the plating of the Landmate, as if considering its own words before shaping them.
 
@@ -2173,7 +2173,7 @@ Ahlström opened the reinforced portfolio, its white leather cover marked only b
 
 She lifted it carefully and stepped forward, flanked by Jan Roussel and Dr. Iqbal. Her voice carried the weight of centuries of diplomacy.
 
-> "On behalf of the United Nations, and by the consensus of the Security Council's emergency session, I extend to your masters - the EarthSpace Federation - an invitation to join the international community. To engage as a recognized participant in global dialogue, governance, and peacekeeping."
+> "On behalf of the United Nations, and by mandate of the Secretary-General, I extend to your masters - the EarthSpace Federation - an invitation to join the international community. To engage as a recognized participant in global dialogue, governance, and peacekeeping."
 
 She held the document forward.
 
@@ -2213,11 +2213,11 @@ The hall was at capacity.
 
 Delegates sat in silent rows, translators poised behind glass panels, global media restricted to observation decks high above the floor. No one whispered. No one shuffled papers. Even the ceremonial stillness that usually cloaked such sessions had hardened into *attention*.
 
-At the central podium, beneath the sweeping green marble backdrop and the gold UN seal, Under-Secretary Leena Ahlström stood alone.
+At the green marble rostrum, beneath the gold backdrop and the UN emblem, Under-Secretary-General Leena Ahlström stood alone.
 
 Her voice, clear and resolute, carried across the chamber as the world listened to history.
 
-> "Mr. Secretary-General. Esteemed delegates. Representatives of the global community."
+> "Mr. President. Mr. Secretary-General. Esteemed delegates. Representatives of the global community."
 
 She paused only briefly.
 
@@ -2293,13 +2293,13 @@ Then the Chinese ambassador said, without raising his voice:
 
 Eyes turned.
 
-> "The Federation filled that void. With precision, restraint, and overwhelming force. What does it say about us," she continued quietly, "that it did in five days what we could not do in five decades?"
+> "The Federation filled that void. With precision, restraint, and overwhelming force. What does it say about us," he continued quietly, "that it did in five days what we could not do in five decades?"
 
 The council fell still.
 
 The QR code gleamed on the monitor. Simple. Unreadable. But absolute.
 
-And beneath it, in black ink, Leena Ahlström's signature.
+And above it, in black ink, Leena Ahlström's signature.
 
 The United Nations had made contact - not with a nation, nor a rebel force, nor an alien armada - but with something in between. Something watching. Waiting.
 
@@ -2323,7 +2323,7 @@ And now... *recognized*.
 
 **[Footage: General Assembly, Ahlström at the podium, delivering the core of her address.]**
 
-> "Under-Secretary Leena Ahlström delivered the news earlier today at a packed emergency session of the General Assembly. Her words were clear, and - according to analysts - *historic*."
+> "Under-Secretary-General Leena Ahlström delivered the news earlier today at a packed emergency session of the General Assembly. Her words were clear, and - according to analysts - *historic*."
 
 **[Cut to a 10-second clip of Ahlström:]**
 
@@ -2334,7 +2334,7 @@ And now... *recognized*.
 **Emily Zhao:**  
 > "The Landmates' command AI, `HARBINGER`, described itself as a 'strong AI' - capable of independent decision-making, and stated that its mission was to stabilize and pacify the Gaza region due to what it called a 'vacuum of power.'"
 
-**[On screen: `HARBINGER` quote appears, stark against a black background.]**
+**[On screen: `HARBINGER`'s words, as summarized by the UN delegation, appear stark against a black background.]**
 
 > "*Humanity did [authorize this intervention], by allowing this conflict to continue. Violence, suffering, and instability in the region were untenable, and there was a vacuum of power. That vacuum had to be filled.*"
 

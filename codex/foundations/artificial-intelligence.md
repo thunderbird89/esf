@@ -18,5 +18,5 @@ There are also a number of specialized AIs with distinct personalities, geared t
 - `SUNTZU`: optimized for large-scale strategic planning and execution control.
 - `ARCHIMEDES`: specializing in scientific research and creation of new technologies, as well as physical data analysis.
 
-The names of these named AIs are always written in all-uppercase to distinguish them from the lesser AIs who do not enjoy the degree of freedom and ability afforded to these by their exceptional hardware.
+The names of these named AIs are always written in all-uppercase to distinguish them from the lesser AIs who do not enjoy the degree of freedom and ability afforded to these by their exceptional hardware. Shackled platform AIs may still carry given names, such as Hermes, Tsel and Nue aboard the Wraiths operated with American, Israeli and Japanese intelligence; these are written in normal case.
 

@@ -12,15 +12,15 @@ timeline: 2024-12-06
 
 The Grand Concordance of Interstellar Medicine was in full swing. The Xenari, Seraphyn, Kryllians, and dozens of other species moved in polite currents through the expansive *Ivai'Shan Medical Complex*, an orbital research station suspended over the Xenari homeworld. 
 
-Vireen Taa'Sho-Vel, a young Xenari researcher, stood amidst the shifting tides of brilliant minds, her bioluminescent markings dim with polite focus. She was one of the youngest neurophysiology specialists present, her research into cross-species neurochemical interactions still in its early stages. This conference was her first real exposure to the diverse biological paradigms of the greater galaxy. 
+Vireen Taa'Sho-Vel, a young Xenari researcher, stood amidst the shifting tides of brilliant minds, her bioluminescent markings flickering a faint violet-pink with polite focus. She was one of the youngest neurophysiology specialists present, her research into cross-species neurochemical interactions still in its early stages. This conference was her first real exposure to the diverse biological paradigms of the greater galaxy. 
 
-She had already noted fascinating contrasts in the attendees. The Seraphyn, with their resonant cognition, operated on an entirely different level of communication. The Kryllians, ever pragmatic, dominated discussions of cybernetic augmentation. The Ryzak, notably absent from the official delegations, were often subjects of whispered speculation regarding genetic aggression enhancements.
+She had already noted fascinating contrasts in the attendees. The Seraphyn, with their resonant cognition, operated on an entirely different level of communication. The Kryllians, ever pragmatic, dominated discussions of medical manufacturing. The Ryzak, notably absent from the official delegations, were often subjects of whispered speculation regarding genetic aggression enhancements.
 
 But what intrigued Vireen most were the humans.
 
-There were only a handful of them in attendance—a rarity in such settings. Their homeworld was still isolated, their presence in galactic affairs restricted to the shadows of their *EarthSpace Federation*. Vireen had spent the last two days listening to their presentations, poring over their clinical methodologies, and marveling at their peculiar physiology. Their nervous systems operated with alarming efficiency, and their biochemistry showed an uncanny resilience—anomalies that piqued her scientific curiosity. 
+There were only a handful of them in attendance—a rarity in such settings. Their homeworld was still isolated, their presence in galactic affairs restricted to the shadows of their *EarthSpace Federation*. Vireen had spent the last two days listening to their presentations, poring over their clinical methodologies, and marveling at their peculiar physiology. Their nervous systems operated with alarming efficiency, and their biochemistry showed an uncanny resilience—anomalies that piqued her scientific curiosity. The Federation guarded its biological data closely, though, and none of the presentations had touched on human endocrinology. 
 
-Most intriguing was the presence of a Terran Marine among them. Staff Sergeant Logan Carter was an anomaly amid the sea of researchers. His military posture, his scarred hands, and his calm, assessing gaze spoke of a life in violence. But he wasn't alone. 
+Most intriguing was the presence of a Federation soldier among them. Staff Sergeant Logan Carter was an anomaly amid the sea of researchers. His military posture, his scarred hands, and his calm, assessing gaze spoke of a life in violence. But he wasn't alone. 
 
 - Dr. Evelyn Park – a trauma surgeon whose hands moved in precise, calculated motions, her quiet intelligence measuring every conversation.
 - Dr. Marcus Patel – a biologist specializing in metabolic resilience, whose affable demeanor masked the keen mind beneath.
@@ -45,7 +45,7 @@ The attackers were not Ryzak—not entirely. Their bio-engineered physiques were
 
 They moved with brutal efficiency, corralling the delegates into a central mass. Scientists and physicians collapsed to their knees, some whimpering in confusion, others simply too overwhelmed to react. 
 
-A Kryllian researcher attempted to barter for his life, his voice a rapid cascade of negotiation—only to be silenced by a savage strike from the back of a gauntleted fist. His small, stocky frame crumpled, ammonia-rich blood spattering the polished floor.
+A Kryllian researcher attempted to barter for his life, his voice a rapid cascade of negotiation—only to be silenced by a savage strike from the back of a gauntleted fist. His small, stocky frame crumpled, ammonia-rich blood spattering the polished floor, his rebreather mask skittering away.
 
 Vireen felt her breath hitch in sheer horror.
 
@@ -91,7 +91,7 @@ They were *waiting*.
 
 Something shifted in their stance.
 
-The marine's breathing slowed. The doctors exchanged glances—a flicker of unspoken communication passing between them.
+The soldier's breathing slowed. The doctors exchanged glances—a flicker of unspoken communication passing between them.
 
 Something was about to change.
 
@@ -99,7 +99,7 @@ Something the aliens present had never seen before.
 
 And when it happened, the galaxy would never forget it.
 
-## Adrenaline (Part II)  
+## Fifteen Seconds
 ### Unleashing the Beast  
 
 The room held its breath.  
@@ -122,17 +122,17 @@ Staff Sergeant Logan Carter moved first.
 
 One moment, he was standing in place, hands raised in false surrender. The next, he exploded forward like a missile, his brutal speed defying the weight of his frame. The four-armed terrorist leader barely had time to react before Carter grabbed his rifle barrel, wrenched it aside, and drove a knee into the alien's gut with crushing force. A sickening crack filled the air—something inside snapped—but Carter didn't stop.
 
-As Carter spun to deliver a full-force elbow strike to a second terrorist's temple, Dr. Evelyn Park was already in motion. She sidestepped a lunging attacker with the jagged plasma dagger, letting his momentum carry him past her, then slammed her palm into his elbow joint. The limb snapped backward with a wet crunch. His shriek barely left his mandibles before she grabbed a discarded surgical scalpel and plunged it into the gap between his neck plates, twisting until the blade severed his spinal column.
+As Carter spun to deliver a full-force elbow strike to a second terrorist's temple, Dr. Evelyn Park was already in motion. She sidestepped a lunging attacker wielding a jagged plasma dagger, letting his momentum carry him past her, then slammed her palm into his elbow joint. The limb snapped backward with a wet crunch. His shriek barely left his mandibles before she grabbed a discarded surgical scalpel and plunged it into the gap between his neck plates, twisting until the blade severed his spinal column.
 
 Dr. Marcus Patel, the gentle biologist, drove his fist into another terrorist's throat—not a punch, but a surgical strike. The windpipe crushed instantly. As the alien staggered and choked, Patel grabbed a metal chair and brought it down onto the creature's skull with bone-shattering force. The chair dented inward from the impact.
 
-Meanwhile, Carter had ripped the rifle from the leader's grip and driven the stock straight through the alien's throat. Chitin and muscle gave way like wet paper as the leader collapsed, clutching at the gaping ruin where his airway had been.
+Meanwhile, after dropping the second terrorist with the elbow, Carter had ripped the rifle from the leader's grip and driven the stock straight through the alien's throat. Chitin and muscle gave way like wet paper as the leader collapsed, clutching at the gaping ruin where his airway had been.
 
 Dr. Alan Greaves caught a terrorist's razor-clawed swing, twisted at the wrist, and snapped the arm at the elbow with a brutal jerk. The alien howled, but Greaves yanked him forward and smashed his forehead into the creature's face—once, twice, three times—until his own face was splattered with alien ichor and the terrorist's skull caved in.
 
 The last remaining terrorist charged Dr. Rebecca Henshaw with a combat knife raised. She sidestepped with clinical precision, grabbed his wrist, and pressed her thumb into the soft tissue between his carpal plates. He screamed as the pressure point ignited his nerves. Then she twisted his arm backward, forcing the knife toward his own gut. He struggled. She held firm. The blade sank into his abdomen, and with a single, smooth motion, she ripped it upward, gutting him from stomach to sternum.
 
-The terrorist fell in two halves.
+The terrorist folded in half and fell.
 
 Six aliens. Fifteen seconds. Done.  
 
@@ -178,13 +178,7 @@ Greaves stretched his bruised knuckles and let out a slow exhale.
 
 Henshaw shook off her bloodied hands like she had just finished washing up in a sink.  
 
-## Aftermath
-
-The fight was over.  
-
-The bodies of the terrorists lay scattered across the blood-slicked conference floor, their forms twisted and broken in ways that defied natural anatomy. The acrid stench of burnt chitin and spilled alien ichor hung in the air, mixing with the coppery tang of human blood.  
-
-The humans stood amidst the carnage, panting, bruised, and bleeding.  
+## The Comedown
 
 And then, the adrenaline wore off.  
 
@@ -192,7 +186,7 @@ And then, the adrenaline wore off.
 
 Logan Carter was the first to feel it.  
 
-His ribs ached like hell, and when he took a breath, it was sharp and ragged—definitely cracked, maybe broken. His left arm felt numb, which wasn't great considering it had been holding up a terrorist's skull not long ago. His knuckles throbbed, split open from bone-on-bone impacts, and now that he wasn't mid-murder, he really felt the deep, gnawing pain in his thigh—where one of those bastard aliens had sunk a claw in deep.  
+His ribs ached like hell, and when he took a breath, it was sharp and ragged—definitely cracked, maybe broken. His left arm felt numb, which wasn't great considering it had been wrenching a rifle out of a four-armed alien's grip not long ago. His knuckles throbbed, split open from bone-on-bone impacts, and now that he wasn't mid-murder, he really felt the deep, gnawing pain in his thigh—where one of those bastard aliens had sunk a claw in.  
 
 He glanced down. Yup. Still bleeding.  
 
@@ -204,7 +198,7 @@ Dr. Evelyn Park shot him a look as she pressed her medical coat against her woun
 
 > "Carter, if you don't shut up and let me work, I will personally anesthetize you with my fist."
 
-Carter's grin was sharp-edged, adrenaline still coursing. 
+Carter's grin was sharp-edged, the last of the adrenaline still in it. 
 
 > "Copy that, Doc. But we need to move—more could be inbound."
 
@@ -242,7 +236,7 @@ Dr. Henshaw stood nearby, looking down at her bloodied hands with clinical detac
 
 > "Huh. That's not supposed to hurt yet," she said matter-of-factly, flexing her fingers with visible effort. "Give it another few minutes."
 
-A Seraphyn medic approached her cautiously, its prismatic eyes flickering through confused light spectrums.
+A Seraphyn medic approached her cautiously, their prismatic eyes flickering through confused light spectrums.
 
 > "We should get you medical attention immediately—"
 
@@ -270,7 +264,7 @@ She paused, seeming to consider her own words as if hearing them for the first t
 
 > "Most humans go their whole lives without ever really finding out what they're capable of."
 
-Vireen's markings pulsed a troubled blue.
+Vireen's markings dimmed to a troubled grey-blue.
 
 > "And you? Had you ever...?"
 
@@ -282,7 +276,7 @@ Vireen realized she wasn't just witnessing the aftermath of violence. She was wa
 
 And somehow, that was almost more terrifying than the violence itself.  
 
-## Aftermath (Part II)  
+## The Trauma Bay
 ### Alien Medicine, Human Resilience  
 
 The trauma bay of the *Ivai'Shan Medical Complex* was a gleaming cathedral of pristine biotech and antiseptic sterility. Rows of suspension platforms hovered above the floor, their occupants bathed in softly pulsing diagnostic fields.  
@@ -359,7 +353,7 @@ Dr. Henshaw sat on another platform, methodically flexing each finger despite th
 
 She paused, studying her hands like they were a patient's rather than her own.
 
-> "I killed someone with these hands fifteen minutes ago. Cut through his abdominal cavity with a scalpel. Standard surgical technique, really."
+> "I killed someone with these hands fifteen minutes ago. Cut through his abdominal cavity with his own knife. Standard surgical technique, really."
 
 Her tone was conversational, almost casual—the way she might discuss a routine procedure with a colleague.
 
@@ -379,7 +373,7 @@ His knee had been drained of excess blood, a series of advanced dermal injectors
 
 Then something caught his ear.  
 
-One of the Xenari frowned at a molecular readout, his bioluminescent bands flickering a troubled shade of cyan-green.  
+One of the Xenari frowned at a molecular readout, his bioluminescent bands flickering a troubled grey-blue.  
 
 > "This compound… is unlike anything we have seen before. It surges through their systems in extreme bursts, triggering a cascade of biochemical responses that defy normal metabolic constraints."
 
@@ -408,18 +402,6 @@ Vireen, staring at him as if he had just whispered the meaning of existence itse
 > "…Explain."
 
 ## The Adrenaline Revelation  
-
-Silence lingered in the trauma bay.  
-
-Dr. Patel's words hung in the air like a dropped scalpel on a sterile floor.  
-
-> "Oh right, adrenaline…"  
-
-The alien physicians stared at the rotating molecular diagram, their expressions shifting between scientific intrigue and deepening horror.  
-
-Vireen Taa'Sho-Vel's bioluminescent markings flared wildly, flickering through a chaotic sequence of colors as her mind raced to process this revelation.  
-
-> "Explain."
 
 ### Filling in the Gaps  
 
@@ -451,13 +433,13 @@ One of the Kryllian surgeons clicked nervously, his plated fingers tapping again
 
 > "At the cost of stability? Elaborate."
 
-Staff Sergeant Logan Carter, still grinning despite the dark bruises blooming across his skin, waved a hand lazily.  
+Staff Sergeant Logan Carter, grinning again despite the dark bruises blooming across his skin, waved a hand lazily.  
 
 > "Yeah, it's hell on the body long-term. PTSD, cardiac issues, immune suppression—whole laundry list. But in a combat situation?"
 
 He gestured toward the bloodstained conference hall visible through the trauma bay's transparent partitions.  
 
-> "You just witnessed what happens when five million years of evolution kicks in. We become apex predators."
+> "You just witnessed what happens when five hundred million years of evolution kicks in. We become apex predators."
 
 The alien doctors exchanged looks of muted horror.  
 
@@ -489,11 +471,11 @@ The Kryllian surgeon clicked again, a nervous, stuttering rhythm.
 
 Dr. Park exhaled. 
 
-> "Yes. Mammals, reptiles, birds, even some fish. Anything that evolved under conditions where survival depended on fast reactions developed it."
+> "Yes. Mammals, reptiles, birds, fish. Anything that evolved under conditions where survival depended on fast reactions developed it."
 
 The alien physicians looked at one another in alarm.  
 
-Vireen shook her head slowly, her bioluminescence dimming to a deep shade of cyan—the Xenari equivalent of unease. 
+Vireen shook her head slowly, her bioluminescence dimming to a muted grey-blue—the Xenari signal of fear. 
 
 > "I have studied the neurochemistry of countless species, and never—not once—have I encountered anything like this. No other race in the known galaxy possesses a naturally occurring mechanism for… *this level of biological escalation*."
 
@@ -517,7 +499,7 @@ Dr. Patel, rubbing his bruised knee, chuckled.
 
 He counted off on his fingers.  
 
-> "Extreme weather, high gravity, bacterial infections, competing species, apex predators—"
+> "Extreme weather, bacterial infections, competing species, apex predators—"
 
 Dr. Henshaw cut in. 
 
@@ -565,7 +547,7 @@ And yet here were the humans—torn, bloodied, bruised but still alive, still fu
 
 She exchanged glances with the Kryllian surgeon, then the Seraphyn. They were all thinking the same thing. They had known humans were unusual, but this was something else entirely. This was terrifying.  
 
-Vireen's bioluminescent markings pulsed a deep, troubled blue as she watched Carter flex his bloodied knuckles and grin at the pain.  
+Vireen's bioluminescent markings dimmed to a troubled grey-blue as she watched Carter flex his bloodied knuckles and grin at the pain.  
 
 > "I need to study this further. Your physiology... your world... there's so much we don't understand."
 

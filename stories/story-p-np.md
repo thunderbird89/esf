@@ -8,7 +8,7 @@ timeline: 2024-03-19
 ---
 ## Off-Record Proof
 
-### Cambridge, Massachusettes
+### Cambridge, Massachusetts
 
 The hotel bar had gone mellow as the evening wound down—just a few knots of conference attendees still loitering over last call drinks, swaying on their stools between conversation and exhaustion. Ethan Walsh stirred his whiskey with the stem of a maraschino cherry, its sugar bleeding into the amber.
 
@@ -20,7 +20,7 @@ She swirled her own drink without sipping.
 
 He laughed dryly.
 
-> "I think decades of failed attempts say something. You don't just brute-force millions of combinatoric permutations into submission. The math doesn't let you."
+> "I think decades of failed attempts say something. You don't just brute-force millions of combinatorial permutations into submission. The math doesn't let you."
 
 Mira tilted her head.
 
@@ -50,7 +50,7 @@ Ethan gawked.
 
 > "Am I?"
 
-> "No commercial processor even breaks 20 stable qubits. Hell, Google's Sycamore barely holds at 50 for a couple microseconds."
+> "No processor even breaks 20 stable logical qubits. Hell, Google's Sycamore barely holds at 50 for a couple microseconds."
 
 Mira tilted her head again.
 
@@ -74,7 +74,7 @@ Ethan stared at the napkin, then at her.
 
 > "I'm *offering*."
 
-He hesitated, then pulled out his laptop and typed in a URL at random—his university's email server. He slid it over. Mira barely glanced at the terminal, then tapped a sequence into her phone and waited.
+He hesitated, then pulled out his laptop and typed in the first URL that came to mind—his university's email server. He slid it over. Mira barely glanced at the terminal, then tapped a sequence into her phone and waited.
 
 Ten seconds passed. Then another five.
 
@@ -164,7 +164,7 @@ She gestured.
 
 > "By all means."
 
-Ethan scanned the room. Near the buffet, huddled over a laptop and muttering into his AirPods, was Dr. Richard Langford, keynote speaker and household name in infosec circles. Authored three books on encryption, ran a consultancy firm that advised half of Fortune 500.
+Ethan scanned the room. Near the buffet, huddled over a laptop and muttering into his AirPods, was Dr. Richard Langford, keynote speaker and household name in infosec circles. Authored three books on encryption, ran a consultancy firm that advised half of the Fortune 500.
 
 > "There. Langford. Whatever page he's on, change it. Something small, something he'd notice but others wouldn't. That way, if you're faking this, we'll know."
 
@@ -416,7 +416,7 @@ They ducked into one of the side salons—a gaudy meeting room with golden trim 
 
 > "You just... *clocked* that guy."
 
-> "With a 35 psi dry chemical suppressor. Very scientific."
+> "With a 195 psi dry chemical suppressor. Very scientific."
 
 Her eyes scanned the tree structure again. Then she squinted at the carpet near the entryway, where a small, broken pastry lay forgotten.
 
@@ -442,7 +442,7 @@ She closed her laptop halfway, eyes flicking up.
 
 > "We've bought time. Let's use it."
 
-They moved again. Behind them, the extinguished stairwell was quiet, and somewhere else in the building, a very confused gunman was about to chase a future that no longer existed.
+They moved again. Behind them, the stairwell was quiet, and somewhere else in the building, a very confused gunman was about to chase a future that no longer existed.
 
 ---
 
@@ -450,7 +450,7 @@ They moved again. Behind them, the extinguished stairwell was quiet, and somewhe
 
 The room was still, save for the faint buzz of a dying overhead light and the soft rasp of Mira's laptop fan cooling something no off-the-shelf machine should be running. A faint trace of citrus and burnt coffee lingered from the breakfast service that had occupied this salon hours ago—before the gunmen, before the bottle, before the extinguisher.
 
-Ethan sat on the carpet, back against a faux-Ottoman, staring at Mira like she'd peeled the wallpaper off reality and found circuits behind it.
+Ethan sat on the carpet, back against a faux ottoman, staring at Mira like she'd peeled the wallpaper off reality and found circuits behind it.
 
 He said finally.
 
@@ -478,7 +478,7 @@ Ethan watched the branching structure update—small pulses of data flickering a
 
 > "To what, like ninety percent?"
 
-> "Closer to ninety-nine-point-nine. But not quite one. *Never* one. There's always entropy. Always some tail event that slips through. But you can box it in. Squeeze it out."
+> "Closer to ninety-nine-point-nine. But not quite a hundred. *Never* a hundred. There's always entropy. Always some tail event that slips through. But you can box it in. Squeeze it out."
 
 He rubbed his face.
 
@@ -502,7 +502,7 @@ They reached the elevator bank in a dead sprint, Mira already thumbing a quick c
 
 Three elevators. Two dark. One blinking *READY*.
 
-She turned to Ethan, breath shallow but eyes still sharp, the glow of her laptop reflecting in one lens.
+She turned to Ethan, breath shallow but eyes still sharp, the glow of her laptop reflecting in them.
 
 > "Okay, this is the last fork. You're taking this elevator—press *Level 4* the moment the doors close."
 
@@ -523,7 +523,7 @@ Ethan balked.
 > "The elevator's going to get stuck between 4 and 5. You'll have ten seconds to pry the doors open. Slip out onto 5, drop down the stairwell to 4. If we've calculated right..."
 
 She glanced down at her laptop one last time. A single bright node blinked:
-*Shooter-E.M. intersection @ 17:42:17, status: neutralized (non-lethal)*
+*Shooter-E.W. intersection @ 14:27:17, status: neutralized (non-lethal)*
 
 > "...you'll bump into him escorting me at the foot of the stairs. You get the element of surprise."
 
@@ -539,7 +539,7 @@ He pressed *4*. The doors slid shut with a hydraulic hiss.
 
 Inside, the lights dimmed. Somewhere around floor 4.5, the elevator groaned—and stopped.
 
-Ethan cursed under his breath, wedged his fingers into the seam. With a grunt, he pried the doors apart just wide enough to see the shaft wall—and, below that, the top lip of the fifth floor.
+Ethan cursed under his breath, wedged his fingers into the seam. With a grunt, he pried the doors apart just wide enough to see the shaft wall—and, above that, the bottom lip of the fifth floor.
 
 He climbed out, arms shaking, boots scraping steel, and rolled onto the hallway floor just as the power flickered again.
 
@@ -577,7 +577,7 @@ Then she sat in the hallway, breathing quietly, as the distant sound of sirens b
 
 ## Postmortem Silence
 
-Blue and red lights painted the shattered glass of the lobby in stuttering color. First responders moved like ghosts through the cordoned building—white gloves, clipped radios, quiet commands. The terrorists were cuffed or bagged. The survivors were shaken, wide-eyed, but intact.
+Blue and red lights painted the shattered glass of the lobby in stuttering color. First responders moved like ghosts through the cordoned building—white gloves, clipped radios, quiet commands. The terrorists were cuffed and led away. The survivors were shaken, wide-eyed, but intact.
 
 Every single one.
 
@@ -595,7 +595,7 @@ He gestured toward the corridor where Mira was finishing up her own debrief unde
 
 She looked different now. Shoulders slightly hunched. Hair out of place. Dirt streaked across her blouse, voice quivering just *enough*.
 
-> "I'm just an independent software consultant. I was in a side room the whole time until I got caught. I didn't... I don't really *know* how it all happened. I think I heard someone fall. I thought I was going to die."
+> "I'm just an independent research consultant. I was in a side room the whole time until I got caught. I didn't... I don't really *know* how it all happened. I think I heard someone fall. I thought I was going to die."
 
 She hugged her own arms, eyes glassy. The officer nodded sympathetically, jotting something down.
 
@@ -657,7 +657,7 @@ This... this was a *map* to that thought. Not the key. Not the door. But maybe�
 
 His pulse quickened.
 
-It wasn't something he could run. Nobody had 512-qubit platforms. Not yet. But that didn't make it worthless. In the right journals, among the right people, this would ripple for years as people unpacked the mathematics of picking your randomness. Someone would try to build toward it. Maybe many someones.
+It wasn't something he could run. Nobody had 512 stable logical qubits. Not yet. But that didn't make it worthless. In the right journals, among the right people, this would ripple for years as people unpacked the mathematics of picking your randomness. Someone would try to build toward it. Maybe many someones.
 
 Ethan folded the page carefully and slid it back into his coat. Then he looked up toward the sky—clear, cloudless, uncaring.
 
