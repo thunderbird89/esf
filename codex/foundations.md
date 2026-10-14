@@ -40,4 +40,4 @@ Federation infantry makes heavy use of powered exoskeletons even before making t
 ### Infantry weapons
 Regular infantry is usually assigned magnetic accelerator rifles using 2 mm tungsten darts, but depending on the mission profile, might be assigned low-power (25-50 MW) plasma rifles. For sidearms, smaller, 10-15 MW plasma pistols are used.
 
-Magnetic rifles can launch a variety of rounds, from simple kinetic penetrators through explosive rounds to specialty rounds with various exotic effects. See [Offensive Weapons]({{ '/foundations/foundations/offensive-weapons' | relative_url }}) for the Federation's specific small-arms designs, including the RTK-6 Hornet and RSK-5/M.
+Magnetic rifles can launch a variety of rounds, from simple kinetic penetrators through explosive rounds to specialty rounds with various exotic effects, including less-lethal kinetic impact rounds for operations where suspects must be taken alive. See [Offensive Weapons]({{ '/foundations/foundations/offensive-weapons' | relative_url }}) for the Federation's specific small-arms designs, including the RTK-6 Hornet and RSK-5/M.

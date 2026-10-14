@@ -8,11 +8,11 @@ permalink: /foundations/space
 The Federation, through technology provisioned by their extraterrestrial backers, has established extensive presence throughout the Solar System, mostly hidden from humanity's eyes by concealment of planetary bases and thermal masking of deep space assets.
 
 ## Space travel
-In space, the Federation mainly relies on high-efficiency fusion torches for propulsion. The most powerful of these engines can accelerate their vessels at as much as 15 Gs. At such acceleartions, injected medical supplements are used to temporarily reinforce blood vessels and prevent strokes, but even so, full acceleration cannot be maintained indefinitely without risking the crew's life.
+In space, the Federation mainly relies on high-efficiency fusion torches for propulsion. The most powerful of these engines can accelerate their vessels at as much as 15 Gs. At such accelerations, injected medical supplements are used to temporarily reinforce blood vessels and prevent strokes, but even so, full acceleration cannot be maintained indefinitely without risking the crew's life.
 
-Interplanetary craft are almost always equipped with a warp drive of some size, dependig on the size and purpose of the vehicle. Cargo ships are usually slower, clocking in at ≈2 AU/s; shuttles and smaller combat vessels occupy a middle ground at 7.5-12AU/s; while interceptors and courier ships move the fastest, at 20 AU/s.
+Interplanetary craft are almost always equipped with a warp drive of some size, depending on the size and purpose of the vehicle. Cargo ships are the slowest, clocking in at 2 to 8 AU/s depending on their mass; shuttles and smaller combat vessels occupy a middle ground at 7.5-12AU/s; while interceptors and courier ships move the fastest, at 20 AU/s.
 
-For multi-mode craft such as the Talon, their plasma engines really only permit operations near an established base, such as in planetary orbits. However, space-first variants of such craft are equipped with their own warp drives, allowing the Federation to project power in the system at will.
+Multi-mode craft such as the Talon carry warp drives of their own, but their plasma engines limit their endurance away from an established base, such as a planetary orbit. Space-first craft with larger reserves let the Federation project power across the system at will.
 
 ## Space combat
 In combat, the Federation relies mostly on large magnetic accelerators to fire hypervelocity shaped slugs, but also employs kinetic and EMP missiles and torpedos, as well as leveraging lasers for point-defence purposes.
@@ -27,7 +27,7 @@ The Federation classes its spaceships similar to terrestrial navies, into the fo
 7. Dreadnoughts, Carriers: siege platforms and extended campaign vessels, 600-1200 meters long.
 8. Titans, Supercarriers: large mobile bases for extended campaigns and flagships, 2000+ meters long.
 
-The Dreadnoughts, Carriers, Supercarriers, and Titans are not used in the Solar System, due to their conspicuousness, and are only employed when their alien benefactors require their help elsewhere in the universe.
+The Dreadnoughts, Carriers, Supercarriers, and Titans are not used in the Solar System, due to their conspicuousness, and are only employed when their alien benefactors require their help elsewhere in the galaxy. Built without jump drives, they reach other systems through the stargate network, entering and leaving Sol by Xenari jump bridges.
 
 ### Distances
 Most ships in the galaxy are equipped with high-speed computers and dedicated evasion/defense algorithms running on specialized hardware. This is especially true for warships and combat-oriented vessels. With the ability to react to outside threats almost in real time, space combat is drastically different from science-fiction depictions, where enormous ranges separate combatants - from outside of ≈250 km, almost no weapon has a chance of inflicting meaningful damage (missiles are intercepted by point defenses, lasers are neutralized by shifting shields, plasma bolts lose coherence, railgun slugs are deflected/destroyed by momentary shield concentrations).  

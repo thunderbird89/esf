@@ -98,6 +98,9 @@ During its missions, the Aurora travels at post-hypersonic speeds to its target 
 
 ---
 
+### Targeting coordinator
+A briefcase-sized, laptop-like terminal that lets a non-Federation user task Aurora strikes. HARBINGER gave one to Ukraine in March 2025. The user marks targets on a live map and sets a strike time; the coordinator accepts up to five strike sites at a time, with five targets per site, within 100 km of the current front line, needs at least 30 minutes' lead time, and refuses civilian infrastructure. It has no detectable emissions or power source, is opaque to X-rays, and bears the Federation insignia on its lid.
+
 ### Engineering Challenges and Solutions
 
 #### Heat Management

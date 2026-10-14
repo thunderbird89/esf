@@ -22,11 +22,11 @@ It was the same synthetic rasp that had introduced itself in Gaza, the same mech
 
 > "Distinguished delegates."
 
-The hall fell silent. Papers stopped rustling. Whispered translations ceased. Three thousand people held their breath.
+The hall fell silent. Papers stopped rustling. Whispered translations ceased. Nearly two thousand people held their breath.
 
 > "I am `HARBINGER`."
 
-Ambassador Katarina Voss of Germany felt her pulse spike. Beside her, the French delegate's hand froze halfway to his water glass. In the upper galleries, security personnel spoke urgently into radios, receiving instructions that amounted to: *stand by*.
+Ambassador Katarina Vogt of Germany felt her pulse spike. Beside her, the French delegate's hand froze halfway to his water glass. In the upper galleries, security personnel spoke urgently into radios, receiving instructions that amounted to: *stand by*.
 
 The voice continued, unhurried, as if it had every right to interrupt the proceedings of the United Nations General Assembly.
 
@@ -52,7 +52,7 @@ The Japanese delegate, Ambassador Takeshi Yamamoto, leaned forward in his seat. 
 
 > "Say yes, and they are yours. No payment required. No strings attached. No military access, no data collection, no surveillance. They will be yours to deploy as you see fit, maintained by your own personnel, operated by your own people."
 
-The Russian ambassador stood, his voice cutting through the chamber. "And if we refuse? What guarantee do we have—"
+> The Russian ambassador stood, his voice cutting through the chamber. "And if we refuse? What guarantee do we have—"
 
 The voice continued as if he hadn't spoken.
 
@@ -78,13 +78,13 @@ In the upper gallery, CNN correspondent Rachel Martinez spoke urgently into her 
 
 Seventy-five seconds.
 
-Ambassador Voss remembered the floods in Bavaria last summer. The Bundeswehr had deployed every available resource, but it hadn't been enough. Towns had drowned while engineers struggled with equipment never designed for such scale of disaster.
+Ambassador Vogt remembered the floods in Bavaria last summer. The Bundeswehr had deployed every available resource, but it hadn't been enough. Towns had drowned while engineers struggled with equipment never designed for such scale of disaster.
 
 Her finger hovered over ACCEPT.
 
 Sixty-eight seconds.
 
-The American delegate, Ambassador Michael Chen, received a text message from Washington: *Await instructions*. He stared at his voting panel. FEMA's budget requests had been cut again. Hurricane season was approaching. The Gulf Coast remained vulnerable.
+The American delegate received a text message from Washington: *Await instructions*. He stared at his voting panel. FEMA's budget requests had been cut again. Hurricane season was at its peak. The Gulf Coast remained vulnerable.
 
 Sixty seconds.
 
@@ -106,7 +106,7 @@ The votes cascaded. Indonesia. Vietnam. Pakistan. Nigeria. Egypt. Mexico. Turkey
 
 Thirty-two seconds.
 
-Ambassador Voss looked at her French colleague. He shrugged minutely, then pressed ACCEPT. She did the same.
+Ambassador Vogt looked at her French colleague. He shrugged minutely, then pressed ACCEPT. She did the same.
 
 Germany: ACCEPT. France: ACCEPT.
 
@@ -116,7 +116,7 @@ The United Kingdom hesitated, then voted ACCEPT. Spain followed. Italy. Portugal
 
 Eighteen seconds.
 
-Ambassador Chen looked at the voting board. NATO allies were splitting. The Five Eyes were not coordinating. The international order was fracturing in real-time over a decision measured in seconds.
+The American delegate looked at the voting board. NATO allies were splitting. The Five Eyes were not coordinating. The international order was fracturing in real-time over a decision measured in seconds.
 
 He pressed ACCEPT.
 
@@ -207,9 +207,9 @@ The screen cut to archived footage from Gaza. A Landmate's hand reaching down wi
 
 Cooper turned slightly, addressing a new camera angle.
 
-> "I want to bring in Dr. Sarah Chen, director of the Center for Emerging Technologies at MIT. Dr. Chen, you've studied the Landmate footage extensively. Can these machines actually be limited to peaceful use?"
+> "I want to bring in Dr. Sarah Lindqvist, director of the Center for Emerging Technologies at MIT. Dr. Lindqvist, you've studied the Landmate footage extensively. Can these machines actually be limited to peaceful use?"
 
-A window opened showing Dr. Chen in a studio in Boston.
+A window opened showing Dr. Lindqvist in a studio in Boston.
 
 > "Anderson, that's the critical question. The physical capability is there—those hands have the dexterity for rescue operations, the strength for heavy construction, the durability for hazardous environments. But a Landmate without weapons is still a three-meter-tall armored platform with strength measured in tons. It could push over a building just by leaning against it. It could tear open a bank vault like cardboard."
 
@@ -253,7 +253,7 @@ And no one knew which it would be.
 
 ## Chapter 2: The Arrival
 
-### FEMA Region IV Emergency Operations Center, Camp Blanding, Florida
+### FEMA Region IV Logistics Staging Area, Camp Blanding, Florida
 ### September 4, 2026 - 0557 hours
 
 Peter Scofield had been with FEMA for twelve years, and he'd never seen the operations center this crowded at six in the morning.
@@ -274,7 +274,7 @@ His phone buzzed. Group text from headquarters: *All personnel maintain safe dis
 
 > "One minute," someone called out.
 
-The equipment yard fell silent. Two hundred yards of asphalt, empty except for the painted markings that had been hastily added yesterday. A white square, fifty meters on each side, with "DELIVERY ZONE" stenciled in the center. Beyond the fence, news helicopters circled at a mandated distance, their cameras undoubtedly trained on the same empty space.
+The equipment yard fell silent. Two hundred meters of asphalt, empty except for the painted markings that had been hastily added yesterday. A white square, fifty meters on each side, with "DELIVERY ZONE" stenciled in the center. Beyond the fence, news helicopters circled at a mandated distance, their cameras undoubtedly trained on the same empty space.
 
 Peter's watch hit 0600.
 
@@ -284,7 +284,7 @@ Then the sound came—a low thrum that Peter felt in his chest before he heard i
 
 Five shapes descended through the pre-dawn light. Aircraft, roughly the size of transport helicopters, but nothing like any helicopter Peter had ever seen. Angular, aggressive, their matte black surfaces seemed to absorb the morning light. Large engines mounted on articulated arms rotated downward as the craft descended, transitioning from forward flight to hover with mechanical precision.
 
-They settled into position perhaps thirty meters above the delivery zone, perfectly stable despite the morning wind, their downwash kicking up dust in precise circles below each aircraft.
+They settled into position perhaps forty meters above the delivery zone, perfectly stable despite the morning wind, their downwash kicking up dust in precise circles below each aircraft.
 
 Peter counted. Five aircraft. Ten Landmates.
 
@@ -320,20 +320,20 @@ Waiting for someone to figure out what came next.
 
 ---
 
-### JSDF Emergency Response Depot, Chitose Air Base, Hokkaido
+### JSDF Emergency Response Depot, Camp Asaka, Tokyo
 ### September 4, 2026 - 0558 hours
 
-Private Naoko Yoshika stood in the cold Hokkaido morning, her breath misting in the air, and wondered if she was about to witness something that would define the rest of her career.
+Private Naoko Yoshika stood in the muggy Tokyo morning and wondered if she was about to witness something that would define the rest of her career.
 
 The depot's parking area had been cleared yesterday, painted with markings that looked hastily applied but precisely measured. Major Tanaka stood nearby, his posture rigid, hands clasped behind his back. Around them, perhaps fifty JSDF personnel waited in uncomfortable silence. Engineers, mostly, with a handful of officers and enough enlisted personnel to handle whatever "handling" might be required.
 
-Naoko had joined the JSDF Engineering Corps straight out of university. Three years operating construction equipment, clearing roads after typhoons, reinforcing structures damaged by earthquakes. She'd thought she understood disaster response.
+Naoko had served three years in the JSDF Engineering Corps, operating construction equipment, clearing roads after typhoons, reinforcing structures damaged by earthquakes. She'd thought she understood disaster response.
 
 Then Gaza had happened. Then Taiwan. And yesterday, the UN vote.
 
 Her phone buzzed. Group message: *T-minus two minutes. Maintain safe distance from marked zone.*
 
-Major Tanaka checked his watch, then looked up at the empty sky. The sun was just beginning to light the eastern horizon, turning the clouds pink and gold. It would have been beautiful, Naoko thought, if she weren't waiting for weapons platforms to fall out of it.
+Major Tanaka checked his watch, then looked up at the empty sky. The sun hung low over the eastern rooftops, edging the clouds in gold. It would have been beautiful, Naoko thought, if she weren't waiting for weapons platforms to fall out of it.
 
 > "Eyes up," someone called.
 
@@ -341,7 +341,7 @@ Major Tanaka checked his watch, then looked up at the empty sky. The sun was jus
 
 The sound came first—that deep, resonant thrum that made Naoko's uniform vibrate against her skin. Then the shapes, descending through the dawn light. Five aircraft, roughly Chinook-sized, but their design was nothing like any helicopter Naoko had studied. Sharp angles, matte black surfaces, and those engine pods—massive turbines mounted on articulated arms that rotated from horizontal to vertical as the craft transitioned to hover.
 
-The transition was seamless, mechanical, precise. The engines tilted downward, and the aircraft hung motionless at perhaps thirty meters, perfectly stable despite the wind coming off the mountains. Naoko's engineering mind tried to calculate the thrust required, the control systems necessary for such stability, and failed. This was beyond anything in conventional aerospace.
+The transition was seamless, mechanical, precise. The engines tilted downward, and the aircraft hung motionless at perhaps thirty meters, perfectly stable despite the morning wind. Naoko's engineering mind tried to calculate the thrust required, the control systems necessary for such stability, and failed. This was beyond anything in conventional aerospace.
 
 Panels opened beneath each aircraft. Two cargo bays per craft, their doors sliding apart with mechanical deliberation.
 
@@ -383,7 +383,7 @@ Naoko looked at the Landmates again. Somewhere in those frames was the answer to
 
 If they could figure out how to use them. If `HARBINGER` had left any way to learn.
 
-The Landmates stood motionless in the Hokkaido morning, as silent and still as statues.
+The Landmates stood motionless in the Tokyo morning, as silent and still as statues.
 
 Waiting.
 
@@ -459,9 +459,9 @@ Waiting for someone to figure out how to help.
 ---
 
 ### BBC News Centre, London
-### September 4, 2026 - 1900 hours GMT
+### September 4, 2026 - 1800 hours BST
 
-The BBC News at Six logo faded, replaced by anchor Sophie Raworth at the desk, her expression carrying the weight of a story that had dominated every news cycle for the past fifteen hours.
+The BBC News at Six logo faded, replaced by anchor Sophie Raworth at the desk, her expression carrying the weight of a story that had dominated every news cycle for the past day.
 
 > "Good evening. The Landmates have arrived. At precisely 0600 local time this morning, one hundred sixty-two nations across the globe received deliveries of the advanced machines promised by the artificial intelligence known as `HARBINGER`. But what was expected to be a technological revolution has instead become a study in confusion and caution."
 
@@ -517,7 +517,7 @@ Sophie frowned.
 
 Walsh nodded, his expression troubled.
 
-> "That's precisely the problem. We're theorizing about control mechanisms, but as far as I know, no one has actually tested any of them yet. Everyone is being extraordinarily cautious. Which leaves us trying to solve a puzzle with no data."
+> "That's precisely the problem. We're theorizing about control mechanisms, but as far as I know, no one has actually tested any of them yet. Everyone is being extraordinarily cautious. Which leaves us trying to solve a puzzle with no data. Still, a few explanations fit what we've seen."
 
 > "Such as?"
 
@@ -557,14 +557,14 @@ For what, no one knew.
 
 ## Chapter 3: Discovery
 
-### FEMA Region IV Emergency Operations Center, Camp Blanding, Florida
+### FEMA Region IV Logistics Staging Area, Camp Blanding, Florida
 ### September 29, 2026 - 1447 hours
 
 Three weeks had passed since the delivery, and the Landmates still stood in their perfect formation in the equipment yard.
 
 Peter Scofield had stopped thinking of them as ominous. They were just there now, like particularly expensive lawn ornaments that happened to be three meters tall. The initial terror had faded to frustration, then to a kind of resigned acceptance. Every morning, personnel arrived to find the machines exactly as they'd left them the night before. Motionless. Silent. Useless.
 
-Late September in Florida meant calm weather, at least. No hurricanes, no disasters requiring the equipment they couldn't use. A small mercy while they spent weeks staring at three-meter-tall question marks.
+Late September in Florida had been mercifully quiet, at least. No landfalls, no disasters requiring the equipment they couldn't use. A small mercy while they spent weeks staring at three-meter-tall question marks.
 
 The equipment yard had become a testing ground. Engineers had tried everything short of taking a crowbar to the machines. Radio signals across every frequency. Infrared. Bluetooth. WiFi. Various languages spoken at various volumes. Hand gestures. Proximity sensors. Nothing produced even a flicker of response.
 
@@ -657,7 +657,7 @@ Klaus Hartmann had been a Bundeswehr engineer for eight years, specializing in l
 
 But nothing in his experience had prepared him for machines that responded to voice commands with inhuman precision.
 
-The Ingolstadt depot had made the same discovery the Americans had, two days prior. Some supply sergeant had casually told a Landmate to move a crate, and the machine had simply... done it. Within hours, every Bundeswehr facility with Landmates was running basic tests.
+The Ingolstadt depot had made the same discovery the Americans had, two days prior. Some supply sergeant had casually told a Landmate to move a crate, and the machine had simply... done it. Within hours, every Bundeswehr engineer at the depot was running basic tests.
 
 Klaus stood in the depot's testing area, watching as Lieutenant Fischer walked a Landmate through increasingly complex instructions. The machine responded to everything—German, English, even Fischer's terrible French. It understood context, inferred meaning, adjusted to vague directions like "over there" or "that pile."
 
@@ -836,7 +836,7 @@ The emergency session wasn't televised, but every nation that had accepted Landm
 
 Ambassador Mensah sat in the Ghanaian delegation's section, watching as the floor was opened for discussion. The past week had fundamentally changed the conversation. Initial reports of voice control had spread rapidly—first from the United States, then Germany, then dozens of other nations as each confirmed the discovery independently.
 
-Now, less than a week later, every accepting nation had Landmates they could command.
+Now, barely a week later, every accepting nation had Landmates they could command.
 
 The British representative stood first.
 
@@ -856,7 +856,7 @@ The German representative stood.
 
 > "Germany supports this proposal, with the addition of safety protocols. We've observed that the Landmates will execute commands that appear self-destructive—walking into fire, leaping from buildings. However, we believe this is because such actions pose no actual risk to them. Their durability is such that what would be suicide for a human is merely... inconvenient for these machines. We cannot confirm this definitively, but we suspect the Landmates would refuse genuinely harmful orders. They seem to possess judgment about what constitutes actual damage versus apparent danger."
 
-Mensah made a note of that. Ghana's Landmates hadn't been tested extensively yet—they were still in the careful evaluation phase. But the implications were clear. These machines were tools, not partners. They had no judgment, no ability to refuse a bad order.
+Mensah made a note of that. Ghana's Landmates hadn't been tested extensively yet—they were still in the careful evaluation phase. But the implications were clear. These machines were tools with judgment of their own—and no one yet knew whose judgment it was.
 
 That made them powerful. And potentially dangerous, depending on who was giving the commands.
 
@@ -899,13 +899,13 @@ If people could learn to ask properly.
 ### NHK World, Tokyo
 ### October 8, 2026 - 0900 hours JST
 
-The NHK World studio had the clean, modern aesthetic that characterized Japanese broadcast design. Anchor Kenji Tanaka sat across from his guest, Dr. Yuki Nakamura, a professor of artificial intelligence at the University of Tokyo whose work on machine cognition had made her one of the field's leading voices.
+The NHK World studio had the clean, modern aesthetic that characterized Japanese broadcast design. Anchor Kenji Morita sat across from his guest, Dr. Yuki Nakamura, a professor of artificial intelligence at the University of Tokyo whose work on machine cognition had made her one of the field's leading voices.
 
 Behind them, a graphic displayed the UN logo alongside footage of Landmates in operation.
 
-> "Good morning. Yesterday's United Nations emergency session produced what many are calling a watershed moment in international cooperation. Dr. Nakamura, thank you for joining us."
+> "Good morning. Overnight, a United Nations emergency session in New York produced what many are calling a watershed moment in international cooperation. Dr. Nakamura, thank you for joining us."
 
-> "Thank you for having me, Tanaka-san."
+> "Thank you for having me, Morita-san."
 
 > "Let's start with the announcement. The UN has established what they're calling the International Landmate Coordination Initiative. What does this actually mean?"
 
@@ -959,7 +959,7 @@ The screen showed split footage: on one side, a Landmate moving shipping contain
 
 > "Dr. Nakamura, thank you for your insights."
 
-> "Thank you, Tanaka-san."
+> "Thank you, Morita-san."
 
 As the broadcast moved to other news, the image of a Landmate remained on screen for a moment longer—three meters tall, humanoid, motionless until needed.
 
@@ -1000,9 +1000,9 @@ Naoko's phone buzzed with an emergency alert. She pulled it from her pocket, han
 
 Her stomach dropped. Magnitude 7.8. In the bay. The coastal areas—
 
-> "All personnel, listen up," Major Tanaka called out. "This is what we've been training for. Yoshika, Sato, Kimura—get to the hangar. We're mobilizing the Landmates."
+> "All personnel, listen up," Major Tanaka called out. "This is what we've been training for. Yoshika, Sato, Endo—get to the yard. We're mobilizing the Landmates."
 
-Naoko was already moving before the order fully registered. Seven weeks. Seven weeks since the Landmates had arrived. Four weeks since the Initiative training had begun. They'd drilled for this, practiced the commands, rehearsed the deployment procedures.
+Naoko was already moving before the order fully registered. Eleven weeks. Eleven weeks since the Landmates had arrived. Two weeks since the Initiative training had begun. They'd drilled for this, practiced the commands, rehearsed the deployment procedures.
 
 But this wasn't a drill.
 
@@ -1033,7 +1033,7 @@ The Landmates had deployed from the helicopters with the same mechanical precisi
 
 Major Tanaka was coordinating with the on-site incident commander, a fire department captain whose face was streaked with soot and whose voice carried the edge of controlled panic. Around them, first responders worked frantically—pulling at debris, calling out for survivors, setting up triage stations.
 
-> "Yoshika," Tanaka called. "You're on Unit One. Captain Hayashi needs that residential block cleared. Four-story building, partial collapse, multiple trapped."
+> "Yoshika," Tanaka called. "You're on Unit One. Captain Ogawa needs that residential block cleared. Four-story building, partial collapse, multiple trapped."
 
 Naoko moved to the first Landmate, her training taking over despite the chaos around her.
 
@@ -1110,22 +1110,22 @@ As evening fell across Tokyo, the pattern repeated at site after site. Landmates
 
 ---
 
-### JSDF Emergency Coordination Center, Ichigaya
+### JSDF Forward Coordination Post, Koto Ward
 ### November 18, 2026 - 2247 hours JST
 
-Naoko sat in the operator station, her voice hoarse from hours of giving commands. Around her, nine other operators worked their units, their voices calm despite the exhaustion that showed on their faces. The coordination center hummed with controlled urgency—status updates, deployment requests, casualty reports.
+Naoko sat at an operator station in the coordination vehicle, her voice hoarse from hours of giving commands. Around her, nine other operators worked their units, their voices calm despite the exhaustion that showed on their faces. The coordination center hummed with controlled urgency—status updates, deployment requests, casualty reports.
 
 On the main display, a map of Tokyo showed the disaster response in real-time. Blue dots marked active Landmate positions. Red zones indicated fires. Orange showed structural damage. The blue dots moved steadily from site to site, never stopping, never slowing.
 
 Major Tanaka stood at the command station, coordinating with incident commanders across the affected areas.
 
-> "Unit Six, relocate to Minato. Collapsed bridge, multiple vehicles trapped underneath."
+> "Unit Six, hold position in Koto. Collapsed bridge pending assessment."
 
 > "Unit Four, Shibuya needs heavy lift support. Office building threatening to collapse onto evacuation route."
 
 > "Unit Eight, stand by. We're getting reports of a gas leak in your area. May need you for hazardous environment extraction."
 
-Naoko checked her status board. Unit One had been operational for nine hours straight. No performance degradation. No maintenance required. The machine was currently holding up a damaged highway overpass while engineers assessed whether it could be stabilized or needed controlled demolition.
+Naoko checked her status board. Unit One had been operational for nearly nine hours straight. No performance degradation. No maintenance required. The machine was currently holding up a damaged highway overpass while engineers assessed whether it could be stabilized or needed controlled demolition.
 
 Her radio crackled.
 
@@ -1139,7 +1139,7 @@ She keyed her command frequency.
 
 > "Unit One, current task complete?"
 
-A moment's pause while the engineers on site confirmed. Then: "Structure secured. Unit cleared for redeployment."
+> A moment's pause while the engineers on site confirmed. Then: "Structure secured. Unit cleared for redeployment."
 
 > "Unit One, proceed to evacuation vehicle at your location. You're being relocated to Toyosu."
 
@@ -1288,13 +1288,13 @@ Darkness.
 
 Complete, absolute darkness.
 
-Naoko's breathing came in short, sharp gasps. The harness held her immobile, the struts against her limbs preventing even the smallest movement. The metallic structure around her head felt like it was tightening, though rationally she knew it wasn't. The seat cradled her body in a grip that was almost gentle but absolutely unyielding.
+Naoko's breathing came in short, sharp gasps. The harness held her immobile, the struts against her limbs allowing barely a twitch. The metallic structure around her head felt like it was tightening, though rationally she knew it wasn't. The seat cradled her body in a grip that was almost gentle but absolutely unyielding.
 
 She'd climbed into a three-meter-tall machine that she didn't know how to operate, that no one had trained her to use, that might not even be designed for someone of her size or physiology. She was trapped inside a Federation creation that had just sealed her in its chest cavity, restrained her with bands she couldn't break, and was now doing something to her head that she couldn't see or understand.
 
 The screaming outside was muffled now, distant through layers of armor that could withstand fire and crushing force.
 
-What had she been thinking? That she'd just climb in and know how to use it? That it would somehow be intuitive, like in the manga? That the desperate situation would somehow make her compatible with technology decades beyond anything Earth could produce?
+What had she been thinking? That she'd just climb in and know how to use it? That it would somehow be intuitive, like in the manga? That the desperate situation would somehow make her compatible with technology decades beyond anything anyone else could produce?
 
 She'd made a mistake. A terrible, impulsive mistake driven by nine hours of exhaustion and the sound of people dying in the rubble behind her.
 
@@ -1441,13 +1441,13 @@ Naoko turned her head to look at him. The motion was smooth, natural. The engine
 
 > "From kilometers away? Through all this chaos? Look at how it's moving. That's not remote control. That's... I don't know what that is."
 
-Naoko returned her attention to the collapse. She reached in and extracted the first victim, setting them down gently near the medical team. Then the second. The third.
+Naoko returned her attention to the collapse. She reached in and extracted the first victim, setting them down gently near the medical team. Then the second. The third. The fourth.
 
 It was only when she stood and turned to leave that one of the firefighters noticed something.
 
-> "Wait. The chest panels. They're closed. I thought they opened for maintenance or something."
+> "Wait. It moves like someone's inside it."
 
-> "They do. But there's nothing inside except the frame and systems. I've seen the technical briefings."
+> "There's nothing in there but machinery. That's what the briefings said."
 
 They watched as the Landmate jogged away toward another cluster of emergency lights, its stride purposeful and directed.
 
@@ -1556,9 +1556,9 @@ Behind her, a JSDF officer stood watching, speaking quietly into his radio.
 ---
 
 ### Koto Ward, Tokyo
-### November 19, 2026 - 0512 hours JST
+### November 19, 2026 - 0335 hours JST
 
-Naoko was extracting her thirty-second victim—or was it thirty-third?—when she finally registered what she'd been half-hearing all night.
+Naoko was extracting her sixtieth victim—or was it sixty-first?—when she finally registered what she'd been half-hearing all night.
 
 Voices. Distant, tinny, like listening to a conversation in another room. She'd dismissed them as radio chatter from nearby rescue teams, background noise filtered through the Landmate's sensors. But now, as she knelt in the pre-dawn darkness with another unconscious survivor cradled in her mechanical hands, the voices resolved into something clear.
 
@@ -1568,7 +1568,7 @@ Naoko froze.
 
 That was her command frequency. Her radio. The one she'd been wearing when she climbed into the Landmate four and a half hours ago.
 
-She focused on the communications menu in her lower right vision. It expanded, showing active channels. There—frequency 462.5625 MHz, the JSDF coordination channel. The same frequency her personal radio had been set to. The Landmate had been monitoring it the entire time.
+She focused on the communications menu in her lower right vision. It expanded, showing active channels. There—frequency 142.150 MHz, the JSDF coordination channel. The same frequency her personal radio had been set to. The Landmate had been monitoring it the entire time.
 
 The entire time she'd been missing.
 
@@ -1576,7 +1576,7 @@ The realization hit her like cold water. She'd vanished during the aftershock. H
 
 She was MIA.
 
-Naoko set down the survivor, watched the medical team swarm forward to take over, then stood. The sky was lightening to the east, the smoke-filled darkness giving way to gray dawn. She'd worked through the entire night.
+Naoko set down the survivor, watched the medical team swarm forward to take over, then stood. The sky was still black, the smoke lit orange from below. She'd worked through most of the night.
 
 She turned and started running back toward where she'd last seen the coordination center. The Landmate's stride ate up ground, but exhaustion was catching up with her now. Her actual body, strapped motionless in the harness for hours, ached in ways she hadn't felt while focused on the rescues.
 
@@ -1622,7 +1622,7 @@ She stumbled the last meter, caught herself on the Landmate's leg, and finally s
 
 Naoko turned around.
 
-Major Tanaka stood three meters away, surrounded by stunned operators and rescue personnel who'd gathered to watch. His face had gone past anger into something harder to read. Shock, maybe. Disbelief. The controlled fury of a commander who'd spent five hours thinking one of his personnel was dead or trapped, only to discover she'd been operating a three-meter-tall rescue machine the entire time.
+Major Tanaka stood three meters away, surrounded by stunned operators and rescue personnel who'd gathered to watch. His face had gone past anger into something harder to read. Shock, maybe. Disbelief. The controlled fury of a commander who'd spent four and a half hours thinking one of his personnel was dead or trapped, only to discover she'd been operating a three-meter-tall rescue machine the entire time.
 
 Naoko tried to stand at attention. Managed something closer to exhausted swaying. Opened her mouth to explain, to report, to say something that would make sense of what she'd done.
 
@@ -1635,7 +1635,7 @@ Major Tanaka's voice cut across the coordination area, sharp enough to carry ove
 ### NHK World News, Tokyo
 ### November 19, 2026 - 0847 hours JST
 
-The morning news anchor, Kenji Tanaka, sat at the desk with the controlled exhaustion of someone who'd been reporting on the earthquake for fifteen straight hours. Behind him, footage showed rescue operations continuing across Tokyo's waterfront districts.
+The morning news anchor, Kenji Morita, sat at the desk with the controlled exhaustion of someone who'd been reporting on the earthquake for nearly twenty straight hours. Behind him, footage showed rescue operations continuing across Tokyo's waterfront districts.
 
 > "We're continuing our coverage of the magnitude 7.8 earthquake that struck Tokyo Bay yesterday afternoon. The death toll currently stands at four hundred and thirty-two, with over three thousand injured. However, casualty estimates have been revised downward multiple times throughout the night, largely due to the unprecedented deployment of Landmate rescue units."
 
@@ -1683,7 +1683,7 @@ The Landmate took three more steps, each one smoother than the last. Then it sto
 
 The video ended.
 
-The studio returned to Kenji Tanaka, who looked directly at the camera.
+The studio returned to Kenji Morita, who looked directly at the camera.
 
 > "That footage was recorded at 2303 hours last night in Koto Ward. The JSDF has confirmed that the person in the video is Private Naoko Yoshika, a Landmate operator assigned to the disaster response. What they have not explained is how she entered the machine, or how it began operating without external commands."
 
@@ -1701,7 +1701,7 @@ The screen split to show multiple social media posts in Japanese, Korean, Englis
 
 The freeze-frame appeared again. Yoshika's silhouette against the amber light, climbing into something that was supposed to be a remotely-operated platform.
 
-> "Seven weeks ago, the Federation delivered these machines and told us we would operate them with our own personnel. We assumed that meant commands. Instructions. Remote control. But this footage suggests they meant something far more direct. Far more intimate."
+> "Eleven weeks ago, the Federation delivered these machines and told us we would operate them with our own personnel. We assumed that meant commands. Instructions. Remote control. But this footage suggests they meant something far more direct. Far more intimate."
 
 Kenji turned to address a different camera.
 
@@ -1722,7 +1722,7 @@ Private Naoko Yoshika sat at a metal table in a conference room that felt far to
 
 Across from her sat seven people who looked like they hadn't slept at all.
 
-Major Tanaka occupied the center position, his expression carefully neutral. To his left sat Colonel Hayashi, the senior JSDF officer overseeing all Landmate operations in the Kanto region. To his right, General Kimura from Defense Ministry liaison. The others were civilians—two robotics professors from Tokyo University, a systems engineer who'd been part of the original Landmate evaluation team, and a woman in a dark suit who'd been introduced as being from the Cabinet Office but whose exact role Naoko didn't catch.
+Major Tanaka occupied the center position, his expression carefully neutral. To his left sat Colonel Hayashi, the senior JSDF officer overseeing all Landmate operations in the Kanto region. To his right, General Kimura, the Defense Ministry liaison. The others were civilians—two robotics professors from the University of Tokyo, a systems engineer who'd been part of the original Landmate evaluation team, and a woman in a dark suit who'd been introduced as being from the Cabinet Office but whose exact role Naoko didn't catch.
 
 They'd been questioning her for forty minutes.
 
@@ -1734,7 +1734,7 @@ Colonel Hayashi scrolled through something on his tablet, then looked up at her.
 
 > "Yes sir. As soon as I swung my legs over the seat, the restraints started moving. Bands around my ankles first, then my legs, arms, torso. It happened very quickly. Maybe ten seconds total."
 
-One of the professors—Dr. Yamamoto, the older one with gray hair—leaned forward.
+One of the professors—Dr. Fujita, the older one with gray hair—leaned forward.
 
 > "Did you feel pain? Pressure? How tight were the restraints?"
 
@@ -1758,7 +1758,7 @@ Naoko had already described this twice, but she understood they needed to hear i
 
 General Kimura, who'd been silent until now, set down his tablet.
 
-> "Private Yoshika. You understand the seriousness of what you did. Unit Six represents technology we don't fully understand, provided by an organization we cannot contact. It is, by any measure, the most valuable piece of equipment in our inventory. Yet you climbed inside it without authorization, without training, without any way to know if you would survive the experience."
+> "Private Yoshika. You understand the seriousness of what you did. Unit Six represents technology we don't fully understand, provided by an organization that answers only when it chooses. It is, by any measure, the most valuable piece of equipment in our inventory. Yet you climbed inside it without authorization, without training, without any way to know if you would survive the experience."
 
 Naoko's throat felt dry. She nodded.
 
@@ -1796,7 +1796,7 @@ Naoko didn't know how to respond to that. She stayed silent.
 
 Colonel Hayashi set down his tablet and leaned back in his chair, exchanging a look with General Kimura. The General nodded slightly.
 
-> "Private Yoshika," Colonel Hayashi said, his tone shifting from interrogation to something more formal. "By all rights, you should be facing a court martial. Unauthorized use of military equipment. Failure to report to your unit. Operating technology without proper authorization or training. Any one of those charges would be sufficient grounds for disciplinary action."
+> "Private Yoshika," Colonel Hayashi said, his tone shifting from interrogation to something more formal. "By all rights, you should be facing disciplinary proceedings. Unauthorized use of military equipment. Failure to report to your unit. Operating technology without proper authorization or training. Any one of those charges would be sufficient grounds for disciplinary action."
 
 Naoko felt her stomach drop. She'd known this was coming, but hearing it stated so plainly made it real.
 
@@ -1824,7 +1824,7 @@ The words hung in the air.
 
 Naoko opened her mouth. Closed it. Opened it again. No words came out.
 
-The Colonel was right. The realization settled over her like a weight. Seven weeks ago, one hundred sixty-two nations had received Landmates. Thousands of operators had been trained in voice commands and radio direction. But until last night, no one—not in Japan, not in America, not anywhere—had climbed inside one and learned to pilot it.
+The Colonel was right. The realization settled over her like a weight. Eleven weeks ago, one hundred sixty-two nations had received Landmates. Thousands of operators had been trained in voice commands and radio direction. But until last night, no one—not in Japan, not in America, not anywhere—had climbed inside one and learned to pilot it.
 
 She was the only person in the world who knew what that interface felt like. How the harness read movements. How the display presented information. How intention translated into motion. How feedback let you gauge weight and resistance.
 
@@ -1834,7 +1834,7 @@ Four and a half hours of experience. And it made her the global expert.
 
 > "Someone will," General Kimura agreed. "Probably within days, now that the video has shown it's possible. But right now, in this moment, you are the only person who has done this. The only person who can describe what it's like, what to expect, how to adapt. Every hour of advantage we have in understanding this capability is an hour we can use to develop proper training, to avoid mistakes, to ensure our personnel are prepared."
 
-Dr. Yamamoto leaned forward.
+Dr. Fujita leaned forward.
 
 > "Sergeant Yoshika, we need you to document everything. Every detail you can remember about the interface, the controls, the feedback systems. What worked. What didn't. What surprised you. What felt intuitive. We're starting from absolute zero here, and you're the only data point we have."
 
@@ -1852,7 +1852,7 @@ Because nobody else could.
 
 He stood, and the others followed suit. The debriefing was apparently over.
 
-> "You have forty-eight hours to write up everything you remember about piloting Unit Six. After that, we'll start developing training protocols. The UN Initiative meeting is this afternoon—expect that every nation with Landmates will be trying to replicate what you did. We need to be ahead of that curve."
+> "You have forty-eight hours to write up everything you remember about piloting Unit Six. After that, we'll start developing training protocols. The UN Initiative reconvenes tonight—expect that every nation with Landmates will be trying to replicate what you did. We need to be ahead of that curve."
 
 Naoko stood as well, her mind still reeling.
 
@@ -1883,7 +1883,7 @@ And somehow, she was going to have to figure out how to teach other people to do
 
 Sergeant Naoko Yoshika stood on a raised platform overlooking the training ground and tried very hard not to throw up.
 
-Twelve hours of sleep hadn't been enough. Neither had the forty-eight hours she'd spent writing and rewriting her report, trying to capture details about an experience that felt more like body memory than knowledge she could articulate. The report had ended up being thirty-seven pages long, filled with phrases like "the harness seemed to read intention" and "feedback manifests as pressure sensation" that sounded inadequate even as she wrote them.
+Four hours of sleep hadn't been enough. Neither had the forty-eight hours she'd spent writing and rewriting her report, trying to capture details about an experience that felt more like body memory than knowledge she could articulate. The report had ended up being thirty-seven pages long, filled with phrases like "the harness seemed to read intention" and "feedback manifests as pressure sensation" that sounded inadequate even as she wrote them.
 
 But the UN Initiative had moved with terrifying speed. Within twenty-four hours of her debriefing, they'd selected the first training cohort. Sixteen candidates from eight nations, flown to Japan on military transport, assembled at Chitose because it was remote enough to avoid press attention and had enough space for what they were about to attempt.
 
@@ -1891,7 +1891,7 @@ Sixteen people who were about to trust their lives to her expertise.
 
 Four and a half hours of expertise.
 
-The cadets stood in formation on the tarmac below, their postures military-correct despite the disparate uniforms. She could see Americans, Germans, Brazilians, an Indonesian, two Kenyans, a Mexican officer, an Australian, a Canadian, two more Japanese besides herself, and several others whose nationality she wasn't certain of. All of them had been selected for prior engineering or heavy equipment experience. All of them had scored high on the Initiative's aptitude tests. All of them had volunteered to climb into machines that might kill them.
+The cadets stood in formation on the tarmac below, their postures military-correct despite the disparate uniforms. She could see Americans, Germans, Brazilians, two Kenyans, a Mexican officer, an Australian, a Canadian, and two Japanese. All of them had been selected for prior engineering or heavy equipment experience. All of them had scored high on the Initiative's aptitude tests. All of them had volunteered to climb into machines that might kill them.
 
 Behind them, arranged in two neat ranks, stood ten Landmates. Units borrowed from multiple nations' inventories, shipped to Hokkaido specifically for this training. They stood motionless in the cold morning air, their gray armor dusted with frost, waiting.
 
@@ -1905,21 +1905,21 @@ Naoko took a breath. Held it. Released it slowly. Her hands wanted to shake, so 
 
 She stepped forward to the microphone.
 
-> "Good morning. I'm Sergeant Naoko Yoshika, JSDF Engineering Corps. As of forty-eight hours ago, I'm also the only person on Earth who has piloted a Landmate in operational conditions."
+> "Good morning. I'm Sergeant Naoko Yoshika, JSDF Engineering Corps. As of three days ago, I'm also the only person on Earth who has piloted a Landmate in operational conditions."
 
 Her voice came out steadier than she felt. The cadets' attention focused on her with an intensity that made her skin crawl.
 
 > "That makes me the world's leading expert on this subject. Which sounds impressive until you realize it means I have four and a half hours of experience. Four and a half hours that I spent making things up as I went, reacting to crisis conditions, with no training and no preparation."
 
-She paused, making eye contact with several of the cadets. An American whose nametape read MARTINEZ. One of the Kenyans, OMONDI. The German officer, FISCHER.
+She paused, making eye contact with several of the cadets, matching faces to the files she'd read on the flight north. An American whose nametape read MARTINEZ, a FEMA equipment operator out of Florida. One of the Kenyans, OMONDI. The German officer, FISCHER, who had helped run the Bundeswehr's first radio-command trials at Ingolstadt.
 
-> "So let me be very clear: I don't have all the answers. I barely have any answers. What I have is experience—recent, terrifying, life-or-death experience with technology I still don't fully understand. And over the next two weeks, I'm going to share everything I learned, everything I felt, everything I discovered while trying not to die or kill the people I was trying to save."
+> "So let me be very clear: I don't have all the answers. I barely have any answers. What I have is experience—recent, terrifying, life-or-death experience with technology I still don't fully understand. And over the next four days, I'm going to share everything I learned, everything I felt, everything I discovered while trying not to die or kill the people I was trying to save."
 
 She gestured toward the Landmates behind the formation.
 
-> "These machines are not vehicles. They're not equipment you operate from a distance. They're amplifiers. When you climb inside one, it reads your body, maps your movements, translates your intentions into motion that can lift tons of concrete or pull people from burning buildings. The harness will restrain you completely—and I mean completely. You will not be able to move anything except tiny muscle movements. And those tiny movements will control three meters and several tons of machinery."
+> "These machines are not vehicles. They're not equipment you operate from a distance. They're amplifiers. When you climb inside one, it reads your body, maps your movements, translates your intentions into motion that can lift tons of concrete or pull people from burning buildings. The harness will hold you snugly. You'll have only a few centimeters of movement—and those few centimeters will control three meters and several tons of machinery."
 
-Naoko pulled out her tablet, displaying an image of a Landmate's open cockpit that she'd grabbed from her own helmet camera footage.
+Naoko pulled out her tablet, displaying an image of a Landmate's open cockpit, a freeze-frame from the viral video.
 
 > "The first time the harness activates, it's terrifying. Bands will wrap around every major joint. Struts will lock against your limbs. Contact points will press against your skull. The cockpit will seal, and for about five seconds, you'll be in complete darkness while the interface initializes. During those five seconds, your brain will tell you that you're trapped, that you've made a terrible mistake, that you need to get out immediately."
 
@@ -1933,7 +1933,7 @@ Martinez's hand went up. Naoko nodded at her.
 
 Naoko hesitated. Honesty felt more important than confidence right now.
 
-> "I don't know for certain. I presume the Landmate will release you safely—the Federation machines seem designed with operator safety in mind. But I can't guarantee that. I didn't panic badly enough to test it. Which means our first few pilots will be helping us discover the answer to that question."
+> "I don't know for certain. I presume the Landmate will release you safely—the Federation machines seem designed with operator safety in mind. But I can't guarantee that. I panicked, and it didn't stop—but it didn't hurt me either. What I never did was ask it, calmly, to let me out. Which means our first few pilots will be helping us discover the answer to that question."
 
 She let that sink in.
 
@@ -1941,7 +1941,7 @@ She let that sink in.
 
 She meant it. The idea of forcing someone through the harness sequence made her feel ill.
 
-> "Once the interface activates, you'll experience a perspective shift. Your viewpoint will elevate to the Landmate's head—three meters up. You'll still feel your body in the cockpit, but you'll be seeing through the machine's sensors. This is disorienting. I nearly fell over on my first step because my brain couldn't reconcile where my body was versus where my eyes were."
+> "Once the interface activates, you'll experience a perspective shift. Your viewpoint will elevate to the Landmate's head—three meters up. You'll still feel your body in the cockpit, but you'll be seeing through the machine's sensors. This is disorienting. I froze on my first step because my brain couldn't reconcile where my body was versus where my eyes were."
 
 Omondi raised his hand.
 
@@ -1963,7 +1963,7 @@ Naoko had to think about that one. How did she describe something that had felt 
 
 She looked at the assembled cadets, seeing her own fear reflected in some of their faces. Good. They should be scared. She was scared, and she'd already done this.
 
-> "Over the next two days, we'll do ground instruction. I'll walk you through every detail I can remember about the interface, the harness, the feedback systems. You'll watch my helmet camera footage frame by frame. You'll study the schematics we've mapped of the cockpit interior. We'll discuss body mechanics, weight distribution, spatial awareness at an elevated perspective—everything I can think of that might help prepare you for what you're about to experience."
+> "Over the next two days, we'll do ground instruction. I'll walk you through every detail I can remember about the interface, the harness, the feedback systems. You'll watch the footage from Unit Six's sensor log frame by frame. You'll study the schematics we've mapped of the cockpit interior. We'll discuss body mechanics, weight distribution, spatial awareness at an elevated perspective—everything I can think of that might help prepare you for what you're about to experience."
 
 She gestured toward the Landmates again.
 
@@ -2051,15 +2051,15 @@ Naoko shook her head, emphasizing this point.
 
 She circled several elements in her diagram.
 
-> "I never felt drowned in data. Never had to dismiss pop-ups or navigate menus. The interface is... intelligent. Contextual. If you're walking, you see terrain mapping. If you're lifting something, you see structural analysis and weight distribution. If you're looking at a person, you might see vital signs through thermal imaging. But you never see all of it at once. Just what matters right now."
+> "I never felt drowned in data. Never had to dismiss pop-ups. The interface is... intelligent. Contextual. If you're walking, you see terrain mapping. If you're lifting something, you see structural analysis and weight distribution. If you're looking at a person, you might see vital signs through thermal imaging. But you never see all of it at once. Just what matters right now."
 
 Martinez was typing notes rapidly.
 
 > "How do you access additional information if you need it?"
 
-> "Intention, mostly. If I looked at something and wanted more information about it, details would appear. If I focused on a menu element, it would expand. Eye tracking, maybe, or something reading my attention patterns through the neural contacts. I didn't have to consciously activate anything. The interface responded to what I was trying to do."
+> "Intention, mostly. If I looked at something and wanted more information about it, details would appear. If I focused on a menu element, it would expand. Eye tracking, maybe, or the head frame reading where I was looking. I didn't have to consciously activate anything. The interface responded to what I was trying to do."
 
-Naoko pulled up a still from her helmet camera footage—the view from inside the cockpit during one of the rescues. The cadets could see the thermal signatures highlighted in orange, the structural integrity indicators, the load feedback displayed as a subtle bar graph.
+Naoko pulled up a still from Unit Six's sensor log—the view from inside the cockpit during one of the rescues. The cadets could see the thermal signatures highlighted in orange, the structural integrity indicators, the load feedback displayed as a subtle bar graph.
 
 > "Look at this frame. I'm holding approximately four tons of concrete. The load indicator is visible but not intrusive—a simple bar in my peripheral vision. The thermal signatures showing trapped survivors are highlighted, but not so bright they're distracting. The structural damage to the building is indicated by color-coded overlays, but they're translucent enough that I can still see the actual debris. Everything is present but nothing is in the way."
 
@@ -2114,8 +2114,6 @@ Naoko advanced to another diagram, this one showing the contact points on the pi
 She gestured to indicate the frame's placement.
 
 > "The control interface itself—how your intentions translate into machine action—I think that's through the harness reading your muscle tension and micro-movements. When you intend to move your arm, your muscles begin tensing in preparation even before large-scale movement starts. The harness is sensitive enough to detect those preparatory signals and translate them into machine motion. That's why the response feels so immediate. You're not waiting for your arm to actually move—the system reads your intention to move and executes it."
-
-The cadets were absorbed now, the initial nervousness giving way to technical curiosity. They were engineering types, Naoko realized. Show them a problem, and they wanted to understand how it worked.
 
 She had no idea if she was doing it right. No idea if her explanations made sense or if her descriptions were accurate. No idea if any of these sixteen people would successfully pilot a Landmate or if they'd all wash out after experiencing the harness.
 
@@ -2208,7 +2206,7 @@ Fischer was still looking thoughtful.
 
 Tanaka, the Japanese cadet, spoke up for the first time.
 
-> "Shirow consulted with robotics engineers when he was developing the designs. I read that in an interview once. He wanted the landmates to be theoretically plausible, even if the technology didn't exist yet. Maybe whoever built our Landmates was working from the same engineering principles. Or maybe—" He paused, as if considering whether to voice the thought. "Maybe they read the same manga and thought it was a good idea."
+> "I read somewhere that Shirow consulted with robotics engineers when he was developing the designs. He wanted the landmates to be theoretically plausible, even if the technology didn't exist yet. Maybe whoever built our Landmates was working from the same engineering principles. Or maybe—" He paused, as if considering whether to voice the thought. "Maybe they read the same manga and thought it was a good idea."
 
 The table fell quiet again, but this time the silence felt less awkward and more contemplative.
 
@@ -2218,7 +2216,7 @@ Martinez broke it.
 
 Naoko picked up her chopsticks again, a smile tugging at her lips despite herself.
 
-> "I'm telling you that when the harness wraps around you and the interface lights up, your brain is going to be screaming that this is impossible. That machines like this don't exist. That human-machine integration this seamless can't be real." She met Martinez's eyes. "And in that moment, it might help to remember that we've been imagining this for decades. That artists and writers and engineers have been drawing pictures of exactly this kind of technology since before we were born. The Federation might have built it, but humans dreamed it first."
+> "I'm telling you that when the harness wraps around you and the interface lights up, your brain is going to be screaming that this is impossible. That machines like this don't exist. That human-machine integration this seamless can't be real." She met Martinez's eyes. "And in that moment, it might help to remember that we've been imagining this for decades. That artists and writers and engineers have been drawing pictures of exactly this kind of technology since before we were born. The Federation might have built it, but we dreamed it first."
 
 She took a bite of curry, chewed, swallowed.
 
@@ -2285,7 +2283,7 @@ And if that helped them find the courage to do the same when their turn came, th
 ### JSDF Training Ground, Chitose Air Base, Hokkaido
 ### November 24, 2026 - 0915 hours JST
 
-Two days of ground instruction. Sixteen cadets had absorbed everything Naoko could teach them about the interface, the harness, the feedback systems, the perspective shift. They'd watched her helmet camera footage until they could recite the sequence of events. They'd studied diagrams until the cockpit layout was burned into their memories. They'd discussed theory and practice and speculation until there was nothing left to discuss.
+Two days of ground instruction. Sixteen cadets had absorbed everything Naoko could teach them about the interface, the harness, the feedback systems, the perspective shift. They'd watched the Unit Six sensor footage until they could recite the sequence of events. They'd studied diagrams until the cockpit layout was burned into their memories. They'd discussed theory and practice and speculation until there was nothing left to discuss.
 
 Now they stood in two ranks on the tarmac, medical personnel standing by, emergency extraction equipment positioned near each Landmate, and Major Tanaka observing from the platform with an expression that suggested he was prepared for anything from total success to catastrophic failure.
 
@@ -2486,9 +2484,9 @@ And if Martinez could do it, so could they.
 ---
 
 ### BBC News Centre, London
-### November 25, 2026 - 2100 hours GMT
+### November 25, 2026 - 2200 hours GMT
 
-The BBC News at Nine logo faded, replaced by anchor Fiona Bruce at the desk. Behind her, a graphic showed a Landmate in mid-stride, overlaid with the text: LANDMATE PILOTS - NEW ERA.
+The BBC News at Ten logo faded, replaced by anchor Fiona Bruce at the desk. Behind her, a graphic showed a Landmate in mid-stride, overlaid with the text: LANDMATE PILOTS - NEW ERA.
 
 > "Good evening. In what's being called a watershed moment for international disaster response, the first class of trained Landmate pilots has successfully completed certification in Japan. Sixteen candidates from eight nations have now demonstrated the ability to directly pilot the machines provided by the Federation, marking a significant evolution in how these technologies will be deployed."
 
@@ -2504,7 +2502,7 @@ The screen split to show Dr. Vasquez in the studio, a woman in her fifties with 
 
 > "Thank you for having me, Fiona."
 
-> "Let's start with the basics. We've had Landmates for two months now. What changes when they can be piloted directly rather than commanded remotely?"
+> "Let's start with the basics. We've had Landmates for nearly three months now. What changes when they can be piloted directly rather than commanded remotely?"
 
 Dr. Vasquez leaned forward slightly.
 
@@ -2554,7 +2552,7 @@ Fiona leaned forward.
 
 Dr. Vasquez smiled slightly.
 
-> "I think it's fascinating. Whether the Federation was influenced by human fiction or whether there's some convergent design philosophy at work, the result is that many people find these machines oddly familiar. They've seen similar concepts in media, in entertainment, in speculative fiction. That cultural preparation may actually be helping with adoption—the technology seems less alien because we've been imagining it for decades."
+> "I think it's fascinating. Whether the Federation was influenced by popular fiction or whether there's some convergent design philosophy at work, the result is that many people find these machines oddly familiar. They've seen similar concepts in media, in entertainment, in speculative fiction. That cultural preparation may actually be helping with adoption—the technology seems less alien because we've been imagining it for decades."
 
 The screen cut back to footage of a Landmate carefully placing a rescued training dummy on the ground, its movements gentle despite its size.
 
@@ -2566,7 +2564,7 @@ Fiona turned back to the main camera.
 
 The graphic behind her changed to show statistics: 162 nations with Landmates, 16 trained pilots, dozens of training programs in development.
 
-> "Two months ago, these machines arrived without instructions, standing silent while nations struggled to understand their purpose. Today, they're being piloted by trained operators, performing tasks that would have been impossible before. The transformation has been rapid, and the implications are still being understood."
+> "Less than three months ago, these machines arrived without instructions, standing silent while nations struggled to understand their purpose. Today, they're being piloted by trained operators, performing tasks that would have been impossible before. The transformation has been rapid, and the implications are still being understood."
 
 She turned to Dr. Vasquez one final time.
 
@@ -2586,7 +2584,7 @@ Fiona nodded and turned back to the camera.
 
 The screen returned to Fiona at the desk.
 
-> "The first class of Landmate pilots is expected to return to their respective nations next week, where they'll begin training additional personnel. Japan has announced plans to train fifty more pilots by year's end. The United States, Germany, and Brazil have similar programs in development. What began as a mystery in September has become, in just two months, an operational capability that may reshape how humanity responds to disaster."
+> "The first class of Landmate pilots is expected to return to their respective nations next week, where they'll begin training additional personnel. Japan has announced plans to train fifty more pilots by year's end. The United States, Germany, and Brazil have similar programs in development. What began as a mystery in September has become, in under three months, an operational capability that may reshape how humanity responds to disaster."
 
 The BBC News logo appeared beside her.
 
@@ -2613,7 +2611,7 @@ And that changed everything.
 
 The observation deck overlooked Training Ground Seven, where six Landmates moved through formation drills under the crisp December sky. Lieutenant General Marcus Webb stood with his arms crossed, watching the machines execute a coordinated advance-and-cover sequence that would have looked natural on any infantry unit. Except these "infantry" were three meters tall and could punch through concrete.
 
-Beside him, Major General Catherine Reeves checked her tablet, reviewing performance metrics. Behind them, three other senior officers from Army Combat Development Command watched with varying expressions of calculation and concern.
+Beside him, Major General Catherine Reeves checked her tablet, reviewing performance metrics. Behind them, three other senior officers from Army Transformation and Training Command watched with varying expressions of calculation and concern.
 
 > "Response time on the tactical repositioning is down to four seconds," Reeves said. "That's faster than most conventional units can manage. And the precision—did you see how Unit Three threaded between those obstacles? A pilot with three weeks of training is outperforming equipment operators with three years of experience."
 
@@ -2627,7 +2625,7 @@ Lieutenant General Webb turned away from the window, addressing the group.
 
 Major General David Chen, the newest addition to the group and the one who'd requested this meeting, pulled up a schematic on his tablet and projected it onto the room's main display.
 
-> "Bofors 40mm autocannon. Specially modified for Landmate use in rifle configuration. Scaled appropriately for the frame—roughly two meters long, operated like a standard infantry weapon. Ammunition feed from a back-mounted magazine. Rate of fire: three hundred rounds per minute. Effective range: four kilometers against ground targets, two kilometers against air. The engineering team says they can have prototypes ready in six weeks."
+> "Bofors 40mm autocannon. Specially modified for Landmate use in rifle configuration. Scaled appropriately for the frame—roughly three meters long, operated like a standard infantry weapon. Ammunition feed from a back-mounted magazine. Rate of fire: three hundred rounds per minute. Effective range: four kilometers against ground targets, two kilometers against air. The engineering team says they can have prototypes ready in six weeks."
 
 The schematic rotated, showing the autocannon held in the Landmate's hands like an oversized rifle, the weapon proportioned to the three-meter frame the way a carbine would be to a human soldier.
 
@@ -2649,7 +2647,7 @@ Chen glanced at his notes.
 
 The room fell quiet. Through the observation window, the Landmates continued their drill—lifting, moving, coordinating with the fluid precision that had become their signature. They looked, at this distance, like oversized soldiers running exercises that any infantry unit would recognize.
 
-It was Major General Thomas Granger who broke the silence. He'd been standing slightly apart from the group, arms crossed, expression skeptical. Granger was older than the others, a Vietnam veteran who'd seen three decades of military evolution and all the ways good ideas could turn catastrophic.
+It was Major General Thomas Granger who broke the silence. He'd been standing slightly apart from the group, arms crossed, expression skeptical. Granger was older than the others, an Afghanistan veteran who'd seen three decades of military evolution and all the ways good ideas could turn catastrophic.
 
 > "No."
 
@@ -2667,11 +2665,11 @@ Webb's expression remained neutral, but he gestured for Granger to continue.
 
 Granger stepped forward, looking at each officer in turn.
 
-> "Two months ago, an artificial intelligence interrupted the United Nations General Assembly and offered us disaster response equipment. Not weapons. Not combat platforms. Disaster response equipment. It was explicit. `HARBINGER` said these machines were for natural disasters, construction, peaceful endeavors. Those were its exact words."
+> "Three months ago, an artificial intelligence interrupted the United Nations General Assembly and offered us disaster response equipment. Not weapons. Not combat platforms. Disaster response equipment. It was explicit. `HARBINGER` said these machines were for natural disasters, construction, peaceful endeavors. Those were its exact words."
 
 He gestured toward the window, toward the Landmates still moving through their drills.
 
-> "We said yes. One hundred sixty-two nations said yes, on those terms. We accepted equipment with the clear understanding that it was for civilian use. And now, eight weeks later, we're sitting here planning to mount autocannons on them and deploy them as combat units."
+> "We said yes. One hundred sixty-two nations said yes, on those terms. We accepted equipment with the clear understanding that it was for civilian use. And now, three months later, we're sitting here planning to mount autocannons on them and deploy them as combat units."
 
 Chen's jaw tightened.
 
@@ -2679,7 +2677,7 @@ Chen's jaw tightened.
 
 > "Is not open for interpretation," Granger cut him off. "General Chen, do you remember what these things did in the Taiwan Strait? How they destroyed an entire Chinese naval task force in minutes? The firepower they demonstrated when `HARBINGER` wanted to make a point about military intervention?"
 
-He pulled up his own tablet, displaying footage from the Taiwan incident. Landmates standing on the water, weapons systems the world had never seen before, a demonstration of capability that had made every military analyst on Earth recalculate their threat assessments.
+He pulled up his own tablet, displaying footage from the Taiwan incident. Landmates kneeling on a Taiwanese wharf, weapons systems the world had never seen before, a demonstration of capability that had made every military analyst on Earth recalculate their threat assessments.
 
 > "That's what they can do when they want to. When they're designed for combat. When `HARBINGER` decides that violence is the appropriate response." Granger looked at Chen. "And that entity, that intelligence with that capability, specifically chose to give us unarmed versions. Explicitly for peaceful purposes. Do you really think that was an accident?"
 
@@ -2701,13 +2699,13 @@ He looked at each officer in turn.
 
 > "Best-case scenario, we lose access to the Landmates. `HARBINGER` decides we can't be trusted, takes them back or disables them remotely. We've seen it can control technology we don't understand—shutting down our weapons wouldn't be difficult. We'd lose disaster response capability we're already starting to depend on. But that's the best case."
 
-Granger pulled up another image—a Landmate in Gaza, standing over rubble, pulling survivors from collapsed buildings with those same massive hands that had torn through Chinese warships.
+Granger pulled up another image—a Landmate in Gaza, standing over rubble, pulling survivors from collapsed buildings—the same kind of machine whose guns had gutted Chinese warships.
 
-> "Worst case? We find out what else they have in reserve. What they deploy when they're in an actual war and not just managing a bunch of children playing with guns. We find out what it looks like when an entity with that technological advantage decides we're a threat rather than a species worth protecting. And based on what we've seen, based on how quickly they can move, how precisely they can strike, how completely they can control a battlefield when they choose to..."
+> "Worst case? We find out what else they have in reserve. What they deploy when they're in an actual war and not just managing a bunch of children playing with guns. We find out what it looks like when an entity with that technological advantage decides we're a threat rather than a nation worth protecting. And based on what we've seen, based on how quickly they can move, how precisely they can strike, how completely they can control a battlefield when they choose to..."
 
 He leaned forward, his voice dropping.
 
-> "We'd look like the French at fucking Agincourt. Outdated, outclassed, slaughtered by technology we don't understand and can't counter. Are you really willing to take that chance? To risk that level of response for the sake of mounting autocannons on equipment we've had for eight weeks?"
+> "We'd look like the French at fucking Agincourt. Outdated, outclassed, slaughtered by technology we don't understand and can't counter. Are you really willing to take that chance? To risk that level of response for the sake of mounting autocannons on equipment we've had for three months?"
 
 The room was silent. Through the window, the Landmates completed their formation drill and moved into a recovery exercise, lifting simulated debris with careful precision.
 
@@ -2731,7 +2729,7 @@ Chen started to protest, but Webb held up a hand.
 
 He looked at Granger.
 
-> "Tom, you're right that we should try to contact `HARBINGER` if we're serious about weaponization. But I'm also not sure that's a conversation we want to have right now. We're still building trust, still proving we can use these machines responsibly. Asking for weapons systems eight weeks in might send exactly the wrong message."
+> "Tom, you're right that we should try to contact `HARBINGER` if we're serious about weaponization. But I'm also not sure that's a conversation we want to have right now. We're still building trust, still proving we can use these machines responsibly. Asking for weapons systems three months in might send exactly the wrong message."
 
 Granger nodded slowly.
 
@@ -2743,7 +2741,7 @@ Reeves looked between the two generals, then at the Landmates still visible thro
 
 Webb considered.
 
-> "Six months. Let's get through one full disaster season with operational pilots. Hurricane season, earthquake response, whatever comes up. Show that we can deploy these machines effectively for their intended purpose. Build a track record of responsible use. Then, if there's still strategic value in weaponization, we can approach it more carefully."
+> "Six months. Let's get through one full disaster season with operational pilots. Winter storms, earthquake response, whatever comes up. Show that we can deploy these machines effectively for their intended purpose. Build a track record of responsible use. Then, if there's still strategic value in weaponization, we can approach it more carefully."
 
 He turned to Chen.
 
@@ -2767,7 +2765,7 @@ Granger was quiet for a moment.
 
 He gestured toward the Landmates.
 
-> "Now imagine fighting an enemy that has the same level of advantage over us that we had over the Viet Cong. An enemy that can appear anywhere, anytime. That has weapons we can't counter. That understands our technology better than we understand theirs. That can shut down our infrastructure, disable our weapons, strike with precision we can't match."
+> "Now imagine fighting an enemy that has the same level of advantage over us that we had over the Taliban. An enemy that can appear anywhere, anytime. That has weapons we can't counter. That understands our technology better than we understand theirs. That can shut down our infrastructure, disable our weapons, strike with precision we can't match."
 
 He looked at Webb.
 

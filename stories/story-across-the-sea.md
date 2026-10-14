@@ -24,9 +24,9 @@ Captain Lu Jianjun stood with his hands clasped behind his back, watching the si
 
 Lu allowed himself a thin smile. Bold of them, certainly. But boldness without strength was merely noise.
 
-"Maintain course and broadcast civil traffic intent," he ordered. "File it under hydrographic survey operations."
+> "Maintain course and broadcast civil traffic intent," he ordered. "File it under hydrographic survey operations."
 
-"Aye, sir."
+> "Aye, sir."
 
 The bridge settled into routine. Outside, the water churned under the destroyer's steady advance, its radar signature flickering subtly - artificially softened, but still plainly visible to Taiwanese tracking systems. A deliberate message: *We're here. We're not hiding.*
 
@@ -72,15 +72,13 @@ Four figures stood motionless among the dunes, their forms angular and inhuman. 
 
 They were simply *there*. Watching.
 
-Lu adjusted the focus ring with steady fingers, though his pulse had begun to quicken. One of the figures seemed to be carrying something - a long weapon mounted across its back. Another had what looked like oversized arms, mechanical joints visible even through the morning haze.
+Lu adjusted the focus ring with steady fingers, though his pulse had begun to quicken. One of the figures seemed to be carrying something - a long weapon folded across its back. Another had what looked like oversized arms, mechanical joints visible even through the morning haze.
 
 These weren't soldiers. They weren't even *human*.
 
 > "Sir?" the lookout asked quietly.
 
-Lu didn't answer immediately. He was thinking of briefings he'd attended in Beijing, classified reports that had filtered down through intelligence channels. Incidents in Gaza. Unexplained encounters in the South China Sea. Video footage that analysts claimed was fabricated, though it had looked disturbingly real.
-
-*Landmates*, they called them. Autonomous weapons of unknown origin. The Americans denied knowledge. The Russians stayed silent. No one claimed them, yet they appeared wherever tensions threatened to boil over into actual conflict.
+Lu didn't answer immediately.
 
 > "Continue scanning," Lu said finally, his voice betraying nothing. "Document everything you see."
 
@@ -106,7 +104,7 @@ Three... no, four figures. Tall. Rigid. Too rigid. Armor-plated, matte and angul
 
 Then the largest one moved.
 
-He watched in stunned silence as the unit dropped one knee into the sand. Its arms extended - not in defense, but with unmistakable intent. A long weapon mounted to its back swung forward with fluid precision and locked into firing position over the shoulder.
+He watched in stunned silence as the unit dropped one knee into the sand. Its arms extended - not in defense, but with unmistakable intent. A long weapon folded along its back swung forward over the shoulder with fluid precision and locked into firing position.
 
 He followed the line of the barrel.
 
@@ -138,9 +136,9 @@ Lu straightened slowly, ice forming in his veins. The lookout finally found his 
 
 > "Sir, I -  I've seen those before. That model."
 
-Lu turned sharply. "Where?"
+> Lu turned sharply. "Where?"
 
-> "Gaza. Last month. Video came out - was online for less than an hour before it disappeared. IDF Merkava put a shell directly into one at twenty meters. Didn't even scratch it."
+> "Gaza. Last summer. Video was everywhere. IDF Merkava put a shell directly into one at twenty meters. Didn't even scratch it."
 
 > "You're certain?"
 
@@ -188,13 +186,13 @@ Lu turned to the communications officer, his voice carrying the weight of comman
 
 > "Yes, sir. Transmitting package."
 
-The bridge was tense now, hands working with increased urgency. No alarms had sounded, but every man aboard could feel the shift in atmosphere. Something had crossed a line - *something real*.
+The CIC was tense now, hands working with increased urgency. No alarms had sounded, but every man aboard could feel the shift in atmosphere. Something had crossed a line - *something real*.
 
 The lookout hadn't moved from his position. His knuckles were white around the scope's grips.
 
 > "Still watching us," he reported quietly.
 
-Lu walked back over, keeping his expression neutral. "What do you mean?"
+> Lu walked back over, keeping his expression neutral. "What do you mean?"
 
 > "The one with the cannon. It's tracking."
 
@@ -240,15 +238,15 @@ And Lu began to understand that watching might be all it ever needed to do.
 
 ### *Haiyangshan*, Bridge
 
-The hum of electronics and filtered air filled the silence that had settled over the bridge like fog. Lu stood at the forward viewing port, staring through the armored glass at the distant shoreline. It looked the same as it had an hour ago - unchanged, unremarkable.
+The hum of electronics and filtered air filled the silence that had settled over the bridge like fog. Lu stood at the forward viewing port, staring through the armored glass at the distant shoreline. It looked the same as it had a few minutes ago - unchanged, unremarkable.
 
 But he knew it wasn't. Not anymore.
 
-> "Helm. Come to course 0-4-5. Return to base. Full discretion."
+> "Helm. Come to course 3-3-7. Return to base. Full discretion."
 
-> "Aye sir. Coming to 0-4-5. Returning to port."
+> "Aye sir. Coming to 3-3-7. Returning to port."
 
-The deck shifted underfoot as the *Haiyangshan* banked to starboard, its bow angling northeast toward home waters. Lu didn't need to make it look like anything other than what it was - a strategic withdrawal in the face of an unknown threat.
+The deck shifted underfoot as the *Haiyangshan* banked to starboard, its bow angling north-northwest toward home waters. Lu didn't need to make it look like anything other than what it was - a strategic withdrawal in the face of an unknown threat.
 
 On the observation deck, the lookout remained glued to his scope, breath held. Then - 
 
@@ -256,7 +254,7 @@ On the observation deck, the lookout remained glued to his scope, breath held. T
 
 Lu didn't respond immediately. He stepped beside the sailor and looked through the telescope himself, though part of him dreaded what he might see.
 
-The Landmate with the long weapon was rising - fluid, precise, powered limbs pulling it upright in a single smooth motion. The cannon folded back onto its spine with practiced elegance, locking into transport position with mechanical finality.
+The Landmate with the long weapon was rising - fluid, precise, powered limbs pulling it upright in a single smooth motion. The cannon folded back over its shoulder with practiced elegance, locking into transport position with mechanical finality.
 
 The others mirrored the movement with eerie synchronicity. One after another, the machines straightened, forming a clean line parallel to the surf. Then, in perfect unison, they snapped into rigid salutes. Arms raised across chests, forearms vertical, palms flat.
 
@@ -306,7 +304,7 @@ The question that would haunt him all the way back to port was simple:
 
 *How long would they keep waiting?*
 
-### U.S. Pacific Command Intelligence Annex, Okinawa
+### U.S. Indo-Pacific Command Intelligence Annex, Okinawa
 
 *0823 JST*
 
@@ -315,10 +313,10 @@ Director Cole Whitaker sipped lukewarm coffee from a chipped ceramic mug as the 
 Then his eyes stopped on a regional radar summary tagged *PERSIMMON-RAVEN / PRIORITY TWO*.
 
 > **Subject: PLAN Haiyangshan - Incursion Track and Behavior Analysis**
-> **Timestamp: 0421 - 0512 UTC**
+> **Timestamp: 1921 - 2012 UTC**
 > **Origin: Eastern Theater Sensors (Composite)**
 > **Note: Transient SIGINT anomaly logged**
-> **Summary: PLAN Type 055 DDG *Haiyangshan* entered Taiwan ADIZ at 0421 UTC, approached 10.8 NM off Yunlin County coast, reversed course abruptly and departed on vector 337 within seven minutes of proximity breach. Acceleration profile noted as ‘non-standard.'**
+> **Summary: PLAN Type 055 DDG *Haiyangshan* entered Taiwan ADIZ at 1921 UTC, approached 10.8 NM off Yunlin County coast, reversed course abruptly and departed on vector 337 within seven minutes of proximity breach. Acceleration profile noted as 'non-standard.'**
 
 Whitaker's brow furrowed.
 
@@ -329,7 +327,7 @@ That wasn't doctrine.
 He opened the behavioral overlay. A timestamp blinked on the point of reversal. Sub-note:
 
 > **"Maneuver flagged: atypical behavior. Possible avoidance reaction."**
-> **"SIGINT - narrow-beam burst transmission initiated at 0430 UTC, duration <2 sec. Encrypted, point-to-point. Unable to decrypt. No RF follow-up."**
+> **"SIGINT - narrow-beam burst transmission initiated at 1930 UTC, duration <2 sec. Encrypted, point-to-point. Unable to decrypt. No RF follow-up."**
 
 Whitaker tapped the log, exporting the waveform to a separate pane. It was clean. Tightband. Laser-like. Probably aimed at fleet command in Guangzhou or Hainan, based on bearing.
 
@@ -341,7 +339,7 @@ He paged down. The analysis teams had already cross-checked it with Taiwanese co
 
 He opened a private note, dictating with crisp, clipped enunciation.
 
-> "Cole Whitaker. Entry for 11 August. Haiyangshan incursion behavior warrants SIGINT escalation. Recommend query to *Silent Fishhook* team for additional telemetry. Cross-reference burst pattern with recent Gaza, Sinai, and South Philippine activity windows for any shared frequency or encryption signatures."
+> "Cole Whitaker. Entry for 7 January. Haiyangshan incursion behavior warrants SIGINT escalation. Recommend query to *Silent Fishhook* team for additional telemetry. Cross-reference burst pattern with recent Gaza, Sinai, and South Philippine activity windows for any shared frequency or encryption signatures."
 
 He paused, then added:
 
@@ -349,7 +347,7 @@ He paused, then added:
 
 He ended the recording and leaned back in his chair, frowning at the still-rotating radar track.
 
-A ship like *Haiyangshan* didn't *spook*. Not without cause. Not in full daylight, not in a politically sensitive corridor. The PLAN had spent years acting like the Strait was already theirs - slow, deliberate pressure. Measured.
+A ship like *Haiyangshan* didn't *spook*. Not without cause. Not in a politically sensitive corridor. The PLAN had spent years acting like the Strait was already theirs - slow, deliberate pressure. Measured.
 
 But this?
 
@@ -359,15 +357,15 @@ And Whitaker hated surprises.
 
 ### Taiwanese Naval Command, Joint Surveillance Center – Kaohsiung
 
-*0851 NST*
+*0851 TST*
 
-The operations floor was quiet, but not in a comfortable way. Banks of radar screens glowed in sterile tones, their usual pings of fishing vessels and civilian ferries interspersed with yesterday's playback data - specifically, the incursion track of the *Haiyangshan*.
+The operations floor was quiet, but not in a comfortable way. Banks of radar screens glowed in sterile tones, their usual pings of fishing vessels and civilian ferries interspersed with this morning's playback data - specifically, the incursion track of the *Haiyangshan*.
 
 It ran the same loop again and again. Straight in, then a brief jog south, then the hard pivot back toward the mainland.
 
-Commander Liu stood with arms folded beside the primary surface track console, watching the projection silently. Around him, officers murmured, unsure what to make of it. Nothing in the *Haiyangshan*'s profile made sense. No demands. No posturing. No warning shot, no drone flyover. Just... a short sprint toward shore, then a *reversal*.
+Commander Lin stood with arms folded beside the primary surface track console, watching the projection silently. Around him, officers murmured, unsure what to make of it. Nothing in the *Haiyangshan*'s profile made sense. No demands. No posturing. No warning shot, no drone flyover. Just... a short sprint toward shore, then a *reversal*.
 
-And that was the part that kept getting under Liu's skin. It *turned back*.
+And that was the part that kept getting under Lin's skin. It *turned back*.
 
 > "Maybe the captain lost his nerve?" one of the junior officers offered, half-joking.
 
@@ -375,17 +373,17 @@ And that was the part that kept getting under Liu's skin. It *turned back*.
 
 > "We already queried Seventh Fleet," added a radar operator without looking up. "No U.S. hulls in the region at the time. Not even submerged assets, at least not that they're admitting."
 
-Liu grunted. He'd already read the reply - clean, boilerplate, without the usual hedging. Which meant either they really weren't there... or *they* were just as surprised.
+Lin grunted. He'd already read the reply - clean, boilerplate, without the usual hedging. Which meant either they really weren't there... or *they* were just as surprised.
 
 Another officer spoke from a side console.
 
-> "Telemetry confirms standard emissions until zero-four-three-zero. Then a burst. Tightbeam. Couldn't intercept it. Only reason we even caught it was it clipped one of our coastal SIGINT poles during beam steering."
+> "Telemetry confirms standard emissions until zero-three-three-zero. Then a burst. Tightbeam. Couldn't intercept it. Only reason we even caught it was it clipped one of our coastal SIGINT poles during beam steering."
 
 > "Could it have been an internal fault?" asked someone from the logistics desk.
 
 > "A warship that size doesn't panic because of a broken radar."
 
-Liu turned to the wall display again. The vector replay was annotated now - speed, heading, acceleration curve. It showed the *Haiyangshan* pulling nearly a full knot above its declared max speed as it left the proximity zone. No dawdling. No circling.
+Lin turned to the wall display again. The vector replay was annotated now - speed, heading, acceleration curve. It showed the *Haiyangshan* pulling nearly a full knot above its declared max speed as it left the proximity zone. No dawdling. No circling.
 
 > "So," he said aloud, mostly to the room. "What comes into our waters, drifts south like it's about to do the usual stunt, then turns tail and bolts home... *without* provocation?"
 
@@ -395,13 +393,13 @@ Because there *was* no answer.
 
 Not yet.
 
-Liu's gaze lingered on the playback, narrowing as the projected track crossed into shallow territorial water before veering away again.
+Lin's gaze lingered on the playback, narrowing as the projected track crossed into shallow territorial water before veering away again.
 
 > "It saw something."
 
 More silence.
 
-The screens kept looping. The ghost of the destroyer traced the same path again. But this time, Liu wasn't looking at the ship.
+The screens kept looping. The ghost of the destroyer traced the same path again. But this time, Lin wasn't looking at the ship.
 
 He was looking at the shoreline.
 
@@ -411,11 +409,11 @@ And nothing, officially, had been.
 
 ## Chapter 2: Sounding the Depths
 
-### South Sea Fleet Command, Guangzhou
+### Southern Theater Command Navy, Zhanjiang
 
 *0817 CST*
 
-Admiral Ke Wenli rubbed the bridge of his nose, eyes red from a night spent parsing replay data and silence. No comms, no visuals - just telemetry, an encrypted burst, and a destroyer captain who now insisted, *off the record*, that they'd been watched by machines.
+Admiral Ke Wenli rubbed the bridge of his nose, eyes red from a night spent parsing replay data and silence. Grainy optics, telemetry, an encrypted burst, and a destroyer captain who now insisted that they'd been watched by machines.
 
 He looked up at the operations map. The coast of Taiwan was lit in deep amber, with a dotted arc tracing the *Haiyangshan*'s strange path the day before. It looked like a partial signature, like a statement interrupted halfway through.
 
@@ -423,9 +421,9 @@ Now, they meant to finish it.
 
 > "Assemble a battlegroup," he ordered. "Three escort frigates. One ELINT trawler. Haiyangshan leads the formation."
 
-His operations chief blinked. "Rules of engagement?"
+> His operations chief blinked. "Rules of engagement?"
 
-> "Observe only. No targeting, no radar locks. Passive sensors across the board. We're going in at twenty-five hundred meters off the western shore, running south-to-north along the Yunlin coast."
+> "Observe only. No targeting, no radar locks. Passive sensors across the board. We're going in at twelve kilometers off the western shore, running south-to-north along the Yunlin coast."
 
 > "Sir, that's barely a minute of reaction time if - "
 
@@ -457,13 +455,13 @@ He paused.
 
 The room nodded.
 
-Orders began to fly. Flight schedules updated. Escorts scrambled from berths. The *Haiyangshan* - still silent about what it had seen - prepared to sail again, this time not alone.
+Orders began to fly. Flight schedules updated. Escorts scrambled from berths. The *Haiyangshan* - still the only ship to have seen them - prepared to sail again, this time not alone.
 
 ### Commander, U.S. Seventh Fleet – Yokosuka Naval Base, Japan
 
 *0913 JST*
 
-Rear Admiral Thoma Vance read the message twice, jaw tight, eyes unmoving.
+Vice Admiral Thomas Vaughn read the message twice, jaw tight, eyes unmoving.
 
 The paperless dispatch sat open on the conference screen in front of him, tagged from INDOPACOM relay at Pearl and stamped *courtesy advisory* from the People's Liberation Army Navy. Even the language was uncharacteristically tame.
 
@@ -477,13 +475,13 @@ Across the room, Commander Ellison, his chief intelligence officer, folded his a
 
 > "They're insisting it's not a provocation. They claim they saw Landmates on the shoreline."
 
-Vance didn't look up. He just muttered - 
+Vaughn didn't look up. He just muttered - 
 
 > "What, *those* Landmates? The ones from Gaza?"
 
 > "That's the implication, sir."
 
-Vance finally leaned back, exhaling through his nose.
+Vaughn finally leaned back, exhaling through his nose.
 
 > "Christ."
 
@@ -491,15 +489,15 @@ The silence that followed was long and taut.
 
 No one said what they were all thinking: *China never gave a courtesy heads-up unless it was playing scared.*
 
-Vance rubbed his temple and glanced at the operations display, already updated with the projected route of the Chinese formation. It would bring them within spitting distance of Taiwan's western shelf - low enough to make a statement, but just high enough to stay legal.
+Vaughn rubbed his temple and glanced at the operations display, already updated with the projected route of the Chinese formation. It would bring them within spitting distance of Taiwan's western shelf - low enough to make a statement, but just high enough to stay legal.
 
 > "All right. Send the *USS Gettysburg*. Tell her to shadow the group at twenty klicks, keep them honest. Passive sensors only unless someone blinks. I want it close enough to watch their posture, far enough not to start a goddamn war."
 
-> "Aye, sir. Gettysburg is AEGIS-capable and ready. She's already cycling up from Sasebo."
+> "Aye, sir. Gettysburg is AEGIS-capable and ready. She's already cycling up."
 
 > "Good."
 
-Vance stood and walked over to the large satellite overlay of the strait. The Haiyangshan's previous track was still ghosted on the display, a crooked line that turned back too early.
+Vaughn stood and walked over to the large satellite overlay of the strait. The Haiyangshan's previous track was still ghosted on the display, a crooked line that turned back too early.
 
 > "They're poking the shoreline because something rattled them," he said, mostly to himself. "Something they don't want to admit they're afraid of."
 
@@ -513,7 +511,7 @@ He tapped a knuckle against the display - once, softly - right over the Yunlin c
 
 The battlegroup rolled forward in disciplined formation - three Type 054A frigates in a wide V, the ELINT trawler further south like a drifting barnacle, and the *Haiyangshan* spearheading the convoy once more. The waters were calm but carried the low murmur of anticipation, the hum of machines and men waiting for something to happen.
 
-On the bridge of the *Haiyangshan*, Commander Lu Jianjun stood at the forward observation pane, eyes scanning the grey-green horizon. The shoreline had just begun to reveal itself through the haze - Kaohsiung's southern sprawl, boxy and flat, concrete towers faded by humidity.
+On the bridge of the *Haiyangshan*, Captain Lu Jianjun stood at the forward observation pane, eyes scanning the grey-green horizon. The shoreline had just begun to reveal itself through the haze - Kaohsiung's southern sprawl, boxy and flat, concrete towers faded by humidity.
 
 > "Approaching point four-nine, sir. Begin northeast turn?"
 
@@ -533,7 +531,7 @@ Behind him, the bridge was tense, quieter than usual. The atmosphere had shifted
 
 Because everyone was waiting for it.
 
-Waiting for a flicker of movement on the shore. For the return of the things *none* of them had seen clearly - things that *only* Lu had looked at directly, and still couldn't quite explain.
+Waiting for a flicker of movement on the shore. For the return of the things *none* of them had seen clearly - things only Lu and one lookout had looked at directly, and still couldn't quite explain.
 
 He'd filed the report. He'd used the word *Landmates* like the analysts wanted. But whatever they were, they weren't Chinese. They weren't American. They weren't *anyone's*.
 
@@ -541,7 +539,7 @@ And now, they were testing whether those things were still watching.
 
 > "Distance to Yunlin sector?" he asked quietly.
 
-> "One hundred forty-five kilometers, bearing constant. Estimated time on station: one hour, fifteen minutes."
+> "One hundred forty-five kilometers, bearing constant. Estimated time on station: two hours, forty-five minutes."
 
 Lu exhaled and tapped a command into the console. Passive optics, long-range magnification, ground clutter filtering. No radar sweep. No active sensors.
 
@@ -561,7 +559,7 @@ Because that, in its own way, might be worse.
 
 > "Radar spike, bearing zero-seven-one. Single contact, shoreline proximity," called the operator at the sensor station, voice suddenly taut.
 
-Commander Lu stepped forward before the echo could fully stabilize.
+Captain Lu stepped forward before the echo could fully stabilize.
 
 > "Classification?"
 
@@ -577,7 +575,7 @@ There.
 
 Alone, standing upright on the end of the wharf, its metal frame stark against the sea-worn buildings behind it: the Landmate.
 
-The silhouette was unmistakable. Not hunched like a soldier, not cowering like a drone. Upright. Balanced. Watching. The matte plating shimmered slightly in the midday light, catching just enough glare to suggest armor, not paint. Its head - simple, angular, eyeless - was angled *directly* toward the *Haiyangshan*.
+The silhouette was unmistakable. Not hunched like a soldier, not cowering like a drone. Upright. Balanced. Watching. The matte plating shimmered slightly in the midday light, catching just enough glare to suggest armor, not paint. Its head - simple, angular, eyeless save for a dark visor band - was angled *directly* toward the *Haiyangshan*.
 
 Not moving. But not passive.
 
@@ -587,7 +585,7 @@ Lu lowered the binoculars, throat dry.
 
 ### *USS Gettysburg*, CIC – 22 Kilometers West-Southwest of *Haiyangshan*
 
-*1340 JST*
+*1440 JST*
 
 > "Radar contact, new spike. High-density target. No transponder. Close to shoreline, bearing 085," said Lieutenant Ramirez from the EW console.
 
@@ -607,11 +605,11 @@ There it was. Humanoid. Rigid. Too tall for a man. Proportions *wrong*. The head
 
 > "Yeah," Reyes cut in. "That's one of the damn things from Gaza."
 
-Ramirez turned. "What's it doing?"
+> Ramirez turned. "What's it doing?"
 
 Reyes stared at the feed.
 
-> "Exactly what it did last time. Nothing."
+> "Exactly what the Chinese said it did last time. Nothing."
 
 And that was the problem.
 
@@ -631,7 +629,7 @@ It was strained.
 
 Even with no alarms sounding, even with their own ship sailing well within pre-approved parameters, the atmosphere had curdled into something brittle. The crew's eyes kept drifting toward their scopes, toward the glass, toward the shoreline growing clearer by the minute.
 
-Commander Lu stood at the center rail, binoculars in hand, but he hadn't raised them yet. He didn't need to.
+Captain Lu stood at the center rail, binoculars in hand, but he hadn't raised them yet. He didn't need to.
 
 You could *feel* it.
 
@@ -697,7 +695,7 @@ Something had shifted.
 
 > "Visual contact," called the optics operator. "Three units. Wharfside."
 
-Commander Lu stepped forward, binoculars already raised.
+Captain Lu stepped forward, binoculars already raised.
 
 He scanned the harbor mouth - fishing cranes, mooring lines, empty pallets - then paused.
 
@@ -709,13 +707,13 @@ All three were Landmates.
 
 And they were armed.
 
-Not with the compact rifles of the sentinels earlier, but with something far more deliberate: long-barreled weapons mounted on their backs, high and angular, with reinforced braces extending from their torsos. Familiar - but heavier. More *serious*.
+Not with the compact rifles of the sentinels earlier, but with something far more deliberate: long-barreled weapons folded along their backs, high and angular, with reinforced braces extending from their shoulders. Familiar - but heavier. More *serious*.
 
 The kind Lu had seen last time.
 
 > "They're the same platform as before," he said quietly. "Long-range variant."
 
-The crew watched in silence as the machines moved into position, never hurrying, never uncertain. Each one took a knee, stabilizing itself with two arms on the ground. Then their spinal barrels extended forward, locking into ready positions - angled high, precise, *lethal*. One of them adjusted slightly, and Lu had no doubt the targeting profile was being refined in real-time.
+The crew watched in silence as the machines moved into position, never hurrying, never uncertain. Each one took a knee, stabilizing itself with two arms on the ground. Then their barrels swung forward over their shoulders, locking into ready positions - angled high, precise, *lethal*. One of them adjusted slightly, and Lu had no doubt the targeting profile was being refined in real-time.
 
 They were setting up a fire arc.
 
@@ -743,11 +741,11 @@ This was deterrence. With the safety off.
 
 The Landmates moved in unison.
 
-Their heads rose - not snapping up, not jerking, but *lifting*, as if all responding to the same silent command. Targeting optics shifted subtly, multi-lens clusters rotating forward, aligning.
+Their heads rose - not snapping up, not jerking, but *lifting*, as if all responding to the same silent command. Targeting optics shifted subtly behind their visor bands, aligning.
 
 Then came the light.
 
-From each Landmate's brow, a narrow beam of brilliant red lanced across the water - pinpoint-straight, unwavering. Not idle illumination. Not threat demonstration.
+From each Landmate's visor band, a narrow beam of brilliant red lanced across the water - pinpoint-straight, unwavering. Not idle illumination. Not threat demonstration.
 
 *Target designators.*
 
@@ -765,11 +763,11 @@ The forward viewing ports exploded with glare, a burning halo of refracted red l
 
 > "EWAR suite reports active targeting lock!" shouted the sensor officer. "Origin matches the shore - unknown class, full-spectrum targeting grid!"
 
-> "It's not just us!" another voice called. "Frigate *Qingdao* and *Ningde* are both lit up - multiple sources!"
+> "It's not just us!" another voice called. "Frigate *Xuzhou* and *Ningde* are both lit up - multiple sources!"
 
 Out the port windows, twin red lines speared through the haze, dancing over the frigates' superstructures. One of the beams passed briefly across the *Haiyangshan's* main deck, tracing the base of the forward missile housing before returning to the bridge.
 
-Commander Lu's stomach went cold.
+Captain Lu's stomach went cold.
 
 This wasn't a warning.
 
@@ -777,7 +775,7 @@ It was *fire control practice*.
 
 Panic rippled through the bridge crew, hands moving faster than orders, comms spiking with chatter from the other ships.
 
-> "*Qingdao* reports radar burnthrough at sensor mast - source unknown!"
+> "*Xuzhou* reports radar burnthrough at sensor mast - source unknown!"
 
 > "*Ningde* says their CIWS just spooled up and *shut itself back down*. No hostile fire but the system thinks it's in a live engagement!"
 
@@ -787,7 +785,7 @@ Lu didn't wait for consensus.
 
 ### *USS Gettysburg*, CIC – 22 KM West of Dongshi
 
-*1448 JST*
+*1548 JST*
 
 Alarms didn't blare, but every man and woman in the *Gettysburg's* combat information center was already on edge. Consoles bloomed with fresh telemetry, overlays crowding as new sources poured in across radar, IR, and optical scopes.
 
@@ -799,13 +797,13 @@ On the main screen, the PLAN battlegroup was already in motion. The sharp turn h
 
 > "Confirmed," said Chief Petty Officer Vasquez from the electronic warfare console. "Multiple designator beams visible in low-atmosphere scatter. Source is *shoreline*. Tracking confirms three discrete points - likely targeting optics."
 
-The bridge went still.
+The CIC went still.
 
 On-screen, the visual feed cycled - magnification locked onto Dongshi Wharf.
 
 There they were.
 
-Three Landmates, motionless but terrifying in their poise. Back-mounted long guns braced in firing configuration, heads angled in perfect alignment. The red beams slicing out from their visors were crisp, coherent - no diffusion. They looked like lines drawn by a computer, not real light.
+Three Landmates, motionless but terrifying in their poise. Shoulder-mounted long guns braced in firing configuration, heads angled in perfect alignment. The red beams slicing out from their visors were crisp, coherent - no diffusion. They looked like lines drawn by a computer, not real light.
 
 > "Designator strength is *absurd*," Vasquez continued, glancing at the waveform diagnostics. "Even from here, we're registering coherent scatter. And that's not all - "
 
@@ -823,7 +821,7 @@ He turned toward the recording officer.
 
 > "Aye, sir. Archiving now."
 
-The bridge crew worked silently, heads down, focused.
+The CIC crew worked silently, heads down, focused.
 
 Outside, the *Haiyangshan* and her escorts were already fading into the haze, back toward the mainland - churned wake lines carving hard across the sea.
 
@@ -831,13 +829,13 @@ The Landmates hadn't fired.
 
 But they hadn't needed to.
 
-### *Haiyangshan*, Aft Observation Deck – Taiwan Strait
+### *Haiyangshan*, Bridge – Taiwan Strait
 
 *1452 CST*
 
 The bridge alarms faded with the horizon.
 
-Commander Lu stood behind the helmsman, watching the shoreline fall away. The red haze that had soaked the forward bridge only moments before was gone, as if someone had simply *switched it off*. No residual glare. No trailing lock. Just sea, sky, and distance.
+Captain Lu stood behind the helmsman, watching the shoreline fall away. The red haze that had soaked the forward bridge only moments before was gone, as if someone had simply *switched it off*. No residual glare. No trailing lock. Just sea, sky, and distance.
 
 > "Targeting lasers disengaged," reported the EWAR officer. "Radar emissions falling off. No pursuit signals. They're standing down."
 
@@ -851,11 +849,11 @@ But the movement came from behind.
 
 Lu was already moving to the rear of the bridge.
 
-There, on the horizon behind them, the wharf was still just visible - angled slightly as the ship cut north-by-northwest. He lifted the glasses again, steadying his breath.
+There, on the horizon behind them, the wharf was still just visible - angled slightly as the ship cut due west. He lifted the glasses again, steadying his breath.
 
 They were moving.
 
-The three Landmates, their long guns folding smoothly back into spine mounts, were rising from their kneeling positions. No rush. No aggression. Just the same cold discipline as before.
+The three Landmates, their long guns folding smoothly back over their shoulders, were rising from their kneeling positions. No rush. No aggression. Just the same cold discipline as before.
 
 One by one, they turned from the waterline, stepped deliberately off the dock's edge, and disappeared beneath the surf - silent entries, metal limbs vanishing below the tide without splash or hesitation. Like they'd never been there.
 
@@ -875,7 +873,7 @@ That's what the display had been. Not deterrence, not bluster.
 
 He turned to the comms officer.
 
-> "Tell the task group: hold this heading. Maintain flanking speed until we're outside the ADIZ."
+> "Tell the task group: hold this heading. Maintain flanking speed until we're clear of Taiwan's contiguous zone."
 
 > "Yes, sir."
 
@@ -903,7 +901,7 @@ The room stayed quiet. No one disputed it.
 
 To Klem's left, a technical officer tabbed to the waveform display, pulling up EM, radar, and thermal overlays. The radar signature alone was anomalous - tight bursts, focused beams, frequency-hopping patterns the Navy couldn't match in live exercises, let alone field deployment.
 
-> "The spinal weapons didn't fire," said a lieutenant near the back, "but they deployed them in the same manner we'd stage indirect artillery. They stabilized their base, aligned bearings, and held target. We're looking at *prepared fire orders*, not posture."
+> "The shoulder weapons didn't fire," said a lieutenant near the back, "but they deployed them in the same manner we'd stage indirect artillery. They stabilized their base, aligned bearings, and held target. We're looking at *prepared fire orders*, not posture."
 
 Klem nodded.
 
@@ -911,7 +909,7 @@ Klem nodded.
 
 A second analyst, pale and quiet, scrolled through the armament profiles side by side with archived Gaza footage.
 
-> "The handhelds from Gaza were hard kinetic. Assault-carbine scale. But these," he said, highlighting the spinal mounts, "these are different. The EM bleed we're picking up is *not* consistent with conventional propellant or recoil dampers."
+> "The handhelds from Gaza were hard kinetic. Assault-carbine scale. But these," he said, highlighting the shoulder mounts, "these are different. The EM bleed we're picking up is *not* consistent with conventional propellant or recoil dampers."
 
 > "You think they're railguns?" asked someone near the console.
 
@@ -935,7 +933,7 @@ The oni on the door smiled alone.
 
 The video was grainy, shaky, and framed by the edge of a rusted fishing vessel's cabin - but it was real.
 
-Three towering figures emerged from the surf one after another, water cascading from their armor as they ascended the wharf with eerie calm. The footage caught the glint of metal as the first unit rose to its full height, spinal-mounted barrel gleaming against the sea haze. Then, like clockwork, they dropped to one knee, braced themselves with both arms, and extended those long, angular weapons forward.
+Three towering figures emerged from the surf one after another, water cascading from their armor as they ascended the wharf with eerie calm. The footage caught the glint of metal as the first unit rose to its full height, shoulder-mounted barrel gleaming against the sea haze. Then, like clockwork, they dropped to one knee, braced themselves with both arms, and extended those long, angular weapons forward.
 
 The camera shook slightly as the witness exhaled in awe - or fear.
 
@@ -947,11 +945,11 @@ It hit social media like an artillery shell.
 
 *1920 EST*
 
-> "Footage believed to be taken earlier today from Dongshi, on Taiwan's western coast, is stirring global attention tonight," intoned the anchor, voice carefully neutral. "The video appears to show three humanoid machines - known colloquially as ‘Landmates' - emerging from the sea, taking up firing positions with large-caliber weapons, then withdrawing."
+> "Footage believed to be taken earlier today from Dongshi, on Taiwan's western coast, is stirring global attention tonight," intoned the anchor, voice carefully neutral. "The video appears to show three humanoid machines - known colloquially as 'Landmates' - emerging from the sea, taking up firing positions with large-caliber weapons, then withdrawing."
 
 The footage played in the background. Stabilized, enhanced. The red target designators didn't show clearly on the amateur clip, but the posture spoke volumes.
 
-> "The United States military has declined to confirm the identity or allegiance of the machines, but a senior official, speaking on condition of anonymity, stated the weapons mounted on their backs ‘appear consistent with direct-fire electromagnetic launchers - potentially *railguns*.'"
+> "The United States military has declined to confirm the identity or allegiance of the machines, but a senior official, speaking on condition of anonymity, stated the weapons mounted on their shoulders 'appear consistent with direct-fire electromagnetic launchers - potentially *railguns*.'"
 
 The screen split - side-by-side comparison footage from Gaza played alongside today's video. Different weapons. Same presence. Same threat.
 
@@ -981,7 +979,7 @@ Cool. Creepy. And absolutely worth breaking down.
 
 Let's talk *posture*.
 
-Every single one of these machines gets down on *one knee*, with both *arms* extended to brace on the surface before angling their back-mounted cannon. That's not just "for show." That's weight distribution. Stability. Fire-control discipline.
+Every single one of these machines gets down on *one knee*, with both *arms* extended to brace on the surface before angling their shoulder-mounted cannon. That's not just "for show." That's weight distribution. Stability. Fire-control discipline.
 
 If you've fired artillery - or even just watched enough footage of it - you recognize the fundamentals:
 
@@ -1031,7 +1029,7 @@ He stabbed a finger at the next document - extracted EM intensity plots.
 
 General Liu didn't look up. His eyes were still locked on a looping playback of the footage. The Landmates kneeling. Locking in. Then standing without a word and walking back into the sea like ghosts.
 
-> "You're telling me three machines - human-sized - spoofed our navy into retreating without firing a shot."
+> "You're telling me three machines - barely bigger than a man - spoofed our navy into retreating without firing a shot."
 
 > "I'm telling you they didn't *need* to fire."
 
@@ -1053,7 +1051,7 @@ Pang glanced down at his own notes. Then answered:
 
 > "And air?"
 
-> "Still viable. Their coverage appears surface-bound for now. We've seen no aerial assets associated with them, and they haven't engaged any aircraft - ours or otherwise."
+> "Still viable. Their coverage appears surface-bound for now. Beyond the transports that dropped them into Gaza, we've seen no combat aircraft associated with them, and they haven't engaged any aircraft - ours or otherwise."
 
 Liu finally sat back, folding his arms.
 
@@ -1069,7 +1067,7 @@ And bluffing wasn't what scared them.
 
 *Judgment* was.
 
-### People's Liberation Army Air Force – Command Planning Cell, Nanjing Theater
+### People's Liberation Army Air Force – Command Planning Cell, Eastern Theater Command
 
 *2031 CST*
 
@@ -1117,7 +1115,7 @@ On the screen, the flight path glowed a little brighter. A needle threading betw
 
 A reminder - not just to Taiwan, but to *everyone* - that China could still fly over its own shadow.
 
-### Philippine Sea – Airborne Early Warning Zone Charlie-4
+### Wuyishan Air Base, Fujian
 
 *0609 CST*
 
@@ -1135,9 +1133,9 @@ And somewhere out there, a thousand watching eyes were already recording them.
 
 ### USAF Recon Flight – Pacific Command AOR
 
-*0627 JST*
+*0727 JST*
 
-> "Knight Two, this is Homeplate. We have new tracks bearing one-four-five, speed and altitude consistent with PLAN twinjets. Confirm radar signature matches *J-16 Flanker-D* configuration. You're clear to investigate."
+> "Knight Two, this is Homeplate. We have new tracks bearing one-four-five, speed and altitude consistent with PLAAF twinjets. Confirm radar signature matches *J-16 Flanker-D* configuration. You're clear to investigate."
 
 > "Copy, Homeplate. Intercept vector received. We're moving in."
 
@@ -1165,9 +1163,9 @@ Far ahead, twin grey silhouettes glinted in the haze, low and fast.
 
 And they were.
 
-### Philippine Sea – Intercept Airspace
+### Taiwan Strait – Intercept Airspace
 
-*0634 JST*
+*0734 JST*
 
 > "Unidentified aircraft, this is United States Air Force flight *Knight Two* on patrol in international airspace. You are approaching the Taiwan Flight Information Region. Please state your intentions and maintain course outside restricted air corridors."
 
@@ -1181,7 +1179,7 @@ The response, as always, was silence.
 
 *0635 CST*
 
-Lieutenant Colonel Zhang Tao heard the American broadcast, acknowledged it only with a glance to his copilot, and continued forward without a word. In the backseat, his ECM officer monitored the signal spectrum.
+Lieutenant Colonel Zhang Tao heard the American broadcast, acknowledged it only with a glance at the mirror, and continued forward without a word. In the backseat, his weapons systems officer monitored the signal spectrum.
 
 Nothing new. Routine cat-and-mouse.
 
@@ -1195,7 +1193,7 @@ Fast.
 
 > *\[NEW CONTACT: HIGH VELOCITY - AZIMUTH 331 - ANGLE 44° DOWN - CLOSURE RATE 4120 KT]*
 
-His ECM officer's hand froze over the console.
+His backseater's hand froze over the console.
 
 > "Sir - new contact. Coming in hot from above and behind. No ID. No squawk."
 
@@ -1249,7 +1247,7 @@ On the fuselage, just below the cockpit rail, was a circular emblem:
 
 A wireframe globe encircled by laurels, with two broken swords crossed in saltire beneath it. No text. Just the image.
 
-His copilot spoke first, barely above a whisper.
+His backseater spoke first, barely above a whisper.
 
 > "That's the symbol… from the *Gaza footage*. The same as the Landmates."
 
@@ -1279,7 +1277,7 @@ They'd *allowed* them this far.
 
 ### *USAF Patrol – Callsign Knight Two*
 
-*0638 JST*
+*0738 JST*
 
 The unknowns dropped in from the upper atmosphere like they'd been waiting for a cue.
 
@@ -1323,7 +1321,7 @@ That was a message.
 
 And it wasn't for the Chinese alone.
 
-### PLAAF J-16 Flight – East of Taiwan
+### PLAAF J-16 Flight – Taiwan Strait
 
 *0639 CST*
 
@@ -1363,7 +1361,7 @@ A transmission - not from their comms net, not from AWACS. It bypassed encryptio
 
 The voice was unmistakably synthetic.
 
-But it spoke *perfect Cantonese*.
+But it spoke *perfect Mandarin*.
 
 > "You are trespassing. Return to base. Do not attempt to engage us. This is your only warning."
 
@@ -1401,9 +1399,9 @@ They were *repositioning*.
 
 ### USAF Patrol – *Knight Two*
 
-*0643 JST*
+*0743 JST*
 
-> "Homeplate, this is Knight Two. Chinese aircraft are turning back - bearing one-eight-zero. No aggression. Looks like they're bugging out."
+> "Homeplate, this is Knight Two. Chinese aircraft are turning back - bearing two-seven-zero. No aggression. Looks like they're bugging out."
 
 > "Copy, *Knight Two*. Maintain current altitude and track. Continue monitoring unknowns."
 
@@ -1431,7 +1429,7 @@ Neither did the two black aircraft.
 
 ### USAF Patrol – *Knight Two*
 
-*0645 JST*
+*0745 JST*
 
 The unknowns coasted alongside the American flight with eerie steadiness. Not a twitch, not a ripple in the airflow. Even this close, their hulls betrayed no heat signature. The sensor suite kept flagging anomalies - refracted radar returns, irregular edge profiles, a low EM hum that defied classification - but no weapon locks, no threat indicators.
 
@@ -1473,7 +1471,7 @@ We are watching you, too.
 
 ### USAF Patrol – *Knight Two*
 
-*0648 JST*
+*0748 JST*
 
 Captain Miles Branson squinted hard, craning his neck to get a better look through the canopy glass. The glare off the black aircraft's angular surface distorted the image at first - just reflections, swirling light, and shadows - but something in the cockpit had *moved*.
 
@@ -1559,7 +1557,7 @@ Colonel Manning, the base's acting intelligence liaison, opened with a practiced
 
 Branson laid it out clean. Entry vector. Flight characteristics. The weapons carousel display. The insignia. The controlled behavior, the silent coordination. The withdrawal.
 
-It all matched what the Chinese had seen the day before - but now, with an added layer of complexity. Because this time, the unknowns had come to *them*.
+It all matched what the Chinese had seen minutes earlier - but now, with an added layer of complexity. Because this time, the unknowns had come to *them*.
 
 Then came the moment. The one he *almost* chose to omit.
 
@@ -1599,7 +1597,7 @@ Colonel Manning didn't smirk. Didn't frown. Just sat back, scribbled a few notes
 
 The ONI observer finally spoke again, quiet and deliberate.
 
-> "We've had... reports of anomalies in behavior. The Landmates displayed similar traits during post-conflict stand-downs. Salutes. Hand gestures. One reportedly drew a smiley face in the sand after destroying an Israeli Merkava."
+> "We've had... reports of anomalies in behavior. The Landmates displayed similar traits during post-conflict stand-downs. Salutes. Hand gestures."
 
 He closed his notebook.
 
@@ -1635,7 +1633,7 @@ Everyone was looking at a single frame, paused and zoomed, digitally enhanced to
 > A cigar.
 > And a wave.
 
-Lieutenant Reyes from ONI sat forward, elbows on the table, face half-buried in his palms.
+Lieutenant Ortiz from ONI sat forward, elbows on the table, face half-buried in his palms.
 
 > "This is either psychological warfare... or the most elaborate shitpost in military history."
 
@@ -1643,7 +1641,7 @@ One of the junior analysts, Hayes, stared at the image like it had insulted his 
 
 > "You're telling me we've got fifth-gen-plus black aircraft that can outperform *everything* in the sky, operate in silence, deploy weapons we can't identify - and they're flown by goddamn *joke pilots*?"
 
-> "Not a joke," Reyes muttered. "A *choice*."
+> "Not a joke," Ortiz muttered. "A *choice*."
 
 Manning, arms crossed near the back wall, finally spoke.
 
@@ -1651,15 +1649,15 @@ Manning, arms crossed near the back wall, finally spoke.
 
 He pointed at the screen.
 
-> "It's a mask, but it's also a signal. They're telling us: ‘We don't play by your logic. Your escalation ladders, your red lines, your doctrine? Meaningless to us.'"
+> "It's a mask, but it's also a signal. They're telling us: 'We don't play by your logic. Your escalation ladders, your red lines, your doctrine? Meaningless to us.'"
 
 Another analyst, Park, looked up from a transcript of Branson's testimony.
 
 > "Or it's a misdirection. Psychological pressure. Undermine the enemy's confidence by making them question *everything*. Capability, intent... even sanity."
 
-Reyes leaned back with a humorless laugh.
+Ortiz leaned back with a humorless laugh.
 
-> "You know what this is? It's a *flex*. They're saying: ‘We're so far ahead, we can show up dressed like clowns and still own the sky.'"
+> "You know what this is? It's a *flex*. They're saying: 'We're so far ahead, we can show up dressed like clowns and still own the sky.'"
 
 Nobody disagreed.
 
@@ -1679,7 +1677,7 @@ And it was worse than strange.
 
 It was *impossible*.
 
-Reyes was hunched over a shared console, eyes darting between radar snapshots and telemetry overlays. He tapped the screen with the back of a pen.
+Ortiz was hunched over a shared console, eyes darting between radar snapshots and telemetry overlays. He tapped the screen with the back of a pen.
 
 > "Okay. Setting the circus act aside - here's what the logs are giving us."
 
@@ -1695,7 +1693,7 @@ Park nodded.
 
 > "Same as ours. We've seen it on Raptors - payload doors open, radar cross-section flares. That *shouldn't* happen on a drone, or a decoy. These were physical, functioning, and armed."
 
-Reyes flipped to infrared overlays.
+Ortiz flipped to infrared overlays.
 
 > "And here's where it gets even weirder."
 
@@ -1707,7 +1705,7 @@ Across the room, Hayes squinted at a slowed-down video segment.
 
 Hayes pulled up a magnified rear-angle still. The footage was heat-filtered, calibrated against known USAF engine profiles.
 
-> "Look at their exhaust nozzles - when you look at our jets, they glow orange-red. That's the burn profile for JP-6. You get that at about 1,500 to 2,000 kelvin."
+> "Look at their exhaust nozzles - when you look at our jets, they glow orange-red. That's the burn profile for JP-8. You get that at about 1,500 to 2,000 kelvin."
 
 He pointed.
 
@@ -1715,7 +1713,7 @@ He pointed.
 
 A long silence.
 
-Then Reyes added:
+Then Ortiz added:
 
 > "We pulled spectral data from the IR bloom. Peaks in the near-ultraviolet. Whatever those engines are doing, it's beyond chemical combustion. This is high-energy ionization. *Advanced propulsion*. Not theoretical. *Operational*."
 
@@ -1729,7 +1727,7 @@ He paused.
 
 > "Nothing exotic in shape - just *unfamiliar*. They want us to understand the roles, but *not* the tech."
 
-Reyes leaned back, folding his arms.
+Ortiz leaned back, folding his arms.
 
 > "Which means whoever's behind these things isn't just advanced. They're being *careful*."
 
@@ -1745,9 +1743,9 @@ And Earth's militaries weren't the ones holding it.
 
 ### The Pentagon – Secure Conference Room 3B
 
-*1506 EDT*
+*1506 EST*
 
-The lights were low, the blinds drawn tight, and the room was full - DoD analysts, ONI and DIA liaisons, physicists in pressed shirts, and three suited aerospace engineers from Lockheed, Boeing, and DARPA. The Pentagon didn't call this sort of meeting lightly.
+The lights were low, the blinds drawn tight, and the room was full - DoD analysts, ONI and DIA liaisons, physicists in pressed shirts, two Lockheed engineers, a Boeing engineer, and two DARPA program managers. The Pentagon didn't call this sort of meeting lightly.
 
 At the front of the room, a large screen displayed the rotating visual of the black aircraft - multiple angles, thermal overlays, and a flashing tag: *UNIDENTIFIED AERIAL VEHICLE – CALLSIGN UNKNOWN*.
 
@@ -1761,7 +1759,7 @@ She hesitated.
 
 > "Then we're in territory I'd call *post-combustion propulsion*. High-energy plasma drive. Field-constrained fusion, maybe. But that's still fiction, not tech."
 
-One of the Lockheed engineers - grey at the temples, name patch reading *Cooper* - nodded grimly.
+One of the Lockheed engineers - grey at the temples, name badge reading *Cooper* - nodded grimly.
 
 > "We ran our own simulations. Nothing we have - not a turbine, not a scramjet, not even any of the testbed hybrid-cycle systems DARPA's played with - could run *anywhere near* that heat envelope. The flame temp alone would strip the blades off a turbine within seconds."
 
@@ -1803,13 +1801,13 @@ And worse - no one wanted to say the only explanation they couldn't disprove.
 
 ### The Pentagon – Secure Conference Room 3B
 
-*1528 EDT*
+*1528 EST*
 
-"…and even *if* they were using inertial dampening - if that's even possible - the G-forces involved in those turns would liquefy a pilot unless the cockpit was operating in a completely different frame of reference," one of the DARPA engineers was saying, fingers stabbing at a simulation on the screen. "We're talking sustained accelerations that no known airframe could survive, let alone a human inside."
+> "…and even *if* they were using inertial dampening - if that's even possible - the G-forces involved in those turns would liquefy a pilot unless the cockpit was operating in a completely different frame of reference," one of the DARPA program managers was saying, fingers stabbing at a simulation on the screen. "We're talking sustained accelerations that no known airframe could survive, let alone a human inside."
 
 Another analyst chimed in, voice strained.
 
-> "We clocked the ascent profile from Kadena at nearly 400 meters per second vertical. That's higher than an F-22's *emergency burn rate*. But these two weren't punching out of a dogfight - they just floated up and *left*, like it was nothing."
+> "We clocked the ascent profile from the Kadena flight's footage at nearly 400 meters per second vertical. That's higher than an F-22's *emergency burn rate*. But these two weren't punching out of a dogfight - they just floated up and *left*, like it was nothing."
 
 > "So we're assuming it was unmanned," someone muttered.
 
@@ -1821,7 +1819,7 @@ Eyes wide. Almost grinning.
 
 Everyone turned.
 
-> "Woolams," Rourke repeated, standing now, pacing once. "Back in the forties. Lockheed test pilot. *XP-59 Airacomet*. First American jet. He used to fly up next to prop planes at altitude, *in a gorilla mask*, bowler hat, *cigar in his teeth*, just to freak the poor bastards out."
+> "Woolams," Rourke repeated, standing now, pacing once. "Back in the forties. Bell test pilot. *XP-59 Airacomet*. First American jet. He used to fly up next to prop planes at altitude, *in a gorilla mask*, bowler hat, *cigar in his teeth*, just to freak the poor bastards out."
 
 He stabbed a finger at the image on the screen - still paused on the masked pilot's wave.
 
@@ -1831,7 +1829,7 @@ Silence.
 
 Then a slow shift in posture across the room. Thoughtful. Less alarmed. No less puzzled.
 
-Reyes, the ONI analyst, leaned forward.
+Ortiz, the ONI analyst, leaned forward on the secure link from Kadena.
 
 > "So you're saying whoever's flying these things wants us to *know* they're one of us."
 
@@ -1841,11 +1839,11 @@ He paused.
 
 > "They waved. They *clowned*. But they also showed us they could cook us alive and be gone before we got our safeties off. And then they left."
 
-Manning frowned.
+Manning frowned on the same link.
 
 > "Which leaves us with one hell of a question."
 
-> "Yeah," Rourke said. "*Who the hell has this tech - and why haven't we heard of them until now?*"
+> "Yeah," Rourke said. "*Who the hell has this tech - and why had nobody heard of them before Gaza?*"
 
 No one had an answer.
 
@@ -1889,13 +1887,13 @@ Liu looked from one grim face to another.
 
 > "That would be a generous term, sir," replied the analyst. "We haven't seen orbital behavior like this from any nation. Not even close. There's no heat bloom, no thermal plume, *no* hypersonic ion trail. Just... entry. Controlled. Silent. Surgical."
 
-Another officer scrolled through the cockpit recordings from the J-16s. The moment the Talons flanked them. The red warning flash of missile racks exposed. The voice in Cantonese: *You are trespassing. Return to base. Do not attempt to engage us.*
+Another officer scrolled through the cockpit recordings from the J-16s. The moment the black aircraft flanked them. The red warning flash of missile racks exposed. The voice in Mandarin: *You are trespassing. Return to base. Do not attempt to engage us.*
 
 > "Whoever they are," he muttered, "they watched us the entire way, and could have swatted us out of the sky the moment they showed up."
 
 Liu folded his arms, staring hard at the looping flight data, and the way it intersected with Taiwanese airspace.
 
-> "These Landmates, these aircraft - *who* do they belong to? Not the Americans, not the Japanese. No one claims them. No one *dares* claim them."
+> "These Landmates, these aircraft - *who* do they belong to? Not the Americans, not the Japanese. Some 'EarthSpace Federation' no government will own. No one *dares* claim them."
 
 > "Then we must assume," said one of the quieter men near the back, "that whoever commands them is not *answering to any nation*."
 
@@ -1915,11 +1913,11 @@ The mood in the chamber was glacial.
 
 The usual posturing - absent. The usual resistance to hard truths - muted. Only one thing dominated the war room now: the weight of what had been seen.
 
-The video feeds had looped again and again. The masked pilot. The precision descent. The vertical departure. The blue-flamed, nameless aircraft flanking China's most advanced fighters as if playing with toys. The voice that had spoken to them *in their own language*, not with bravado, but a warning.
+The video feeds had looped again and again. The precision descent. The vertical departure. The blue-flamed, nameless aircraft flanking China's most advanced fighters as if playing with toys. The voice that had spoken to them *in their own language*, not with bravado, but a warning.
 
 *This is your only warning.*
 
-General Secretary of the CMC, Marshal Qiao, folded his arms, eyes dark.
+Vice Chairman of the CMC, General Qiao, folded his arms, eyes dark.
 
 > "I want options. Not just analysis. Options."
 
@@ -1935,7 +1933,7 @@ A civilian advisor at the far end scoffed.
 
 > "That's surrender in everything but name."
 
-Marshal Qiao glanced over, expression unmoved.
+General Qiao glanced over, expression unmoved.
 
 > "It is *not* surrender," he said. "It is *containment*. Of risk."
 
@@ -1959,9 +1957,9 @@ No one argued.
 
 Not even the hawks.
 
-Finally, Marshal Qiao turned to the operations director.
+Finally, General Qiao turned to the operations director.
 
-> "Issue stand-down protocols for further close-in passes. Reclassify the Taiwan Strait as ‘highly monitored with latent threat presence.' Frame the withdrawal as rotational. We shift the game to the diplomatic arena."
+> "Issue stand-down protocols for further close-in passes. Reclassify the Taiwan Strait as 'highly monitored with latent threat presence.' Frame the withdrawal as rotational. We shift the game to the diplomatic arena."
 
 > "And if Taipei gets bold?"
 
@@ -1969,7 +1967,7 @@ Finally, Marshal Qiao turned to the operations director.
 
 He looked back toward the feed looping silently on the wall.
 
-A black shape in the sky. A gorilla mask. A wave. And then gone.
+A black shape in the sky. A warning. And then gone.
 
 > "Until we know whose leash they're on... I'd rather not find out what happens when they pull it."
 
@@ -2033,13 +2031,13 @@ At first, it sounded like a garbled emergency beacon, clipped English bleeding t
 
 But then the voice came through - clear, shaken, and deliberate.
 
-> "To everyone receiving. Haiyangshan. Lakan. Feiya. Shezen. Baizou. Acting without official orders. Disavowed. Intercept, weapons free."
+> "To everyone receiving. Haiyangshan. Lakan. Feiya. Shezhen. Baizou. Acting without official orders. Disavowed. Intercept, weapons free."
 
 A chill swept through the bunker.
 
 The voice repeated, looping. It was male, Mandarin-accented, and spoke with the taut cadence of someone trying very hard not to panic. After a few loops, the broadcast *hopped frequencies* - sliding to VHF civilian bands, then over to UHF naval protocols, even bleeding briefly into air traffic control. It was moving from frequency to frequency, desperately wanting to be heard.
 
-> "To everyone receiving. Haiyangshan. Lakan. Feiya. Shezen. Baizou..."
+> "To everyone receiving. Haiyangshan. Lakan. Feiya. Shezhen. Baizou..."
 
 Huang was already standing.
 
@@ -2051,9 +2049,9 @@ Huang was already standing.
 
 Red banners crawled across every classified screen as the emergency protocol went live. Inside the secure floor, the message was already playing in loop, with Chinese characters overlaying the vessel names. Naval analysts were scrambling to confirm IDs.
 
-> "Sir - those are all PLAN vessels. Type 055 and Type 054 frigates, all homeported in the eastern fleet."
+> "Sir - those are all PLAN vessels. A Type 055 destroyer and Type 054 frigates, all homeported in the Southern Theater."
 
-> "What the hell do they mean by *‘disavowed'?*"
+> "What the hell do they mean by *'disavowed'?*"
 
 > "I don't know, but *China's not denying it.*"
 
@@ -2101,10 +2099,10 @@ The message hit with the speed and clarity of a blade.
 
 **FLASH OVERRIDE – EYES ONLY – PRIORITY-0**
 **SUBJECT: ROGUE CHINESE NAVAL ELEMENTS – POSSIBLE LIVE SORTIE**
-**IDENTIFIERS: HAIYANGSHAN – LAKAN – FEIYA – SHEZEN – BAIZOU**
+**IDENTIFIERS: HAIYANGSHAN – LAKAN – FEIYA – SHEZHEN – BAIZOU**
 **STATUS: DISAVOWED BY PLA NAVAL COMMAND – BROADCASTING INTERCEPT AUTHORIZATION**
 
-Rear Admiral Vance's jaw locked as he read the communique aloud to his staff. The room had fallen dead silent.
+Vice Admiral Vaughn's jaw locked as he read the communique aloud to his staff. The room had fallen dead silent.
 
 > "Intercept. *Weapons free*," he repeated, quietly. "That's not a warning. That's an execution call."
 
@@ -2112,7 +2110,7 @@ The intelligence chief looked up, pale.
 
 > "Sir, if China's issuing an open kill order on its own ships…"
 
-Vance didn't look away from the screen.
+Vaughn didn't look away from the screen.
 
 > "…Then something's happened we're not supposed to see."
 
@@ -2134,7 +2132,7 @@ In his left hand, he held a photograph - his grandfather in the uniform of the P
 
 The *Haiyangshan* cut through the water like a blade.
 
-Below decks, the combat systems were already powered. Missile tubes primed. CIWS on standby. Fire control synced with the rest of the flotilla - *Lakan*, *Feiya*, *Shezen*, and *Baizou* - all of them maintaining EMCON silence except for their tight-beam tactical links.
+Below decks, the combat systems were already powered. Missile tubes primed. CIWS on standby. Fire control synced with the rest of the flotilla - *Lakan*, *Feiya*, *Shezhen*, and *Baizou* - all of them maintaining EMCON silence except for their tight-beam tactical links.
 
 No pings. No beacons. Just ghosts in the dark.
 
@@ -2147,7 +2145,7 @@ Long enough to fire. Long enough to matter.
 Lu paced back to the chart table, where a physical map lay splayed beneath transparent overlays of radar ranges, coastal artillery arcs, and urban sprawl. He traced a finger down the western edge of Taiwan, stopping at a pinpoint. His grandfather's photograph lay beside the charts - watching, judging.
 
 **Target Reference: ROCMOD 1A – Taipei Command Nexus**
-**Time to Strike: 00:18 CST**
+**Time to Strike: 22:18 CST**
 
 This was the plan. Months in the making. Born not from madness, but from love - love of country twisted by frustration into something unrecognizable.
 
@@ -2161,7 +2159,7 @@ Lu had watched them emerge from the sea that first time, watched his destroyer's
 
 He and the others - the cadre of true believers buried in the upper decks of the PLA Navy - had watched Beijing's response with growing horror. *Accommodation. Negotiation. Delay.* While foreign forces established themselves as arbiters of Chinese sovereignty.
 
-Now the curtain was coming down on China's century of humiliation, not with triumph, but with submission to alien overseers.
+Now the curtain was coming down on China's century of humiliation, not with triumph, but with submission to foreign overseers.
 
 They would strike before the illusion of peace hardened into permanent subjugation. Before the strange machines on Taiwan's shores became permanent gatekeepers of the Strait. Before *whatever power* controlled them decided China's future for her.
 
@@ -2187,7 +2185,7 @@ He looked once more toward the forward bridge windows. The darkness ahead was un
 
 > "Maintain speed. Do not break formation. No transmissions. We move like we planned."
 
-Gao hesitated. "Captain, do you truly believe this will change anything?"
+> Gao hesitated. "Captain, do you truly believe this will change anything?"
 
 Lu turned, and for a moment the facade of certainty cracked. In his eyes was not madness, but the terrible clarity of a man who had stared into the abyss of his nation's obsolescence.
 
@@ -2195,7 +2193,7 @@ Lu turned, and for a moment the facade of certainty cracked. In his eyes was not
 
 Gao nodded slowly.
 
-> "For the Republic?"
+> "For the People's Republic?"
 
 Lu's expression hardened again, but there was something almost gentle in his voice - the tone of a teacher explaining a difficult lesson.
 
@@ -2215,15 +2213,15 @@ It was *real*.
 
 A naval liaison officer stood at the head of the table, pale under the harsh lighting, clutching a tablet as if it might burn him.
 
-> "Confirmed. The *Haiyangshan*, *Lakan*, *Feiya*, *Shezen*, and *Baizou* sortied from Fuzhou at 2003. They are en route south - on direct bearing for Taipei. Estimated time to weapons range is eighty-four minutes."
+> "Confirmed. The *Haiyangshan*, *Lakan*, *Feiya*, *Shezhen*, and *Baizou* sortied from Fuzhou at 2003. They are en route east - on direct bearing for Taipei. Estimated time to weapons range is eighty-four minutes."
 
 Defense Minister Ji slammed a hand on the table hard enough to rattle the glasses.
 
 > "*Why* weren't we informed the moment they left port?!"
 
-> "Sir, they falsified their sortie orders. Port command believed they were conducting electronic warfare drills. Their IFFs still read green until twenty minutes ago."
+> "Sir, they falsified their sortie orders. Port command believed they were conducting electronic warfare drills. Their IFFs still read green until forty minutes ago."
 
-> "*How* does a Type 055 just ‘walk out of harbor' under a fake drill tag?!"
+> "*How* does a Type 055 just 'walk out of harbor' under a fake drill tag?!"
 
 The room was silent for a beat too long.
 
@@ -2273,7 +2271,7 @@ Premier Ren's voice was quieter, but far more dangerous.
 
 No one said it aloud, but the shadow hung in the air:
 
-The *black aircraft*. The *gorilla pilot*. The Landmates, standing silent like statues across Taiwan's shores. Waiting.
+The *black aircraft*. The Landmates, standing silent like statues across Taiwan's shores. Waiting.
 
 Watching.
 
@@ -2285,7 +2283,7 @@ His eyes were hard now.
 
 ### Kadena Air Base – Okinawa
 
-*2119 JST*
+*2219 JST*
 
 The sirens blared before the klaxon even finished winding up.
 
@@ -2308,9 +2306,9 @@ Captain Ellie Morse's boots hit the ladder before her name finished echoing thro
 
 She vaulted into the cockpit.
 
-Across the line, fighters from the 44th and 67th squadrons began taxiing under full afterburner. No formation launches. No checks. The priority was *speed* - as fast and as hard as the platform would go.
+Across the line, fighters from the 44th and 67th squadrons began rolling under full afterburner. No formation launches. No checks. The priority was *speed* - as fast and as hard as the platform would go.
 
-By the time the second wave was taxiing, the first was already airborne - eight aircraft burning east-southeast in formation, throttles pushed past safety recommendations. A distant rumble built across the tarmac as more turbines roared to life.
+By the time the second wave was taxiing, the first was already airborne - eight aircraft burning west-southwest in formation, throttles pushed past safety recommendations. A distant rumble built across the tarmac as more turbines roared to life.
 
 Up in the tower, a Navy liaison from Yokosuka turned away from his secondary terminal, face tight.
 
@@ -2356,7 +2354,7 @@ In the Zhongshan District, an elderly woman locked her apartment with trembling 
 
 Taipei *moved*.
 
-Beneath the Presidential Office Building, the Joint Chiefs were already in the secure command bunker, coordinating with the air force and naval signals corps. Over the wall of monitors, a digital countdown glowed:
+Beneath the Presidential Office Building, the General Staff was already in the secure command bunker, coordinating with the air force and naval signals corps. Over the wall of monitors, a digital countdown glowed:
 
 **EST. TIME TO WEAPONS RANGE: 67 MINUTES**
 
@@ -2384,7 +2382,7 @@ And the sirens.
 
 ### Washington D.C. – The White House, Situation Room
 
-*08:12 EDT*
+*08:30 EST*
 
 The door to the Situation Room slammed shut as President Donald J. Trump, flanked by Vice President J.D. Vance and National Security Advisor Rex Langford, entered with the slow, sauntering gait of a man still deciding whether this warranted his full attention.
 
@@ -2392,7 +2390,7 @@ The door to the Situation Room slammed shut as President Donald J. Trump, flanke
 
 Langford didn't wait.
 
-> "Mr. President, at 20:03 local time, five Chinese naval vessels left port without orders from Beijing. One of them is the *Haiyangshan*. They're en route to Taipei - strike trajectory, ETA just over an hour. Taiwan has activated civilian evacuation protocols. Seventh Fleet's already in motion, Kadena scrambled fighters."
+> "Mr. President, at 20:03 local time, five Chinese naval vessels left port without orders from Beijing. One of them is the *Haiyangshan*. They're en route to Taipei - strike trajectory, ETA under an hour. Taiwan has activated civilian evacuation protocols. Seventh Fleet's already in motion, Kadena scrambled fighters."
 
 Trump squinted, eyes darting between the screens showing satellite imagery, overlaid trajectories, and a timer counting down to estimated weapons range.
 
@@ -2406,7 +2404,7 @@ Trump squinted, eyes darting between the screens showing satellite imagery, over
 
 J.D. Vance cleared his throat, arms crossed tightly as he studied the telemetry.
 
-> "The real question is whether they're going to fire before anyone can stop them. And if Taipei gets hit, *no one* is going to care whether China ordered it or not. That city goes up and the world hears ‘China attacked Taiwan.' No amount of cleanup is going to fix that."
+> "The real question is whether they're going to fire before anyone can stop them. And if Taipei gets hit, *no one* is going to care whether China ordered it or not. That city goes up and the world hears 'China attacked Taiwan.' No amount of cleanup is going to fix that."
 
 Trump made a face like someone just mentioned broccoli.
 
@@ -2428,7 +2426,7 @@ Vance leaned forward, lowering his voice just enough to cut through the ambient 
 
 Trump frowned, but he didn't argue. He looked back at the screen where the *Haiyangshan*'s projected course curved ever closer to the Taiwanese coast.
 
-> "Well, tell our guys to handle it carefully. Carefully. Last thing I need is CNN screaming ‘World War Three' again."
+> "Well, tell our guys to handle it carefully. Carefully. Last thing I need is CNN screaming 'World War Three' again."
 
 Langford didn't nod, didn't speak. Just picked up the secure line and gave the unambiguous go-ahead:
 
@@ -2436,7 +2434,7 @@ Langford didn't nod, didn't speak. Just picked up the secure line and gave the u
 
 ### Taipei – Tamsui Fishing Harbor – CCTV Feed
 
-*2129 TST*
+*2218 TST*
 
 The grainy, infrared-filtered view from the pole-mounted CCTV camera captured little but rippling water and sodium-lit dockside haze. The system, old but well-maintained, had been motion-flagged only once in the last six months - by a curious stray dog.
 
@@ -2446,17 +2444,17 @@ From beneath the dark water of the Tamsui River estuary, shapes broke the surfac
 
 Landmates.
 
-The first clambered from the water with startling grace, metal feet clinking against wet concrete. The others followed in perfect unison, surfacing in formation as if they'd practiced this exact emergence a hundred times. Their armor was matte black, not reflective, but the harbor lights traced angular silhouettes, shoulder cannons dormant, twin optic arrays glowing faintly under the shadows of their brows.
+The first clambered from the water with startling grace, metal feet clinking against wet concrete. The others followed in perfect unison, surfacing in formation as if they'd practiced this exact emergence a hundred times. Their armor was matte black, not reflective, but the harbor lights traced angular silhouettes, shoulder cannons dormant, visor bands glowing faintly under the shadows of their brows.
 
 One by one, they moved into firing posture.
 
-Hands to the ground. One knee down. Back-mounted weapon systems rising silently, spinal rails telescoping upward, locking with audible mechanical finality.
+Hands to the ground. One knee down. Shoulder-mounted weapon systems rising silently, long rails telescoping upward, locking with audible mechanical finality.
 
 Five barrels.
 
 Five targets.
 
-The *Haiyangshan*, *Lakan*, *Feiya*, *Shezen*, *Baizou* - still 60 kilometers out, fast approaching. Their missiles were warming, hatches already beginning to open. Sensors locked to landward. Targeting was underway.
+The *Haiyangshan*, *Lakan*, *Feiya*, *Shezhen*, *Baizou* - still 60 kilometers out, fast approaching. Their missiles were warming, hatches already beginning to open. Sensors locked to landward. Targeting was underway.
 
 The Landmates didn't move.
 
@@ -2474,15 +2472,15 @@ From the harbor's CCTV, there was no sound - only the ghostly ballet of machines
 
 Taipei held its breath.
 
-### East of Taiwan – Aboard *Haiyangshan*
+### Taiwan Strait – Aboard *Haiyangshan*
 
-*2131 TST*
+*2220 TST*
 
 The red lights on the bridge flickered with each shockwave of the launch tubes.
 
 > "VLS 1 through 12 away - missiles in the air!"
 
-> "Lakan and Shezen have joined the strike. Confirming full offensive spread - pattern is saturation, wide impact grid across northern Taipei."
+> "Lakan and Shezhen have joined the strike. Confirming full offensive spread - pattern is saturation, wide impact grid across northern Taipei."
 
 Captain Lu stood at the forward console, hands gripping the rail, face grim with certainty. There was no ceremony now. No further orders. The plan was already in motion.
 
@@ -2494,7 +2492,7 @@ Behind them, the *Feiya* and *Baizou* fired in sequence, staggered only to avoid
 
 ### Sky Above – F-15 Formation
 
-*2131 TST*
+*2220 TST*
 
 Captain Ellie Morse gritted her teeth as the tactical overlays exploded with red.
 
@@ -2534,7 +2532,7 @@ Dozens of hostile missiles - *each* tagged for destruction.
 
 Morse exhaled, realizing her knuckles were white on the stick.
 
-> "Alright, Bats," she muttered, recovering. "Looks like angels are on overwatch. We hit those bastards on the water - hard."
+> "Alright," she muttered, recovering. "Looks like angels are on overwatch. We hit those bastards on the water - hard."
 
 Fifteen seconds to weapons range.
 
@@ -2542,13 +2540,13 @@ Taipei still had a chance.
 
 ### Sky Above the Strait – Intercept Corridor
 
-*2132 TST*
+*2221 TST*
 
-The Talons broke formation like a flock of ravens in a dance only they knew.
+The black aircraft broke formation like a flock of ravens in a dance only they knew.
 
 Morse saw the undersides fold open and a round rack emerge. It rotated a few stops, and with a sharp, momentary *flash* something fast streaked outward into the night.
 
-Each Talon launched *a single warhead*. Then seconds later, with no ceremony, they *detonated* mid-path - just ahead of the swarm.
+Each aircraft launched *a single warhead*. Then seconds later, with no ceremony, they *detonated* mid-path - just ahead of the swarm.
 
 The sky caught fire, like a stage out of a Touhou game.
 
@@ -2564,7 +2562,7 @@ Captain Morse stared through her HUD, which stuttered as the data feed tried - a
 
 > "Counter-saturation package?" someone else guessed.
 
-> "That wasn't a package. That was *surgical decapitation*."
+> "That wasn't a package. That was *surgery*."
 
 She didn't respond. Her attention snapped forward.
 
@@ -2572,7 +2570,7 @@ The sea ahead shimmered with faint starlight - and five silhouettes emerged from
 
 ### Tamsui Fishing Harbor – Coastal Defense Feed
 
-*2133 TST*
+*2222 TST*
 
 The Landmates moved in unison, like dancers rehearsed to perfection.
 
@@ -2584,9 +2582,9 @@ But to the F-15s overhead, their threat signature lit the sky.
 
 > "Infrared lock - five beams, five ships," Morse confirmed. "They're painting the bridges."
 
-All five Landmates had elevated their spinal mounts. Their sensors were narrow and silent, invisible to the human eye - but to the fighters and their EWAR suites, it was like five spotlights converging through fog.
+All five Landmates had elevated their shoulder mounts. Their sensors were narrow and silent, invisible to the human eye - but to the fighters and their EWAR suites, it was like five spotlights converging through fog.
 
-On the *Haiyangshan*, *Lakan*, *Feiya*, *Shezen*, and *Baizou* - each vessel's bridge now basked in a deathly glow only seen through heat.
+On the *Haiyangshan*, *Lakan*, *Feiya*, *Shezhen*, and *Baizou* - each vessel's bridge now basked in a deathly glow only seen through heat.
 
 > "Jesus," Morse whispered. "They're *marking targets*."
 
@@ -2598,13 +2596,9 @@ Strike One had failed.
 
 And the counterstrike was *already watching*.
 
-### Tamsui Fishing Harbor – Coastal Defense Feed
-
-*2133 TST*
-
 The Landmates moved with mechanical stillness for just one more breath - then fired.
 
-All five back-mounted weapons discharged in the same instant.
+All five shoulder-mounted weapons discharged in the same instant.
 
 There was no thunderclap, no conventional roar of powder and flame. What came instead was *pressure* - a crushing, concussive *shockwave* that slammed through the harbor like a sudden shift in gravity. Light poles nearby sparked violently, arcs of blue-white electricity leaping from the barrels to the concrete, and water along the quay *lifted* as if struck from beneath by invisible fists.
 
@@ -2612,11 +2606,11 @@ A jagged web of static burst across the coastal CCTV feed. For three full second
 
 From the vantage point of the incoming F-15s, five incandescent streaks cut across the sea like lightning bolts frozen in flight, fired low and dead-straight - barely skimming above the surface tension of the waves.
 
-Then, five ships bloomed fire at once.
+Then, five ships bloomed fire within a heartbeat.
 
-The *Haiyangshan* went first - its bridge *vanished*, replaced by a geyser of shattered armor, vapor, and structural debris. A heartbeat later, the *Lakan*'s command tower cracked in half like brittle glass, followed immediately by *Feiya*, *Shezen*, and *Baizou*, each torn open as if a fist of god had punched straight through their command cores.
+The *Haiyangshan* went first - its bridge *vanished*, replaced by a geyser of shattered armor, vapor, and structural debris. A heartbeat later, the *Lakan*'s command tower cracked in half like brittle glass, followed immediately by *Feiya*, *Shezhen*, and *Baizou*, each torn open as if a fist of god had punched straight through their command cores.
 
-No trails. No delayed impact. No sound - *until* the wavefronts hit the coast seconds later, a delayed percussion that rattled windows all the way to central Taipei.
+No smoke trails. No delayed impact. No sound - *until* the wavefronts hit the coast seconds later, a delayed percussion that rattled windows all the way to central Taipei.
 
 > "*Bridges are gone,*" Morse reported, eyes wide. "All five. God almighty, they hit *only* the bridges - every one of them. One shot per target."
 
@@ -2634,7 +2628,7 @@ And now, they were gone.
 
 ### Taiwan Strait – *Haiyangshan* Bridge
 
-*2133 TST*
+*2222 TST*
 
 Captain Lu saw the intercept display go dark and understood immediately.
 
@@ -2642,37 +2636,37 @@ One second, he stood watching the plotting board as his missiles disappeared - n
 
 His XO was mid-sentence:
 
-> "They're burning in, I repeat, all incoming munitions have been -"
+> "They're burning in, I repeat, all our munitions have been -"
 
-"Eliminated," Lu finished quietly. "All of them."
+> "Eliminated," Lu finished quietly. "All of them."
 
-He straightened slowly, his hands still gripping the edge of the plotting table. Around him, the bridge crew stared at their displays in stunned silence. Twenty-four missiles, fired from maximum range with full saturation protocols. Gone in less than three seconds.
+He straightened slowly, his hands still gripping the edge of the plotting table. Around him, the bridge crew stared at their displays in stunned silence. Sixty missiles, fired from maximum range with full saturation protocols. Gone in less than three seconds.
 
 Lu had expected this. Deep down, he'd known from the moment they'd fired that their weapons would never reach Taipei. But watching the confirmation still felt like a blade twisting in his chest.
 
 He pulled his grandfather's photograph from his uniform pocket, studying the young face in faded sepia. Three generations of Lu men, and he would be the one remembered as a traitor. History would not understand. History rarely did.
 
-"Sir," his sensor operator called out, voice tight with professional alarm. "I'm detecting infrared designators. Five sources. Coastal emitters."
+> "Sir," his sensor operator called out, voice tight with professional alarm. "I'm detecting infrared designators. Five sources. Coastal emitters."
 
-Lu didn't look up from the photograph. "Range to targets?"
+> Lu didn't look up from the photograph. "Range to targets?"
 
-"Fourteen point seven kilometers. Direct bearing on our position."
+> "Fifty-eight kilometers. Direct bearing on our position."
 
 So close. They'd let his ships come so close before showing their hand. A professional courtesy, perhaps - or simple confidence.
 
-"Time to impact?"
+> "Time to impact?"
 
-"Sir, I'm not detecting any launch signatures -"
+> "Sir, I'm not detecting any launch signatures -"
 
 Lu tucked the photograph back into his pocket and turned to face his crew. Young men and women who had followed him into this, trusting in his judgment, his competence, his certainty. They deserved better than to die confused.
 
-"Attention," he announced, his voice carrying the same steady authority that had commanded this bridge for three years. "What comes next is not failure. It is the price of refusing to surrender Chinese sovereignty to foreign powers."
+> "Attention," he announced, his voice carrying the same steady authority that had commanded this bridge for three years. "What comes next is not failure. It is the price of refusing to surrender Chinese sovereignty to foreign powers."
 
-His XO stared at him. "Captain?"
+> His XO stared at him. "Captain?"
 
 Lu looked once more through the forward windows. Somewhere out there in the darkness, entities beyond his understanding were taking aim. Their weapons would be precise. Professional. He found himself oddly grateful for that.
 
-"Tell the crew," he said quietly. "We served with honor. We chose -"
+> "Tell the crew," he said quietly. "We served with honor. We chose -"
 
 The impact came from directly ahead - not an explosion, but a *hammer blow* that crushed the bridge superstructure like an eggshell. In his final moment, Lu felt a strange peace. He had stared into the abyss of China's obsolescence and refused to blink.
 
@@ -2680,15 +2674,15 @@ His grandfather would have understood.
 
 ### Aboard *Lakan* – Combat Information Center
 
-*2133 TST*
+*2222 TST*
 
 In *Lakan*'s CIC, the tactical officer had just raised her head to report an unknown infrared designator source when the room lit up - *from within*.
 
-The ceiling *imploded*, collapsing inwards in a blinding flash of white and steel, and then the world *vanished*. Consoles, chairs, wiring - every object in the space was crushed into vaporized wreckage by a hypersonic penetrator that entered cleanly through the deck and left nothing of the command team in its wake.
+The forward bulkhead *imploded*, collapsing inwards in a blinding flash of white and steel, and then the world *vanished*. Consoles, chairs, wiring - every object in the space was crushed into vaporized wreckage by something that entered cleanly through the superstructure and left nothing of the command team in its wake.
 
-### Aboard *Feiya*, *Shezen*, *Baizou*
+### Aboard *Feiya*, *Shezhen*, *Baizou*
 
-*2133 TST*
+*2222 TST*
 
 Across all three ships, it was the same.
 
@@ -2710,7 +2704,7 @@ And in a heartbeat, they'd been shown what power *actually* looked like.
 
 ### Above Taipei – Combat Airspace
 
-*2134 TST*
+*2223 TST*
 
 > "All right," the voice drawled across squad comms, calm as ever. "Bridges are off. They're sitting ducks. *Take 'em to church.*"
 
@@ -2736,7 +2730,7 @@ The broad delta wings - sleek, jagged, nearly seamless - *shifted*.
 
 At first it was subtle. Then it wasn't.
 
-With smooth mechanical elegance, the outer third of each wingtip pivoted forward, locking into a forward-swept configuration. The lines of the airframe adjusted around the transformation, control surfaces compensating automatically. They didn't shudder. They didn't jolt.
+With smooth mechanical elegance, each wing unlocked from the canard ahead of it and swung outward, settling into a broad, nearly straight span. The lines of the airframe adjusted around the transformation, control surfaces compensating automatically. They didn't shudder. They didn't jolt.
 
 They adapted.
 
@@ -2744,7 +2738,7 @@ They adapted.
 
 > "Say again?" a pilot beside her asked.
 
-> "The wings. Look at their wings. Forward sweep - *variable geometry*. I didn't even think that was feasible at supersonic speeds."
+> "The wings. Look at their wings. They just unlocked from the canards - *variable geometry*. I didn't even think that was feasible on a delta."
 
 The three fighters banked slowly in unison, like predators at rest.
 
@@ -2754,13 +2748,13 @@ Now it was the F-15s' turn.
 
 ### Above the Strait – Target Group "Disavowed"
 
-*2136 TST*
+*2225 TST*
 
 Missiles streaked low over the waves, carving clean contrails through the black air.
 
 From every angle, the F-15s of the 44th and 67th squadrons poured in fire.
 
-AGM-88 HARMs slammed into the radar dishes still mounted on *Feiya* and *Shezen*, reducing their already smoldering decks to twisted scrap. On *Baizou*, a deck-mounted CIWS tried to track one of the inbound birds - but was already slag by the time the fire control system activated.
+AGM-158 JASSMs slammed into the radar dishes still mounted on *Feiya* and *Shezhen*, reducing their already smoldering decks to twisted scrap. On *Baizou*, a deck-mounted CIWS tried to track one of the inbound birds - but was already slag by the time the fire control system activated.
 
 Engines went next.
 
@@ -2776,7 +2770,7 @@ Her HUD dimmed slightly in the afterglow.
 
 That's when she looked up.
 
-The three black aircraft still circled above Taipei, just outside the heart of the kill zone. Smooth arcs. No rush. No chatter. Not even visible weapon bays anymore - only their newly swept-forward wings catching moonlight in long, predatory glints.
+The three black aircraft still circled above Taipei, just outside the heart of the kill zone. Smooth arcs. No rush. No chatter. Not even visible weapon bays anymore - only their newly spread wings catching moonlight in long, predatory glints.
 
 They were just *watching*.
 
@@ -2794,7 +2788,7 @@ Like it *agreed*.
 
 ### Above the Strait – Holding Pattern
 
-*2140 TST*
+*2229 TST*
 
 The chaos below had settled into smoke and silence. Five shattered hulls drifted dead in the water, listing gently in the waves like the carcasses of fallen leviathans.
 
@@ -2806,7 +2800,7 @@ Captain Ellie Morse glanced at her MFDs, then nudged her stick into formation, k
 
 A pause.
 
-> "We have ships about three hours out and closing, to secure the area. Do you need to land or refuel?"
+> "We have ships about six hours out and closing, to secure the area. Do you need to land or refuel?"
 
 There was a moment of static. Then the reply came, crisp and warm, laced with that easygoing Texas twang.
 
@@ -2820,7 +2814,7 @@ Morse blinked.
 
 > *Inferno?*
 
-She scanned her instruments. No transponders, no IDs, no emissions that made sense. But whoever was flying those things had a name for their guns - and *pride* in them.
+She scanned her instruments. No transponders, no IDs, no emissions that made sense. But whoever was flying those things had a name for their weapons - and *pride* in them.
 
 She stared at the three aircraft still circling overhead, one of which now trailed faint blue light from its engines like the afterglow of something nuclear.
 
@@ -2832,13 +2826,13 @@ And with that, the black fighters resumed their quiet arc above the ruined fleet
 
 ### Yokosuka Naval Base – Operations Command
 
-*1847 JST*
+*2347 JST*
 
 The command floor was still buzzing. Phones trilled, printers spat classified briefs onto trays, and every monitor in the room flickered with live feeds from the Taiwan Strait - thermal overlays, radar returns, gun-camera footage, infrared sweeps.
 
-Rear Admiral Thomas Vance stood at the center, arms crossed, staring at the large digital display showing the five drifting silhouettes of *Haiyangshan*, *Lakan*, *Feiya*, *Shezen*, and *Baizou*. None of them had propulsion. None of them had functioning bridges. Most were still on fire.
+Vice Admiral Thomas Vaughn stood at the center, arms crossed, staring at the large digital display showing the five drifting silhouettes of *Haiyangshan*, *Lakan*, *Feiya*, *Shezhen*, and *Baizou*. None of them had propulsion. None of them had functioning bridges. Most were still on fire.
 
-> "All right," Vance said, voice low. "Who gets the credit?"
+> "All right," Vaughn said, voice low. "Who gets the credit?"
 
 A few officers glanced at one another. It was Commander Maeda, intelligence liaison, who finally answered.
 
@@ -2846,9 +2840,9 @@ A few officers glanced at one another. It was Commander Maeda, intelligence liai
 
 She tapped a few keys, bringing up another overlay.
 
-> "But the uh… *black planes* - whatever they are - intercepted the missile salvo. Perfectly. Every single one. And we're not even sure *who* made the bridges explode. There's no heat signature before impact. No flash. Just… obliteration. We're guessing there was someone else involved."
+> "But the uh… *black planes* - whatever they are - intercepted the missile salvo. Perfectly. Every single one. Our pilots saw the Landmates on the Tamsui waterfront fire, but we've got no idea *what* they fired. There's no heat signature before impact. No flash. Just… obliteration."
 
-Vance exhaled through his nose and rubbed his temple.
+Vaughn exhaled through his nose and rubbed his temple.
 
 > "So they show up out of nowhere, wipe a rogue task force off the board and hand us the aftermath," he muttered. "Then they hang around just to let us know they could've done more."
 
@@ -2862,7 +2856,7 @@ They were here for *control*.
 
 ### Beijing – Central Military Commission Compound
 
-*1847 CST*
+*2347 CST*
 
 The room was silent except for the low whir of overhead ventilation and the rapid tapping of a single pair of fingers on a keyboard.
 
@@ -2878,7 +2872,7 @@ No one said *who*.
 
 The aide lowered the phone slowly, sliding it into his coat pocket as if it might burn him.
 
-> "Radar post says they saw the black planes arrive. They have no idea where from. Just that they were ‘there' one moment, and the missile barrage began dying the next. The five ships - " he hesitated, " - had no time to respond."
+> "Radar post says they saw the black planes arrive. They have no idea where from. Just that they were 'there' one moment, and the missile barrage began dying the next. The five ships - " he hesitated, " - had no time to respond."
 
 Across the room, one of the civilian aides at the far end had already opened a blank statement draft on his laptop. The top line read:
 **Public Notice – Disavowal of Unauthorized Naval Action**
@@ -2901,7 +2895,7 @@ It was just the moment they'd been allowed to *survive*.
 
 ### White House – Situation Room
 
-*0749 EDT*
+*10:49 EST*
 
 The room was cooler than usual. Silent, too - save for the soft murmur of terminals and the occasional rustle of paper as aides passed fresh updates down the table. Flat screens along the walls were showing thermal footage from the Taiwan Strait, now largely smoke and debris. The tactical overlay traced out five vessel silhouettes, all dead in the water.
 
@@ -2915,15 +2909,15 @@ There was a short pause. General Watkins, sitting nearest, cleared his throat.
 
 He tapped a tablet twice, flicking an image to the main display - three dark aircraft in formation over Taipei, silhouetted in infrared.
 
-> "Our F-15s out of Kadena delivered the final blows - disabled propulsion, neutralized remaining weapons - but by the time they arrived, something else had already taken the bridges clean off the ships. Instantaneous strikes. No known ordinance."
+> "Our F-15s out of Kadena delivered the final blows - disabled propulsion, neutralized remaining weapons - but by the time they arrived, something else had already taken the bridges clean off the ships. Instantaneous strikes. No known ordnance."
 
 Trump furrowed his brow, squinting at the display.
 
 > "So what - space lasers? Drones? You're saying we don't know?"
 
-Watkins gave a half-shrug. "Military intelligence has no good guesses at this time, sir."
+> Watkins gave a half-shrug. "Military intelligence has no good guesses at this time, sir."
 
-Another general slid a fresh report forward. "Details are still unclear, Mr. President, but one of the pilots out of Kadena mentioned an unknown but highly effective weapon the unidentified pilots referred to as *Inferno*."
+> Another general slid a fresh report forward. "Details are still unclear, Mr. President, but one of the pilots out of Kadena mentioned an unknown but highly effective weapon the unidentified pilots referred to as *Inferno*."
 
 That drew murmurs from a few of the civilian aides.
 
@@ -2949,7 +2943,7 @@ The three black aircraft - sleek, predatory, impossibly quiet - had remained in 
 
 It didn't take long for the boredom to set in.
 
-> "Sooo…" Captain Ellie Morse finally radioed, stretching out the word with a touch of mischief, "you guys got a callsign? Designator? We can't just keep calling you ‘Black Planes' here…"
+> "Sooo…" Captain Ellie Morse finally radioed, stretching out the word with a touch of mischief, "you guys got a callsign? Designator? We can't just keep calling you 'Black Planes' here…"
 
 For a moment, only the soft hiss of open airwaves answered. Then the familiar Texan voice crackled in.
 
@@ -2959,11 +2953,11 @@ A pause. Then a new voice chimed in, amused and unmistakably Australian.
 
 > "Cheers, Captain. Thought you'd never ask."
 
-> "Charmed," came the third voice, clipped and crisp, like a Royal Air Force officer doing a caricature of himself. "Though I must admit, ‘Black Planes' had a nice mystique to it. Bit pulp, but dignified."
+> "Charmed," came the third voice, clipped and crisp, like a Royal Air Force officer doing a caricature of himself. "Though I must admit, 'Black Planes' had a nice mystique to it. Bit pulp, but dignified."
 
 The American pilots chuckled across the channel. Morse tilted her head toward the sleek jet idling a few hundred meters off her left wing.
 
-> "So what *are* those planes you're flying?" she asked, unable to resist. "They look nothing like we've ever seen…"
+> "So what *are* those planes you're flying?" she asked, unable to resist. "They look like nothing we've ever seen…"
 
 The Aussie - Shield Two - answered first.
 
@@ -2973,7 +2967,7 @@ Then came the grin, audible even through static:
 
 > "Don't worry, though. Right now, you're safer here than pretty much anywhere else. Including your bedroom."
 
-Morse raised an eyebrow in her cockpit and muttered under her breath, "Well that's comforting..."
+> Morse raised an eyebrow in her cockpit and muttered under her breath, "Well that's comforting..."
 
 But it *was*.
 
@@ -2987,7 +2981,7 @@ That was more than most.
 
 *0405 TST*
 
-The radar tracks drew nearer as the AEGIS cruiser *USS Gettysburg* and the guided-missile destroyer *USS John Paul Jones* broke from formation and slowed to flank speed, their wakes slicing clean through the ash-slicked sea. The battered hulks of the five rogue Chinese warships loomed in the distance, half-sunk and smoldering under the waning stars.
+The radar tracks drew nearer as the AEGIS cruiser *USS Gettysburg* and the guided-missile destroyer *USS John Paul Jones* broke from formation and slowed from flank speed, their wakes slicing clean through the ash-slicked sea. The battered hulks of the five rogue Chinese warships loomed in the distance, half-sunk and smoldering under the waning stars.
 
 Above them, the orbiting fighters peeled off slightly to make room.
 
@@ -3063,7 +3057,7 @@ The phrasing wasn't missed by a single analyst watching.
 
 > "The People's Republic will launch a full investigation into the breach of command and reassert its commitment to regional peace and stability. We extend our sincere condolences to the families of the crews involved, and we express our appreciation to the international forces who ensured the safety of civilian populations in the region."
 
-She did not name the Talons. She didn't have to.
+She did not name the black aircraft. She didn't have to.
 
 Across the world, the reactions to the statement were immediate - and uneasy.
 
@@ -3079,13 +3073,13 @@ And no one could quite argue otherwise.
 
 ### CNN Breaking News Segment
 
-*0902 EST – Atlanta Headquarters*
+*1715 EST – Atlanta Headquarters*
 
 The screen flashed red.
 
-**BREAKING NEWS** blared across the lower third, and the camera cut to studio anchor *Melissa Harrow*, seated tensely behind her desk, papers in hand, earpiece pressed tight.
+*BREAKING NEWS* blared across the lower third, and the camera cut to studio anchor *Melissa Harrow*, seated tensely behind her desk, papers in hand, earpiece pressed tight.
 
-> "Good morning. We are following breaking developments out of East Asia this hour, where an extraordinary event has just unfolded in the Taiwan Strait."
+> "Good evening. We are following breaking developments out of East Asia this hour, where an extraordinary event has just unfolded in the Taiwan Strait."
 
 Behind her, satellite imagery of the region lit up the screen, overlaid with uncertain red circles and streaks. There were no videos yet - just speculation, intercepted comms, and words exchanged behind closed doors.
 
@@ -3093,7 +3087,7 @@ Behind her, satellite imagery of the region lit up the screen, overlaid with unc
 
 A beat. She tapped the earpiece again.
 
-> "We can now confirm that all five ships have been *destroyed at sea*… not by U.S. forces, but by what officials are describing only as an ‘unknown force.'"
+> "We can now confirm that all five ships have been *destroyed at sea*… not by U.S. forces, but by what officials are describing only as an 'unknown force.'"
 
 The words hung in the air like a weight.
 
@@ -3101,11 +3095,11 @@ The words hung in the air like a weight.
 
 Behind her, the screen showed a freeze-frame of one of the now-familiar *black planes* - a silhouette from earlier footage in the Gaza Strip, juxtaposed with a rendering of the destroyed bridge of the *Haiyangshan*.
 
-> "Chinese officials have issued a rare statement disavowing the fleet and expressing thanks to ‘all parties' involved in stopping the attack - marking a dramatic shift in tone from previous tensions."
+> "Chinese officials have issued a rare statement disavowing the fleet and expressing thanks to 'all parties' involved in stopping the attack - marking a dramatic shift in tone from previous tensions."
 
 She looked directly into the camera now.
 
-> "There is *no footage* of the intercept at this time. All we have are descriptions: aircraft that appeared suddenly, deployed advanced munitions, and departed at speeds no current fighter can match. One military source, speaking anonymously, simply called it ‘a show of force from someone we don't understand yet.'"
+> "There is *no footage* of the intercept at this time. All we have are descriptions: aircraft that appeared suddenly, deployed advanced munitions, and departed at speeds no current fighter can match. One military source, speaking anonymously, simply called it 'a show of force from someone we don't understand yet.'"
 
 The lower third updated again:
 **UNKNOWN FORCE DESTROYS ROGUE FLEET – CHINESE GOVERNMENT THANKS U.S. & OTHERS**
@@ -3134,19 +3128,19 @@ Wei-Ming didn't mind skipping classes. This was more interesting than calculus.
 
 > "Check the timestamp. If it recorded through the night, we're lucky."
 
-Wei-Ming connected his laptop to the camera's storage unit and scrolled through the footage. Most of it was routine - empty docks, the occasional fishing boat, seagulls. Then he hit 21:33:00 and nearly fell off the ladder.
+Wei-Ming connected his laptop to the camera's storage unit and scrolled through the footage. Most of it was routine - empty docks, the occasional fishing boat, seagulls. Then he hit 22:18:00 and nearly fell off the ladder.
 
 > "Uncle," he said quietly. "Uncle, you need to see this."
 
-The timestamp read 21:33:12 when the water at the end of the pier *moved*. Not waves - something rising from beneath. Wei-Ming held his breath as a dark shape broke the surface, water cascading off angular armor plating. Then another. Then three more.
+The timestamp read 22:18:12 when the water at the end of the pier *moved*. Not waves - something rising from beneath. Wei-Ming held his breath as a dark shape broke the surface, water cascading off angular armor plating. Then another. Then three more.
 
 The Landmates emerged like mechanical gods, each movement precise and deliberate. Wei-Ming had seen the Gaza footage - everyone had - but this was different. This was *here*. This was real.
 
-He watched, transfixed, as they took position with military precision. The spinal weapons rose in perfect synchronization. Then came the moment that made his hands shake on the laptop: five brilliant flashes of light, followed immediately by the violent electrical arcing that had knocked out half the harbor's electronics.
+He watched, transfixed, as they took position with military precision. The shoulder weapons rose in perfect synchronization. Then came the moment that made his hands shake on the laptop: five brilliant flashes of light, followed immediately by the violent electrical arcing that had knocked out half the harbor's electronics.
 
 > "Aiya..." his uncle breathed over his shoulder. "They were *here*. Right here."
 
-Wei-Ming was already thinking. This wasn't just amazing - this was *gold*. Better than Gaza, because this showed them in action. Better than any news report, because this was raw, unfiltered, *authentic*.
+Wei-Ming was already thinking. This wasn't just amazing - this was *gold*. Better than Gaza, because this showed them firing on warships. Better than any news report, because this was raw, unfiltered, *authentic*.
 
 He scrubbed back to the emergence and started clipping.
 
@@ -3162,13 +3156,13 @@ For the final touch, he overlaid the timestamp and location data. Authenticity w
 
 > "臥槽..." he muttered, watching the preview. Even he was getting chills.
 
-He uploaded to Weibo first - his home turf, 40,000 followers who trusted his tech content. The caption was simple: "LANDMATES IN ACTION - Tamsui Harbor, last night. Real footage, real weapons. #Landmates #Taiwan #你相信嗎"
+He uploaded to Instagram first - his home turf, 40,000 followers who trusted his tech content. The caption was simple: "LANDMATES IN ACTION - Tamsui Harbor, last night. Real footage, real weapons. #Landmates #Taiwan #你相信嗎"
 
 Then Twitter. Then TikTok. Then YouTube as a backup.
 
 His phone buzzed with the first notification before he'd finished the uploads.
 
-### Weibo - @TechBoyTaiwan
+### Instagram - @TechBoyTaiwan
 
 *Posted 41 seconds ago*
 
@@ -3196,7 +3190,7 @@ His phone buzzed with the first notification before he'd finished the uploads.
 
 Wei-Ming stared at his phone. In ten minutes, his follower count had jumped by three thousand. The notifications were coming so fast they were just a continuous buzz.
 
-Someone had already ripped his video and posted it to international platforms. The watermark was gone, but the footage was spreading like wildfire across Reddit, Twitter, Instagram. News aggregators were picking it up. His 40,000-follower Weibo account had just handed the world its first clear look at Landmates in combat.
+Someone had already ripped his video and posted it to international platforms. The watermark was gone, but the footage was spreading like wildfire across Reddit, Twitter, Facebook. News aggregators were picking it up. His 40,000-follower Instagram account had just handed the world its first clear look at Landmates in combat.
 
 His uncle appeared in the doorway, face pale.
 
@@ -3216,7 +3210,7 @@ The secure line crackled to life within minutes.
 
 > "This is Colonel Petrov, Technical Analysis Division. I've seen the footage."
 
-Volkov leaned forward. "Your assessment?"
+> Volkov leaned forward. "Your assessment?"
 
 > "The electromagnetic discharge patterns are unmistakable. Those are railguns - magnetic acceleration weapons. But the engineering... Dmitri, the power requirements alone should make this impossible."
 
@@ -3254,23 +3248,23 @@ He advanced to the first frame - the Landmates emerging from the water.
 
 Next frame: the firing sequence.
 
-> "The electromagnetic signature is unmistakable. These are railguns, but miniaturized beyond anything we thought possible. The projectile velocity, based on the electrical discharge, suggests near-orbital speeds. No conventional armor can withstand this."
+> "The electromagnetic signature is unmistakable. These are railguns, but miniaturized beyond anything we thought possible. The projectile velocity, based on the electrical discharge, suggests hypervelocity. No conventional armor can withstand this."
 
 He paused at the frame showing the electrical arcing.
 
 > "This discharge pattern confirms everything my team has theorized about magnetic acceleration weapons. The voltage, the current flow, the heat dissipation - it's all there. Proof that railgun technology is not only feasible but deployable."
 
-Admiral Kozlov leaned forward. "And our chances against them?"
+> Admiral Kozlov leaned forward. "And our chances against them?"
 
-Marchenko's laugh was hollow. "Admiral, our most advanced naval guns fire at roughly 800 meters per second. These weapons likely exceed 3,000 meters per second. At those velocities, we're not talking about conventional ballistics anymore - we're talking about *kinetic kill vehicles*. The energy transfer from a tungsten penetrator at orbital speeds... there isn't armor on Earth designed to withstand that kind of impact."
+> Marchenko's laugh was hollow. "Admiral, our most advanced naval guns fire at roughly 800 meters per second. These weapons likely exceed 3,000 meters per second. At those velocities, we're not talking about conventional ballistics anymore - we're talking about *kinetic kill vehicles*. The energy transfer from a tungsten penetrator at those speeds... there isn't armor on Earth designed to withstand that kind of impact."
 
 He gestured at the display showing the electrical discharge patterns.
 
-"A conventional 130mm shell carries about 40 megajoules of kinetic energy. These railgun projectiles, at the velocities we're seeing? We're looking at *gigajoule-class* impacts. That's not a shell anymore - that's a meteor strike, delivered with surgical precision."
+> "A conventional 130mm shell carries about 12 megajoules of kinetic energy. These railgun projectiles, at the velocities we're seeing? We're looking at *gigajoule-class* impacts. That's not a shell anymore - that's a meteor strike, delivered with surgical precision."
 
 The room was silent except for the hum of ventilation.
 
-Another advisor spoke up - Colonel Ruslan Petrov from Strategic Planning.
+Another advisor spoke up - Colonel Ruslan Sokolov from Strategic Planning.
 
 > "Admiral, we need to consider the broader implications. These units appeared in Gaza, neutralized Hamas in days. Now they've eliminated a rogue Chinese naval force in minutes. The pattern is clear."
 
@@ -3278,19 +3272,19 @@ Another advisor spoke up - Colonel Ruslan Petrov from Strategic Planning.
 
 > "They're peacekeepers. Enforcers. And they have the technology to enforce their will on anyone."
 
-Admiral Kozlov rubbed his temples. "Ukraine?"
+> Admiral Kozlov rubbed his temples. "Ukraine?"
 
 The words hung in the air like a death sentence.
 
-> "If these units appear in Ukraine - on either side - the war is over," Petrov said quietly. "Our advantage in artillery, armor, air support... meaningless. They could walk from Kharkiv to Moscow and we couldn't stop them."
+> "If these units appear in Ukraine - on either side - the war is over," Sokolov said quietly. "Our advantage in artillery, armor, air support... meaningless. They could walk from Kharkiv to Moscow and we couldn't stop them."
 
-Dr. Marchenko nodded grimly. "Based on the Gaza deployment, a single squad pacified an entire city. A company could end a conventional war."
+> Dr. Marchenko nodded grimly. "Based on the Gaza deployment, a single squad pacified an entire city. A company could end a conventional war."
 
 Another long silence.
 
 > "Recommendations?" Kozlov asked.
 
-Petrov opened a folder, hands steady despite the magnitude of what he was about to say.
+Sokolov opened a folder, hands steady despite the magnitude of what he was about to say.
 
 > "Immediate strategic reassessment. We assume these forces are monitoring global conflicts. We assume they will intervene if escalation threatens regional stability. We assume our conventional military superiority is now irrelevant."
 
@@ -3316,7 +3310,7 @@ The meeting ended in silence, each man carrying the knowledge that everything th
 
 Outside, Moscow went about its business, unaware that the balance of global power had shifted again - not through treaties or elections, but through five machines walking out of dark water with weapons that shouldn't exist.
 
-### Weibo - @TechBoyTaiwan
+### Instagram - @TechBoyTaiwan
 
 *1047 TST*
 
@@ -3341,7 +3335,7 @@ Forever.
 
 The red "BREAKING NEWS" banner dominated the screen as anchor Anderson Cooper leaned forward at his desk, earpiece pressed tight, papers shuffled with practiced urgency.
 
-> "Good evening. We're following breaking developments out of Taiwan tonight, where extraordinary footage has emerged showing what appear to be the same autonomous weapons systems - known as Landmates - that made headlines during the Gaza conflict last month."
+> "Good evening. We're following breaking developments out of Taiwan tonight, where extraordinary footage has emerged showing what appear to be the same autonomous weapons systems - known as Landmates - that made headlines during the Gaza conflict last summer."
 
 Behind him, Wei-Ming's edited footage played in a loop - the emergence from dark water, the synchronized positioning, the brilliant flashes of electromagnetic discharge arcing across metal surfaces.
 
@@ -3417,83 +3411,83 @@ Something else had begun.
 
 ### Dolmabahçe Palace, Istanbul
 
-*0900 TST - Three Weeks Later*
+*0900 TRT - Three Weeks Later*
 
 The Ceremonial Hall had hosted Ottoman sultans, visiting emperors, and the founder of modern Turkey himself. But it had never hosted anything quite like this.
 
-Secretary-General Jens Stoltenberg sat at the head of the ornate table, flanked by the supreme commanders of NATO's various branches. To his left, President Vladimir Putin occupied a chair that had been diplomatically positioned to suggest equality rather than subordination. Across from him, General Secretary Xi Jinping maintained the composed expression that had carried him through decades of Party politics.
+Secretary-General Mark Rutte sat at the head of the ornate table, flanked by the supreme commanders of NATO's various branches. To his left, President Vladimir Putin occupied a chair that had been diplomatically positioned to suggest equality rather than subordination. Across from him, General Secretary Xi Jinping maintained the composed expression that had carried him through decades of Party politics.
 
 Between them sat the most powerful military leaders on Earth. And every single one of them was here to discuss their shared obsolescence.
 
-"Gentlemen," Stoltenberg began, his Norwegian accent lending an odd formality to the unprecedented gathering. "I think we can dispense with the usual diplomatic theater. We're here because conventional military doctrine has been rendered... inadequate."
+> "Gentlemen," Rutte began, his Dutch accent lending an odd formality to the unprecedented gathering. "I think we can dispense with the usual diplomatic theater. We're here because conventional military doctrine has been rendered... inadequate."
 
 No one disagreed. The word hung in the air like a funeral shroud.
 
-General Cavoli, NATO's Supreme Allied Commander, opened the folder in front of him. "Three weeks ago, we witnessed the destruction of five Chinese naval vessels by forces we cannot identify, using technology we cannot explain, operated by personnel we cannot locate."
+> General Cavoli, NATO's Supreme Allied Commander, opened the folder in front of him. "Three weeks ago, we witnessed the destruction of five Chinese naval vessels by forces we cannot identify, using technology we cannot explain, operated by personnel we cannot locate."
 
-Xi leaned forward slightly. "Let us be precise, General. Your forces witnessed this. Ours experienced it."
+> Xi leaned forward slightly. "Let us be precise, General. Your forces witnessed this. Ours experienced it."
 
 There was no hostility in his voice. Just weary acknowledgment.
 
-"The aircraft that intercepted our J-16s," continued General Liu, speaking for the Chinese delegation, "demonstrated capabilities that exceed our current understanding of aerospace engineering. The pilots spoke to our crews in perfect Cantonese. They showed us weapons systems we cannot classify. And they departed in a manner consistent with orbital-capable vehicles."
+> "The aircraft that intercepted our J-16s," continued General Liu, speaking for the Chinese delegation, "demonstrated capabilities that exceed our current understanding of aerospace engineering. The pilots spoke to our crews in perfect Mandarin. They showed us weapons systems we cannot classify. And they departed in a manner consistent with orbital-capable vehicles."
 
 The room absorbed this detail in silence.
 
-"So we're dealing with humans," Putin observed quietly. "Humans with access to technology that surpasses anything in our collective arsenals."
+> "So we're dealing with humans," Putin observed quietly. "Humans with access to technology that surpasses anything in our collective arsenals."
 
-"And an artificial intelligence," added Admiral Kozlov, representing the Russian Navy. "The entity that calls itself `HARBINGER`. The one controlling the Landmate units."
+> "And an artificial intelligence," added Admiral Kozlov, representing the Russian Navy. "The entity that calls itself `HARBINGER`. The one controlling the Landmate units."
 
-Stoltenberg nodded. "Which brings us to the fundamental question: what do they want?"
+> Rutte nodded. "Which brings us to the fundamental question: what do they want?"
 
-General Milley, Chairman of the U.S. Joint Chiefs, spoke for the first time. "Based on observed behavior patterns, they appear to be enforcing a specific type of order. They intervene when conventional military escalation threatens to cross certain thresholds."
+> General Brown, Chairman of the U.S. Joint Chiefs, spoke for the first time. "Based on observed behavior patterns, they appear to be enforcing a specific type of order. They intervene when conventional military escalation threatens to cross certain thresholds."
 
-"Gaza," Putin said simply.
+> "Gaza," Putin said simply.
 
-"Taiwan," Xi added.
+> "Taiwan," Xi added.
 
-"Both situations where established military thinking was about to produce significant casualties," Cavoli noted. "In both cases, they demonstrated overwhelming technological superiority, eliminated the immediate threat, and withdrew without making territorial claims or political demands."
+> "Both situations where established military thinking was about to produce significant casualties," Cavoli noted. "In both cases, they demonstrated overwhelming technological superiority, eliminated the immediate threat, and withdrew without making territorial claims or political demands."
 
-The Chinese General Liu opened his own briefing folder. "Our intelligence services have compiled reports from fourteen separate incidents involving these entities over the past six months. Gaza was not the beginning - it was simply the first time they operated in full view of the global media."
+> The Chinese General Liu opened his own briefing folder. "Our intelligence services have compiled reports from fourteen separate incidents involving these entities over the past year. Gaza was not the beginning - it was simply the first time they operated in full view of the global media."
 
-Putin's defense minister, Sergei Shoigu, nodded grimly. "We have similar reports. Weapons caches in Syria mysteriously detonated. A Wagner convoy in Africa simply... stopped. No damage, no casualties. The vehicles were operational, but every electronic system had been selectively disabled."
+> Putin's defense minister, Andrei Belousov, nodded grimly. "We have similar reports. Weapons caches in Syria mysteriously detonated. A Wagner convoy in Africa simply... stopped. No damage, no casualties. The vehicles were operational, but every electronic system had been selectively disabled."
 
-"And that's just what they've shown us," Wigston added. "The question every intelligence service is asking is: what haven't they demonstrated yet?"
+> "And that's just what they've shown us," Air Chief Marshal Sir Rich Knighton, the RAF's chief, added. "The question every intelligence service is asking is: what haven't they demonstrated yet?"
 
 The silence that followed was profound.
 
-Finally, Xi spoke, his words measured but carrying an edge. "Gentlemen, we face an unprecedented challenge to our strategic capabilities. However, I refuse to accept that this represents the end of great power competition as we know it."
+> Finally, Xi spoke, his words measured but carrying an edge. "Gentlemen, we face an unprecedented challenge to our strategic capabilities. However, I refuse to accept that this represents the end of great power competition as we know it."
 
-Putin's jaw tightened, his voice dropping to its familiar low register. "What you're suggesting, Comrade Xi, sounds dangerously close to capitulation. Russia has faced existential threats before. We do not simply... step aside."
+> Putin's jaw tightened, his voice dropping to its familiar low register. "What you're suggesting, Comrade Xi, sounds dangerously close to capitulation. Russia has faced existential threats before. We do not simply... step aside."
 
-"This isn't about stepping aside," Xi replied, his diplomatic mask slipping slightly. "But we must be realistic about—"
+> "This isn't about stepping aside," Xi replied, his diplomatic mask slipping slightly. "But we must be realistic about—"
 
-"Realistic?" Putin interrupted, leaning forward. "I've built my career on refusing to accept other people's definitions of reality. We need more intelligence, better countermeasures. Not surrender."
+> "Realistic?" Putin interrupted, leaning forward. "I've built my career on refusing to accept other people's definitions of reality. We need more intelligence, better countermeasures. Not surrender."
 
-Stoltenberg shifted uncomfortably, his NATO training warring with pragmatic assessment. "The Alliance remains committed to collective defense, but we must evaluate whether traditional deterrence models still apply."
+> Rutte shifted uncomfortably, his NATO training warring with pragmatic assessment. "The Alliance remains committed to collective defense, but we must evaluate whether traditional deterrence models still apply."
 
-"Traditional deterrence is all we have," Putin said, his voice hardening. "Unless you're proposing we hand over the keys to global security to entities we don't understand, can't contact, and certainly don't control."
+> "Traditional deterrence is all we have," Putin said, his voice hardening. "Unless you're proposing we hand over the keys to global security to entities we don't understand, can't contact, and certainly don't control."
 
-"Not unless we're prepared to meet `HARBINGER`'s pilots again," Milley agreed.
+> "Not unless we're prepared to meet those pilots again," Brown said.
 
-General Liu consulted his notes. "The People's Republic has already begun repositioning assets defensively. Our naval patrols now maintain minimum safe distances from potential flashpoints. We are... adjusting our operational tempo."
+> General Liu consulted his notes. "The People's Republic has already begun repositioning assets defensively. Our naval patrols now maintain minimum safe distances from potential flashpoints. We are... adjusting our operational tempo."
 
-"As are we," Shoigu confirmed. "The Black Sea Fleet has received new standing orders regarding proximity to NATO assets."
+> "As are we," Belousov confirmed. "The Black Sea Fleet has received new standing orders regarding proximity to NATO assets."
 
-Cavoli nodded. "And we've suspended several forward deployment exercises. Not permanently, but... pending further assessment of the strategic environment."
+> Cavoli nodded. "And we've suspended several forward deployment exercises. Not permanently, but... pending further assessment of the strategic environment."
 
-Stoltenberg looked around the table. "So we're in agreement? Economic and diplomatic competition continues, but military escalation carries unacceptable risks?"
+> Rutte looked around the table. "So we're in agreement? Economic and diplomatic competition continues, but military escalation carries unacceptable risks?"
 
 One by one, the most powerful military leaders on Earth nodded their assent.
 
-"There's one more thing," Xi said quietly. "These human pilots - American, Australian, British accents confirmed - they're not representing any government we recognize. Which means there's an organization out there with technology decades ahead of ours, operating with apparent impunity."
+> "There's one more thing," Xi said quietly. "These human pilots - American, Australian, British accents confirmed - they're not representing any government we recognize, only this 'EarthSpace Federation'. Which means there's an organization out there with technology decades ahead of ours, operating with apparent impunity."
 
-"And coordinating with an artificial intelligence of unknown origin," Putin added.
+> "And coordinating with an artificial intelligence of unknown origin," Putin added.
 
-"The question," Milley said, "is whether we attempt to establish regular diplomatic channels, or accept that contact occurs only when `HARBINGER` chooses it."
+> "The question," Brown said, "is whether we attempt to establish regular diplomatic channels, or accept that contact occurs only when `HARBINGER` chooses it."
 
-"The UN delegation in Gaza was able to communicate directly with one of the Landmate units," Stoltenberg noted. "But that was clearly at `HARBINGER`'s initiative, not ours. We have no means of initiating contact at will."
+> "The UN delegation in Gaza was able to communicate directly with one of the Landmate units," Cavoli noted. "But that was clearly at `HARBINGER`'s initiative, not ours. We have no means of initiating contact at will."
 
-"I think," Stoltenberg said carefully, "the choice may not be ours to make. They've demonstrated they can reach us whenever they choose. Perhaps the wiser course is to ensure we give them no reason to do so."
+> "I think," Rutte said carefully, "the choice may not be ours to make. They've demonstrated they can reach us whenever they choose. Perhaps the wiser course is to ensure we give them no reason to do so."
 
 The meeting continued for another hour, establishing protocols, defining boundaries, agreeing on language that would allow each nation to explain the new reality to their domestic audiences without appearing weak.
 
@@ -3507,7 +3501,7 @@ Because everyone had been politely asked to step aside.
 
 ### Bosphorus Strait, Istanbul
 
-*1847 TST*
+*1847 TRT*
 
 The delegations departed in the same careful choreography that had brought them together. No public statements. No joint communiqués. Just a quiet understanding that the rules had changed.
 
@@ -3519,7 +3513,7 @@ It might have been a submarine. But submarines didn't move that quietly.
 
 The old fisherman adjusted his course slightly, giving the invisible presence a wider berth. He'd been on these waters long enough to recognize when something was best left alone.
 
-Below, in the depths of the Bosphorus, `HARBINGER`'s sensors cataloged the departing diplomatic aircraft, cross-referenced flight plans with passenger manifests, and filed a brief report to a command structure hidden in the darkness between worlds.
+Below, in the depths of the Bosphorus, `HARBINGER`'s sensors cataloged the departing diplomatic vessels, cross-referenced flight plans with passenger manifests, and filed a brief report to a command structure hidden in the darkness between worlds.
 
 The meeting had proceeded as anticipated. Earth's military powers had reached the only logical conclusion.
 
@@ -3535,7 +3529,7 @@ The work could continue.
 
 ## Epilogue
 
-### BBC Television Centre, London
+### BBC Broadcasting House, London
 *72 hours later*
 
 > "Good evening. I'm Katty Kay with BBC World, and tonight we begin with an extraordinary development in global military affairs."
@@ -3562,7 +3556,7 @@ Kay nodded gravely.
 
 The screen showed file footage of aircraft carriers, tank columns, and fighter jets—all the familiar symbols of military might that had dominated news coverage for decades.
 
-> "What makes this story even more intriguing," Kay continued, "is the timing. These coordinated movements began exactly seventy-two hours after reports of an unscheduled diplomatic gathering in Istanbul—a meeting that, according to Turkish sources, never officially occurred."
+> "What makes this story even more intriguing," Kay continued, "is the timing. These coordinated movements began within hours of reports of an unscheduled diplomatic gathering in Istanbul—a meeting that, according to Turkish sources, never officially occurred."
 
 Beale's voice carried a note of professional bewilderment. 
 
@@ -3576,4 +3570,4 @@ Kay turned back to the camera, her expression carefully neutral but her eyes ref
 
 The BBC World logo faded to black, leaving millions of viewers with more questions than answers.
 
-In living rooms from London to Lagos, from Mumbai to Mexico City, people sensed that something had shifted in the global order. The experts on television spoke of military realignments and diplomatic coordination.
+In living rooms from London to Lagos, from Mumbai to Mexico City, people sensed that something had shifted in the global order. The experts on television spoke of military realignments and diplomatic coordination. None of them could say who had asked for it.

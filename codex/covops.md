@@ -8,7 +8,7 @@ permalink: /foundations/covops
 The exact engineering details and capabilities of covert operations assets are a closely guarded secret for the Federation, with not even allies having access to the specifications of these units. Any other entities only rely on observations and do not have confirmed knowledge of the capabilities.
 
 ## Team structure
-Most covert operations teams comprise of x people:
+Most covert operations teams comprise four to six people:
 - Mission commander: tactical oversight and broad decision-making capabilities for adjusting to VUCA circumstances
 - Coordinator: informations specialist collating data for insights
 - Operatives: two or more field agents with combat capabilities
@@ -30,8 +30,8 @@ Lighter clothing - such as summer clothes and vests - can only sustain shields t
 Personal cloaking devices are too unstable for field use, so agents have no ways of turning invisible.
 
 ### Covert tools
-#### ICE-Pick
-One of the most useful tools for the covert operatives is the _ICE Pick_ - ICE standing for "Intrusion Countermeasure, Electronic", encompassing various electronic and programmatic intrusion countermeasures, and the "pick" referencing a lockpick defeating a lock - which is a small, sharp device, not unlike a screwdriver. The pick can be levered or stabbed into an electronic device, but it can also fire its small probe to subvert devices at a distance.  
+#### ICE-pick
+One of the most useful tools for the covert operatives is the _ICE-pick_ - ICE standing for "Intrusion Countermeasure, Electronic", encompassing various electronic and programmatic intrusion countermeasures, and the "pick" referencing a lockpick defeating a lock - which is a small, sharp device, not unlike a screwdriver. The pick can be levered or stabbed into an electronic device, but it can also fire its small probe to subvert devices at a distance.  
 Once it finds purchase in a device, the probe sends out conductive carbon nanofibers that snake around signal buses and subvert signaling. Utilizing a high-speed uplink to an electronics warfare AI - usually the tactical support AI on the team's Wraith - the pick the manipulates electronic activity to achieve the desired effect, granting complete control of the device.
 
 #### Face dancer mask
@@ -45,9 +45,11 @@ By refracting sound waves internally, it can alter the operative's voice to matc
 The 3D scans needed to create a face can be acquired by covert stereoscopic structured-light cameras hidden in the operative's glasses, enabling a single operative to mimic a number of faces on-the-fly during a mission.
 
 #### Other tools
-Other tools include personal video scramblers that employ directed radiation to scramble surveillance cameras; directional speakers that can be utilized to cast sound elsewhere and create distractions; or armoring gloves that can structurally reinforce objects in contact to create improvised cover out of mundane items (one of the few instances of nanite technology utilized by the Federation).
+Other tools include personal video scramblers that employ directed radiation to scramble surveillance cameras; directional speakers that can be utilized to cast sound elsewhere and create distractions; or armoring gloves that can structurally reinforce objects in contact to create improvised cover out of mundane items (one of the few field uses of nanite technology outside medicine and construction).
 
-## Q-Cars
+Where casualties would defeat the purpose of an operation, teams carry non-lethal incapacitator rounds, fired from a sidearm or a rifle's secondary mode with little more report than a knuckle on a door. A hit drops the target into unconsciousness lasting minutes to hours, leaves no wound or bruise and blurs the memory of the moments before, so that to a physician the result is indistinguishable from simple fainting.
+
+## Q-cars
 Covert-ops vehicles named after the famed Q-ships of WWII, platforms modeled to look like civilian cars or vans but equipped with combat technology. Q-cars operate using sophisticated engines that can provide much greater torque and acceleration than otherwise expected from the vehicle's size and incorporate light shields and armor for survivability.
 
 Offensively, the cars feature concealed plasma weaponry mounted in the headlights, miniaturized forward-firing railguns in the door skirts, and magnetically-accelerated monomolecular blade launchers in the taillights.
@@ -57,7 +59,7 @@ Vans are also equipped with foldaway panels to allow operatives to emerge and re
 
 #### Stealth and Disguise
 - **Civilian Appearance**:
-  - Q-Cars are modeled to mimic ordinary civilian sedans, SUVs, or vans, depending on mission requirements.
+  - Q-cars are modeled to mimic ordinary civilian sedans, SUVs, or vans, depending on mission requirements.
   - External features such as paint, body panels, and accessories are interchangeable for quick reconfiguration and enhanced disguise capabilities.
 - **Thermal and Acoustic Masking**:
   - The engine and exhaust systems are designed to minimize heat and noise signatures, rendering the vehicle nearly undetectable to thermal and acoustic sensors.
@@ -143,29 +145,29 @@ Vans are also equipped with foldaway panels to allow operatives to emerge and re
 
 ### Variants
 
-1. **Sedan-Type Q-Cars**:
+1. **Sedan-Type Q-cars**:
    - Optimized for urban missions with minimal payloads.
    - Fast and maneuverable for high-speed operations in dense environments.
 
-2. **SUV-Type Q-Cars**:
+2. **SUV-Type Q-cars**:
    - Enhanced off-road capability and larger interior space for equipment or personnel transport.
    - Equipped with heavier armor and expanded weapon systems.
 
-3. **Van-Type Q-Cars**:
+3. **Van-Type Q-cars**:
    - Designed for team deployment and mobile combat support.
    - Includes foldaway panels and internal systems to house additional operatives or equipment.
 
 ---
 
 ### Strategic Implications
-Q-Cars provide EarthSpace Federation covert operatives with unparalleled versatility, blending the functionality of advanced combat vehicles with the subtlety required for clandestine operations. Their integration into covert missions enhances operational security, reduces exposure, and ensures the success of high-stakes objectives.
+Q-cars provide EarthSpace Federation covert operatives with unparalleled versatility, blending the functionality of advanced combat vehicles with the subtlety required for clandestine operations. Their integration into covert missions enhances operational security, reduces exposure, and ensures the success of high-stakes objectives.
 
 ## Wraith
 The *Wraith covert operations platform* is a stealth transport and fallback location.
 
 The Wraith's low-emission engines and active/passive stealth systems (containing stealth composites and coatings, as well as active radar cancellation and optical cloaking systems) allow it to penetrate deep into enemy territory and insert the covert team into relative proximity of even urban areas, remaining parked safely back from the AO (usually in wooded areas). 
 
-Its onboard AI and powerful communications suite allows it to tap even encrypted communications and provide intelligence and direction to the team on the ground. The interior is spacious enough to house up to two Q-cars, as well as crew quarters, interrogation rooms and holding brigs for a few captives. In an emergency, the AI is capable of piloting the craft autonomously to support or extract the team, even under fire. It can serve as a mobile base or a fallback location should their safe house be compromised.
+Its onboard AI and powerful communications suite allows it to tap even encrypted communications and provide intelligence and direction to the team on the ground. The interior is spacious enough to house up to two Q-cars, as well as crew quarters, interrogation rooms and holding brigs for a few captives. In an emergency, the AI is capable of piloting the craft autonomously to support or extract the team, even under fire. It can serve as a mobile base or a fallback location should their safe house be compromised. It also carries six short-range drones with optical, thermal and electromagnetic sensors and small payload bays for EMP, incendiary or stun charges.
 
 Offensively, the Wraith is equipped with a chin-mounted turreted plasma cannon and two banks of internal canted missile launchers mounted dorsally. Additionally, its EWAR suite can be used offensively to disrupt or shut down enemy units, as long as they have *some* sort of electronics, via targeted or broad-area EMPs.
 Defensively, the Wraith relies mainly on its stealth capabilities, but its shield generator can withstand extended anti-air fire. However, it is considered weak against interceptors and hostile fixed-wing aircraft, relying on its stealth and EWAR capabilities to evade or neutralize them.
@@ -183,6 +185,7 @@ Defensively, the Wraith relies mainly on its stealth capabilities, but its shiel
 - **Engine Design**: Advanced low-emission engines provide high thrust and maneuverability while maintaining stealth characteristics.
 - **Operational Range**: Capable of sustained flight over intercontinental distances, including prolonged loitering near target zones.
 - **Autonomous Capability**: AI-assisted navigation and control allow for precision insertion, extraction, and in-mission mobility, even in contested airspace.
+- **Sub-Orbital Mode**: For urgent intercontinental transits, the Wraith can boost onto a sub-orbital ballistic trajectory, at accelerations that can leave passengers unconscious despite masks, medication and monitoring.
 
 #### Onboard Systems
 - **Communications Suite**:

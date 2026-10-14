@@ -13,7 +13,7 @@ Much of the galaxy is in the sphere of influence of one of the four great races:
 
 Earth and the Sol system happens to lie in a "border zone" of sorts between the Xenari and Ryzak spheres of influence, and is of interest to both parties for reasons not currently known to the Federation.
 
-Interestingly, humans are the only race that possesses an evolved flight-or-fight response. No other race, not even the Ryzak, have a biological system equivalent to the human adrenal response, although most militaries use injectable stimulants that can temporarily mimic such an effect, although these systems rely on external injectors.
+Interestingly, humans are the only race that possesses an evolved fight-or-flight response. No other race, not even the Ryzak, have a biological system equivalent to the human adrenal response, although most militaries use injectable stimulants that can temporarily mimic such an effect, although these systems rely on external injectors.
 
 ### [The Xenari]({{ '/foundations/galaxy/xenari' | relative_url }})
 A tall, frail, bioluminescent reptilian species who lack an adrenal response. Organized into a consensus-driven, guild-based society, they act as the Federation's benefactors under a "mentorship clause" of their non-interventionist Stewardship Compact.

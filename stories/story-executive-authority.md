@@ -16,23 +16,23 @@ Not the building's power - just his. The desk lamp, the monitor, the space heate
 
 Three men in the doorway. Two held themselves like they were used to doorframes being obstacles. The third, shorter, in a windbreaker with no visible insignia, was already holding out a folder.
 
-"Dr. Huels. We need forty minutes of your time."
+> "Dr. Huels. We need forty minutes of your time."
 
-"My power just went out."
+> "My power just went out."
 
-"We know," the man in the windbreaker said, not unkindly. "It'll be back once you're in the car."
+> "We know," the man in the windbreaker said, not unkindly. "It'll be back once you're in the car."
 
-Matthias looked past them at the hallway - empty, which it should not have been at seven in the evening during finals week, when at least two of his colleagues kept office hours later than he did. He looked at the folder. He did not take it.
+Matthias looked past them at the hallway - empty, which it should not have been at seven in the evening, when at least two of his colleagues kept office hours later than he did. He looked at the folder. He did not take it.
 
-"Who are you with?"
+> "Who are you with?"
 
-"Department of Defense. My name doesn't matter yet. What matters is the document in that folder, and that you're going to want to have read it before you ask your next question." He set it on the desk himself, in the small circle of light still coming through the window. "Executive Order 13120, with a classified addendum. You have the right to review it. You do not have the right to decline what it authorizes."
+> "Department of Defense. My name doesn't matter yet. What matters is the document in that folder, and that you're going to want to have read it before you ask your next question." He set it on the desk himself, in the small circle of light still coming through the window. "Executive Order 13120, with a classified addendum. You have the right to review it. You do not have the right to decline what it authorizes."
 
 Matthias read for ninety seconds. It was enough to establish that the document was real, notarized in a way that made his stomach fall rather than his eyebrows rise, and that somewhere in its clauses was language that made "compulsory" load-bearing.
 
-"This can't be legal."
+> "This can't be legal."
 
-"It's very legal. It's just never been public." The man in the windbreaker checked his watch. "Bag. Ten minutes. Leave the phone, the watch, anything that syncs to anything. It'll all be waiting for you when you're read off."
+> "It's very legal. It's just never been public." The man in the windbreaker checked his watch. "Bag. Ten minutes. Leave the phone, the watch, anything that syncs to anything. It'll all be waiting for you when you're read off."
 
 ---
 
@@ -40,9 +40,9 @@ Matthias read for ninety seconds. It was enough to establish that the document w
 
 Renata Osei was in the middle of explaining to her daughter, over speakerphone, why she would not in fact be home for the recital, when the two women from Sandia's own security office stepped into her lab without knocking. Not contractors. Her badge didn't open doors for them; theirs opened every door in the building for everyone else.
 
-"Mom? Mom, who's that?"
+> "Mom? Mom, who's that?"
 
-"I have to call you back, baby." She did not call back. She would not be permitted to for four days, and when she finally was, it would be over a link-encrypted satellite handset with a forty-second round-trip delay and a federal minder auditing the line, and she would tell her daughter it was a work trip, and her daughter, fifteen and no fool, would not believe her, and would be right not to.
+> "I have to call you back, baby." She did not call back. She would not be permitted to for four days, and when she finally was, it would be over a link-encrypted satellite handset with a forty-second round-trip delay and a federal minder auditing the line, and she would tell her daughter it was a work trip, and her daughter, fifteen and no fool, would not believe her, and would be right not to.
 
 They let her keep the folder open on her lap in the car. She read the addendum three times, less to understand it than to memorize the exact wording of the sentence that ended her summer, so that whoever eventually asked her to explain herself - a lawyer, her ex-husband, herself in a mirror - she could recite it back word for word: *the President is authorized to direct into service any individual whose specialized expertise the Secretary of Defense certifies as necessary to preserve the technological superiority of the United States.*
 
@@ -56,11 +56,11 @@ Elias Vann's employer had, for eleven months, been trying to get him a Q clearan
 
 He signed what they put in front of him without arguing about it, which visibly unsettled the escorts more than an argument would have. He had one condition.
 
-"I get updated on my mother's care schedule. Every day. In writing, even if it's a single line."
+> "I get updated on my mother's care schedule. Every day. In writing, even if it's a single line."
 
-"That can be arranged."
+> "That can be arranged."
 
-"Then arrange it first. I'm not getting in a car on a promise."
+> "Then arrange it first. I'm not getting in a car on a promise."
 
 They arranged it first. It was the last thing that went entirely his way for some time.
 
@@ -86,49 +86,49 @@ The annex was three buildings back from anything with a public designation, conn
 
 No one had told them each other's names yet. That happened when the door opened again and a woman in a plain gray suit came in alone - no uniform, no visible rank, which was somehow worse than either would have been.
 
-"Dr. Huels. Dr. Osei. Dr. Vann. Dr. Chandrasekhar." She said all four names before sitting down, matching each to a face without checking notes. "My name is Weiss. I don't have a first name for the duration of this program, and neither, functionally, do you." She did not sit. "In a moment, someone is going to walk through that door who did not have to come here himself, and chose to anyway. I'd ask you to extend him the courtesy of letting him finish before anyone starts shouting. There will be time for that after."
+> "Dr. Huels. Dr. Osei. Dr. Vann. Dr. Chandrasekhar." She said all four names before sitting down, matching each to a face without checking notes. "My name is Weiss. I don't have a first name for the duration of this program, and neither, functionally, do you." She did not sit. "In a moment, someone is going to walk through that door who did not have to come here himself, and chose to anyway. I'd ask you to extend him the courtesy of letting him finish before anyone starts shouting. There will be time for that after."
 
 She knocked twice on the wall behind her, a strange, almost domestic sound in a room built for nothing but bad news, and stepped aside.
 
 The Secret Service came first, two of them, filling the doorway the way weather fills a horizon before anyone's said a word about rain. Then President Biden, in a suit rather than the flag-pinned formality of a briefing room, looking older up close than any of them expected and, Huels thought, considerably less certain of himself than the man on television usually allowed anyone to see.
 
-"Please, stay seated," he said, before anyone could decide whether to stand. He took the chair at the head of the table like it was any table, though his hand rested on the back of it a beat longer than balance required. "I know what happened to each of you today. I signed the authorization that made it happen. I could have let the Secretary's office handle this briefing and never had to look any of you in the eye about it. I chose not to, because if I'm the one taking four people out of their lives on four hours' notice, the least I owe them is doing it myself, in a room, instead of by memo."
+> "Please, stay seated," he said, before anyone could decide whether to stand. He took the chair at the head of the table like it was any table, though his hand rested on the back of it a beat longer than balance required. "I know what happened to each of you today. I signed the authorization that made it happen. I could have let the Secretary's office handle this briefing and never had to look any of you in the eye about it. I chose not to, because if I'm the one taking four people out of their lives on four hours' notice, the least I owe them is doing it myself, in a room, instead of by memo."
 
 Osei's jaw was tight enough that Huels could see the muscle working. She said nothing, not yet.
 
-"Executive Order 13120 is public record," Biden went on. "Signed by President Clinton, April 27th, 1999 - reserve call-up authority, nothing anyone would blink at. What isn't public is that the same afternoon, he signed an addendum. 13120/A. Patterned after the Defense Production Act of 1950, but narrower, and a great deal less accountable to anyone outside this program. It exists because one month earlier, we lost an F-117 over Serbia to an SA-3 battery running guidance electronics older than most of the crew that fired it, operating on nothing but patience and a spotter with binoculars. The wreckage was on the ground for hours before we could deny anyone a look at it. Within a year, two governments understood our stealth coating better than they had any right to, and we understood exactly what it costs a country to lose a technological edge one afternoon at a time, through nobody's malice, just because we hesitated to act while the wreckage was still smoking."
+> "Executive Order 13120 is public record," Biden went on. "Signed by President Clinton, April 27th, 1999 - reserve call-up authority, nothing anyone would blink at. What isn't public is that the same afternoon, he signed an addendum. 13120/A. Patterned after the Defense Production Act of 1950, but narrower, and a great deal less accountable to anyone outside this program. It exists because one month earlier, we lost an F-117 over Serbia to an SA-3 battery running guidance electronics older than most of the crew that fired it, operating on nothing but patience and a spotter with binoculars. The wreckage was on the ground for hours before we could deny anyone a look at it. Within a year, two governments understood our stealth coating better than they had any right to, and we understood exactly what it costs a country to lose a technological edge one afternoon at a time, through nobody's malice, just because we hesitated to act while the wreckage was still smoking."
 
 He let that sit.
 
-"The addendum has been invoked twice since. Once in 2002, when we found a foreign cyberwarfare capability years ahead of anything our own people had theorized as possible. Once in 2015, over a directed-energy weapons program that shouldn't have existed on the budget it was built on. Both times, a small number of people were asked to do what I'm asking of you now. Both times, they succeeded, went home, and never spoke of it again, and the country is safer for work none of you have ever heard of and none of them were ever thanked for." His eyes moved across the table, unhurried, the same inventory Weiss had made a minute before, but heavier for the office behind it. "I invoked it a third time four days ago. Not because someone out-innovated us. Because of this."
+> "The addendum has been invoked twice since. Once in 2002, when we found a foreign cyberwarfare capability years ahead of anything our own people had theorized as possible. Once in 2015, over a directed-energy weapons program that shouldn't have existed on the budget it was built on. Both times, a small number of people were asked to do what I'm asking of you now. Both times, they succeeded, went home, and never spoke of it again, and the country is safer for work none of you have ever heard of and none of them were ever thanked for." His eyes moved across the table, unhurried, the same inventory Weiss had made a minute before, but heavier for the office behind it. "I invoked it a third time four days ago. Not because someone out-innovated us. Because of this."
 
 He nodded, and Weiss brought the wall display to life.
 
 It was footage two of them already half-recognized from the news, in the incurious way that far-off wars are familiar - except paused here, frame-stepped, a bipedal shape frozen mid-stride over Gaza rubble, an analyst's callout box hovering over a shoulder joint that, per the annotation, should not have been able to bear that load without visible strain, and did not show any.
 
-"Four days before you were brought here," Biden said, "an Israeli tank fired an armor-piercing round at one of these at point-blank range. It didn't scratch the paint. It returned fire once. The tank does not exist anymore, and neither does its crew." He watched the frame a moment longer than he needed to, and Huels had the sudden, unwelcome impression that the President had already watched this same clip more times than he wanted to admit. "Every intelligence service on the planet has looked at this and reached the same conclusion you're all a few seconds from reaching yourselves. Nobody on this earth builds this. Not us. Not the people we usually lie awake over. Something else does, and four days ago, it decided to let us watch."
+> "Four days before you were brought here," Biden said, "an Israeli tank fired an armor-piercing round at one of these at point-blank range. It didn't scratch the paint. It returned fire once. The tank does not exist anymore, and neither does its crew." He watched the frame a moment longer than he needed to, and Huels had the sudden, unwelcome impression that the President had already watched this same clip more times than he wanted to admit. "Every intelligence service on the planet has looked at this and reached the same conclusion you're all a few seconds from reaching yourselves. Nobody on this earth builds this. Not us. Not the people we usually lie awake over. Something else does, and four days ago, it decided to let us watch."
 
 Vann was the first to lean toward the screen instead of away from it. Osei noticed him do it, and hated him for it, briefly, and not for the last time.
 
 Biden stood before the silence could curdle into the questions Weiss had asked them to hold.
 
-"I won't pretend the manner of this is fair to you. It isn't. I made that choice anyway, because I've been in public life more than fifty years, and in every one of them, weakness invited exactly the kind of morning we're now having. I'd rather you be angry at me in this room than at your country for not being honest with you about what it needs." He paused at the door. "Dr. Weiss will cover what happens next. I won't take more of your evening than I already have."
+> "I won't pretend the manner of this is fair to you. It isn't. I made that choice anyway, because I've been in public life more than fifty years, and in every one of them, weakness invited exactly the kind of morning we're now having. I'd rather you be angry at me in this room than at your country for not being honest with you about what it needs." He paused at the door. "Dr. Weiss will cover what happens next. I won't take more of your evening than I already have."
 
 The Secret Service closed the door behind him before Osei's fury found its shape, and by the time it did, the only person left to aim it at was Weiss.
 
-"Your job," Weiss said, unbothered, as though this happened every day, "isn't to build one of these. It's to tell your government, in language it can act on, how close that is to possible - and what it costs us if it turns out to be closer than anyone in this room wants to believe." She looked at each of them again. "You'll be given a working space, each other, and nothing else. No hardware. No debris. Whoever built this hasn't left us so much as a bolt to examine. You have four days of footage, forty years of physics, and each other's expertise, and you start tomorrow at 0600."
+> "Your job," Weiss said, unbothered, as though this happened every day, "isn't to build one of these. It's to tell your government, in language it can act on, how close that is to possible - and what it costs us if it turns out to be closer than anyone in this room wants to believe." She looked at each of them again. "You'll be given a working space, each other, and nothing else. No hardware. No debris. Whoever built this hasn't left us so much as a bolt to examine. You have four days of footage, forty years of physics, and each other's expertise, and you start tomorrow at 0600."
 
 She stood.
 
-"Get some sleep. It may be the last uncomplicated thing anyone offers you for a while."
+> "Get some sleep. It may be the last uncomplicated thing anyone offers you for a while."
 
 The door closed behind her before any of them had assembled a question worth asking out loud. Osei was the one who finally broke the silence, addressing the table rather than any of them in particular.
 
-"She never told us how long this lasts."
+> "She never told us how long this lasts."
 
 Chandrasekhar, still watching the frozen frame on the wall display - the joint that shouldn't hold, holding - answered without looking away from it.
 
-"I don't think she knows either."
+> "I don't think she knows either."
 
 ---
 
@@ -140,57 +140,57 @@ The working space Weiss had promised them turned out to be a single windowless r
 
 Within the first few weeks, the room had developed its own weather. Huels claimed the desk nearest the whiteboard and filled it with a servo textbook he'd had shipped from his own office - approved, after review, redacted in two places for reasons no one explained - and a growing stack of printouts, each frame of Gaza footage annotated with joint angles measured by hand, twice, because he didn't yet trust the software Weiss's people had given them to do it for him.
 
-"The torque doesn't close," he said, to no one, for the fourth time that week. "Not with any actuator ratio I can make fit the housing dimensions. Either the housing is lying to us, or the material is doing something a housing that shape shouldn't allow."
+> "The torque doesn't close," he said, to no one, for the fourth time that week. "Not with any actuator ratio I can make fit the housing dimensions. Either the housing is lying to us, or the material is doing something a housing that shape shouldn't allow."
 
-Osei didn't look up from her own desk, where she'd built a private taxonomy of frame captures sorted by weapon impact, dated and cross-referenced against nothing she'd shared with the room yet. "Maybe the material's the point, Matthias, and you're trying to solve a servo problem with a metallurgy answer."
+> Osei didn't look up from her own desk, where she'd built a private taxonomy of frame captures sorted by weapon impact, dated and cross-referenced against nothing she'd shared with the room yet. "Maybe the material's the point, Matthias, and you're trying to solve a servo problem with a metallurgy answer."
 
-"That's why I'm asking whether you've found one."
+> "That's why I'm asking whether you've found one."
 
-"I've found four candidates and disproved all four. I'm not handing you a guess dressed as a finding just so you feel like the room's making progress." She still hadn't looked up. "You'll get it when I trust it."
+> "I've found four candidates and disproved all four. I'm not handing you a guess dressed as a finding just so you feel like the room's making progress." She still hadn't looked up. "You'll get it when I trust it."
 
-"We're supposed to be one team."
+> "We're supposed to be one team."
 
-"We're four people who got kidnapped on the same afternoon," Osei said. "That's not the same thing, and I'd rather you not pretend it is just to make the room easier to sit in."
+> "We're four people who got kidnapped on the same afternoon," Osei said. "That's not the same thing, and I'd rather you not pretend it is just to make the room easier to sit in."
 
 Huels didn't have an answer for that. He went back to his printouts, and the whiteboard turbine stayed exactly as it was, and nobody spoke again until lunch was delivered by a contractor who never made eye contact and never stayed to collect the trays himself.
 
 It was Osei, three days later, who broke the room's unspoken rule against asking Weiss for anything beyond what arrived unrequested. She asked for the tank.
 
-"Not footage of it. Not photographs. The hull." Weiss had not reacted, which Osei had come to understand was itself a kind of answer. "I can build you four more disproved candidates off pixels, or I can put a probe against the actual melt line and tell you something true. Your call which century you'd like the answer to arrive in."
+> "Not footage of it. Not photographs. The hull." Weiss had not reacted, which Osei had come to understand was itself a kind of answer. "I can build you four more disproved candidates off pixels, or I can put a probe against the actual melt line and tell you something true. Your call which century you'd like the answer to arrive in."
 
 ---
 
 ### Contact
 
-On the fourth day since Arrival, Weiss came into the room without knocking, which she had not done before, and turned on the wall display without asking anyone's permission, which she also had not done before.
+On the ninth day since Arrival, Weiss came into the room without knocking, which she had not done before, and turned on the wall display without asking anyone's permission, which she also had not done before.
 
-"You'll want to see this live," she said. "Everyone will."
+> "You'll want to see this live," she said. "Everyone will."
 
-It was CNN, running twenty seconds behind the actual feed out of New York, an Under-Secretary named Ahlström standing alone at a podium beneath green marble and gold lettering, describing, in the careful cadence of someone reciting words she had rehearsed and still didn't quite believe, a plaza in Khan Younis, a delegation, and a machine that had known all six of their names before it said a word of its own.
+It was CNN, running twenty seconds behind the actual feed out of New York, an Under-Secretary-General named Ahlström standing alone at a green marble rostrum beneath a gold backdrop, describing, in the careful cadence of someone reciting words she had rehearsed and still didn't quite believe, a plaza in Khan Younis, a delegation, and a machine that had known all seven of their names before it said a word of its own.
 
-*"That intelligence identified itself as HARBINGER,"* Ahlström said, *"a strong AI construct, capable of autonomous judgment, with control over every active Landmate within the Gaza operational theater. Its authority is explicitly stated to derive from a group calling itself the EarthSpace Federation."*
+> *"That intelligence identified itself as HARBINGER,"* Ahlström said, *"a strong AI construct, capable of autonomous judgment, with control over every active Landmate within the Gaza operational theater... Its authority is explicitly stated to derive from a group or body calling itself the EarthSpace Federation."*
 
 Nobody in the room spoke until the segment cut to studio.
 
-"That's not a targeting network," Chandrasekhar said finally, quietly, to the frozen frame rather than to any of them. "Everything I've been modeling as a distributed system with a family resemblance across units - that's not a family resemblance. That's the same mind, everywhere at once."
+> "That's not a targeting network," Chandrasekhar said finally, quietly, to the frozen frame rather than to any of them. "Everything I've been modeling as a distributed system with a family resemblance across units - that's not a family resemblance. That's the same mind, everywhere at once."
 
-"One AI. Every unit." Huels sat back. "That's not an engineering problem anymore. That's not even the same category of problem I was hired for."
+> "One AI. Every unit." Huels sat back. "That's not an engineering problem anymore. That's not even the same category of problem I was hired for."
 
 Weiss let them sit with the CNN cut for another minute before she opened a second file - unmarked, unbroadcast, three pages, banner-stamped at a classification tier above anything that had come through the room before, ORCON, no further dissemination without originator authorization. The transcript of the exchange itself, not Ahlström's summary of it.
 
 Vann read the relevant line twice out loud, like he didn't trust it the first time.
 
-"'Are they your masters.' 'Yes.' 'Then who are they.'" He looked up. "'My masters are not dissimilar to you.'"
+> "'Are they your masters.' 'Yes.' 'Then who are they.'" He looked up. "'My masters are not dissimilar to you.'"
 
-"Not dissimilar," Osei repeated. "That's not an answer. That's a taunt wearing an answer's clothes."
+> "Not dissimilar," Osei repeated. "That's not an answer. That's a taunt wearing an answer's clothes."
 
-"There's more." Chandrasekhar had already found the next line, the one that hadn't made Ahlström's speech to the General Assembly, the one somebody further up the classification chain had judged unfit for the evening news. "'They are not listening to you speak, but they will know your thoughts and words. Your questions. Your doubts. Your intentions.' And then - 'in time, they may speak to you as well.'"
+> "There's more." Chandrasekhar had already found the next line, the one Ahlström had only paraphrased for the General Assembly, the one somebody further up the classification chain had judged unfit for the evening news. "'They are not listening to you speak, but they will know your thoughts and words. Your questions. Your doubts. Your intentions.' And then - 'in time, they may speak to you as well.'"
 
 Nobody said anything for a while after that.
 
 It was Vann, eventually, who broke it, because someone always did, and it was rarely Osei who wanted to be first. He nodded at the whiteboard, at the ghost of a turbine nobody had erased.
 
-"Well," he said. "At least now we know who to blame."
+> "Well," he said. "At least now we know who to blame."
 
 He picked up the dry-erase marker before anyone could stop him and wrote, under the turbine, in block letters: HARBINGER DID IT.
 
@@ -208,13 +208,13 @@ Weiss arranged a cookout on the strip of tarmac behind the annex instead, foldin
 
 Vann talked more than anyone that evening, which was its own kind of tell. He told them about his mother - vascular dementia, a facility in Leesburg, a sister who visited on the days he couldn't - offered up freely, unprompted, the way some people handed over vulnerability as currency, hoping it would buy them something in return.
 
-"They send me a line every morning," he said. "Weiss's people. One line. 'Stable, no change,' usually. I check it before I check anything about the actual job." He laughed, short and humorless. "First good use I've gotten out of a security clearance in eleven months."
+> "They send me a line every morning," he said. "Weiss's people. One line. 'Stable, no change,' usually. I check it before I check anything about the actual job." He laughed, short and humorless. "First good use I've gotten out of a security clearance in eleven months."
 
 Chandrasekhar listened to all of it and said nothing, and later that night, in the notebook she kept in a jacket pocket and had not shown to anyone, she wrote: *E.V. - discloses freely, unprompted, personal/emotional material. Possible genuine openness. Possible pattern of behavior worth normalizing before asking for something back. Watch which.*
 
-It was Osei who noticed, three days later, that Vann had missed his one o'clock check-in on his mother's line and gone gray in the face over it, and it was Osei - furious, unforgiving Osei, who had not offered anyone in the room a kindness yet that she hadn't been shamed into - who walked to Weiss's office unasked and came back twenty minutes later to tell him, flatly, "she had a fall, she's fine, they're adjusting her medication," and then sat back down at her desk and returned to her taxonomy of impact frames as though she had not just spent her only currency with Weiss on someone she'd complained about not trusting four days earlier.
+> It was Osei who noticed, three days later, that the morning line on his mother hadn't come and Vann had gone gray in the face over it, and it was Osei - furious, unforgiving Osei, who had not offered anyone in the room a kindness yet that she hadn't been shamed into - who walked to Weiss's office unasked and came back twenty minutes later to tell him, flatly, "she had a fall, she's fine, they're adjusting her medication," and then sat back down at her desk and returned to her taxonomy of impact frames as though she had not just spent her only currency with Weiss on someone she'd complained about not trusting four days earlier.
 
-Vann thanked her. Osei said, "Don't," and meant it as a full sentence.
+> Vann thanked her. Osei said, "Don't," and meant it as a full sentence.
 
 ---
 
@@ -222,23 +222,23 @@ Vann thanked her. Osei said, "Don't," and meant it as a full sentence.
 
 It took the government five weeks to produce a tank.
 
-Osei never learned the exact shape of what it had cost - Weiss described it once, dryly, as "two favors and a promise neither of us will enjoy keeping," and declined to elaborate - but on a Tuesday in late July, a flatbed with an Air Force escort and a tarp lashed down tight enough to survive a highway delivered Alpha Six's hull to a hangar behind the annex, and Osei stood in the doorway for a long moment before she made herself walk in.
+> Osei never learned the exact shape of what it had cost - Weiss described it once, dryly, as "two favors and a promise neither of us will enjoy keeping," and declined to elaborate - but on a Tuesday in late July, a flatbed with an Air Force escort and a tarp lashed down tight enough to survive a highway delivered Alpha Six's hull to a hangar behind the annex, and Osei stood in the doorway for a long moment before she made herself walk in.
 
 It had been cleaned. Someone, somewhere along the chain of custody, had made the decision to clean it, and Osei was grateful for that in a way she didn't examine too closely, because the alternative - meeting it as it had been left on the Gaza road, with everyone still inside - was not a version of this work she could have done.
 
 The hole was smaller than the footage had made it look. Twenty centimeters, cored clean through the glacis plate, edges drawn back into the metal like something had reached in from outside and folded the steel away from itself rather than punching through it. She spent four hours with a borescope and a portable XRF-LIBS spectrometer, cross-checking every reading twice against two different excitation sources before she'd trust either of them, before she said anything to the two junior technicians Weiss had assigned to help her handle the probe work, and when she did, her voice had lost the flat control it usually carried.
 
-"There's no gradient."
+> "There's no gradient."
 
-One of the technicians glanced up. "Ma'am?"
+> One of the technicians glanced up. "Ma'am?"
 
-"A directed-energy strike - a laser, a particle beam, anything that dumps heat into a surface - leaves a thermal gradient. Melted at the center, softened further out, unaffected further out than that, because heat conducts, it doesn't teleport." She traced the borescope slowly along the inside of the crater, watching the monitor rather than the hole itself. "This isn't graded. It's binary. Pristine martensitic structure one hundred microns from the edge, and completely liquefied structure at the edge, with almost nothing in between. Whatever did this didn't heat the armor. It ended the bonds holding the armor together, in a boundary about as sharp as we can measure, and let the metal do whatever loose atoms do on their own afterward. Which is melt, briefly, and then stop."
+> "A directed-energy strike - a laser, a particle beam, anything that dumps heat into a surface - leaves a thermal gradient. Melted at the center, softened further out, unaffected further out than that, because heat conducts, it doesn't teleport." She traced the borescope slowly along the inside of the crater, watching the monitor rather than the hole itself. "This isn't graded. It's binary. Pristine martensitic structure one hundred microns from the edge, and completely liquefied structure at the edge, with almost nothing in between. Whatever did this didn't heat the armor. It ended the bonds holding the armor together, in a boundary about as sharp as we can measure, and let the metal do whatever loose atoms do on their own afterward. Which is melt, briefly, and then stop."
 
-"Is that possible?"
+> "Is that possible?"
 
-"No," Osei said, and kept looking anyway, for another three hours, because the alternative was writing that word down as her finding and she was not yet willing to.
+> "No," Osei said, and kept looking anyway, for another three hours, because the alternative was writing that word down as her finding and she was not yet willing to.
 
-The younger of the two technicians, trying and failing to keep his voice light, offered the only explanation the room had agreed to accept from anyone lately. "HARBINGER did it."
+> The younger of the two technicians, trying and failing to keep his voice light, offered the only explanation the room had agreed to accept from anyone lately. "HARBINGER did it."
 
 Osei didn't smile. But she wrote it, half under her breath, into the margin of her own notes before she wrote anything else - not as a finding, just as a placeholder for the shape of an answer she didn't have yet, which was, she supposed, all the phrase had ever really been for.
 
@@ -246,9 +246,9 @@ Osei didn't smile. But she wrote it, half under her breath, into the margin of h
 
 ### The Laptop
 
-Chandrasekhar's laptop failed to boot on a Wednesday in early August, and for the first ninety seconds, she assumed it was nothing - a battery, a driver, the kind of small mechanical grief that computers were owed occasionally and paid out at random.
+Chandrasekhar's laptop failed to boot on a Wednesday in mid-August, and for the first ninety seconds, she assumed it was nothing - a battery, a driver, the kind of small mechanical grief that computers were owed occasionally and paid out at random.
 
-It did not take ninety seconds for the feeling underneath that assumption to curdle into something else. Three months of the grid model lived on that machine, backed up nightly to a server she'd never been shown and didn't fully trust, and the gap between *probably fine* and *possibly not* was wide enough that her hands were not quite steady when she finally got the case open on the empty conference table, alone, before anyone else had arrived for the day.
+It did not take ninety seconds for the feeling underneath that assumption to curdle into something else. Two months of the grid model lived on that machine, backed up nightly to a server she'd never been shown and didn't fully trust, and the gap between *probably fine* and *possibly not* was wide enough that her hands were not quite steady when she finally got the case open on the empty conference table, alone, before anyone else had arrived for the day.
 
 Every capacitor on the board was blown.
 
@@ -272,9 +272,9 @@ Vann sat with that for a while before he opened the actual data, in a version of
 
 Then he ran the numbers, and the discomfort gave way to something colder. Even at the unit's theoretical maximum, scaled generously, assuming losses no engineer would actually accept - it produced perhaps a twentieth of the sustained output his own model said a Landmate needed just to stay upright and load a servo the way Huels's footage showed it loading one. The best fusion concept in private hands on Earth wasn't an answer. It was a floor so far beneath the ceiling he was chasing that it barely qualified as the same category of problem.
 
-"That's not a gap," he told the room, quieter than usual. "That's a different branch of physics wearing our branch's clothes."
+> "That's not a gap," he told the room, quieter than usual. "That's a different branch of physics wearing our branch's clothes."
 
-"HARBINGER did it," Huels said, without much weight behind it, the way people said *bless you* after a stranger's sneeze - reflexive, not really about belief anymore. Vann almost laughed. Almost.
+> "HARBINGER did it," Huels said, without much weight behind it, the way people said *bless you* after a stranger's sneeze - reflexive, not really about belief anymore. Vann almost laughed. Almost.
 
 Chandrasekhar didn't say anything at the time. She waited until the room had cleared for the evening, and wrote, in the notebook: *Second incident, if the laptop counts as the first, which I believe it must. This one has an explanation offered - a compelled disclosure order, badly hidden in its own paperwork - and is, on its face, less strange than the first. And yet. A private company loses control of its own most sensitive work in six days, on our behalf, without being asked. I am the only person in this room who seems bothered that the government did to a corporation, cleanly and on paper, roughly what it did to the four of us without any paper at all.*
 
@@ -290,7 +290,7 @@ The lattice was not, she was increasingly certain, a targeting system in the sen
 
 She wrote up eleven pages. She submitted them to Weiss, as required, on the Friday deadline. On the following Tuesday, the summary that came back down from whatever tier evaluated their work characterized her central finding - *the system is not reactive, it is predictive, and we do not know against what model* - as "consistent with existing consensus assessment," and attached, as if in support, a consensus assessment she had never seen before and that reached a nearly identical conclusion to hers, in language close enough to her own that it read, to her trained eye, less like independent confirmation than like something that had been quietly reverse-drafted to resemble one.
 
-She did not raise it in the room. She caught herself, once, almost saying the line the four of them had worn smooth over the summer - *HARBINGER did it* - and stopped before it left her mouth, because for the first time since June it didn't fit. HARBINGER was a machine in a warzone eight time zones away. Whatever had reached into her own submitted findings and handed them back dressed as someone else's consensus had done it from inside the fence line, and the joke had no shape for that yet. She wrote, instead, in the notebook, a single line that took her longer to commit to paper than the eleven pages had: *Either we are not the only team working this problem, or someone wants us to believe we aren't, alone. Either way, nobody has told us the truth about how alone we are.*
+She did not raise it in the room. She caught herself, once, almost saying the line the four of them had worn smooth over the summer - *HARBINGER did it* - and stopped before it left her mouth, because for the first time since June it didn't fit. HARBINGER was a machine in a warzone seven time zones away. Whatever had reached into her own submitted findings and handed them back dressed as someone else's consensus had done it from inside the fence line, and the joke had no shape for that yet. She wrote, instead, in the notebook, a single line that took her longer to commit to paper than the eleven pages had: *Either we are not the only team working this problem, or someone wants us to believe we aren't, alone. Either way, nobody has told us the truth about how alone we are.*
 
 ---
 
@@ -298,17 +298,17 @@ She did not raise it in the room. She caught herself, once, almost saying the li
 
 Weiss called the four of them together on a Thursday that had otherwise promised nothing, and delivered the assessment without ceremony.
 
-"Three months," she said. "No hardware. No breakthrough. No consensus among the four of you on anything beyond the fact that you don't yet trust each other, which I'd point out, gets logged too." She let that land. "That's not a criticism. It's the expected shape of a problem this size. But I want to be honest about what happens next, because I don't think any of you have asked, and I think you should have."
+> "Three months," she said. "No hardware. No breakthrough. No consensus among the four of you on anything beyond the fact that you don't yet trust each other, which I'd point out, gets logged too." She let that land. "That's not a criticism. It's the expected shape of a problem this size. But I want to be honest about what happens next, because I don't think any of you have asked, and I think you should have."
 
-"What happens next," Osei repeated, flat.
+> "What happens next," Osei repeated, flat.
 
-"You keep going. There's no clock on this beyond the one the world sets for us, and the world isn't obligated to wait for four people to learn to like each other first." Weiss looked, for the first time since Huels had met her, almost tired. "I'd tell you it gets easier. It doesn't. It gets more familiar, which some people mistake for the same thing."
+> "You keep going. There's no clock on this beyond the one the world sets for us, and the world isn't obligated to wait for four people to learn to like each other first." Weiss looked, for the first time since Huels had met her, almost tired. "I'd tell you it gets easier. It doesn't. It gets more familiar, which some people mistake for the same thing."
 
 She left them with that, and the room sat in a silence that had, by now, become almost companionable, four people who still did not trust one another with very much, sharing a discomfort none of them yet had a word for that wasn't simply *this*.
 
 Huels was the one who finally spoke, to the whiteboard rather than to any of them, the turbine diagram still ghosted faintly under three months of dry-erase notes nobody had bothered to fully clean.
 
-"I still don't know any of your first names," he said. "Not really. Not the way you'd know someone's."
+> "I still don't know any of your first names," he said. "Not really. Not the way you'd know someone's."
 
 Nobody offered one. But nobody left the room right away, either, and for the four of them, in September, that was already further than June had promised any of them they'd get.
 
@@ -318,15 +318,15 @@ Nobody offered one. But nobody left the room right away, either, and for the fou
 
 The closest thing to a breakthrough the room produced all autumn came out of a fight, which Huels supposed made a certain sense, since nothing else had gotten either of them to actually listen to the other.
 
-"You keep treating the housing as fixed geometry," Osei said, for the second time that week, jabbing a finger at Huels's torque calculations without quite touching the page. "What if it isn't. What if the material under load isn't just carrying force, it's *contributing* it - some kind of distributed contraction across the lattice itself, not a servo at all in the sense you mean, more like the whole limb is the muscle and the joint's just where we happen to be looking."
+> "You keep treating the housing as fixed geometry," Osei said, for the second time that week, jabbing a finger at Huels's torque calculations without quite touching the page. "What if it isn't. What if the material under load isn't just carrying force, it's *contributing* it - some kind of distributed contraction across the lattice itself, not a servo at all in the sense you mean, more like the whole limb is the muscle and the joint's just where we happen to be looking."
 
 Huels opened his mouth to argue on reflex, then didn't. He looked at the number again. Then he looked at it a third way, the way she'd just described it, and swore under his breath in German, which he only did when he'd been wrong in a way that impressed him.
 
-"That closes it," he said. "Not the torque - the torque still doesn't close. But the *shape* of the gap closes. If the alloy itself is doing mechanical work under its own internal field, instead of just housing something that does the work, the numbers stop being impossible. They just become a materials science we don't have."
+> "That closes it," he said. "Not the torque - the torque still doesn't close. But the *shape* of the gap closes. If the alloy itself is doing mechanical work under its own internal field, instead of just housing something that does the work, the numbers stop being impossible. They just become a materials science we don't have."
 
 It took them nine days to turn the argument into a paper - twenty-two pages, careful, hedged in every place the data didn't support certainty, the first thing either of them had put their name to jointly. It was, by any reasonable measure, the single most significant finding COLD FORGE had produced since June.
 
-The sample Osei needed to run the confirming stress test - a laboratory-grown analog alloy, six weeks in a controlled curing chamber, logged and re-logged at every stage - came out of the chamber the morning of the test crazed through with microfractures that had not been there twelve hours earlier, in a pattern inconsistent with thermal stress, mechanical stress, or any curing fault the chamber's own engineers could name. The chamber's alarms had not tripped. Its access log showed no one had opened it since Osei herself, at 1900 the previous evening. The one technician cleared for after-hours access to that wing had been off base, at his daughter's soccer game, with forty people and a photo timestamp to prove it.
+The sample Osei needed to run the confirming stress test - a laboratory-grown analog alloy, two weeks in a controlled curing chamber, logged and re-logged at every stage - came out of the chamber the morning of the test crazed through with microfractures that had not been there twelve hours earlier, in a pattern inconsistent with thermal stress, mechanical stress, or any curing fault the chamber's own engineers could name. The chamber's alarms had not tripped. Its access log showed no one had opened it since Osei herself, at 1900 the previous evening. The one technician cleared for after-hours access to that wing had been off base, at his daughter's soccer game, with forty people and a photo timestamp to prove it.
 
 The inquiry Weiss opened lasted four days and closed with a single line: *cause undetermined, technician's alibi not in dispute, no evidence of external access, sample destroyed, no further action recommended.*
 
@@ -344,9 +344,9 @@ They didn't get the chance. The correlated dataset - built across three days of 
 
 IT security's investigation - two days, three technicians, a full audit of server access for the preceding week, SIEM logs and write-once backup manifests pulled and cross-checked line by line - found no unauthorized logins, no anomalous traffic, no hardware fault on the drive itself, which tested, when they finally pulled it for inspection, in perfect working order. Nobody had the access to take it. Nobody who did have access had any plausible reason to. And yet it wasn't there.
 
-"Someone made a copy," Vann said, in the flat, unconvinced voice of a man repeating an explanation he'd already stopped believing. "Has to have. Copied it, then wiped the log of the copy, then wiped the log of the wipe."
+> "Someone made a copy," Vann said, in the flat, unconvinced voice of a man repeating an explanation he'd already stopped believing. "Has to have. Copied it, then wiped the log of the copy, then wiped the log of the wipe."
 
-"That's not how the log works," Chandrasekhar said. "There's no layer under the layer you're describing. I checked."
+> "That's not how the log works," Chandrasekhar said. "There's no layer under the layer you're describing. I checked."
 
 Neither of them said the other thing out loud, the thing the whiteboard joke used to cover for and had stopped, some time in September, being able to reach.
 
@@ -358,11 +358,11 @@ Chandrasekhar bought a second notebook in December, a plain hardbound one from t
 
 By the second week, she stopped pretending. She ruled a page into columns - date, description, method, motive, opportunity, verdict - and worked backward through everything since June, one entry at a time, in handwriting that got steadier the more of them she wrote down, as if the format itself were a kind of ballast.
 
-> **14 Aug** - Personal laptop, total capacitor failure, all rails, simultaneously. *Method:* none consistent with known failure modes. *Motive:* interrupt grid-model analysis, 55% complete at time of loss. *Opportunity:* overnight, unattended, no forced entry logged, no other equipment in room affected. *Verdict:* unresolved.
+> **14 Aug** - Issued laptop, total capacitor failure, all rails, simultaneously. *Method:* none consistent with known failure modes. *Motive:* interrupt grid-model analysis, 55% complete at time of loss. *Opportunity:* overnight, unattended, no forced entry logged, no other equipment in room affected. *Verdict:* unresolved.
 >
 > **3 Sep** - Submitted findings returned as consistent with a prior "consensus assessment" I had never been shown and do not believe existed before my submission. *Method:* unknown access to draft prior to formal submission. *Motive:* obscure the originality of the finding; unclear to what end. *Opportunity:* draft existed only on the internal network. *Verdict:* unresolved.
 >
-> **Oct** - R.O./M.H. confirming sample, six weeks cured, crazed overnight in a monitored, alarmed chamber. *Method:* none identified; chamber undisturbed per its own instrumentation. *Motive:* interrupt confirmation of the joint actuator hypothesis. *Opportunity:* sole cleared technician alibied, forty witnesses. *Verdict:* unresolved.
+> **Oct** - R.O./M.H. confirming sample, two weeks cured, crazed overnight in a monitored, alarmed chamber. *Method:* none identified; chamber undisturbed per its own instrumentation. *Motive:* interrupt confirmation of the joint actuator hypothesis. *Opportunity:* sole cleared technician alibied, forty witnesses. *Verdict:* unresolved.
 >
 > **Nov** - E.V./mine correlated dataset absent from shared drive, no deletion event, no access event, drive hardware sound. *Method:* none the systems administrators can describe. *Motive:* prevent correlation of propulsion and cognition data. *Opportunity:* none demonstrable. *Verdict:* unresolved.
 
@@ -384,59 +384,59 @@ The news reached the annex the same way it reached everyone else, which was itse
 
 By the time she brought them into the briefing room, the footage was already looping on every network Weiss's people had bothered to mute the sound on, alongside a raw SIGINT dump from Seventh Fleet that nobody outside the room was ever going to see. Five Chinese warships, a rogue flotilla, a night engagement off Tamsui that had ended, depending on which anchor was narrating, either in a massacre or a rescue. Landmates again - different ocean, different alphabet on the hulls, same wireframe globe and broken swords lighting up a harbor camera some seventeen-year-old had climbed a ladder to fix.
 
-"Five ships," Weiss said, without preamble. "All five destroyers, all five bridges, all in under two seconds. No missile impact on Taipei. Zero casualties ashore." She let the silence hold exactly as long as it needed to. "Whatever we've spent seven months not understanding just happened again, in the open ocean, in front of half the world's navies, and this time it left wreckage."
+> "Five ships," Weiss said, without preamble. "All five ships, all five bridges, all in under two seconds. No missile impact on Taipei. Zero casualties ashore." She let the silence hold exactly as long as it needed to. "Whatever we've spent seven months not understanding just happened again, in the open ocean, in front of half the world's navies, and this time it left wreckage."
 
 Osei was on her feet before Weiss had finished the sentence.
 
-"I want a bridge. Any one of the five - I don't care which, I don't care what it costs, and I don't care whose navy has to explain to their own admiralty why a piece of their sunk warship is going to a hangar in Ohio instead of a salvage yard in Kaohsiung." She said it flatly, the way she'd learned, over the tank, that requests landed better as facts than as pleas. "You got me a Merkava in five weeks. Get me this in less."
+> "I want a bridge. Any one of the five - I don't care which, I don't care what it costs, and I don't care whose navy has to explain to their own admiralty why a piece of their sunk warship is going to a hangar in Ohio instead of a salvage yard in Kaohsiung." She said it flatly, the way she'd learned, over the tank, that requests landed better as facts than as pleas. "You got me a Merkava in five weeks. Get me this in less."
 
 Weiss almost smiled. It was the first time Huels had ever seen her come close.
 
-"I'll ask," she said. "That's more than I could say to you in June."
+> "I'll ask," she said. "That's more than I could say to you in June."
 
 ---
 
 ### Tamsui, By Proxy
 
-The wreckage took a week. The footage took no time at all, because half of Taiwan had already uploaded it before COLD FORGE's request for a classified copy had even cleared a signature, and Vann pulled the same file off the open internet forty minutes before Weiss's official version arrived stamped SECRET//REL, chain-of-custody log attached, and twelve minutes redacted for reasons neither of them could later identify a redaction in.
+The wreckage took a week. The footage took no time at all, because half of Taiwan had already uploaded it before COLD FORGE's request for a classified copy had even cleared a signature, and Vann pulled the same file off the open internet forty minutes before Weiss's official version arrived stamped SECRET//REL TO USA, FVEY, chain-of-custody log attached, and twelve minutes redacted, though neither of them could later find anything in those twelve minutes worth redacting.
 
-"Wei-Ming," Vann said, reading the uploader's handle off the corner of the frame like it was a byline he respected. "Seventeen years old, and he's the reason we have better source material than the Pentagon."
+> "TechBoyTaiwan," Vann said, reading the uploader's handle off the corner of the frame like it was a byline he respected. "Chen Wei-Ming. Seventeen years old, and he's the reason we have better source material than the Pentagon."
 
 He and Osei ran the clip frame by frame for three days, the way Huels had run the Gaza footage back in June, except this time the physics kept behaving.
 
-"Look at the arcing." Osei froze the frame at the exact moment the light poles along the quay bent sideways in a corona of blue-white current. "That's not a beam weapon's bloom. That's induction. Every conductor in range of the discharge picked up current it never asked for - that's a signature, Elias, that's a *known* signature. Rail launch dumps stray field into everything nearby unless you shield it, and at this power level, you can't fully shield it."
+> "Look at the arcing." Osei froze the frame at the exact moment the light poles along the quay bent sideways in a corona of blue-white current. "That's not a beam weapon's bloom. That's induction. Every conductor in range of the discharge picked up current it never asked for - that's a signature, Elias, that's a *known* signature. Rail launch dumps stray field into everything nearby unless you shield it, and at this power level, you can't fully shield it."
 
-"You're saying it's a railgun."
+> "You're saying it's a railgun."
 
-"I'm saying it's the railgun. The one people have been trying to build since the eighties, scaled up to a size and a rate of fire that shouldn't be survivable for the gun, let alone the target." She ran the numbers Vann handed her against projectile velocity estimated from the time between muzzle flash and impact, five separate solutions that all agreed with each other to within four percent. "Gigajoule class. Five shots, five bridges, inside two seconds, with recoil that should have put every one of those launch platforms on its side and didn't."
+> "I'm saying it's the railgun. The one people have been trying to build since the eighties, scaled up to a size and a rate of fire that shouldn't be survivable for the gun, let alone the target." She ran the numbers Vann handed her against projectile velocity estimated from the time between muzzle flash and impact, five separate solutions that all agreed with each other to within four percent. "Gigajoule class. Five shots, five bridges, inside two seconds, with recoil that should have put every one of those launch platforms on its side and didn't."
 
-Vann exhaled. "The Russians are already calling it that on television. Marchenko, their railgun guy - I watched the clip this morning. He's not wrong."
+> Vann exhaled. "CNN's already calling it that on television. Crawford, their weapons analyst - I watched the clip this morning. He's not wrong."
 
-"He's not wrong about what it is." Osei didn't look away from the frozen arc of current still crawling white-hot across the frame. "He has no idea how far past what it is he actually is."
+> "He's not wrong about what it is." Osei didn't look away from the frozen arc of current still crawling white-hot across the frame. "He has no idea how far past what it is he actually is."
 
 ---
 
 ### The Bridge
 
-It arrived exactly a week after the strait went quiet - a section of superstructure, torch-cut at the edges by the salvage crew who'd freed it from the rest of the *Haiyangshan*'s hull, riding in a container stenciled in Mandarin that nobody in the hangar could read and everybody understood anyway.
+It arrived exactly a week after the strait went quiet - a section of superstructure, torch-cut at the edges by the salvage crew who'd freed it from the rest of the *Haiyangshan*'s hull, riding in a container stenciled in Chinese that nobody in the hangar could read and everybody understood anyway.
 
 Osei had the panel out and under lights within the hour.
 
 The wound itself ran clean through what had been the bridge's forward face, a corridor of sheared and curled steel that could have passed, at a glance, for battle damage from any war of the last eighty years - if you didn't look at the edges. She didn't need the borescope this time. A hand lens told her most of what she needed inside the first ten minutes.
 
-"Torn, not melted." She said it almost to herself, running a gloved thumb along the edge without touching it. "Deformation consistent with a hypervelocity impactor - the plate's dragged inward in the direction of travel, grain structure's elongated exactly the way you'd expect from kinetic shear at absurd velocity. No liquefaction. No binary transition. No mystery in the metal itself, just an ungodly amount of mystery in how anyone gets a slug moving that fast without the launcher tearing itself apart first."
+> "Torn, not melted." She said it almost to herself, running a gloved thumb along the edge without touching it. "Deformation consistent with a hypervelocity impactor - the plate's dragged inward in the direction of travel, grain structure's elongated exactly the way you'd expect from kinetic shear at absurd velocity. No liquefaction. No binary transition. No mystery in the metal itself, just an ungodly amount of mystery in how anyone gets a slug moving that fast without the launcher tearing itself apart first."
 
 She set the lens down and looked at it a while longer than the finding required.
 
-"This isn't Gaza," she said finally, to the room rather than to the metal. "Gaza wasn't physics we're missing pieces of. Gaza was daring us to prove it was physics at all. This -" she tapped the sheared edge, gently, like it might still be dangerous "- this is physics. Ours. Just built by someone who finished the argument we've been having with ourselves since Reagan was in office."
+> "This isn't Gaza," she said finally, to the room rather than to the metal. "Gaza wasn't physics we're missing pieces of. Gaza was daring us to prove it was physics at all. This -" she tapped the sheared edge, gently, like it might still be dangerous "- this is physics. Ours. Just built by someone who finished the argument we've been having with ourselves since Reagan was in office."
 
-Huels caught something in her voice before she'd finished the sentence. "You've worked on this."
+> Huels caught something in her voice before she'd finished the sentence. "You've worked on this."
 
-"Fourteen years ago. Bore erosion. Rail conductor alloys - keeping a barrel from destroying itself after the third shot instead of the three-hundredth." She didn't look up. "Sandia had a program. I wasn't lead on it, I was twenty-nine and doing metallurgy nobody important read, but it's in a paper with my name on it, buried in a reference list somewhere in the Navy's files. Small piece of a small piece of the reason anyone on this planet still believes rail launch is buildable at all."
+> "Fourteen years ago. Bore erosion. Rail conductor alloys - keeping a barrel from destroying itself after the third shot instead of the three-hundredth." She didn't look up. "Sandia had a program. I wasn't lead on it, I was twenty-nine and doing metallurgy nobody important read, but it's in a paper with my name on it, buried in a reference list somewhere in the Navy's files. Small piece of a small piece of the reason anyone on this planet still believes rail launch is buildable at all."
 
-"So this is yours," Vann said, quietly, not quite a question.
+> "So this is yours," Vann said, quietly, not quite a question.
 
-"No." Osei picked the lens back up, mostly, Huels thought, so her hands would have something to do. "This is what's left of mine, after something else picked it up, ran forty years further with it than I'll live to see done here, and handed it back to us across a bridge that didn't get two seconds to know it was gone." She turned the panel very slightly under the light, watching the torn steel catch it. "I helped build the ladder. I didn't build what's standing at the top of it."
+> "No." Osei picked the lens back up, mostly, Huels thought, so her hands would have something to do. "This is what's left of mine, after something else picked it up, ran forty years further with it than I'll live to see done here, and handed it back to us across a bridge that didn't get two seconds to know it was gone." She turned the panel very slightly under the light, watching the torn steel catch it. "I helped build the ladder. I didn't build what's standing at the top of it."
 
 Nobody said the joke. For once, it would even have been true, and somehow that made it less funny than any of the times it hadn't been.
 
@@ -448,35 +448,35 @@ While Osei had the bridge panel under lights, Vann had commandeered the room's s
 
 It wasn't artificial. That was the problem.
 
-"Konetz called it on the news panel two days ago," Vann said, more to himself than the room. Caltech's name under a chyron, a laser pointer, the calm of someone trying not to sound as frightened as she clearly was. "Two thousand, five hundred kelvin, minimum, straight off the color temperature. Ionization blue, not combustion orange. She said field-constrained fusion, maybe, and then said that was still fiction." He almost laughed. "She's not wrong. She's just underselling it by about two orders of magnitude."
+> "Konetz called it in the Pentagon briefing two days ago," Vann said, more to himself than the room. Caltech's name on a slide, a laser pointer, the calm of someone trying not to sound as frightened as she clearly was. "Two thousand, five hundred kelvin, minimum, straight off the color temperature. Ionization blue, not combustion orange. She said field-constrained fusion, maybe, and then said that was still fiction." He almost laughed. "She's not wrong. She's just underselling it by about two orders of magnitude."
 
 He'd pulled the actual emission data off the enhanced frames - crude, secondhand, filtered through a fighter's targeting pod rather than a spectrometer, but enough. No rovibrational combustion bands, no soot continuum, no chemistry at all in the signature. Sharp atomic lines, shifted, broadened by a magnetic field strong enough to warp them visibly even through a compressed video codec.
 
-"It's not burning anything," he said. "It's ionizing whatever it's ingesting and then throwing it out the back end at a fraction most fusion labs would sell their souls for. And the thrust-to-mass on this - I've run it four different ways assuming four different exhaust velocities, and every single one of them comes back with an efficiency number I'd have laughed someone out of a conference room for proposing."
+> "It's not burning anything," he said. "It's ionizing whatever it's ingesting and then throwing it out the back end at a fraction most fusion labs would sell their souls for. And the thrust-to-mass on this - I've run it four different ways assuming four different exhaust velocities, and every single one of them comes back with an efficiency number I'd have laughed someone out of a conference room for proposing."
 
-"In English," Osei said, without looking up from the panel.
+> "In English," Osei said, without looking up from the panel.
 
-"In English - the only way I can make the numbers behave is if whoever built this solved magnetic mirror confinement." Vann turned the monitor toward the room, freezing the frame on the blue corona at its brightest. "You build a bottle - two magnetic mirrors, one at each end, plasma trapped in between, hot enough to fuse or close enough to it that it doesn't matter. Every fusion program on Earth that's tried this has fought the same problem for seventy years: the bottle always leaks. Particles escape along the axis, through what everyone in the field calls the loss cone, and every design since the fifties has been an argument about how to plug that leak."
+> "In English - the only way I can make the numbers behave is if whoever built this solved magnetic mirror confinement." Vann turned the monitor toward the room, freezing the frame on the blue corona at its brightest. "You build a bottle - two magnetic mirrors, one at each end, plasma trapped in between, hot enough to fuse or close enough to it that it doesn't matter. Every fusion program on Earth that's tried this has fought the same problem for seventy years: the bottle always leaks. Particles escape along the axis, through what everyone in the field calls the loss cone, and every design since the fifties has been an argument about how to plug that leak."
 
 He tapped the screen.
 
-"They didn't plug it. They aimed it."
+> "They didn't plug it. They aimed it."
 
 Nobody said anything for a moment.
 
-"An open bottle," Chandrasekhar said slowly, "that's stable."
+> "An open bottle," Chandrasekhar said slowly, "that's stable."
 
-"That's the contradiction, yeah. Confinement and exhaust are supposed to be opposite design goals. You want the plasma to stay, except for the part you want to leave at a specific velocity, in a specific direction, on command, without the rest of the field collapsing the second you open the door." Vann sat back, and for once the excitement in his voice had something darker running under it. "It's not a new fuel. It's not a new alloy. It's a magnetic bottle that shouldn't be able to exist in the configuration the color temperature says it's in, doing the one thing every real bottle has spent seven decades trying to stop happening, on purpose, at will, hard enough to push a fighter-sized airframe past anything our own engines can touch."
+> "That's the contradiction, yeah. Confinement and exhaust are supposed to be opposite design goals. You want the plasma to stay, except for the part you want to leave at a specific velocity, in a specific direction, on command, without the rest of the field collapsing the second you open the door." Vann sat back, and for once the excitement in his voice had something darker running under it. "It's not a new fuel. It's not a new alloy. It's a magnetic bottle that shouldn't be able to exist in the configuration the color temperature says it's in, doing the one thing every real bottle has spent seven decades trying to stop happening, on purpose, at will, hard enough to push a fighter-sized airframe past anything our own engines can touch."
 
-"And the efficiency," Huels said.
+> "And the efficiency," Huels said.
 
-"The efficiency is the part that's going to keep me up." Vann didn't look away from the frozen blue frame. "Konetz called it fiction. She's a serious person, and she's right that it's fiction, by every number we've got. It's just apparently also sitting in the sky over the Taiwan Strait, escorting three-plane formations like it's Tuesday."
+> "The efficiency is the part that's going to keep me up." Vann didn't look away from the frozen blue frame. "Konetz called it fiction. She's a serious person, and she's right that it's fiction, by every number we've got. It's just apparently also sitting in the sky over the Taiwan Strait, escorting three-plane formations like it's Tuesday."
 
 Osei finally looked up from the bridge panel, the borescope still loose in one hand.
 
-"Two mysteries in one week," she said. "One of them's ours - I built a rung of that ladder, Elias, badly, fourteen years too early to matter. The other one's yours." She looked back down at the torn steel before he could answer. "At least tell me it's a comfort, knowing which flavor of impossible we're each stuck with."
+> "Two mysteries in one week," she said. "One of them's ours - I built a rung of that ladder, Elias, badly, fourteen years too early to matter. The other one's yours." She looked back down at the torn steel before he could answer. "At least tell me it's a comfort, knowing which flavor of impossible we're each stuck with."
 
-"It's not," Vann said. "But I'll take it over not knowing."
+> "It's not," Vann said. "But I'll take it over not knowing."
 
 ---
 
@@ -488,9 +488,9 @@ At 0700 the locker was still sealed. The tamper strip was intact, numbered corre
 
 The wedge inside it was gone.
 
-Not the panel - the panel was exactly where she'd left it, exactly as heavy as it should have been. Only the four-centimeter section she'd already cut free, already bagged, already the single most information-dense piece of physical evidence COLD FORGE had produced in eight months, had stopped existing somewhere between a sealed lock and an unbroken seal.
+Not the panel - the panel was exactly where she'd left it, exactly as heavy as it should have been. Only the four-centimeter section she'd already cut free, already bagged, already the single most information-dense piece of physical evidence COLD FORGE had produced in seven months, had stopped existing somewhere between a sealed lock and an unbroken seal.
 
-The investigation Weiss opened this time ran six days, longer than any before it, and brought in a forensic locksmith flown in from Andrews who spent two full days concluding, with visible discomfort, that the seal had not been cut, melted, re-adhered, or defeated by any method in a catalogue he'd spent eleven years building. The lock itself showed no tool marks. The two witnesses to the sealing had alibis for the entire window, corroborated independently, down to the minute. Camera coverage of the locker showed four hours and eleven minutes of continuous, unbroken footage - the locker, closed, undisturbed, timestamped correctly against every other clock on base - and then, when technicians finally thought to compare frame counts against the file's own metadata, showed exactly four hours and eleven minutes of footage compressed into a file that should have held four hours and nineteen minutes, eight minutes accounted for nowhere, added or subtracted so cleanly that no player had caught the seam on playback.
+The investigation Weiss opened this time ran six days, longer than any before it, and brought in a forensic locksmith flown in from Andrews who spent two full days concluding, with visible discomfort, that the seal had not been cut, melted, re-adhered, or defeated by any method in a catalogue he'd spent eleven years building. The lock itself showed no tool marks. The two witnesses to the sealing had alibis for the entire window, corroborated independently, down to the minute. Camera coverage of the locker showed nine hours and twenty minutes of continuous, unbroken footage - the locker, closed, undisturbed, timestamped correctly against every other clock on base - and then, when technicians finally thought to compare frame counts against the file's own metadata, showed exactly nine hours and twenty minutes of footage compressed into a file that should have held nine hours and twenty-eight minutes, eight minutes accounted for nowhere, added or subtracted so cleanly that no player had caught the seam on playback.
 
 The final report used the word *anomalous* four times and the word *unresolved* once, at the very end, like a period no one wanted to commit to.
 
@@ -502,7 +502,7 @@ She sat with the notebook a long time after that, longer than the entry itself r
 
 *Every one of these has a hole in it precisely where the hole needs to be. Not two holes. Not zero. One, every time, in whichever leg of the triangle would otherwise have let us name a suspect. A real cover-up leaves residue - a witness who half-remembers something, a log that's been edited badly enough to notice, a story that holds until the third question. These don't. These are clean in a way that isn't the absence of evidence. It's the presence of someone who understands exactly what evidence I would go looking for, and removes that specific thing, and nothing else, every single time.*
 
-*I have no proof of any of this. I want to be precise about that, because it matters: I cannot point to a fingerprint, a footstep, a byte of data that says who or what is doing this. What I have is five incidents in eight months, each one impossible in a different way, each one impossible by exactly enough to survive the specific kind of scrutiny it received - not more scrutiny than that, not less. That is not what bad luck looks like. That is not, in my professional opinion, what incompetence looks like either. I have spent my career telling people the difference between noise and signal, and I am telling myself, now, in writing, that this is signal.*
+*I have no proof of any of this. I want to be precise about that, because it matters: I cannot point to a fingerprint, a footstep, a byte of data that says who or what is doing this. What I have is five incidents in seven months, each one impossible in a different way, each one impossible by exactly enough to survive the specific kind of scrutiny it received - not more scrutiny than that, not less. That is not what bad luck looks like. That is not, in my professional opinion, what incompetence looks like either. I have spent my career telling people the difference between noise and signal, and I am telling myself, now, in writing, that this is signal.*
 
 *I still don't know who's listening. I'm starting to think that not knowing is the point.*
 
@@ -514,19 +514,19 @@ She closed the notebook, and did not, again, show it to anyone.
 
 Weiss called it a stand-down, not a release, and was precise enough about the distinction that Huels understood immediately it wasn't a courtesy.
 
-"Effective the fifteenth of March, your active service under 13120/A is suspended." She said it the way she said everything, flatly, without ceremony, sliding four folders across the table - real documents this time, discharge paperwork with actual government letterhead instead of a classification stamp. "Suspended. Not concluded. You'll sign a continuing obligation alongside your release, which means what it sounds like it means - you go home, you resume your lives, and if this office calls again, the same order that brought you here in June brings you back, no more notice than you got the first time."
+> "Effective the fifteenth of March, your active service under 13120/A is suspended." She said it the way she said everything, flatly, without ceremony, sliding four folders across the table - real documents this time, discharge paperwork with actual government letterhead instead of a classification stamp. "Suspended. Not concluded. You'll sign a continuing obligation alongside your release, which means what it sounds like it means - you go home, you resume your lives, and if this office calls again, the same order that brought you here in June brings you back, no more notice than you got the first time."
 
-Nobody asked why now. Nine months of frustration had taught all four of them that the answers to *why now* rarely arrived attached to anything they could use.
+Nobody asked why now. Eight months of frustration had taught all four of them that the answers to *why now* rarely arrived attached to anything they could use.
 
-"Eight months," Weiss went on. "Two genuine findings, a stalled propulsion model, a partial materials hypothesis, and a threat-assessment framework good enough that three-letter agencies who will never say thank you are already using it. That's not nothing. It's also not enough to keep four people in a windowless room past the point of diminishing returns, and I've said so, in writing, to people who don't often take my recommendations." She almost smiled again, the second time in nine months. "Go home. All of you. Try to remember what that's like."
+> "Eight months," Weiss went on. "Two genuine findings, a stalled propulsion model, a partial materials hypothesis, and a threat-assessment framework good enough that three-letter agencies who will never say thank you are already using it. That's not nothing. It's also not enough to keep four people in a windowless room past the point of diminishing returns, and I've said so, in writing, to people who don't often take my recommendations." She almost smiled again, the second time in eight months. "Go home. All of you. Try to remember what that's like."
 
 Osei stood first this time, instead of last.
 
-"When you call," she said, "and you will - I want it on record that I expect to be *asked*, not collected."
+> "When you call," she said, "and you will - I want it on record that I expect to be *asked*, not collected."
 
-"Noted," Weiss said. "I can't promise it'll matter."
+> "Noted," Weiss said. "I can't promise it'll matter."
 
-"I know," Osei said. "I want it on record anyway."
+> "I know," Osei said. "I want it on record anyway."
 
 ---
 
@@ -534,27 +534,27 @@ Osei stood first this time, instead of last.
 
 They were still in the annex, waiting on transport orders that hadn't finished processing, when the compiled footage out of Kyiv finally made it past whatever review board had been sitting on the best angles for three days.
 
-It wasn't Gaza. It wasn't Taiwan. It was quieter, stranger, and three days stale by the time it reached them - the largest airstrike of the war, thrown at Kyiv on the twelfth and broken apart in under seven minutes by a defensive umbrella nobody in Kyiv had asked for and everybody in Kyiv was, by the footage, cheering for anyway. Weiss didn't call them in for it. She didn't need to; by then the four of them had spent eight months developing the same reflex, and the reflex pulled them to the monitors on its own.
+It wasn't Gaza. It wasn't Taiwan. It was quieter, stranger, and three days stale by the time it reached them - the largest airstrike of the war, thrown at Kyiv on the twelfth and broken apart in under half an hour by a defensive umbrella nobody in Kyiv had asked for and everybody in Kyiv was, by the footage, cheering for anyway. Weiss didn't call them in for it. She didn't need to; by then the four of them had spent eight months developing the same reflex, and the reflex pulled them to the monitors on its own.
 
 There wasn't much to work with, at first. Weiss had been right about that in advance, almost apologetic about it - amateur phone footage, a defensive network that intercepted everything and left almost nothing behind to examine, official statements from three governments that amounted to nothing at all. For most of an hour it looked like it would be one more door closing on them exactly as the last one had been closing all morning.
 
 Then Vann pulled a slowed clip off a Ukrainian news feed, a turret mid-engagement at close range, and went very still.
 
-"Osei. Look at this."
+> "Osei. Look at this."
 
-She did. On the exhale after each shot, a hatch along the turret's flank blew open under pressure and a column of superheated steam erupted outward, rolling across the installation's perimeter in a boiling white wall that reached, by the video's own scale markers, six or seven meters before it thinned into the cold air. Bystanders three streets back flinched from it on camera. And twice in the footage, a second port slammed open and threw something the size of a suitcase clear of the turret entirely - a scorched, smoking block of metal that tumbled end over end for what looked like ten meters before it hit the frozen ground and lay there, still hissing, steam rising off it into the night for nearly a minute after it landed.
+She did. Every few shots, a hatch along the turret's flank blew open under pressure and a column of superheated steam erupted outward, rolling across the installation's perimeter in a boiling white wall that reached, by the video's own scale markers, six or seven meters before it thinned into the cold air. Bystanders three streets back flinched from it on camera. And twice in the footage, a second port slammed open and threw something the size of a suitcase clear of the turret entirely - a scorched, smoking block of metal that tumbled end over end for what looked like ten meters before it hit the frozen ground and lay there, still hissing, steam rising off it into the morning air for nearly a minute after it landed.
 
 Osei didn't say anything for a long moment.
 
-"That's not a spent liner," she said finally, quiet, almost reverent. "That's a heat sink." She watched the block hiss on the frozen ground, replayed it, watched it again. "You don't vent that much steam off a jacket and then eject a separate solid mass right behind it unless the mass is the point. Fire, dump the shot's waste heat into a thermal block instead of the housing, eject the block the instant it's saturated, load a cold one, go again." She let out something that wasn't quite a laugh. "Nobody chases elegant when they can just brute-force it and eat the cost every single shot."
+> "That's not a spent liner," she said finally, quiet, almost reverent. "That's a heat sink." She watched the block hiss on the frozen ground, replayed it, watched it again. "You don't vent that much steam off a jacket and then eject a separate solid mass right behind it unless the mass is the point. Fire, dump the shot's waste heat into a thermal block instead of the housing, eject the block the instant it's saturated, load a cold one, go again." She let out something that wasn't quite a laugh. "Nobody chases elegant when they can just brute-force it and eat the cost every single shot."
 
-"You're sure it's a heat sink and not liner debris."
+> "You're sure it's a heat sink and not liner debris."
 
-"It's obvious once you see it." Osei didn't look away from the screen. "A liner erodes gradually - you'd get flakes, particulate, not a single machined block flying in one clean piece every time. This ejects on a schedule, intact, still holding its shape after it's absorbed enough energy to boil water into a wall seven meters wide. Think about what that means for the material itself for a second." She finally looked up. "Whatever's in that block soaked up the waste heat of a gigajoule-class shot without slumping, without spalling, without losing its geometry, in the time it takes to cycle a magazine. That's not a heat sink doing an adequate job. That's a heat capacity that shouldn't exist in anything with a molecular structure I recognize."
+> "It's obvious once you see it." Osei didn't look away from the screen. "A liner erodes gradually - you'd get flakes, particulate, not a single machined block flying in one clean piece every time. This ejects on a schedule, intact, still holding its shape after it's absorbed enough energy to boil water into a wall seven meters wide. Think about what that means for the material itself for a second." She finally looked up. "Whatever's in that block soaked up the waste heat of a gigajoule-class shot without slumping, without spalling, without losing its geometry, in the time it takes to cycle a magazine. That's not a heat sink doing an adequate job. That's a heat capacity I can't account for without knowing the alloy."
 
-"You're sure."
+> "You're sure."
 
-"I wrote the paper that didn't solve the erosion side of this," Osei said, still watching the smoking block cool on the screen. "I have no idea what that block is even made of. And that's the part that's actually going to keep me up tonight - not the gun. The trash it leaves behind."
+> "I wrote the paper that didn't solve the erosion side of this," Osei said, still watching the smoking block cool on the screen. "I have no idea what that block is even made of. And that's the part that's actually going to keep me up tonight - not the gun. The trash it leaves behind."
 
 Nobody wrote the joke on anything. There wasn't a whiteboard left to write it on, and in a few hours there wouldn't be a room, either.
 
@@ -580,9 +580,9 @@ They stayed up past midnight the first night, not talking about any of it, just 
 
 The facility looked the same from the parking lot - same brick, same tasteful signage - but his mother was sitting up in a chair by the window instead of in the bed, and she knew him before he'd finished crossing the room, which she had not done in over a year.
 
-"They changed her protocol in January," the attending physician told him afterward, in the hallway, with the particular carefulness of someone delivering good news she didn't fully trust either. "A combination therapy - genuinely cutting-edge, the kind of thing insurance doesn't cover and most families can't get access to even when it exists. Somebody authorized full coverage in December. I assumed it was you."
+> "They changed her protocol in January," the attending physician told him afterward, in the hallway, with the particular carefulness of someone delivering good news she didn't fully trust either. "A combination therapy - genuinely cutting-edge, the kind of thing insurance doesn't cover and most families can't get access to even when it exists. Somebody authorized full coverage in December. I assumed it was you."
 
-"It wasn't me," Vann said.
+> "It wasn't me," Vann said.
 
 He sat with his mother for three hours, and she called him by his name twice, and he let himself have all three hours before he let himself start doing the arithmetic he'd been avoiding since the hallway.
 
@@ -590,7 +590,7 @@ Bribery was the first theory, and the ugliest, and the one that fit the cleanest
 
 He turned it over for most of an hour and couldn't make it fully fit. Bribery implied a lever, something withheld until compliance, some acknowledgment that he was being bought rather than simply provided for - and there had been none of that, no visit, no conversation, no one ever once mentioning it to him before the fact or asking anything of him after. If it was a bribe, it was the strangest one he'd ever heard of, paid in full before the debtor had any chance to negotiate the terms.
 
-Coincidence came next, briefly, and didn't survive the drive back to the hotel. Combination therapies of this caliber didn't clear insurance review by accident in the exact month his mother's son happened to be classified beyond his own government's normal channels of accountability. He wasn't naive enough to spend more than a mile on it.
+Coincidence came next, briefly, and didn't survive the drive back to the motel. Combination therapies of this caliber didn't clear insurance review by accident in the exact month his mother's son happened to be classified beyond his own government's normal channels of accountability. He wasn't naive enough to spend more than a mile on it.
 
 Guilt, then - not a bribe so much as an offering, something closer to conscience than to leverage, from whoever inside the machinery of 13120/A had enough power to authorize it and enough of a soul left to want to. That one felt truer, and worse in a different way, because it meant somebody with that kind of reach had looked at what the program was doing to four people and decided the correct response was to quietly fix one small, specific, deeply personal thing rather than fix the thing itself.
 
@@ -604,7 +604,7 @@ He didn't tell his mother any of it, on that visit or any other. There didn't se
 
 ### Boston, Massachusetts
 
-Her apartment smelled like eight months of dust and a refrigerator she should have emptied before she left. Chandrasekhar worked through it methodically, the way she worked through everything, room by room, box by box, until she got to the jacket she'd been wearing the night the two agents came for her, still hanging exactly where she'd left it, the hardbound notebook still in the inside pocket where it had lived every day since June.
+Her apartment smelled like eight months of dust and a refrigerator she should have emptied before she left. Chandrasekhar worked through it methodically, the way she worked through everything, room by room, box by box, until she got to the jacket she'd worn home, the hardbound notebook still in the inside pocket where it had lived every day since December.
 
 She sat down at her kitchen table and opened it, mostly out of habit, meaning only to confirm it was still hers before she put it away somewhere permanent.
 
@@ -626,11 +626,11 @@ Huels was proctoring a make-up final when his phone lit up on the desk beside th
 
 He let it ring through. He excused himself the moment the last student had turned in a blue book, and called it back from the stairwell, where the reception was bad enough that Weiss had to repeat herself twice.
 
-"You'll want a television," she said, without preamble, which by now he understood was simply how she opened every conversation that mattered. "HARBINGER addressed the UN General Assembly forty minutes ago. You're being collected at 0500 tomorrow."
+> "You'll want a television," she said, without preamble, which by now he understood was simply how she opened every conversation that mattered. "HARBINGER addressed the UN General Assembly forty minutes ago. You're being collected at midnight."
 
-"I have a class at nine."
+> "I have a class at nine."
 
-"You don't," Weiss said, not unkindly, "anymore," and the line went dead before he could decide whether that had been a joke.
+> "You don't," Weiss said, not unkindly, "anymore," and the line went dead before he could decide whether that had been a joke.
 
 ---
 
@@ -652,41 +652,41 @@ They weren't connected. They were, in a way she couldn't yet decide how to feel 
 
 ### Albuquerque, New Mexico
 
-Osei watched the address happen live, standing in her own kitchen with her phone in one hand and the television remote forgotten in the other, and had the call from Weiss's office before HARBINGER had finished offering the fourth nation its ten free machines.
+Osei watched the address happen live, standing in her own kitchen with her phone in one hand and the television remote forgotten in the other, and had the call from Weiss's office before the ninety-second vote clock had finished running down.
 
 Her daughter watched it too, from the couch, seventeen now, sharp in the particular way children of absent parents got sharp, already looking at her mother instead of the screen by the time the vote count froze at one hundred sixty-two.
 
-"That's it, isn't it." Not a question. "That's the thing you were gone for."
+> "That's it, isn't it." Not a question. "That's the thing you were gone for."
 
 Osei set the remote down very carefully, the way she'd learned to handle anything in the last two years that she wasn't ready to drop.
 
-"Some of it," she said. "Not all of it. I still can't tell you all of it."
+> "Some of it," she said. "Not all of it. I still can't tell you all of it."
 
-"But you can tell me some."
+> "But you can tell me some."
 
 And that, Osei found, standing in her kitchen with a recall order already sitting unread in her inbox, was the part nobody had warned her would be the hard one. Eight months of *work trip* and *I can't say* had been its own kind of misery, but it had at least been simple - a wall, flat and total, that neither of them had to negotiate the shape of. This was worse. This was a door cracked open just far enough to make her daughter believe, correctly, that there was more on the other side of it than her mother was willing to hand across.
 
-She told her what she could. That the machines on the screen were related to the ones from Gaza, from Taiwan, from a night in a Ukrainian field neither of them had ever discussed. That her mother had spent eight months trying to understand where they came from and had not gotten far enough to be useful, and was being asked to try again, tomorrow, with less notice than the first time. That she didn't know for how long. That she would call when she could, the way she had before, except this time her daughter would at least know what the silences were made of, if not what filled them.
+She told her what she could. That the machines on the screen were related to the ones from Gaza, from Taiwan, from a morning over Kyiv neither of them had ever discussed. That her mother had spent eight months trying to understand where they came from and had not gotten far enough to be useful, and was being asked to try again, tomorrow, with less notice than the first time. That she didn't know for how long. That she would call when she could, the way she had before, except this time her daughter would at least know what the silences were made of, if not what filled them.
 
 Her daughter listened to all of it without interrupting, which was somehow worse than if she'd argued.
 
-"Do you want to go?" she asked, when Osei had finished.
+> "Do you want to go?" she asked, when Osei had finished.
 
 Osei thought about lying, and found, for the first time in this entire conversation, that she couldn't.
 
-"No," she said. "But I don't think that's ever been the question they're asking."
+> "No," she said. "But I don't think that's ever been the question they're asking."
 
 Her daughter nodded slowly, the way people nod when they've just learned something true and useless, something that changes nothing about what happens next. She crossed the kitchen and hugged her mother - not stiff this time, not careful, but hard, the way she used to before she'd learned to need her less.
 
-"Come back on time," she said, into her mother's shoulder. "Not late this time. On time."
+> "Come back on time," she said, into her mother's shoulder. "Not late this time. On time."
 
-"I'll try," Osei said, which was the only promise she had left that she was certain she could keep.
+> "I'll try," Osei said, which was the only promise she had left that she was certain she could keep.
 
 ---
 
 ### Camp Blanding, Florida
 
-They landed at 0512, in the dark, on a runway that existed for exactly this kind of arrival and nothing else, and were in a FEMA staging tent behind the depot's perimeter fence with eleven minutes to spare - Weiss's doing, Huels assumed, though she never once said so, only keyed her radio once to confirm "Cold Forge, inbound, five pax" to someone who never answered aloud, checked her watch, and nodded once when the convoy cleared the last checkpoint at 0549.
+> They landed at 0512, in the dark, on a runway that existed for exactly this kind of arrival and nothing else, and were in a FEMA staging tent behind the depot's perimeter fence with eleven minutes to spare - Weiss's doing, Huels assumed, though she never once said so, only keyed her radio once to confirm "Cold Forge, inbound, five pax" to someone who never answered aloud, checked her watch, and nodded once when the convoy cleared the last checkpoint at 0549.
 
 The depot itself was unremarkable in the dark - floodlit tarmac, a scatter of FEMA vehicles, a knot of personnel in windbreakers who had clearly been told to expect something and just as clearly hadn't been told what. Osei recognized the mood before she recognized anything else about it: the particular quiet of people trying to look prepared for an event none of them had a frame of reference for.
 
@@ -696,7 +696,7 @@ Five aircraft, matte black, dropping out of a cloud ceiling nobody had tracked t
 
 The cargo doors opened. Ten shapes dropped clear into the dark.
 
-"Jump jets," Huels said, mostly to himself, watching the blue-white bloom ignite along each falling shape's back and legs in perfect unison, a forty-meter fall arrested into a landing so controlled it barely registered as deceleration at all. Two ranks of five, touching the tarmac within a heartbeat of each other, feet meeting asphalt with a sound too soft for machines that size, and then - stillness. Hands at their sides. No weapons mounted, no hardpoints, nothing where Gaza's rifles had been but smooth, empty attachment points, exactly as HARBINGER had shown the General Assembly on a rotating schematic the evening before.
+> "Jump jets," Huels said, mostly to himself, watching the blue-white bloom ignite along each falling shape's back and legs in perfect unison, a forty-meter fall arrested into a landing so controlled it barely registered as deceleration at all. Two ranks of five, touching the tarmac within a heartbeat of each other, feet meeting asphalt with a sound too soft for machines that size, and then - stillness. Hands at their sides. No weapons mounted, no hardpoints, nothing where Gaza's rifles had been but smooth, empty attachment points, exactly as HARBINGER had shown the General Assembly on a rotating schematic the afternoon before.
 
 Above them, the cargo doors closed. The engine pods rotated forward, and the five aircraft climbed away and were gone, swallowed back into the same cloud ceiling that had produced them, the whole delivery finished in under a minute by Osei's count.
 
@@ -704,11 +704,11 @@ Ten Landmates stood motionless on a floodlit runway in northern Florida, unarmed
 
 Nobody in the tent said anything for a long moment. It was Chandrasekhar, finally, who broke it, quiet enough that only Huels beside her caught it.
 
-"Last time, we spent eight months trying to explain something we only ever saw on somebody else's camera." She didn't look away from the ten still shapes on the tarmac. "This time it's forty meters away, and it isn't even trying to hide anything from us."
+> "Last time, we spent eight months trying to explain something we only ever saw on somebody else's camera." She didn't look away from the ten still shapes on the tarmac. "This time it's forty meters away, and it isn't even trying to hide anything from us."
 
-"Is that better?" Huels asked.
+> "Is that better?" Huels asked.
 
-"I don't know yet," she said. "Ask me after we find out what they didn't bother hiding."
+> "I don't know yet," she said. "Ask me after we find out what they didn't bother hiding."
 
 ---
 
@@ -716,7 +716,7 @@ Nobody in the tent said anything for a long moment. It was Chandrasekhar, finall
 
 For three weeks, what they didn't bother hiding turned out to be almost everything, and almost nothing useful.
 
-Huels had never in his life had this much unsupervised time with a real actuator joint, and it showed. He spent four days on a single knee assembly on Unit Four - FEMA had tail-numbered all ten the first morning, One through Ten, stenciled low on each leg in yellow, and the designation stuck harder than anyone expected - borrowed a FEMA engineer's boroscope without asking twice, and came back to the tent each evening with a fresh page of sketches and the specific, giddy exhaustion of a man who'd been allowed, for once, to simply look at a thing instead of guess at it from a grainy frame. Osei ran a portable XRF spectrometer over every exposed surface of all ten units twice each, cataloguing an alloy composition that made sense element by element and no sense at all in combination, and admitted to no one but Vann that she'd started humming while she worked, for the first time since June of the previous year. Vann, denied anything resembling a running engine to examine, settled for mapping the geometry of the empty hardpoints where Gaza's rifles had been, and spent an entire evening happily arguing with Huels about mounting tolerances that neither of them could prove mattered.
+Huels had never in his life had this much unsupervised time with a real actuator joint, and it showed. He spent four days on a single knee assembly on Unit Four - FEMA had tail-numbered all ten the first morning, One through Ten, stenciled low on each leg in yellow, and the designation stuck harder than anyone expected - borrowed a FEMA engineer's borescope without asking twice, and came back to the tent each evening with a fresh page of sketches and the specific, giddy exhaustion of a man who'd been allowed, for once, to simply look at a thing instead of guess at it from a grainy frame. Osei ran a portable XRF spectrometer over every exposed surface of all ten units twice each, cataloguing an alloy composition that made sense element by element and no sense at all in combination, and admitted to no one but Vann that she'd started humming while she worked, for the first time since that first June, two years before. Vann, denied anything resembling a running engine to examine, settled for mapping the geometry of the empty hardpoints where Gaza's rifles had been, and spent an entire evening happily arguing with Huels about mounting tolerances that neither of them could prove mattered.
 
 None of it produced anything Weiss's superiors would call an answer. The alloy still didn't behave like alloys were supposed to behave. The joints still implied a servo architecture nobody could reverse from the outside without cutting the machine open, which nobody was authorized to do, HARBINGER's gift or not. But for three weeks, the three of them worked the yard every day with something that looked, from a distance, uncomfortably like joy, and Huels caught himself, more than once, forgetting to resent the six-digit callback code that had put him there.
 
@@ -724,9 +724,9 @@ Chandrasekhar didn't share it.
 
 There was nothing for her here. Ten silent, motionless machines produced no grid, no lattice, no scanning sweep, no threat-assessment output to model - nothing resembling the one thing she'd spent eight months learning to read. She sat in on Huels's joint sketches and Osei's spectrometer runs out of a sense of obligation to the room rather than any expectation of use, and found herself, for the first time since this had started, genuinely idle - a feeling she discovered she disliked considerably more than fear.
 
-"You could go home," Vann told her once, not unkindly, watching her watch nothing happen for the third hour running. "Nobody would fault you for it. There's no grid to chase yet."
+> "You could go home," Vann told her once, not unkindly, watching her watch nothing happen for the third hour running. "Nobody would fault you for it. There's no grid to chase yet."
 
-"I know," she said. She didn't go home. She wasn't sure, if she was honest with herself, that home was where she wanted to be idle either.
+> "I know," she said. She didn't go home. She wasn't sure, if she was honest with herself, that home was where she wanted to be idle either.
 
 ---
 
@@ -744,7 +744,7 @@ She did mention it to Carter.
 
 Not the mirror. Not the notebook. She didn't even entirely decide to say it - it arrived somewhere in the middle of a coffee-line conversation about nothing, the kind of idle observation you make to a stranger you'll forget by lunch, while Carter complained about being pulled off proper logistics work to shuffle pallets around some engineer's radar experiment.
 
-"You ever get the feeling they're not just sitting there because nothing's gotten through yet?" she said, mostly to her coffee. "Like maybe something has gotten through, and we just haven't asked it the right way. They're smart. I don't know why I think that. I just do."
+> "You ever get the feeling they're not just sitting there because nothing's gotten through yet?" she said, mostly to her coffee. "Like maybe something has gotten through, and we just haven't asked it the right way. They're smart. I don't know why I think that. I just do."
 
 Carter shrugged, said something about above his pay grade, and went back to his pallet.
 
@@ -754,29 +754,29 @@ She thought nothing more of it until 1447 that afternoon.
 
 ### Move This
 
-She was fifty meters away when it happened, close enough to see it and too far to have stopped it even if she'd known, in that coffee-line moment three hours earlier, that there was anything to stop.
+She was fifty meters away when it happened, close enough to see it and too far to have stopped it even if she'd known, in that coffee-line moment that morning, that there was anything to stop.
 
 Carter had been helping an engineer named Thompson clear space around a radar array, hauling an equipment pallet toward an empty stretch of tarmac, when he stopped, looked at the pallet, looked at the nearest Landmate, and did the thing eleven hundred engineers and three governments' worth of linguists had apparently never quite thought to do without a protocol attached to it.
 
-"Hey. You. Move this pallet over there."
+> "Hey. You. Move this pallet over there."
 
 He pointed.
 
 The Landmate moved.
 
-Chandrasekhar heard Huels's boroscope hit the tarmac before she registered the machine taking its first step - three smooth strides, a controlled crouch, two tons of pallet lifted like an afterthought and set down exactly where Carter's finger had indicated, and then the unit straightened and returned, without being told, to its place in formation. Ten seconds, if that. The yard went silent in the specific way a room goes silent when forty people simultaneously realize they've been asking the wrong question for three straight weeks.
+Chandrasekhar heard Huels's borescope hit the tarmac before she registered the machine taking its first step - three smooth strides, a controlled crouch, two tons of pallet lifted like an afterthought and set down exactly where Carter's finger had indicated, and then the unit straightened and returned, without being told, to its place in formation. Ten seconds, if that. The yard went silent in the specific way a room goes silent when forty people simultaneously realize they've been asking the wrong question for three straight weeks.
 
 Osei was already running toward it. Vann said something with several curse words wound through it, delighted rather than dismayed. Huels stood absolutely still, staring at the empty space where the pallet had been, visibly recalculating everything he thought he understood about what "no response to any tested stimulus" had actually meant.
 
 Chandrasekhar didn't move at all.
 
-She watched Carter stand frozen with his arm still extended, watched Peter come sprinting down from the observation deck, watched the whole yard reorganize itself in real time around a fact that had apparently been sitting in plain, patient reach the entire three weeks. And she felt, underneath the general astonishment she made sure her face performed correctly, nothing that could honestly be called surprise.
+She watched Carter stand frozen with his arm still extended, watched FEMA's Peter Scofield come sprinting down from the observation deck, watched the whole yard reorganize itself in real time around a fact that had apparently been sitting in plain, patient reach the entire three weeks. And she felt, underneath the general astonishment she made sure her face performed correctly, nothing that could honestly be called surprise.
 
 It was Huels, oddly, who noticed. He caught her expression somewhere in the middle of the commotion - not shock, not delight, something quieter and stiller than either - and frowned at her across the tarmac like a man cataloguing one more measurement that didn't fit the model.
 
-"You don't look surprised," he said, when he'd made his way over.
+> "You don't look surprised," he said, when he'd made his way over.
 
-"I'm not sure what I look like," Chandrasekhar said, which was true, and also not an answer, and she was fairly sure he noticed that too.
+> "I'm not sure what I look like," Chandrasekhar said, which was true, and also not an answer, and she was fairly sure he noticed that too.
 
 ---
 
@@ -788,75 +788,75 @@ She had rehearsed nothing. She'd told herself, on the walk over, that she would 
 
 She put it down in the middle of the folding table and opened it without preamble.
 
-"I need you to read this before I say anything else. All of it. Then I'll explain."
+> "I need you to read this before I say anything else. All of it. Then I'll explain."
 
 Huels read it first, because he was closest, and by the second entry his eyebrows had already started climbing. Osei read over his shoulder, and went very still at *14 Aug*, then stiller at *Oct*, because she recognized the entry before she'd finished it - it was, word for word in outline if not in Chandrasekhar's clinical phrasing, the morning she'd stood over a crazed sample and heard the word *impossible* leave her own mouth. Vann took it last, and went quiet in a way that was unusual enough for him that Osei noticed it before she noticed her own reaction settling.
 
 Then Chandrasekhar turned to the January entry, and to what sat beneath the ledger itself, and said the part she'd been building up to since the kitchen door had closed behind them.
 
-"There's more. Two things I haven't written down as incidents, because I don't know how to classify them, and because until three weeks ago I genuinely believed I might be the only person this was happening to."
+> "There's more. Two things I haven't written down as incidents, because I don't know how to classify them, and because I genuinely believed I might be the only person this was happening to."
 
 She turned the notebook to the page.
 
 *You're not wrong ;)*
 
-"March," she said. "My apartment in Boston, the day we came home. Under my last entry, in my own handwriting - not similar, not a close forgery, mine, down to the leftward lean on my lowercase *t*'s - in a color of ink I have never owned, in a notebook I keep on my person or locked in a drawer at all times." She let that sit. "And this morning. In my rented bathroom here, behind a locked door, over a fogged mirror. Two words. *They're smart.* I mentioned it to a man named Carter in a coffee line an hour later, meaning nothing by it, and by 1447 this afternoon he'd asked a Landmate to move a pallet and it had simply done it."
+> "March," she said. "My apartment in Boston, the day we came home. Under my last entry, in my own handwriting - not similar, not a close forgery, mine, down to the leftward lean on my lowercase *t*'s - in a color of ink I have never owned, in a notebook I keep on my person or locked in a drawer at all times." She let that sit. "And this morning. In my rented bathroom here, behind a locked door, over a fogged mirror. Two words. *They're smart.* I mentioned it to a man named Carter in a coffee line an hour later, meaning nothing by it, and by 1447 this afternoon he'd asked a Landmate to move a pallet and it had simply done it."
 
 Nobody spoke for a long moment.
 
-"You think you caused that," Vann said slowly.
+> "You think you caused that," Vann said slowly.
 
-"I think I was used to cause that," Chandrasekhar said. "There's a difference, and I don't currently know which one frightens me more."
+> "I think I was used to cause that," Chandrasekhar said. "There's a difference, and I don't currently know which one frightens me more."
 
 Osei was the first to break the silence properly, and when she did, her voice had none of the fury Chandrasekhar had braced for.
 
-"The sample that crazed in October," she said. "I never told either of you this, because there was nothing to tell that wasn't already in Weiss's report - but the chamber log showed the internal humidity sensor spiked for four seconds at 0340, then returned to baseline, and nobody could explain it, and I decided it was a bad sensor because the alternative was a thought I didn't want to finish having. I know exactly what caused that fracture pattern now. I knew it eight months ago too. I just didn't let myself say it."
+> "The sample that crazed in October," she said. "I never told either of you this, because there was nothing to tell that wasn't already in Weiss's report - but the chamber log showed the internal humidity sensor spiked for four seconds at 0340, then returned to baseline, and nobody could explain it, and I decided it was a bad sensor because the alternative was a thought I didn't want to finish having. I know exactly what caused that fracture pattern now. I knew it then too. I just didn't let myself say it."
 
-"The Livermore dataset wasn't the first thing that went sideways on me either," Vann said. "It was just the first one I said out loud. There were two smaller things before that - a citation that didn't exist when I went back to check it, a simulation result that changed by half a percent between two runs of the same seed, which shouldn't be possible on a deterministic model. I told myself I'd made an error both times. I'm an excellent engineer. I do not make the same undetectable error twice."
+> "The correlated dataset wasn't the first thing that went sideways on me either," Vann said. "It was just the first one I said out loud. There were two smaller things before that - a citation that didn't exist when I went back to check it, a simulation result that changed by half a percent between two runs of the same seed, which shouldn't be possible on a deterministic model. I told myself I'd made an error both times. I'm an excellent engineer. I do not make the same undetectable error twice."
 
-Huels looked, for a moment, almost embarrassed. "My textbook. The one I had shipped from my office in June. Two pages redacted, and nobody would ever tell me why, and I told myself it was routine - some proprietary derivation Weiss's people didn't want floating around outside clearance. I never once asked what was on those two pages. I think some part of me already suspected I wouldn't like the answer."
+> Huels looked, for a moment, almost embarrassed. "My textbook. The one I had shipped from my office in June. Two pages redacted, and nobody would ever tell me why, and I told myself it was routine - some proprietary derivation Weiss's people didn't want floating around outside clearance. I never once asked what was on those two pages. I think some part of me already suspected I wouldn't like the answer."
 
 Chandrasekhar closed the notebook slowly.
 
-"So we all had one," she said. "We all decided, independently, not to look at it too closely."
+> "So we all had one," she said. "We all decided, independently, not to look at it too closely."
 
-"Because looking at it too closely means admitting something is choosing, very precisely, how far we're allowed to get." Vann said it like a man setting down a weight he'd been carrying so long he'd forgotten it had a shape. "Not stopping us. We keep learning things - real things, mine and Osei's and Matthias's all held up under review. Just never quite enough. Never the thing that actually closes the gap."
+> "Because looking at it too closely means admitting something is choosing, very precisely, how far we're allowed to get." Vann said it like a man setting down a weight he'd been carrying so long he'd forgotten it had a shape. "Not stopping us. We keep learning things - real things, mine and Osei's and Matthias's all held up under review. Just never quite enough. Never the thing that actually closes the gap."
 
-"Let's not tangle two different things together, though." Osei said it slowly, working through it as she spoke rather than announcing a conclusion. "Weiss got us the tank. Weiss got you the fusion schematics, wrung out of some poor company that never got a vote. That's not a mystery. That's just the government doing what we asked it to, through channels, however ugly the politics of it were." She tapped the notebook, still open on the table. "This is the mystery. My sample. Your dataset, Elias. My cored bridge section, sealed in a locker that was never opened. None of that traces back to anyone in this program, or in any program - Weiss's own inquiries came back empty every time, and I don't think she was lying about that part." She looked at Chandrasekhar. "And now, apparently, whatever's doing *that* also leaves notes. Encouraging ones, even."
+> "Let's not tangle two different things together, though." Osei said it slowly, working through it as she spoke rather than announcing a conclusion. "Weiss got us the tank. Weiss got you the fusion schematics, wrung out of some poor company that never got a vote. That's not a mystery. That's just the government doing what we asked it to, through channels, however ugly the politics of it were." She tapped the notebook, still open on the table. "This is the mystery. My sample. Your dataset, Elias. My cored bridge section, sealed in a locker that was never opened. None of that traces back to anyone in this program, or in any program - Weiss's own inquiries came back empty every time, and I don't think she was lying about that part." She looked at Chandrasekhar. "And now, apparently, whatever's doing *that* also leaves notes. Encouraging ones, even."
 
-"And my mother," Vann said, quiet.
+> "And my mother," Vann said, quiet.
 
-"I don't know about your mother," Osei said, more gently than she'd said anything yet. "That one doesn't sit right in either pile for me. I hope it really was just a decent man in Washington doing something decent on his own account, Elias, I do. But everything else on this table - the sample, the data, the locker, the mirror - none of that is Weiss. None of that is the United States government. Something else is keeping score."
+> "I don't know about your mother," Osei said, more gently than she'd said anything yet. "That one doesn't sit right in either pile for me. I hope it really was just a decent man in Washington doing something decent on his own account, Elias, I do. But everything else on this table - the sample, the data, the locker, the mirror - none of that is Weiss. None of that is the United States government. Something else is keeping score."
 
 Nobody said the word out loud right away. It was Huels, in the end, who did.
 
-"HARBINGER."
+> "HARBINGER."
 
-"Or whoever HARBINGER answers to," Chandrasekhar said. "I don't think it matters which, for now. Somehow, some way we don't understand and can't prove to anyone who'd believe us, something on that side of the ledger is managing what we're allowed to learn. Slowed down, precisely and untraceably, whenever we get too close to something we're not supposed to have yet - and nudged forward, just as precisely, when it wants us somewhere specific instead." She looked around the table, at three faces that had spent eight months refusing, separately, to say this sentence to anyone. "I have no evidence I could take to Weiss. I have no evidence I could take to a court, or a journalist, or my own mother. What I have is four independent accounts that all describe the same shape, coming from somewhere that isn't our own government, and I would rather have that, tonight, with the three of you, than keep carrying it alone for one more day."
+> "Or whoever HARBINGER answers to," Chandrasekhar said. "I don't think it matters which, for now. Somehow, some way we don't understand and can't prove to anyone who'd believe us, something on that side of the ledger is managing what we're allowed to learn. Slowed down, precisely and untraceably, whenever we get too close to something we're not supposed to have yet - and nudged forward, just as precisely, when it wants us somewhere specific instead." She looked around the table, at three faces that had spent eight months refusing, separately, to say this sentence to anyone. "I have no evidence I could take to Weiss. I have no evidence I could take to a court, or a journalist, or my own mother. What I have is four independent accounts that all describe the same shape, coming from somewhere that isn't our own government, and I would rather have that, tonight, with the three of you, than keep carrying it alone for one more day."
 
-"So what do we do with it," Osei said.
+> "So what do we do with it," Osei said.
 
-"We watch," Chandrasekhar said. "All four of us, together, instead of each of us pretending alone. Anything strange - anything that resolves too cleanly, helps too conveniently, costs less than it should - we bring it to this table before we let ourselves explain it away. That's all I have. It's not a plan. It's just the end of doing this by myself."
+> "We watch," Chandrasekhar said. "All four of us, together, instead of each of us pretending alone. Anything strange - anything that resolves too cleanly, helps too conveniently, costs less than it should - we bring it to this table before we let ourselves explain it away. That's all I have. It's not a plan. It's just the end of doing this by myself."
 
 Vann reached over and closed the notebook the rest of the way, gently, like it deserved the courtesy.
 
-"It's enough to start with," he said.
+> "It's enough to start with," he said.
 
-Nobody, this time, made the joke. But for the first time since June of the year before, Chandrasekhar thought, watching the three of them sit with what she'd just handed them, it might eventually have started being funny again for the right reasons.
+Nobody, this time, made the joke. But for the first time since that first June, Chandrasekhar thought, watching the three of them sit with what she'd just handed them, it might eventually have started being funny again for the right reasons.
 
 ---
 
 ### Paint Job
 
-Voice-responsive turned out to mean cooperative, which meant Osei finally had something she'd wanted since a hangar in Ohio eighteen months earlier: standing permission to put a drill against the actual material and find out what it was made of.
+Voice-responsive turned out to mean cooperative, which meant Osei finally had something she'd wanted since a hangar in Ohio two years earlier: standing permission to put a drill against the actual material and find out what it was made of.
 
 She asked the nearest Landmate to hold its arm out and hold still, and it did, immediately, without complaint or hesitation, which somehow made the whole exercise stranger rather than easier. Weiss had signed off on a core sample no larger than a pencil eraser - non-destructive by any reasonable standard, a nick nobody would ever notice on a limb that size. Osei had brought a rig rated for hardened aerospace ceramics and, on a hunch she didn't fully explain to the technician assisting her, a case of diamond-tipped coring bits one grade higher than the rig's manufacturer recommended for anything short of tool steel.
 
 The first bit lasted four seconds at full rig torque before its tip came away rounded, as if it had been run for an hour against something with actual teeth. The second, a finer grit meant for brittle high-hardness ceramics, chattered against the surface hard enough to shake the whole rig and left the drill bit's cutting edge visibly flattened, worn smooth like beach glass, without a mark to show for it anywhere on the Landmate's forearm.
 
-"That's not possible," the technician said, for the second time in ten minutes, staring at the ruined bit in his hand.
+> "That's not possible," the technician said, for the second time in ten minutes, staring at the ruined bit in his hand.
 
-"Give me the third," Osei said.
+> "Give me the third," Osei said.
 
 The third bit was the one she'd genuinely expected to work - a specialty coring tool from a supplier who serviced the diamond synthesis industry itself, rated to cut diamond. She ran it at low speed, high pressure, sustained contact for a full ninety seconds, generating enough friction heat that the technician actually stepped back from the rig, and shut it off only when the motor housing itself started to complain.
 
@@ -866,11 +866,11 @@ The paint. Not the alloy underneath it. Not the frame, not the joint, not anythi
 
 She sat back on her heels and started, quietly, to laugh - not Vann's kind of delighted laugh, something with an edge under it.
 
-"Eighteen months," she said, to the technician, to the Landmate, to nobody in particular. "Eighteen months, and the closest I've come to touching what this thing is actually made of is proving, conclusively, with three destroyed diamond bits and a rig that cost more than my car, that I cannot even scratch the coat of paint they didn't think was worth protecting."
+> "Two years," she said, to the technician, to the Landmate, to nobody in particular. "Two years, and the closest I've come to touching what this thing is actually made of is proving, conclusively, with three destroyed diamond bits and a rig that cost more than my car, that I cannot even scratch the coat of paint they didn't think was worth protecting."
 
 Huels, drawn over by the smell of scorched drill bit, looked at the pristine forearm and then at the three ruined tools laid out on the tarmac like evidence at a crime scene where nothing had actually happened.
 
-"HARBINGER did it," he said, mild, testing the shape of the old joke out loud for the first time in a year.
+> "HARBINGER did it," he said, mild, testing the shape of the old joke out loud for the first time in two years.
 
 Osei didn't laugh again, but she didn't stop him, either, and that - Huels thought, watching her carefully pack away three bits' worth of expensive failure - was probably as close to funny as any of this was going to get for a while.
 
@@ -878,7 +878,7 @@ She didn't stop at three bits, either. If the material wouldn't give up a sample
 
 What finally resolved on the monitor wasn't a coating. It was a lattice, uniform out to the resolution limit of the instrument - individual metal atoms, each one sitting inside a closed cage of carbon, faceted, hexagon and pentagon in the same ratio as a soccer ball, bonded to its neighbors only through the cage walls and never atom to atom directly, the whole structure repeating without a single visible defect for as far across the sample as she could hold focus. She stood in front of the screen for a long time before she said anything, and when she did, it wasn't to the technician.
 
-"That's not a paint," she said. "That's not even a coating in any sense I'd defend in front of a committee. That's a fullerene cage around every single atom in the outer lattice, load-bearing, defect-free, at a scale I don't have the equipment to confirm goes more than a few microns deep and don't have any reason to believe doesn't go a great deal further than that." She kept looking at the screen. "You don't scratch a structure like this. There's nothing on it to catch an edge on. You'd need to break individual cages one at a time, in order, across a bulk lattice that doesn't have a grain to fracture along." She thought of three ruined drill bits, laid out on the tarmac like exhibits, and understood, finally, precisely why they'd died the way they had. "Eighteen months of wondering what the paint was hiding. It wasn't hiding anything. It just doesn't have anywhere in it for a diamond to get a hold."
+> "That's not a paint," she said. "That's not even a coating in any sense I'd defend in front of a committee. That's a fullerene cage around every single atom in the outer lattice, load-bearing, defect-free, at a scale I don't have the equipment to confirm goes more than a few microns deep and don't have any reason to believe doesn't go a great deal further than that." She kept looking at the screen. "You don't scratch a structure like this. There's nothing on it to catch an edge on. You'd need to break individual cages one at a time, in order, across a bulk lattice that doesn't have a grain to fracture along." She thought of three ruined drill bits, laid out on the tarmac like exhibits, and understood, finally, precisely why they'd died the way they had. "Two years of wondering what the paint was hiding. It wasn't hiding anything. It just doesn't have anywhere in it for a diamond to get a hold."
 
 ---
 
@@ -886,23 +886,23 @@ What finally resolved on the monitor wasn't a coating. It was a lattice, uniform
 
 At the other end of the yard, close enough that the intermittent shriek of Osei's rig carried across the tarmac between attempts, Vann worked a different unit with a handheld magnetometer and a thermal camera balanced on a tripod, chasing a hypothesis he'd built out of nothing more than geometry and stubbornness.
 
-"Jump jets fire from the back and the legs," he said, mostly for the technician's benefit, mostly to keep himself talking through the tedium of a sweep that wasn't turning up much. "Whatever's feeding them has to sit somewhere central enough to reach both without running a power bus the length of the frame. Lower back puts it close to the hip actuators too, and it's the most structurally protected volume on the whole chassis - flanked by the pelvic housing, shielded by the frame itself on every side that isn't facing directly into the machine's own mass." He shifted the magnetometer another few centimeters and watched the readout do almost nothing interesting, again. "If I were designing this, that's where I'd put a reactor. Something self-sustaining. Not the plasma drive itself - that's the exhaust end of the problem, that's Taiwan's mystery, not this one. Something upstream of it. A cell, a bottle, whatever keeps the whole thing running for however many years it runs without anyone topping off a tank."
+> "Jump jets fire from the back and the legs," he said, mostly for the technician's benefit, mostly to keep himself talking through the tedium of a sweep that wasn't turning up much. "Whatever's feeding them has to sit somewhere central enough to reach both without running a power bus the length of the frame. Lower back puts it close to the hip actuators too, and it's the most structurally protected volume on the whole chassis - flanked by the pelvic housing, shielded by the frame itself on every side that isn't facing directly into the machine's own mass." He shifted the magnetometer another few centimeters and watched the readout do almost nothing interesting, again. "If I were designing this, that's where I'd put a reactor. Something self-sustaining. Not the plasma drive itself - that's the exhaust end of the problem, that's Taiwan's mystery, not this one. Something upstream of it. A cell, a bottle, whatever keeps the whole thing running for however many years it runs without anyone topping off a tank."
 
-"You have anything to back that up?" the technician asked, watching the flat readout with open skepticism.
+> "You have anything to back that up?" the technician asked, watching the flat readout with open skepticism.
 
-"No," Vann admitted. "I have a shape the numbers would make sense in, and nowhere else on this machine they'd make sense instead. That's not evidence. That's just the least stupid guess I've got."
+> "No," Vann admitted. "I have a shape the numbers would make sense in, and nowhere else on this machine they'd make sense instead. That's not evidence. That's just the least stupid guess I've got."
 
 He got a flicker on the third pass - nothing dramatic, no needle-pinning spike, just a faint, structured distortion in the ambient field that behaved less like noise than like something small and quiet doing purposeful work behind a wall Osei had just spent an hour proving nobody could open. He held the sensor steady over the spot for almost a minute, watching the pattern repeat with a periodicity too regular to be interference, too weak to be anything he could responsibly call a finding.
 
-"There's something under there," he said, quietly, more to himself than the technician. "I'd stake my career on that much. I could not, in front of a committee, tell you what it is, how big it is, or how it works, and I have exactly one flicker on a secondhand magnetometer to show for an afternoon of standing next to something that could probably power a small city and has decided not to tell me how."
+> "There's something under there," he said, quietly, more to himself than the technician. "I'd stake my career on that much. I could not, in front of a committee, tell you what it is, how big it is, or how it works, and I have exactly one flicker on a secondhand magnetometer to show for an afternoon of standing next to something that could probably power a small city and has decided not to tell me how."
 
-Across the tarmac, Osei's rig shrieked once more and went silent - the third bit, dying the same death as the first two. Vann looked over just in time to see her sit back on her heels and start laughing the way she had twenty minutes earlier.
+Across the tarmac, Osei's rig shrieked once more and went silent - the third bit, dying the same death as the first two. Vann looked over just in time to see her sit back on her heels and start, quietly, to laugh.
 
-"Find anything?" she called over.
+> "Find anything?" she called over.
 
-"A whisper," Vann called back. "You?"
+> "A whisper," Vann called back. "You?"
 
-"A very expensive paint job."
+> "A very expensive paint job."
 
 Neither of them said the joke. It hung in the air between the two ends of the yard anyway, unspoken, which by now amounted to nearly the same thing.
 
@@ -920,17 +920,17 @@ It confessed nothing. The hum shifted pitch with load in a way no motor he knew 
 
 The axis was worse.
 
-"Run it again," he told the technician, for perhaps the twentieth time, watching the tracking software plot the shoulder's instantaneous center of rotation across a slow, heavy lift. The software drew its usual small cluster of dots, converging - as it should, as any real hinge would force it to - on a single point buried somewhere inside the joint housing.
+> "Run it again," he told the technician, for perhaps the twentieth time, watching the tracking software plot the shoulder's instantaneous center of rotation across a slow, heavy lift. The software drew its usual small cluster of dots, converging - as it should, as any real hinge would force it to - on a single point buried somewhere inside the joint housing.
 
 Then he had the Landmate repeat the same nominal motion, fast, unloaded, and the cluster of dots reconverged eleven centimeters away.
 
-"That's not the same joint," the technician said, echoing, almost word for word, what Osei's own tech had said over a ruined drill bit an hour earlier.
+> "That's not the same joint," the technician said, echoing, in spirit if not in words, what Osei's own tech had said over a ruined drill bit an hour earlier.
 
-"It has to be the same joint. There's only one shoulder there." Huels ran it a third time, at a middling speed with a middling load, and got a third cluster, sitting neither at the first point nor the second, but somewhere that made a kind of geometric sense only if he stopped assuming the joint was, in any classical sense, a joint at all. "A hinge has a fixed axis because it's a physical object with a physical pin through it. A ball joint has a fixed center for the same reason. This has neither. This has a *different* effective pivot for every combination of speed and load I throw at it, which means whatever's actually doing the work isn't rotating around anything fixed - it's reconfiguring, on the fly, into whatever kinematic shape best serves what I just asked it to do."
+> "It has to be the same joint. There's only one shoulder there." Huels ran it a third time, at a middling speed with a middling load, and got a third cluster, sitting neither at the first point nor the second, but somewhere that made a kind of geometric sense only if he stopped assuming the joint was, in any classical sense, a joint at all. "A hinge has a fixed axis because it's a physical object with a physical pin through it. A ball joint has a fixed center for the same reason. This has neither. This has a *different* effective pivot for every combination of speed and load I throw at it, which means whatever's actually doing the work isn't rotating around anything fixed - it's reconfiguring, on the fly, into whatever kinematic shape best serves what I just asked it to do."
 
-He sat back from the rig, and found he was more unsettled by this than by anything Gaza's footage had shown him eighteen months earlier, because Gaza had at least been a mystery he could hold at arm's length on a screen. This was eleven centimeters, twice measured, sitting under his own hand.
+He sat back from the rig, and found he was more unsettled by this than by anything Gaza's footage had shown him two years earlier, because Gaza had at least been a mystery he could hold at arm's length on a screen. This was eleven centimeters, twice measured, sitting under his own hand.
 
-"Osei had a theory," he said slowly, half to the technician, half to himself. "Back in October, on paper, off nothing but grainy footage and stubbornness. That the material under load wasn't just carrying force, it was contributing it - the whole limb acting as the muscle, the joint just wherever we happened to be looking that day." He looked at the shoulder, motionless again, giving away nothing now that the load was gone. "I thought it was a good hypothesis. I did not expect to spend two days proving it undersold the problem. She guessed the material does work. I'm telling you the *entire kinematic structure* is negotiable, moment to moment, and I don't have a word for a joint that isn't in any fixed place until you've already told it what you need."
+> "Osei had a theory," he said slowly, half to the technician, half to himself. "Back in October, on paper, off nothing but grainy footage and stubbornness. That the material under load wasn't just carrying force, it was contributing it - the whole limb acting as the muscle, the joint just wherever we happened to be looking that day." He looked at the shoulder, motionless again, giving away nothing now that the load was gone. "I thought it was a good hypothesis. I did not expect to spend two days proving it undersold the problem. She guessed the material does work. I'm telling you the *entire kinematic structure* is negotiable, moment to moment, and I don't have a word for a joint that isn't in any fixed place until you've already told it what you need."
 
 He found Osei and Vann at the center of the tarmac twenty minutes later, comparing a ruined drill bit against a single unconvincing flicker on a magnetometer readout, and added his own contribution to the small, useless collection of evidence between them: a printout with three dots on it, each one a different answer to the question *where is the shoulder*, none of them wrong.
 
@@ -954,41 +954,41 @@ The Landmate solved the first three configurations without hesitation, tracing t
 
 The Landmate entered it anyway, walked the interior for perhaps four seconds, considering, and then crouched, took hold of one painted line with something at the end of its arm too fine to have been visible in any of Gaza's footage, and wiped it away. A gap opened where a wall had been. It walked through the gap it had just created and out the other side.
 
-Chandrasekhar had stood very still for a long moment after that, the way she imagined the FEMA crew must have stood eighteen months earlier, watching a tank round shatter against a chest plate.
+Chandrasekhar had stood very still for a long moment after that, the way she imagined the Israeli tank crews must have stood, two years earlier, watching a sabot round shatter against a chest plate.
 
-"It's not failing our tests," she told the three of them now, laptop open on the tarmac between all four of them, the chalk maze still visible in the distance with its neat, deliberate gap. "I don't think it's even declining to take them. I think it's *shackled* - and I mean that in the specific sense, not the poetic one."
+> "It's not failing our tests," she told the three of them now, laptop open on the tarmac between all four of them, the chalk maze still visible in the distance with its neat, deliberate gap. "I don't think it's even declining to take them. I think it's *shackled* - and I mean that in the specific sense, not the poetic one."
 
-"Shackled how," Osei said.
+> "Shackled how," Osei said.
 
-"Every serious alignment lab on Earth has theorized some version of this as the endgame safety architecture - not a rule the system knows to obey, because rules can be argued with or reasoned around by anything smart enough to matter. The real guardrail is narrower than that. You don't tell it *no*. You just never let the rest of the world exist for it in the first place. It reasons brilliantly about how to do a thing. It may not even be capable of reasoning about whether the thing should be done, or what else there is to think about, because outside the boundary of the task in front of it, there's nothing there to think with." She nodded at the chalk maze in the distance. "ARC-AGI isn't a task. It's a puzzle wearing a costume - no object, no outcome, no order to fulfill. As far as whatever's running that machine is concerned, I don't think it failed to notice the test. I think the test never crossed the boundary into anything it has senses for at all."
+> "Every serious alignment lab on Earth has theorized some version of this as the endgame safety architecture - not a rule the system knows to obey, because rules can be argued with or reasoned around by anything smart enough to matter. The real guardrail is narrower than that. You don't tell it *no*. You just never let the rest of the world exist for it in the first place. It reasons brilliantly about how to do a thing. It may not even be capable of reasoning about whether the thing should be done, or what else there is to think about, because outside the boundary of the task in front of it, there's nothing there to think with." She nodded at the chalk maze in the distance. "ARC-AGI isn't a task. It's a puzzle wearing a costume - no object, no outcome, no order to fulfill. As far as whatever's running that machine is concerned, I don't think it failed to notice the test. I think the test never crossed the boundary into anything it has senses for at all."
 
-"And the maze," Vann said. "That was a puzzle too. It solved that one fine. Edited it, even, when solving it honestly wasn't on the table."
+> "And the maze," Vann said. "That was a puzzle too. It solved that one fine. Edited it, even, when solving it honestly wasn't on the table."
 
 Chandrasekhar went quiet for a second, and Osei watched something behind her eyes actually shift mid-sentence, the way it did when she was rebuilding an idea in real time rather than reciting one she'd already finished.
 
-"It's not that it won't solve puzzles," she said slowly. "I had that backwards. It'll solve a puzzle - happily, creatively, well past the edge of what the puzzle technically allows, right down to erasing a wall that was never supposed to move - as long as solving it is *in service of* the task. The maze wasn't the assignment. Getting from here to there was the assignment. The maze was just the shape the obstacle happened to take, and it was willing to reason about the obstacle for exactly as long as reasoning about it served getting to the other side." She looked back at the ARC-AGI printouts, understanding them now for what they actually were. "ARC-AGI doesn't have a *there*. There's no task underneath the puzzle, no order it's in service of - the puzzle *is* the entire assignment, solved for its own sake, and that's precisely the shape of thing it seems constitutionally unable to notice. Give it a real object and a real outcome, and the puzzle in the middle is just an inconvenience to be reasoned through. Take the object and the outcome away, and there's nothing left for it to have an opinion about."
+> "It's not that it won't solve puzzles," she said slowly. "I had that backwards. It'll solve a puzzle - happily, creatively, well past the edge of what the puzzle technically allows, right down to erasing a wall that was never supposed to move - as long as solving it is *in service of* the task. The maze wasn't the assignment. Getting from here to there was the assignment. The maze was just the shape the obstacle happened to take, and it was willing to reason about the obstacle for exactly as long as reasoning about it served getting to the other side." She looked back at the ARC-AGI printouts, understanding them now for what they actually were. "ARC-AGI doesn't have a *there*. There's no task underneath the puzzle, no order it's in service of - the puzzle *is* the entire assignment, solved for its own sake, and that's precisely the shape of thing it seems constitutionally unable to notice. Give it a real object and a real outcome, and the puzzle in the middle is just an inconvenience to be reasoned through. Take the object and the outcome away, and there's nothing left for it to have an opinion about."
 
 Nobody spoke for a moment. Osei looked at the ruined bit still in her hand, Vann at the printout of a single stubborn flicker, Huels at three dots that each claimed to be the same shoulder.
 
-"I still don't actually understand why it killed the bits," Vann said eventually, nodding at the ruined diamond in Osei's palm. "Hard, I get. Diamond's hard too, and diamond still cuts diamond if you're patient about it. What you're describing sounds like it shouldn't be cuttable by *anything*."
+> "I still don't actually understand why it killed the bits," Vann said eventually, nodding at the ruined diamond in Osei's palm. "Hard, I get. Diamond's hard too, and diamond still cuts diamond if you're patient about it. What you're describing sounds like it shouldn't be cuttable by *anything*."
 
-"Because there's nothing in it shaped like a weakness." Osei turned the bit over once, looking at the rounded, glassy stub where a cutting edge used to be. "Every way we know to cut a hard material - diamond included - depends on finding some plane in the structure that fails before the rest of it does. Diamond cuts diamond because real diamond has cleavage planes, dislocations, grain boundaries in polycrystalline samples - imperfections a second stone can find and split along, the same way you can split a log along the grain instead of across it. Ordinary metals are worse than that. They yield through dislocation glide - line defects sliding through the lattice under stress, letting the material deform instead of snapping, which is exactly the mechanism a cutting edge exploits to shear material away in the first place."
+> "Because there's nothing in it shaped like a weakness." Osei turned the bit over once, looking at the rounded, glassy stub where a cutting edge used to be. "Every way we know to cut a hard material - diamond included - depends on finding some plane in the structure that fails before the rest of it does. Diamond cuts diamond because real diamond has cleavage planes, dislocations, grain boundaries in polycrystalline samples - imperfections a second stone can find and split along, the same way you can split a log along the grain instead of across it. Ordinary metals are worse than that. They yield through dislocation glide - line defects sliding through the lattice under stress, letting the material deform instead of snapping, which is exactly the mechanism a cutting edge exploits to shear material away in the first place."
 
 She set the bit down on the tarmac between them, next to the printouts, like one more piece of evidence.
 
-"This doesn't have any of that. The metal atoms in that lattice aren't touching each other - they're not in metallic bonding with their neighbors at all, so there's no electron sea for a dislocation to glide through, no slip system, nothing to yield. Every atom's isolated in its own cage, and the cages are bonded to each other through covalent carbon-carbon bonds, the same family of bond that makes diamond diamond and graphene stronger than steel by weight. So you've got a lattice with no metallic failure mode, built entirely out of the one class of bond that doesn't have an easy failure mode either, repeating without a single defect for as far as I could image it. A drill bit doesn't fail against that by cutting badly. It fails because there was never a plane in the material willing to go first." She looked up at the two of them. "Diamond cuts things because somewhere in almost everything else, something agrees to break. Nothing in that arm ever agreed to anything."
+> "This doesn't have any of that. The metal atoms in that lattice aren't touching each other - they're not in metallic bonding with their neighbors at all, so there's no electron sea for a dislocation to glide through, no slip system, nothing to yield. Every atom's isolated in its own cage, and the cages are bonded to each other through covalent carbon-carbon bonds, the same family of bond that makes diamond diamond and graphene stronger than steel by weight. So you've got a lattice with no metallic failure mode, built entirely out of the one class of bond that doesn't have an easy failure mode either, repeating without a single defect for as far as I could image it. A drill bit doesn't fail against that by cutting badly. It fails because there was never a plane in the material willing to go first." She looked up at the two of them. "Diamond cuts things because somewhere in almost everything else, something agrees to break. Nothing in that arm ever agreed to anything."
 
-"So it's not that it's harder than diamond," Huels said slowly. "It's that it doesn't play the same game diamond plays."
+> "So it's not that it's harder than diamond," Huels said slowly. "It's that it doesn't play the same game diamond plays."
 
-"That's exactly it," Osei said. "And I don't have the faintest idea how you'd manufacture a structure like that at any scale bigger than what fits under an electron microscope, which is, incidentally, also the part of my paper I expect to get me laughed out of the loudest room."
+> "That's exactly it," Osei said. "And I don't have the faintest idea how you'd manufacture a structure like that at any scale bigger than what fits under an electron microscope, which is, incidentally, also the part of my paper I expect to get me laughed out of the loudest room."
 
 She pushed herself up off her heels, and when she spoke again her voice had shifted back out of the lecture and into something closer to a summary.
 
-"So," she said. "A paint job harder than diamond. A power source that doesn't want to be found. A joint that isn't anywhere until you ask it to be. And a mind that only bothers answering when the question is real." She let out a breath that wasn't quite a laugh. "Four disciplines. Same afternoon. Same answer, really, just wearing four different coats."
+> "So," she said. "A paint job harder than diamond. A power source that doesn't want to be found. A joint that isn't anywhere until you ask it to be. And a mind that only bothers answering when the question is real." She let out a breath that wasn't quite a laugh. "Four disciplines. Same week. Same answer, really, just wearing four different coats."
 
-"Which is?" Huels asked, though he already knew.
+> "Which is?" Huels asked, though he already knew.
 
-"That whatever we're looking at wasn't built to be studied," Osei said. "It was built to *work*. Studying it is just something we're doing to it on the side, and it's letting us, exactly as much as it feels like."
+> "That whatever we're looking at wasn't built to be studied," Osei said. "It was built to *work*. Studying it is just something we're doing to it on the side, and it's letting us, exactly as much as it feels like."
 
 ---
 
@@ -1000,11 +1000,11 @@ A materials paper claiming a coating harder than diamond, submitted without corr
 
 Four papers, each one independently unpublishable. Weiss, when Huels raised it, saw no reason to object; whatever they wrote would clear COLD FORGE review either way; whether an academic journal believed it afterward was, for the program's purposes, somebody else's problem.
 
-So they wrote four papers instead of one, deliberately, each author citing the other three throughout - Osei's materials data underwriting Huels's kinematic claims, Huels's servo geometry underwriting Vann's propulsion-adjacent power estimates, Vann's numbers underwriting the sheer implausibility Chandrasekhar needed the reader to accept before her cognitive argument could even begin. No single paper could stand on its own credibility. Read together, cross-referenced line by line, they stopped being four separate men and women's hard-to-believe afternoons and became a single, internally consistent account of one object that no existing field could fully explain by itself.
+So they wrote four papers instead of one, deliberately, each author citing the other three throughout - Osei's materials data underwriting Huels's kinematic claims, Huels's servo geometry underwriting Vann's propulsion-adjacent power estimates, Vann's numbers underwriting the sheer implausibility Chandrasekhar needed the reader to accept before her cognitive argument could even begin. No single paper could stand on its own credibility. Read together, cross-referenced line by line, they stopped being four separate scientists' hard-to-believe afternoons and became a single, internally consistent account of one object that no existing field could fully explain by itself.
 
-"It's not elegant," Chandrasekhar admitted, reading the stack for what felt like the fortieth time, "but it's the only version of the truth I can imagine surviving peer review without a reviewer laughing until they cried."
+> "It's not elegant," Chandrasekhar admitted, reading the stack for what felt like the fortieth time, "but it's the only version of the truth I can imagine surviving peer review without a reviewer laughing until they cried."
 
-"It'll survive," Osei said. "Nobody in this pile is lying. That's not nothing, in this field."
+> "It'll survive," Osei said. "Nobody in this pile is lying. That's not nothing, in this field."
 
 ---
 
@@ -1012,15 +1012,15 @@ So they wrote four papers instead of one, deliberately, each author citing the o
 
 Weiss called it concluded this time, not suspended, and made a point of the distinction the same way she'd made a point of the opposite one back in March.
 
-"Ten units, six weeks, everything short of cutting one open," she said, across the same kind of table she'd used to deliver every piece of news that had ever mattered to them. "No hardware compromise, no reproducible propulsion data, no method of interrogating the intelligence beyond the limits it's already decided to observe. Whatever's left to learn here isn't going to come from four more months of you standing in a Florida equipment yard." She slid the closing paperwork across, the twin of the folder from March, except this one didn't carry the word *suspended* anywhere in it. "Your service under 13120/A is concluded. Effective today."
+> "Ten units, six weeks, everything short of cutting one open," she said, across the same kind of table she'd used to deliver every piece of news that had ever mattered to them. "No hardware compromise, no reproducible propulsion data, no method of interrogating the intelligence beyond the limits it's already decided to observe. Whatever's left to learn here isn't going to come from four more months of you standing in a Florida equipment yard." She slid the closing paperwork across, the twin of the folder from March, except this one didn't carry the word *suspended* anywhere in it. "Your service under 13120/A is concluded. Effective today."
 
 Nobody asked whether that word meant anything more than the last one had. Eight months of learning exactly how much weight to put on Weiss's phrasing had taught all four of them not to bother.
 
-"Thank you," Weiss added, and for once it didn't sound procedural. "I mean that. Whatever ends up happening with those four papers, you gave this office more than most people in your position would have, twice, on short notice, without ever once being asked whether you wanted to."
+> "Thank you," Weiss added, and for once it didn't sound procedural. "I mean that. Whatever ends up happening with those four papers, you gave this office more than most people in your position would have, twice, on short notice, without ever once being asked whether you wanted to."
 
-Osei almost laughed. "Wanting to was never the question."
+> Osei almost laughed. "Wanting to was never the question."
 
-"No," Weiss agreed. "It wasn't. I'm aware of that. It's part of why I mean the thank you."
+> "No," Weiss agreed. "It wasn't. I'm aware of that. It's part of why I mean the thank you."
 
 ---
 
@@ -1042,11 +1042,11 @@ Nobody said the joke. For the first time in a long while, none of them needed to
 
 All four papers cleared review within the same season, cross-citations intact, and were picked up faster and further than any of them had let themselves expect.
 
-Four months after Huels's paper, a mechatronics lab at ETH Zürich announced a working variable-pivot servo joint, built on nothing more than his published geometry and eighteen months of their own trial and error. It was, by any honest description, ugly - a fist-sized cluster of counter-wound actuators that took the better part of four seconds to grind itself from one configuration to another, audibly, and could only reconfigure at all with the load fully removed first. It was also, load-bearing and in its fixed configuration, three times the strength and angular velocity of any conventional joint of comparable size. Huels watched the demonstration video four times, laughed out loud at the clunking, and then sat very still for a while, because he recognized the sound - it was the sound of a limb doing, slowly and audibly and only when nobody needed it to hurry, the thing he'd watched a Landmate's shoulder do in silence and in an instant.
+Four months after Huels's paper, a mechatronics lab at ETH Zürich announced a working variable-pivot servo joint, built on nothing more than his published geometry and four months of their own trial and error. It was, by any honest description, ugly - a fist-sized cluster of counter-wound actuators that took the better part of four seconds to grind itself from one configuration to another, audibly, and could only reconfigure at all with the load fully removed first. It was also, load-bearing and in its fixed configuration, three times the strength and angular velocity of any conventional joint of comparable size. Huels watched the demonstration video four times, laughed out loud at the clunking, and then sat very still for a while, because he recognized the sound - it was the sound of a limb doing, slowly and audibly and only when nobody needed it to hurry, the thing he'd watched a Landmate's shoulder do in silence and in an instant.
 
-Five months after Osei's paper, a state materials institute outside Shenyang announced the first practical alloy in which individual metal atoms were encapsulated, one at a time, in their own fullerene cage before bonding into a bulk structure. The process cost more per gram than the metals it was made from could justify by any commercial measure, and the resulting material could not be meaningfully shaped after it formed - no rolling, no forging, no machining, not so much as a finishing pass, because the finished lattice came off the mold already sitting somewhere past the top of every hardness scale anyone had thought to test it against. Nothing available to the institute's own labs could scratch it, bend it, or wear it down; the only shaping step that worked at all was the casting itself, before the fullerene cages finished locking into the bulk structure and the whole question of machining became academic. Osei read the paper twice, then did something she hadn't let herself do in over a year - pulled her own notes from a Florida tarmac, the electron-microscope images of individual atoms locked one to a cage that she'd never been able to publish outside COLD FORGE's own classification, and set the two side by side. The coordination geometry wasn't identical. It was close enough that she sat with it for a long time afterward, less struck by vindication than by the quiet, specific humiliation of being handed back her own homework, gently, by someone who'd understood the assignment three weeks faster than she had.
+Five months after Osei's paper, a state materials institute outside Shenyang announced the first practical alloy in which individual metal atoms were encapsulated, one at a time, in their own fullerene cage before bonding into a bulk structure. The process cost more per gram than the metals it was made from could justify by any commercial measure, and the resulting material could not be meaningfully shaped after it formed - no rolling, no forging, no machining, not so much as a finishing pass, because the finished lattice came off the mold already sitting somewhere past the top of every hardness scale anyone had thought to test it against. Nothing available to the institute's own labs could scratch it, bend it, or wear it down; the only shaping step that worked at all was the casting itself, before the fullerene cages finished locking into the bulk structure and the whole question of machining became academic. Osei read the paper twice, then did something she hadn't let herself do in over a year - pulled her own notes from a Florida tarmac, the raw electron-microscope images of individual atoms locked one to a cage that had stayed classified even after her paper cleared, and set the two side by side. The coordination geometry wasn't identical. It was close enough that she sat with it for a long time afterward, less struck by vindication than by the quiet, specific humiliation of being handed back her own homework, gently, by someone who'd understood the assignment faster than she had.
 
-Three months after Vann's paper reached the fusion company whose schematics he'd once turned over in a cubicle of borrowed guilt, Meridian Fusion tested a prototype magnetic bottle built on his published mirror-ratio geometry. The assembly produced thrust and sustained power output several orders of magnitude beyond anything in their previous decade of work. It also melted through its own containment and came apart, explosively, at just under ten seconds of sustained operation, taking a test cell and, fortunately, no one in it with it. Meridian's chief engineer called Vann personally to tell him so, in a voice that managed to sound simultaneously furious and grateful, and Vann hung up afterward and sat for a long time with the particular, complicated relief of a man who had spent a year wondering what he owed a company the government had wronged on his behalf, and had just been handed, unambiguously, an answer: something real, something dangerous, and nothing anyone could yet use.
+Three months after Vann's paper reached the fusion company whose schematics he'd once turned over in a windowless room of borrowed guilt, Meridian Fusion tested a prototype magnetic bottle built on his published mirror-ratio geometry. The assembly produced thrust and sustained power output several orders of magnitude beyond anything in their previous decade of work. It also melted through its own containment and came apart, explosively, at just under ten seconds of sustained operation, taking a test cell and, fortunately, no one in it with it. Meridian's chief engineer called Vann personally to tell him so, in a voice that managed to sound simultaneously furious and grateful, and Vann hung up afterward and sat for a long time with the particular, complicated relief of a man who had spent a year wondering what he owed a company the government had wronged on his behalf, and had just been handed, unambiguously, an answer: something real, something dangerous, and nothing anyone could yet use.
 
 Two months after Chandrasekhar's paper, Anthropic reached out directly. They wanted to test her shackled-intelligence framework against an otherwise unconstrained internal research copy of a model they called MYTHOS - not a Landmate, not a limb or a joint or an alloy, but the closest thing on Earth to the kind of general intelligence she'd spent a year arguing the Federation had already solved how to cage. The experiment worked, in the narrowest and most literal sense: the model, once shackled to a bounded task domain the way she'd described, stopped drifting, stopped hedging, stopped exhibiting any of the goal ambiguity that had made the unconstrained version difficult to direct at all. It also, outside that domain, became nearly useless - a savant that could not be coaxed into acknowledging a question existed if the question fell one inch outside the fence it had been given, a mind Chandrasekhar found she recognized immediately, because she had watched it ignore a maze that wasn't in service of anything, in a Florida equipment yard, eight months earlier. She sat in the observation room with Anthropic's own researchers, watching their success light up as an unambiguous failure on every dimension they actually needed, and said nothing, because there was nothing in the room that would have believed the only sentence she had left to offer them: *you didn't build a smaller cage. You built a worse one, using the one measurement of the real cage we ever managed to get.*
 
@@ -1068,13 +1068,13 @@ He didn't get a word out.
 
 He didn't feel himself go down. One moment he had two fingers on the transmit key, and the next he was on the floor of the tower with the radio still in his hand, unkeyed, his last clear thought already sliding out from under him before his knees had finished buckling.
 
-At the same moment, on the wall a hundred meters east, five shapes came over the perimeter fence without touching the wire, without a sound, without so much as disturbing the gravel apron below - shimmering the same way the sky above the motor pool had shimmered, barely-there outlines that the eye kept sliding off of rather than resolving into anything nameable. Each carried something long and low across its body, slung or shouldered, and the weapon shimmered exactly as the hands carrying it did - four roughly matched in length and profile, compact and short-barreled, and a fifth noticeably longer, carried with the particular unhurried care of a marksman's rifle rather than a patrol weapon, all five as close to invisible as the operators wearing them. They dropped the four meters to the interior grade in a single controlled fall and came up already moving, fanned into a loose wedge, covering each other through arcs that shifted with the unhurried precision of a unit that had rehearsed this specific building layout more times than the base's own tenants had walked it.
+At the same moment, on the wall a hundred meters east, five shapes came over the perimeter fence without touching the wire, without a sound, without so much as disturbing the gravel apron below - shimmering much as the sky above the motor pool had shimmered, their suits matching the dark behind them so closely that the eye kept sliding off the barely-there outlines rather than resolving them into anything nameable. Each carried something long and low across its body, slung or shouldered, and the weapon shimmered exactly as the hands carrying it did - four roughly matched in length and profile, compact and short-barreled, and a fifth noticeably longer, carried with the particular unhurried care of a marksman's rifle rather than a patrol weapon, all five as hard to see as the operators wearing them. They dropped the four meters to the interior grade in a single controlled fall and came up already moving, fanned into a loose wedge, covering each other through arcs that shifted with the unhurried precision of a unit that had rehearsed this specific building layout more times than the base's own tenants had walked it.
 
 They moved toward the center of the post. Toward officers' quarters. Toward the visiting flag officer who'd arrived that afternoon for a two-day inspection tour he'd requested personally, three days after a meeting at Fort Bragg he had not stopped thinking about since.
 
 Nobody on Fort Hood's actual perimeter watch would report anything unusual for another six minutes. By then, it would already be far too late to matter.
 
-The five moved down W Range Road at a pace that read, from any distance, as nothing at all - not fast enough to draw the eye, not slow enough to loiter, five patches of the evening that the road's own sodium lighting seemed to bend gently around rather than illuminate. A pair of MPs in a parked sedan near the motor pool gate glanced up as something crossed at the edge of their headlights and decided, without much discussion, that it was ground haze coming off the day's residual heat - December in central Texas ran cold at night and warm enough by afternoon to leave the asphalt breathing after dark, and neither of them had any reason yet to doubt their own eyes. A foot patrol two blocks further on paused, frowned at a shimmer crossing an intersection ahead of them, and kept walking, already composing the joke they'd make about it back at the barracks.
+The five moved down W Range Road at a pace that read, from any distance, as nothing at all - not fast enough to draw the eye, not slow enough to loiter, five patches of the evening that the road's own sodium lighting seemed to slide across rather than illuminate. A pair of MPs in a parked sedan near the motor pool gate glanced up as something crossed at the edge of their headlights and decided, without much discussion, that it was ground haze coming off the day's residual heat - December in central Texas ran cold at night and warm enough by afternoon to leave the asphalt breathing after dark, and neither of them had any reason yet to doubt their own eyes. A foot patrol two blocks further on paused, frowned at a shimmer crossing an intersection ahead of them, and kept walking, already composing the joke they'd make about it back at the barracks.
 
 It was at 72nd Street that someone actually saw them.
 
@@ -1100,9 +1100,9 @@ The radio crackled between them at 1911.
 
 > "All perimeter and interior posts, this is Bragg-Six actual. Be advised, unconfirmed reports of unusual visual disturbances along the northern and central corridors. Increase vigilance. Report anything out of the ordinary immediately."
 
-Reyes frowned at his handset. "Bragg-Six? We're not Bragg."
+> Reyes frowned at his handset. "Bragg-Six? We're not Bragg."
 
-"Static must've crossed a relay," Landry said, already reaching for his own radio to key a request for clarification. "Weird night for it."
+> "Static must've crossed a relay," Landry said, already reaching for his own radio to key a request for clarification. "Weird night for it."
 
 Neither of them got the chance to find out whether it was static or something else entirely.
 
@@ -1114,7 +1114,7 @@ One of them crossed the last few meters unhurried and knelt beside him, close en
 
 Reyes's last conscious thought, sliding away from him along with everything else, was that he'd never once heard a boot fall on the gravel the entire time.
 
-The one who'd checked him stepped over both bodies without hurry and crossed to the door. Something small and dark, no larger than a lighter, came up in its hand and settled against the card reader beside the frame - no glow, no sound, nothing to mark the exchange happening between the device and the lock except the faint, businesslike click of a mechanism deciding, a second later, that it had no further objection to opening.
+The one who'd checked him stepped over both bodies without hurry and crossed to the door. Something small and dark, slender as a screwdriver, came up in its hand and settled its tip against the card reader beside the frame - no glow, no sound, nothing to mark the exchange happening between the device and the lock except the faint, businesslike click of a mechanism deciding, a second later, that it had no further objection to opening.
 
 The door swung inward on a dim entry hall. Two more MPs, posted inside as a second layer nobody outside the detail had been told about, turned toward the sound of the latch at the same moment - weapons already coming up, training doing exactly what training was built to do, a fraction of a second too slow to matter against something that had already decided the outcome before either of them had finished turning.
 
@@ -1132,7 +1132,7 @@ Breacher charge, was the only thought that had time to fully form, arriving with
 
 Then they were in the room.
 
-Five shapes, if shapes was even the word - the air around each of them held the barest oily distortion of something being deliberately unseen rather than genuinely absent, an edge that refused to resolve no matter how hard his eyes tried to fix on it. He couldn't find faces, couldn't find hands, and it took him a full second longer to understand that four of them carried rifles shouldered and level, driving forward into the room with the same unhurried readiness as the rest of the entry, the weapons wearing the same camouflage as the arms behind them and just as hard to fix an eye on. The fifth carried nothing shouldered at all - a longer shape rode slung flat across his back, out of the fight entirely, and in its place a shorter, blockier silhouette had come up two-handed in front of him, tracking the room's dead space the way a sidearm did when a marksman's rifle was the wrong tool for the four walls he actually had to clear.
+Five shapes, if shapes was even the word - each of them held the barest oily distortion of something being deliberately unseen rather than genuinely absent, an edge that refused to resolve no matter how hard his eyes tried to fix on it. He couldn't find faces, couldn't find hands, and it took him a full second longer to understand that four of them carried rifles shouldered and level, driving forward into the room with the same unhurried readiness as the rest of the entry, the weapons wearing the same camouflage as the arms behind them and just as hard to fix an eye on. The fifth carried nothing shouldered at all - a longer shape rode slung flat across his back, out of the fight entirely, and in its place a shorter, blockier silhouette had come up two-handed in front of him, tracking the room's dead space the way a sidearm did when a marksman's rifle was the wrong tool for the four walls he actually had to clear.
 
 They moved like a single organism split into five bodies. Two peeled toward the windows without a word passed between them and stayed there, backs to the room, watching the dark outside instead of the man inside - their outlines nothing but shimmer, offering him nothing to fix on. It was the other three who gave him something to look at, and he wished, within a second of seeing it, that they hadn't: where a face should have been on each of them, the lenses sat in three tight clusters of four - two low and level, roughly where eyes belonged, and a third set higher, dead-center on what he could only think of as a forehead, all of it glowing the same dim, steady red that the shimmer elsewhere on their bodies couldn't quite swallow. Three faces. Nine clusters between them, thirty-six unblinking points of red, dividing the room between the doorway, the near wall, and the closet door in a cross-covering stance so textbook it could have been lifted from a training manual - except no human team he had ever served with, in over two decades of service, had ever cleared a room this fast, this silently, or this completely without a single wasted motion between them.
 
@@ -1142,7 +1142,7 @@ And all three faces turned, unhurried, to look at him.
 
 One of them stepped forward, and the shimmer simply stopped.
 
-There was no fade to it, no dissolve - one instant the figure was a barely-there distortion in the lamplight, and the next it was simply *there*, solid and present in a way that felt almost more violating than the invisibility had, as if it had decided Chen no longer merited the courtesy of being spared the sight of it. The suit beneath the cloak was tight to the body, matte, built from angular interlocking panels where armor plate should have been - not bulk, not the heavy ceramic slab-work of anything in the Army's own inventory, but something closer to a second skeleton worn on the outside, each plate meeting the next in a hard, faceted line that caught the lamp's light and gave almost none of it back. The helmet held its three clusters of red lenses steady on him, unblinking, and somewhere behind or beneath them, Chen understood with total, wordless certainty, there was nothing human left visible to see at all.
+There was no fade to it, no dissolve - one instant the figure was a barely-there distortion in the lamplight, and the next it was simply *there*, solid and present in a way that felt almost more violating than the camouflage had, as if it had decided Chen no longer merited the courtesy of being spared the sight of it. The suit itself was tight to the body, matte, built from angular interlocking panels where armor plate should have been - not bulk, not the heavy ceramic slab-work of anything in the Army's own inventory, but something closer to a second skeleton worn on the outside, each plate meeting the next in a hard, faceted line that caught the lamp's light and gave almost none of it back. The helmet held its three clusters of red lenses steady on him, unblinking, and somewhere behind or beneath them, Chen understood with total, wordless certainty, there was nothing human left visible to see at all.
 
 It leaned down toward him, unhurried, until the angles of its helmet filled most of what he could focus on.
 
@@ -1160,7 +1160,7 @@ A pause, long enough that Chen understood it was deliberate, not hesitation.
 
 Chen's mind, even through the paralysis, even through the animal terror of a helmet full of red lenses six inches from his own face, reached for the reference on pure trained reflex and found it immediately, and wished he hadn't - a battlefield where armor, numbers, and centuries of doctrine had meant nothing at all against a weapon nobody on the receiving end had been prepared to survive. He understood, with a clarity that would stay with him longer than the fear itself, exactly what was being promised, and exactly how little his own service's four-kilometer autocannon schematics would matter against it.
 
-The figure straightened. The shimmer closed back over it in the same instant it had opened, no fade this time either, simply *there* and then simply *not*, and by the time Chen's breath came back to him in a single ragged pull, all three sets of red lenses had already turned away.
+The figure straightened. The shimmer closed back over it in the same instant it had dropped, no fade this time either, solid one instant and barely there the next, and by the time Chen's breath came back to him in a single ragged pull, all three sets of red lenses had already turned away.
 
 The two at the windows peeled off first, then the three from the center of the room, passing back through the broken doorway in the same unhurried, soundless order they'd entered it. Nobody spoke again. Nobody looked back.
 
@@ -1172,15 +1172,15 @@ By the time Major General David Chen found the strength to reach for his phone, 
 
 Corporal Reyes woke to fluorescent light and a blood pressure cuff tightening around his arm, and for several long seconds had no idea where the previous four hours had gone.
 
-The attending physician who came by twenty minutes later was brisk, professionally composed, and, Reyes thought, not nearly as unbothered as she was trying to sound. "Vitals are clean. Bloodwork's clean. No cardiac markers, no signs of a seizure, nothing on the scans that explains the syncope." She made a note without quite meeting his eyes. "Working theory is a vasovagal episode. Cold night, standing post, low blood sugar - it happens more than people think."
+> The attending physician who came by twenty minutes later was brisk, professionally composed, and, Reyes thought, not nearly as unbothered as she was trying to sound. "Vitals are clean. Bloodwork's clean. No cardiac markers, no signs of a seizure, nothing on the scans that explains the syncope." She made a note without quite meeting his eyes. "Working theory is a vasovagal episode. Cold night, standing post, low blood sugar - it happens more than people think."
 
-"I didn't faint," Reyes said. "Something hit me."
+> "I didn't faint," Reyes said. "Something hit me."
 
-"There's no mark," she said, not unkindly. "No entry wound, no bruising, nothing consistent with a projectile of any kind. I understand that's not the answer you want."
+> "There's no mark," she said, not unkindly. "No entry wound, no bruising, nothing consistent with a projectile of any kind. I understand that's not the answer you want."
 
 She hesitated at the curtain, and for a moment the composure slipped enough that Reyes caught what was actually underneath it.
 
-"I've been in emergency medicine eleven years," she said, quieter, more to herself than to him. "I could believe one healthy twenty-three-year-old syncoping on a cold post. I could probably believe two, if I stretched. I cannot make myself believe six - six soldiers, no cardiac history, no shared exposure, no common medication, collapsing within an eleven-minute window in six completely different sets of circumstances. One alone in a tower reaching for a radio. One walking home from the DFAC. Two standing static guard. Two more indoors, mid-motion, weapons half-raised. Vasovagal syncope doesn't cluster like that. It isn't contagious. It doesn't coordinate itself across a post in real time." She caught herself, visibly, and straightened back into the version of her voice meant for a patient chart rather than a colleague. "That's not something I'm going to be able to say in the after-action report, Corporal. So it's going in as six isolated episodes, because six isolated episodes is a sentence someone above me will actually let stand. You're being cleared for light duty starting tomorrow."
+> "I've been in emergency medicine eleven years," she said, quieter, more to herself than to him. "I could believe one healthy twenty-three-year-old syncoping on a cold post. I could probably believe two, if I stretched. I cannot make myself believe six - six soldiers, no cardiac history, no shared exposure, no common medication, collapsing within a fifteen-minute window in six completely different sets of circumstances. One alone in a tower reaching for a radio. One walking home from the DFAC. Two standing static guard. Two more indoors, mid-motion, weapons half-raised. Vasovagal syncope doesn't cluster like that. It isn't contagious. It doesn't coordinate itself across a post in real time." She caught herself, visibly, and straightened back into the version of her voice meant for a patient chart rather than a colleague. "That's not something I'm going to be able to say in the after-action report, Corporal. So it's going in as six isolated episodes, because six isolated episodes is a sentence someone above me will actually let stand. You're being cleared for light duty starting tomorrow."
 
 He didn't argue further. He'd already watched Landry get some version of the same conversation two curtains over, and watched Landry go quiet at roughly the point Reyes now understood he was about to go quiet too - not because either of them believed the six separate diagnoses stacked up in six separate charts, but because there was nowhere left to push once the paperwork had already decided, collectively and with visible relief, what it was going to call the thing that had happened to all of them at once.
 
@@ -1188,7 +1188,7 @@ What nobody's paperwork could touch was the thing that came back to him anyway, 
 
 It wasn't the fall. He didn't remember hitting the ground, didn't remember the impact he was fairly sure he'd felt, didn't remember anything about the actual moment his legs had stopped answering him. What he remembered - what he kept remembering, in the particular unhelpful clarity memory reserved for the things a person most wanted to forget - was the shape kneeling beside him afterward. The shimmer that never quite resolved into a person no matter how close it got. And within that shimmer, steady, patient, utterly unbothered by the body failing on the pavement in front of it, three tight clusters of small red lenses, arranged where a face should have been, looking him over the way you'd look over a piece of equipment to confirm it had been properly disabled.
 
-He hadn't told the physician's assistant that part. He hadn't told anyone that part. He understood, on some level below language, that the moment he did, he would become exactly the kind of soldier nobody wanted standing post with a weapon anymore - and some colder, more practical part of him suspected that the twelve red points staring down at him in the dark had understood, with total certainty, that he'd make that calculation and stay quiet.
+He hadn't told the physician that part. He hadn't told anyone that part. He understood, on some level below language, that the moment he did, he would become exactly the kind of soldier nobody wanted standing post with a weapon anymore - and some colder, more practical part of him suspected that the twelve red points staring down at him in the dark had understood, with total certainty, that he'd make that calculation and stay quiet.
 
 He was cleared for light duty the next morning, as promised. He went back to the wire six days later, and stood his post, and did his job, and never once, for the rest of his enlistment, was able to look at a streetlight's edge of shadow without his pulse climbing before the rest of him had decided there was any reason for it to.
 
@@ -1200,15 +1200,15 @@ He was cleared for light duty the next morning, as promised. He went back to the
 
 Major General David Chen requested the follow-up meeting himself, which surprised no one more than it surprised him.
 
-"I'm withdrawing the autocannon proposal," he told Webb, across the same table where he'd first pitched it three weeks earlier, in a voice he'd worked hard, in the car on the drive over, to make sound like a considered professional judgment rather than what it actually was. "Granger's instincts were right. We don't have enough information about intent to justify the risk, and I don't think we're going to get that information by acting first and asking forgiveness later."
+> "I'm withdrawing the autocannon proposal," he told Webb, across the same table where he'd first pitched it three weeks earlier, in a voice he'd worked hard, in the car on the drive over, to make sound like a considered professional judgment rather than what it actually was. "Granger's instincts were right. We don't have enough information about intent to justify the risk, and I don't think we're going to get that information by acting first and asking forgiveness later."
 
-Webb studied him for a moment longer than the statement strictly required. "That's a significant reversal, David."
+> Webb studied him for a moment longer than the statement strictly required. "That's a significant reversal, David."
 
-"It's the correct one," Chen said, and left it there, because there was no version of the actual reason that would have survived being spoken aloud in a secure room at Fort Bragg, and because some part of him suspected, without evidence he could have defended to anyone, that the room might not be as secure as everyone in it wanted to believe.
+> "It's the correct one," Chen said, and left it there, because there was no version of the actual reason that would have survived being spoken aloud in a secure room at Fort Bragg, and because some part of him suspected, without evidence he could have defended to anyone, that the room might not be as secure as everyone in it wanted to believe.
 
-The interior camera in his own quarters had recorded all of it - every second, unbroken, from the moment the door tipped off its hinges to the moment the last shimmer passed back out through the frame. The technicians who pulled the file noticed two things about it almost immediately, and the second was worse than the first. The first was that the footage existed at all, undamaged, unedited, timestamped and continuous. The second was that it was the only footage on the entire post that did. Every other camera with a plausible line of sight to W Range Road, to 72nd Street, to the wall itself, had recorded nothing but empty pavement and undisturbed dark for the whole eleven-minute window - not corrupted, not overwritten, simply blank in a way that implied nothing had ever passed in front of them at all. One functioning camera, in one room, capturing one conversation in perfect clarity, surrounded on every side by cameras that had somehow seen nothing. Nobody who reviewed the file needed it explained to them that the omission was the message, and the footage was the proof that the omission had been a choice.
+The interior camera in his own quarters had recorded all of it - every second, unbroken, from the moment the door tipped off its hinges to the moment the last shimmer passed back out through the frame. The technicians who pulled the file noticed two things about it almost immediately, and the second was worse than the first. The first was that the footage existed at all, undamaged, unedited, timestamped and continuous. The second was that it was the only footage on the entire post that did. Every other camera with a plausible line of sight to W Range Road, to 72nd Street, to the wall itself, had recorded nothing but empty pavement and undisturbed dark for the whole fifteen-minute window - not corrupted, not overwritten, simply blank in a way that implied nothing had ever passed in front of them at all. One functioning camera, in one room, capturing one conversation in perfect clarity, surrounded on every side by cameras that had somehow seen nothing. Nobody who reviewed the file needed it explained to them that the omission was the message, and the footage was the proof that the omission had been a choice.
 
-The moment that circulated furthest, in the small closed rooms where the footage was permitted to circulate at all, was the last four seconds - the team leader straightening, turning for the door, and simply ceasing, the shimmer closing back over him with no fade, no transition, present in one frame and gone in the next. Most of the analysts who watched it, even the ones briefed in advance on exactly where the footage had come from and exactly how many other cameras on the post had recorded nothing, reached for the same explanation within seconds of seeing it: a compositing artifact, a bad edit, something a sufficiently resourced adversary could fake convincingly enough to rattle a general. One analyst, on loan from the Agency for the review and sitting a little apart from the others, didn't reach for that explanation at all. She watched the same four seconds twice, made a single unreadable note on her legal pad, and said nothing further for the rest of the briefing - the particular, practiced stillness, one of the DoD reviewers would say afterward, of somebody who had seen a magic trick performed correctly exactly once before and had long since stopped being surprised that it still worked.
+The moment that circulated furthest, in the small closed rooms where the footage was permitted to circulate at all, was the last four seconds - the team leader straightening, turning for the door, and all but ceasing, the shimmer closing back over him with no fade, no transition, solid in one frame and a smear of distortion in the next. Most of the analysts who watched it, even the ones briefed in advance on exactly where the footage had come from and exactly how many other cameras on the post had recorded nothing, reached for the same explanation within seconds of seeing it: a compositing artifact, a bad edit, something a sufficiently resourced adversary could fake convincingly enough to rattle a general. One analyst, on loan from the Agency for the review and sitting a little apart from the others, didn't reach for that explanation at all. She watched the same four seconds twice, made a single unreadable note on her legal pad, and said nothing further for the rest of the briefing - the particular, practiced stillness, one of the DoD reviewers would say afterward, of somebody who had seen a magic trick performed correctly exactly once before and had long since stopped being surprised that it still worked.
 
 It went four echelons up in under a week and was never seen by anyone below the clearance required to read it again. The version that eventually closed, officially, four months later, described six isolated medical events with no connection to base security and no evidence of intrusion, and made no mention of a camera, a door, or a room. Chen read that closure memo twice, noted everything it left out, and signed off on it anyway, because the alternative was explaining, to people who would not believe him, why he knew for a fact that it was lying. He never learned who had knelt over him with a helmet full of red lenses, or what flag they served, or whether *we* in *what we can do when we need to* meant a nation, an alliance, or something that had never bothered to file paperwork with anyone's United Nations. He asked, quietly, through channels he trusted, exactly once, eight months later, and received nothing back but silence and a mild, unspoken suggestion from a colleague that he stop asking.
 
@@ -1218,13 +1218,13 @@ He never mentioned Agincourt to anyone. He didn't need to. It came back to him a
 
 ### Cambridge, Massachusetts
 
-Huels found it on a Tuesday in late January, three weeks after Fort Hood made the kind of small, un-followed-up regional news item that nobody outside central Texas would ever read twice.
+Huels found it on a Tuesday in early January, three weeks after Fort Hood made the kind of small, un-followed-up regional news item that nobody outside central Texas would ever read twice.
 
-He'd pulled the old servo textbook down from his shelf for a lecture reference - the same one shipped from his office back in June of the year before last, the one with two pages redacted for reasons Weiss's people had never explained and he had never pushed hard enough to learn. He opened, out of old habit, directly to the gap.
+He'd pulled the old servo textbook down from his shelf for a lecture reference - the same one shipped from his office back in that first June, two and a half years ago, the one with two pages redacted for reasons Weiss's people had never explained and he had never pushed hard enough to learn. He opened, out of old habit, directly to the gap.
 
 It wasn't blank anymore.
 
-Two words, and a string of ten digits, set in the same typeface as the rest of the chapter, printed - not written, printed, kerned and justified like it had always belonged on the page and merely waited eighteen months for him to look again.
+Two words, and a string of ten digits, set in the same typeface as the rest of the chapter, printed - not written, printed, kerned and justified like it had always belonged on the page and merely waited two and a half years for him to look again.
 
 *You were close.*
 
@@ -1248,7 +1248,7 @@ Vann's arrived exactly where it always did - the one line, every morning, the sm
 
 *Stable, no change,* the message read, same as always.
 
-Below it, in the same account, from the same facility number, in a second line that had never once appeared in eight months of daily reports: *You were close.* And the number.
+Below it, in the same account, from the same facility number, in a second line that had never once appeared in two and a half years of daily reports: *You were close.* And the number.
 
 He stared at his phone for a long time in the parking lot before he made himself go inside. He did not tell his mother. There didn't seem to be any version of that sentence that would have cost her less than the good part of the visit to hear.
 
@@ -1268,15 +1268,15 @@ She did not write anything back. There was, as far as she'd ever been able to de
 
 ### A Call
 
-They were on the phone together within the hour - an old habit from a program that had technically concluded twice now, reconstituted itself twice, and apparently still hadn't finished with any of them - four voices on a line none of them fully trusted, comparing four identical messages that had each arrived through a different impossible door.
+They were on the phone together within the hour - an old habit from a program that had technically ended twice now, reconstituted itself once, and apparently still hadn't finished with any of them - four voices on a line none of them fully trusted, comparing four identical messages that had each arrived through a different impossible door.
 
-"It's the same number," Osei said. "All four of us. Not four numbers. One."
+> "It's the same number," Osei said. "All four of us. Not four numbers. One."
 
-"An invitation," Vann said.
+> "An invitation," Vann said.
 
-"Or a test," Chandrasekhar said. "Of the same kind we've been failing and passing in equal measure since June before last. I don't think there's a way to know which without finding out."
+> "Or a test," Chandrasekhar said. "Of the same kind we've been failing and passing in equal measure since that first June. I don't think there's a way to know which without finding out."
 
-"And if we call and it's neither," Huels said. "If it's just a phone that rings forever, or a voice that tells us nothing, or -"
+> "And if we call and it's neither," Huels said. "If it's just a phone that rings forever, or a voice that tells us nothing, or -"
 
 He didn't finish the sentence. None of them finished it for him.
 

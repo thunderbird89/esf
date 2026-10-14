@@ -9,7 +9,7 @@ order: 4
 The _Ryzak_ are a belligerent, expansionist reptilian empire, one of the galaxy's four great races, built on warfare, subjugation, and the pursuit of honor through combat — a philosophy that shapes everything from their politics to their day-to-day lives.
 
 ## Physiology
-Ryzak evolved on a harsh, high-gravity world of extreme temperatures and relentless predators, and it shows: thick scaly hides that can turn small-arms fire, powerful limbs tipped with razor claws, and reinforced bone structure built for close combat. Their fangs still carry a vestige of that evolutionary past in the form of a paralytic venom, secondary eyelids shield their eyes from bright flashes and environmental hazards, and redundant organ structures make them unusually hard to kill outright.
+Ryzak evolved on a harsh, high-gravity world of extreme temperatures and relentless predators, and it shows: thick scaly hides that can turn small-arms fire, powerful limbs tipped with razor claws, and reinforced bone structure built for close combat. A pair of articulated, mandible-like jaw plates flanks the mouth, and their clicking betrays a Ryzak's mood, from anticipation to contempt, to anyone who has learned to read it. Their fangs still carry a vestige of that evolutionary past in the form of a paralytic venom, secondary eyelids shield their eyes from bright flashes and environmental hazards, and redundant organ structures make them unusually hard to kill outright.
 
 They are strict carnivores, and their culture glorifies the hunt, including the ritualistic consumption of defeated enemies. A Ryzak can live up to 250 years, though few survive that long given how their culture treats combat.
 

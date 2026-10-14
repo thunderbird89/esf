@@ -4,7 +4,7 @@ type: story
 line: wraith
 title: Shade of Gray
 permalink: /stories/shade-of-gray
-timeline: 2022-03-19
+timeline: 2022-03-21
 ---
 ## Chapter 1: The Calling Card
 
@@ -16,7 +16,7 @@ She pushed through the glass door to her office, a modest space with a window ov
 
 On her desk, centered with almost surgical precision, sat a business card.
 
-Not tossed casually. Not slipped under her keyboard or left on a stack of papers. Dead center, square to the desk's edges, like someone had measured it. The card was matte black with a logo she didn't recognize: a wireframe globe encircled by laurels, two broken swords crossed saltire beneath it. Clean. Professional. Distinctly *not* government issue.
+Not tossed casually. Not slipped under her keyboard or left on a stack of papers. Dead center, square to the desk's edges, like someone had measured it. The card was matte black with a logo she didn't recognize: a wireframe globe encircled by laurels, two broken swords crossed saltire beneath it. Beneath that, in small capitals: *We Are Watching.* Clean. Professional. Distinctly *not* government issue.
 
 Marisa circled her desk slowly, studying the card from different angles before touching it. Old habits. She'd worked counterintelligence before moving to tech crimes, and unexplained objects on secured federal property set off alarm bells.
 
@@ -56,9 +56,9 @@ Marisa wrote quickly: *Jeane LeBouf. Male, French accent. Partnership w/ intel c
 
 > "And which organization would that be?"
 
-> "ESF. You'll find our credentials referenced in classified compartments accessible to you through your DOE Q clearance. We operate primarily in the counter-proliferation space."
+> "ESF. You'll find our credentials referenced in classified compartments accessible to you through your TS/SCI clearance. We operate primarily in the counter-proliferation space."
 
-Marisa pulled up her classified access terminal, fingers flying over the keys. ESF. The search came back with three documents, all marked COSMIC TOP SECRET with additional caveats she'd never seen before. She didn't have access to open them, but their existence confirmed something was real.
+Marisa pulled up her classified access terminal, fingers flying over the keys. ESF. The search came back with three documents, all marked TOP SECRET//SCI with compartment caveats she'd never seen before. She didn't have access to open them, but their existence confirmed something was real.
 
 > "I'm seeing references, but I can't access the files."
 
@@ -122,9 +122,9 @@ Marisa looked at the card again, at the careful placement, the embossed logo, th
 
 The line went dead.
 
-Marisa sat in silence for a long moment, then swiveled to her classified terminal. The JWICS login screen blinked at her. She entered her credentials, navigated to her secure inbox, and there it was: a new message, timestamped four minutes ago. Subject line: **RUSSIAN EMP PROLIFERATION - THREAT ASSESSMENT**.
+Marisa sat in silence for a long moment, then swiveled to her classified terminal. The JWICS login screen blinked at her. She entered her credentials, navigated to her secure inbox, and there it was: a new message, timestamped four minutes ago. Subject line: *RUSSIAN EMP PROLIFERATION - THREAT ASSESSMENT*.
 
-Sender: **ESF LIAISON**.
+Sender: *ESF LIAISON*.
 
 She clicked it open. The document was thorough—thirty pages of intelligence analysis, technical specifications, known associates, geographic indicators, and threat timelines. Photos of shipping manifests, customs documents with annotations, satellite imagery of warehouse facilities in Baltimore and Norfolk. Signal intercepts from cell phones and radios, transcribed and translated.
 
@@ -188,7 +188,7 @@ Another pause. Marisa could hear papers rustling, a door closing.
 
 Monroe exhaled slowly.
 
-> "Nightingale was an asset extraction. Moscow. Last year. It should have been impossible—deep penetration, multiple layers of FSB surveillance, hostile territory. We had no options, no angle, no way to get our guy out without triggering an international incident." She paused. "ESF made it happen. I still don't know how. One day our asset was burned and trapped, the next day he was sitting in a safe house in Paris. Like magic."
+> "Nightingale was an asset extraction. Moscow. Last year. It should have been impossible—deep penetration, multiple layers of FSB surveillance, hostile territory. We had no options, no angle, no way to get our guy out without triggering an international incident." She paused. "ESF made it happen. I still don't know how. One day our asset was burned and trapped, two days later he was checking into a hotel in Paris. Like magic."
 
 Marisa wrote quickly, underlining *Moscow extraction* and *impossible* in her notes.
 
@@ -386,7 +386,7 @@ Marisa crossed her arms.
 
 > "Parallel construction." Marisa's voice was flat. "You're asking me to launder intelligence."
 
-> "I'm asking you to save lives." LeBouf met her eyes steadily. "The how of our intelligence gathering would not survive judicial scrutiny. The what of our intelligence is accurate and actionable. We provide the former so you can legitimately obtain the latter. It's not ideal, but it works."
+> "I'm asking you to save lives." LeBouf met her eyes steadily. "The how of our intelligence gathering would not survive judicial scrutiny. The what of our intelligence is accurate and actionable. We provide the what; you rebuild it through a how that survives scrutiny. It's not ideal, but it works."
 
 Marisa wanted to argue, to push back against the fundamental wrongness of the approach. But she'd worked counterintelligence. She knew how the game was played when national security trumped procedural purity. And if the threat was real—and her verification suggested it was—then saving lives had to take priority over legal perfectionism.
 
@@ -398,7 +398,7 @@ Over the next hour, they worked through the known shipments, mapping delivery lo
 
 Marisa noticed LeBouf made several phone calls throughout the morning, always stepping away from the main workstations, voice low but audible enough to catch fragments.
 
-> "Cipher, I need signals intercept on the Baltimore warehouse... yes, any activity in the last seventy-two hours..."
+> "CIPHER, I need signals intercept on the Baltimore warehouse... yes, any activity in the last seventy-two hours..."
 
 Ten minutes later:
 
@@ -406,7 +406,7 @@ Ten minutes later:
 
 When he returned from the second call, Marisa couldn't help herself.
 
-> "Cipher and Shade. Your team members?"
+> "CIPHER and Shade. Your team members?"
 
 LeBouf's expression remained neutral.
 
@@ -426,7 +426,7 @@ It wasn't standard. That kind of analysis would take days, not minutes. But Mari
 
 By 1300, they'd identified three high-priority locations across two states. Each matched the profile: shell company ownership, suspicious utility patterns, proximity to the shipment delivery points. LeBouf made another call, this one even more cryptic.
 
-> "Cipher, I need confirmation on the Elizabeth warehouse. Any signals activity... right, check encrypted traffic too, anything that doesn't match normal patterns..."
+> "CIPHER, I need confirmation on the Elizabeth warehouse. Any signals activity... right, check encrypted traffic too, anything that doesn't match normal patterns..."
 
 When he returned, he had a new piece of information.
 
@@ -452,7 +452,7 @@ Each morning, LeBouf arrived precisely at 0900, badged in with the same forgetta
 
 He was professional, focused, and consistently productive. He also made an unsettling number of phone calls to his mysterious "outside assistance," always stepping into the hallway where his unremarkable presence would draw even less attention.
 
-On day two, they hit a dead end tracking one of the shell companies. The ownership chain disappeared into a maze of offshore entities, and conventional database queries yielded nothing. LeBouf excused himself, stepped into the hallway, and had a brief conversation with someone he addressed as Cipher.
+On day two, they hit a dead end tracking one of the shell companies. The ownership chain disappeared into a maze of offshore entities, and conventional database queries yielded nothing. LeBouf excused himself, stepped into the hallway, and had a brief conversation with someone he addressed as CIPHER.
 
 Fifteen minutes later, he returned with a complete breakdown of the ownership structure, including the names of the actual beneficial owners buried under six layers of LLCs and Panamanian holding companies.
 
@@ -488,7 +488,7 @@ The silence stretched between them. Marisa knew he was right. Hated that he was 
 
 > "Show me the footage," she said finally.
 
-By the end of day three, they'd identified six priority locations, compiled dossiers on eight suspected network members, and established a preliminary movement pattern that suggested coordination between cells. Every piece of intelligence had come from LeBouf's mysterious contacts—Cipher and Shade, whose capabilities seemed to extend into every digital system in the modern world.
+By the end of day three, they'd identified six priority locations, compiled dossiers on eight suspected network members, and established a preliminary movement pattern that suggested coordination between cells. Every piece of intelligence had come from LeBouf's mysterious contacts—CIPHER and Shade, whose capabilities seemed to extend into every digital system in the modern world.
 
 Late that afternoon, Marisa stood at the Ops Suite window, watching LeBouf make yet another call in the hallway. His voice drifted through the partially open door.
 
@@ -508,7 +508,7 @@ Marisa stared at the transcripts. They were real—the metadata, the timestamps,
 
 Alternative means. Endpoint access. The euphemisms piled up, each one a polite fiction covering capabilities that shouldn't exist. Marisa thought about the CIA agent's words: *they can do anything.* It was starting to feel less like hyperbole and more like understatement.
 
-That evening, after LeBouf had left for the day, Marisa sat alone in Ops Suite 7, staring at the digital evidence board they'd constructed. Every lead, every connection, every piece of critical intelligence had come from phone calls to Cipher and Shade. Not from traditional investigative work. Not from legal surveillance. From two individuals whose capabilities suggested access to—
+That evening, after LeBouf had left for the day, Marisa sat alone in Ops Suite 7, staring at the digital evidence board they'd constructed. Every lead, every connection, every piece of critical intelligence had come from phone calls to CIPHER and Shade. Not from traditional investigative work. Not from legal surveillance. From two individuals whose capabilities suggested access to—
 
 She stopped the thought before completing it. Access to *what*, exactly? Ring cameras and traffic feeds could be explained through hacking, though the speed was suspicious. Financial records might involve leaked databases or compromised banking systems. But Signal encryption? Endpoint access suggested either physical compromise of the devices or capabilities that bordered on science fiction.
 
@@ -520,7 +520,7 @@ Alicia Monroe's words echoed in her mind: *whatever they promise you, no matter 
 
 Marisa was beginning to understand what that really meant. ESF didn't just have better resources or faster access. They had capabilities that implied something far more disturbing: either they'd achieved surveillance technology decades ahead of anything she'd seen, or they had access to systems and networks that weren't supposed to be accessible at all.
 
-Cipher and Shade weren't just outside assistance. They were apparently inside *everything*.
+CIPHER and Shade weren't just outside assistance. They were apparently inside *everything*.
 
 ---
 
@@ -540,13 +540,13 @@ Marisa watched the arrest through drone footage in Ops Suite 7, feeling the sati
 
 He was right. By Friday afternoon, the intercepted communications had shifted. More coded language. Shorter messages. Signs of operational security tightening.
 
-That evening, LeBouf stepped out for another call to Cipher. When he returned fifteen minutes later, his unremarkable features carried a hint of tension that Marisa had learned to recognize as concern.
+That evening, LeBouf stepped out for another call to CIPHER. When he returned fifteen minutes later, his unremarkable features carried a hint of tension that Marisa had learned to recognize as concern.
 
 > "We have a problem," he said without preamble.
 
 > "What kind of problem?"
 
-> "Cipher's monitoring shows the network is accelerating their timeline. Chatter suggests they're aware of our pressure and moving up their schedule." He pulled up his tablet, displaying a series of intercepted messages. "There's another shipment expected. Final components for at least two more devices."
+> "CIPHER's monitoring shows the network is accelerating their timeline. Chatter suggests they're aware of our pressure and moving up their schedule." He pulled up his tablet, displaying a series of intercepted messages. "There's another shipment expected. Final components for at least two more devices."
 
 Marisa leaned over the display, scanning the intelligence. The messages were fragments, coded references that would mean nothing to anyone who didn't already know what they were looking for.
 
@@ -568,7 +568,7 @@ A pause on the other end.
 
 > "Final shipment for the EMP devices. We interdict at the docks or they go dark with everything they need." She looked at LeBouf, who nodded confirmation. "I need HRT assets. Full tactical package."
 
-> "HRT's deployed in Seattle on another operation. I can get you Agent Hartfield's team. They're based out of Quantico, specialist in urban assault and high-risk interdiction. Good people."
+> "HRT's deployed in Seattle on another operation. I can get you Agent Hartfield's team. They're based out of Quantico, specialists in urban assault and high-risk interdiction. Good people."
 
 Marisa had heard of James Hartfield. Former Special Forces, recruited to the FBI's elite tactical units, known for precise operations in complex environments. If Chen was recommending him, that was enough.
 
@@ -616,7 +616,7 @@ LeBouf spoke before Marisa could respond, his voice carrying its usual patient n
 
 Hartfield nodded slowly, but Marisa could see he was filing away questions for later.
 
-They spent the next two hours planning the operation. The container ship was scheduled to dock at 2145. The target container would be offloaded by 2300. Hartfield's team would establish positions covering the berth, ready to move when the extremist cell arrived to collect their cargo. LeBouf would coordinate with MTF-34 for electronic surveillance and communications intercept.
+They spent the next two hours planning the operation. The container ship was scheduled to dock at 2030. The target container would be offloaded by 2100. Hartfield's team would establish positions covering the berth, ready to move when the extremist cell arrived to collect their cargo. LeBouf would coordinate with MTF-34 for electronic surveillance and communications intercept.
 
 By 2200, they had a plan. By 2230, Hartfield and his team had departed to prepare. By 2300, Marisa was alone in Ops Suite 7, staring at satellite imagery of the Newark docks and trying not to think about what "different from conventional law enforcement operations" might actually mean.
 
@@ -626,7 +626,7 @@ Her phone buzzed. A text from an unknown number—LeBouf's secure device.
 
 Marisa stared at the message. *You'll recognize us when you see us.* That should have been reassuring. Instead, it sent a chill down her spine.
 
-She thought about the past week. The impossible intelligence. The capabilities that shouldn't exist. Cipher and Shade with their fingers in every network and device. LeBouf's calm certainty that whatever ESF promised would come true.
+She thought about the past week. The impossible intelligence. The capabilities that shouldn't exist. CIPHER and Shade with their fingers in every network and device. LeBouf's calm certainty that whatever ESF promised would come true.
 
 Tomorrow night, she'd finally see what ESF could actually do in the field.
 
@@ -674,15 +674,15 @@ Hartfield met her at the door, dressed in full tactical gear. Body armor over bl
 
 The pause before "outside elements" suggested he had questions. Marisa couldn't blame him.
 
-They were reviewing the operational timeline when headlights swept across the warehouse entrance. A grey minivan, completely unremarkable, the kind of vehicle that blended into any parking lot in America. It pulled into the loading bay with careful precision, parking beside Hartfield's tactical vehicles.
+They were reviewing the operational timeline when headlights swept across the warehouse entrance. A gray minivan, completely unremarkable, the kind of vehicle that blended into any parking lot in America. It pulled into the loading bay with careful precision, parking beside Hartfield's tactical vehicles.
 
 For a moment, nobody moved. Then the van's side door slid open.
 
 The first figure that emerged made Marisa's breath catch.
 
-The man wore a black bodysuit overlaid with angular panels that caught the dim warehouse light in strange ways, seeming to shift and flow as he moved. The panels weren't quite rigid, weren't quite flexible, but something in between that suggested technology she didn't recognize. The helmet was integrated seamlessly with the suit, no visible seam where neck met collar, its shape angular and almost alien with subtle indentations and protrusions that suggested sensors or equipment she couldn't identify. Three clusters of small lenses were mounted on the helmet's face—four lenses per cluster, arranged vertically—glowing a dim, unsettling red. Two clusters sat where eyes might be on a human face, the third centered above them. With LeBouf's visor retracted, these lens clusters were dark and inert, pushed to the sides of his helmet.
+The man wore a black bodysuit overlaid with angular panels that caught the dim warehouse light in strange ways, seeming to shift and flow as he moved. The panels weren't quite rigid, weren't quite flexible, but something in between that suggested technology she didn't recognize. The helmet was integrated seamlessly with the suit, no visible seam where neck met collar, its shape angular and almost alien with subtle indentations and protrusions that suggested sensors or equipment she couldn't identify. Three clusters of small lenses were mounted on the helmet's face—four lenses per cluster, arranged vertically—glowing a dim, unsettling red. Two clusters sat where eyes might be on a human face, the third centered above them.
 
-But his visor was retracted, and Marisa recognized the unremarkable face beneath the helmet.
+But his visor was retracted, its lens clusters dark and inert at the sides of his helmet, and Marisa recognized the unremarkable face beneath.
 
 LeBouf.
 
@@ -692,7 +692,7 @@ Two more figures followed him out of the van, identically equipped. Their visors
 
 Beside her, Marisa heard Hartfield's sharp intake of breath.
 
-The three ESF operators approached, and she could hear it now: a faint humming sound emanating from their equipment. Even without seeing their eyes behind the visors, she could feel their gaze on her and Hartfield's team—methodical, assessing, aware of everything. Not quite electrical, not quite mechanical, but something that made the air feel charged. The sound raised the hairs on her arms.
+The three ESF operators approached, and she could hear it now: a faint humming sound emanating from their equipment. Not quite electrical, not quite mechanical, but something that made the air feel charged. The sound raised the hairs on her arms. Even without seeing their eyes behind the visors, she could feel their gaze on her and Hartfield's team—methodical, assessing, aware of everything.
 
 Each of them carried rifles that were wrong in ways Marisa's eyes struggled to process. They were sleek and angular like the armor, but the proportions were off. The barrels were too thin, barely wider than her thumb, and they hummed with the same unsettling frequency as the suits. No visible magazines, no ejection ports, no iron sights—just smooth surfaces and subtle glowing indicators that pulsed with a soft blue light.
 
@@ -712,7 +712,7 @@ LeBouf's expression didn't change.
 
 > "That gear—" Hartfield gestured at the suits, the helmets, the impossible rifles. "I've never seen anything like it. Not in the military, not in any tactical unit I've worked with. What is it?"
 
-> "Effective." LeBouf's tone suggested the question was expected but wouldn't be answered. He reached into a pouch on his suit and produced four small devices, each no larger than a hearing aid. "For your team. Encrypted communications. They'll help you stay in touch better when things are loud."
+> "Effective." LeBouf's tone suggested the question was expected but wouldn't be answered. He reached into a pouch on his suit and produced five small devices, each no larger than a hearing aid. "For your team. And one for you, Agent Comey. Encrypted communications. They'll help you stay in touch better when things are loud."
 
 Hartfield took the devices, examining them with a trained eye. They were sleek, seamless, with no visible buttons or controls. Just smooth black surfaces with a faint blue glow at one end.
 
@@ -746,7 +746,7 @@ Hartfield's jaw was tight, but he nodded slowly.
 
 > "Agreed." LeBouf's tone carried quiet authority. "We'll be in position within three minutes. You'll have full communications coverage and tactical data feed through the earpieces."
 
-The three ESF operators turned and moved back toward the van with that same unsettling fluid precision. As they walked away, LeBouf gave a slight nod, and the two halves of his visor slid together in front of his face with a soft snap, sealing seamlessly without a visible seam. The lens clusters on either side of his helmet came to life, twelve small points of dim red light now matching his teammates', transforming him from a forgettable man in advanced gear into something far more alien.
+The three ESF operators turned and moved back toward the van with that same unsettling fluid precision. As they walked away, LeBouf gave a slight nod, and the two halves of his visor slid together in front of his face with a soft snap, sealing without a visible seam. The lens clusters on either side of his helmet came to life, twelve small points of dim red light now matching his teammates', transforming him from a forgettable man in advanced gear into something far more alien.
 
 Marisa watched them go, trying to process what she'd just seen. The way LeBouf moved now, the casual readiness in his stance—it was like watching a different person wearing the same forgettable face.
 
@@ -758,7 +758,7 @@ Hartfield stepped closer to her, his voice low.
 
 > "That gear looks like something out of a DARPA fever dream. Twenty years ahead of anything I've seen." He looked at the earpiece in his hand. "And these things are telling me they have real-time vehicle tracking on targets fourteen minutes out. That's not surveillance, Comey. That's something else."
 
-Marisa thought about the past week. Cipher and Shade with access to every network and device. Signal encryption broken like it was nothing. Intelligence that appeared in minutes instead of months. LeBouf's calm certainty that whatever ESF promised would come true.
+Marisa thought about the past week. CIPHER and Shade with access to every network and device. Signal encryption broken like it was nothing. Intelligence that appeared in minutes instead of months. LeBouf's calm certainty that whatever ESF promised would come true.
 
 Monroe had tried to warn her. She was seeing it now. And it was worse than she'd imagined.
 
@@ -792,7 +792,7 @@ Marisa's blood ran cold. Shade. One of the mysterious contacts who'd been provid
 
 > "Providing support." The genderless voice carried a hint of something that might have been amusement. "You'll see us soon enough. For now, focus on the operation. Targets are twelve minutes out."
 
-Marisa looked toward the warehouse entrance, where Hartfield's team was preparing to deploy. The grey minivan sat empty now, the ESF operators already gone.
+Marisa looked toward the warehouse entrance, where Hartfield's team was preparing to deploy. The gray minivan sat empty now, the ESF operators already gone.
 
 Somewhere out there, in the maze of shipping containers and industrial equipment surrounding the Newark docks, three figures in impossible gear were moving into position.
 
@@ -802,9 +802,9 @@ And Marisa had a sinking feeling that what she'd seen so far was just the beginn
 
 The Newark docks at night were a landscape of shadows and harsh sodium lights, industrial geometry stretched across acres of concrete and steel. Shipping containers stacked four high created artificial canyons, their corrugated walls painted in faded reds, blues, and rusts. Overhead cranes loomed like mechanical dinosaurs, their skeletal frames silhouetted against the orange glow of the city beyond.
 
-Marisa crouched behind a stack of pallets two hundred meters from the target warehouse, watching Hartfield's team move into position through the thermal optic mounted on her borrowed rifle. The weapon felt foreign in her hands—she was an investigator, not a tactical operator—but Hartfield had insisted she be armed and equipped like the rest of the team.
+Marisa crouched behind a stack of pallets fifty meters from the target warehouse, watching Hartfield's team move into position through the thermal optic mounted on her borrowed rifle. The weapon felt foreign in her hands—she was an investigator, not a tactical operator—but Hartfield had insisted she be armed and equipped like the rest of the team.
 
-Through her earpiece, she could hear the steady rhythm of operational communications. Hartfield's voice, calm and professional, directing his team to their positions. Rodriguez acknowledging from position Alpha, covering the warehouse's north entrance. Two other agents—Martinez and Chen—reporting from positions Beta and Gamma, establishing overlapping fields of fire.
+Through her earpiece, she could hear the steady rhythm of operational communications. Hartfield's voice, calm and professional, directing his team to their positions. Rodriguez acknowledging from position Alpha, covering the warehouse's north entrance. Two other agents—Martinez and Brennan—reporting from positions Beta and Gamma, establishing overlapping fields of fire.
 
 And underneath it all, that strange background hum from the ESF communications system, like standing near high-voltage lines.
 
@@ -850,7 +850,7 @@ The minutes ticked by. Through her earpiece, she heard Shade providing a steady 
 
 Which, Marisa realized with growing unease, they probably did.
 
-> "All positions, Shade. Targets are three minutes out. First vehicle is a white Ford F-150, license plate Jersey Tango-Seven-Three-Charlie-Hotel-Niner. Three occupants, all male, mid-twenties to early thirties. Second vehicle is a grey Dodge Ram, Jersey Bravo-Four-Two-Echo-Kilo-Eight. Two occupants, both male, similar age range."
+> "All positions, Shade. Targets are three minutes out. First vehicle is a white Ford F-150, license plate Jersey Tango-Seven-Three-Charlie-Hotel-Niner. Three occupants, all male, mid-twenties to early thirties. Second vehicle is a gray Dodge Ram, Jersey Bravo-Four-Two-Echo-Kilo-Eight. Two occupants, both male, similar age range."
 
 Marisa pulled up the intelligence package on her phone, cross-referencing the descriptions. The vehicle details matched known associates. So did the physical descriptions Shade was providing.
 
@@ -926,7 +926,7 @@ But instead of quick-peeking around the corner like any trained operator would, 
 
 Hartfield's jaw tightened. The rifle. They were seeing through the rifle somehow. Getting a visual feed from sensors or cameras mounted on the weapon itself, letting them observe without exposing themselves to return fire. He filed the observation away with all the other impossible things he'd seen tonight. Questions for later. Much later.
 
-Marisa watched the access road. Headlights appeared in the distance, two sets, approaching at moderate speed. No rush, no indication they suspected anything wrong. The white F-150 led, the grey Dodge Ram following twenty meters behind.
+Marisa watched the access road. Headlights appeared in the distance, two sets, approaching at moderate speed. No rush, no indication they suspected anything wrong. The white F-150 led, the gray Dodge Ram following twenty meters behind.
 
 Her finger rested alongside the trigger guard, not on the trigger itself. Bureau training. Don't touch the trigger until you're ready to shoot.
 
@@ -934,11 +934,13 @@ Her finger rested alongside the trigger guard, not on the trigger itself. Bureau
 
 The F-150 came to a stop thirty meters from Marisa's position. She had a clear view through her optic. Three men, just as Shade had described. The driver killed the engine. Nobody moved for a moment.
 
+> "Agent Rodriguez, shift six inches right. Your line on the second vehicle is blocked."
+
 Then Rodriguez's voice, barely a whisper through the comms.
 
 > "Jesus Christ. It's like they can see where people are *looking*, not just where they are."
 
-Marisa's head snapped around. Rodriguez had shifted position slightly, just a few inches, probably to get a better angle on the second vehicle. An unconscious tactical adjustment. But she'd heard the wonder in his voice. How the hell had ESF known he needed to adjust before he'd even done it?
+Marisa's head snapped around. Rodriguez had shifted position slightly, just a few inches, clearing his angle on the second vehicle. But she'd heard the wonder in his voice. How the hell had ESF known he needed to adjust before he'd even done it?
 
 Movement to her right. Close. Too close. An ESF operator materialized from the shadows between containers, moving parallel to her position. The figure ran in complete silence, covering ground in long, loping strides that should have made noise, should have clanged against metal surfaces, should have *announced* their presence. But there was nothing. Just the faint hum of their equipment and the dim red glow of lens clusters sweeping the area with mechanical precision.
 
@@ -970,11 +972,11 @@ Or all of the above.
 
 The five men from the trucks gathered near the loading bay door, talking in low voices. Through the enhanced audio in her earpiece—another capability she hadn't known the ESF comms possessed—Marisa could hear fragments of conversation.
 
-"—should be ready by now—"
+> "—should be ready by now—"
 
-"—Marcus said they finished the second unit—"
+> "—Travis said they finished the second unit—"
 
-"—move everything tonight, get it staged—"
+> "—move everything tonight, get it staged—"
 
 The loading bay door rolled up with a grinding metallic sound. Light spilled out, illuminating the five men. Behind them, inside the warehouse, Marisa could see movement. More figures. The twelve Shade had counted.
 
@@ -1014,7 +1016,7 @@ Hartfield's voice cut through the chaos, edged with controlled urgency.
 
 > "Contact! Weapons free! Suppress and advance!"
 
-The FBI agents opened up, controlled three-round bursts from their M4s. The familiar *crack-crack-crack* of rifle fire echoed across the dockyard, punctuated by the metallic *ting* of brass hitting concrete. Marisa pressed herself against her concrete pillar, her hands shaking, her mind racing. Martinez was still exposed, still crawling, rounds kicking up sparks and concrete chips around him.
+The FBI agents opened up, controlled three-round bursts from their M4s. The familiar *crack-crack-crack* of rifle fire echoed across the dockyard, punctuated by the metallic *ting* of brass hitting concrete. Marisa threw herself behind a concrete pillar, her hands shaking, her mind racing. Martinez was still exposed, still crawling, rounds kicking up sparks and concrete chips around him.
 
 Then the ESF weapons joined the fight.
 
@@ -1028,7 +1030,7 @@ No blood spray. No dramatic reactions. Just immediate, clinical neutralization.
 
 > "Second floor shooters neutralized," came a filtered voice—not Shade, not LeBouf. The third operator. "Upstairs is clear."
 
-Marisa looked up. Through the warehouse's second-floor windows, she could see figures slumped against walls, weapons dropped. The second ESF operator had taken them all out in seconds, firing from somewhere she still couldn't see. The *zwip-zwip-zwip* of their weapon had been nearly drowned out by the FBI's M4s, but the results were undeniable.
+Marisa looked up. Through the warehouse's second-floor windows, she could see figures slumped against walls, weapons dropped. The third ESF operator had taken them all out in seconds, firing from somewhere she still couldn't see. The *zwip-zwip-zwip* of their weapon had been nearly drowned out by the FBI's M4s, but the results were undeniable.
 
 > "Martinez, move!" Rodriguez shouted. "Go, go, go!"
 
@@ -1054,11 +1056,11 @@ LeBouf didn't pause. He flowed forward into the warehouse, his rifle coming up. 
 
 Hartfield's voice cut through, professional instincts overriding his shock.
 
-> "All positions, advance! Martinez, Rodriguez, take the left flank. Chen, with me on the right. Agent Comey, provide cover from your position."
+> "All positions, advance! Martinez, Rodriguez, take the left flank. Brennan, with me on the right. Agent Comey, provide cover from your position."
 
 The FBI team moved, training and discipline pushing them forward despite the surreal nature of what they were witnessing. They flowed through the loading bay entrance in textbook formation, weapons up, calling out targets and sectors.
 
-Hartfield entered first, Martinez covering his six. The warehouse interior was chaos—scattered crates, fallen extremists, the acrid smell of gunpowder mixing with something else, something sharp and metallic that Hartfield couldn't identify. He moved tactically, clearing corners, his M4 tracking potential threats.
+Hartfield entered first, Brennan covering his six. The warehouse interior was chaos—scattered crates, fallen extremists, the acrid smell of gunpowder mixing with something else, something sharp and metallic that Hartfield couldn't identify. He moved tactically, clearing corners, his M4 tracking potential threats.
 
 LeBouf was ahead of him, maybe fifteen feet, moving through the space with that same fluid efficiency. His visor was down now, the smooth black faceplate broken only by those twelve points of red light arranged in three clusters. The effect was deeply unsettling—like watching something that only resembled a human being.
 
@@ -1074,9 +1076,9 @@ It wasn't running. It wasn't jumping. It was something else entirely—a burst o
 
 The round meant for Hartfield's chest hit LeBouf instead.
 
-Sparks erupted from the impact point on LeBouf's torso, a shower of orange-white that lasted a fraction of a second. The bullet deflected with a metallic *ping*, ricocheting off into the warehouse ceiling. LeBouf didn't stagger. Didn't flinch. Just stood there, a wall of angular black armor between Hartfield and the shooter.
+A ripple of blue light flared a hand's width from LeBouf's torso, there and gone in a fraction of a second. The bullet deflected with a sharp *ping*, ricocheting off into the warehouse ceiling. LeBouf didn't stagger. Didn't flinch. Just stood there, a wall of angular black armor between Hartfield and the shooter.
 
-Hartfield's training overrode his shock. His M4 was already coming up, muscle memory and fifteen years of experience taking over. Three controlled shots, center mass. The extremist jerked backward and went down.
+Hartfield's training overrode his shock. His M4 was already coming up, muscle memory and fifteen years of experience taking over. Three controlled shots, center mass—into a plate carrier. The extremist jerked backward and went down.
 
 For a heartbeat, neither man moved.
 
@@ -1088,13 +1090,13 @@ LeBouf's voice came through the comms, filtered through his helmet but still car
 
 Hartfield's mouth was dry. He managed a nod, then realized the gesture might not translate through whatever sensors ESF used.
 
-> "I'm good. You—" He gestured at the impact point on LeBouf's chest. "That was a rifle round."
+> "I'm good. You—" He gestured at LeBouf's chest. "That was a rifle round."
 
 > "The suit is rated for much worse than this." LeBouf's visor swept the warehouse once more, then returned to Hartfield. "Stay behind cover when possible, Agent. We cannot intercept every shot."
 
 Then he was moving again, flowing back into the fight as if nothing had happened. But Hartfield stood frozen for a moment longer, his mind trying to process what he'd just seen.
 
-The speed. The impossible speed. LeBouf had covered five meters in what couldn't have been more than a tenth of a second. And the suit—the round had hit dead center and just... bounced off. No penetration. No damage. Just sparks and a deflection.
+The speed. The impossible speed. LeBouf had covered five meters in what couldn't have been more than a tenth of a second. And the suit—the round should have hit dead center, and it had just... bounced off thin air. No penetration. No damage. Just a flicker of blue light and a deflection.
 
 This wasn't advanced body armor. This was something else. Something that made every piece of tactical gear Hartfield had ever used look like medieval equipment by comparison.
 
@@ -1108,7 +1110,7 @@ They were operating on a completely different level of capability. A level that 
 
 And LeBouf had just taken a bullet meant for him without hesitation.
 
-But the targets were already down.
+By then, most of the targets were already down.
 
 Marisa watched from her position as the FBI agents swept through the warehouse. Extremists lay scattered across the floor, weapons dropped, most of them clutching their chests or limbs but alive. Conscious, in pain, but alive. The ESF weapons hadn't killed them—just incapacitated them with surgical precision.
 
@@ -1144,13 +1146,13 @@ Rodriguez was moving among the downed extremists, checking vitals, securing weap
 
 Marisa stepped fully into the warehouse, her rifle finally lowering. Around her, the FBI team was securing the scene—zip-tying wrists, calling for medical support, documenting the evidence. The extremists groaned and writhed on the floor, conscious enough to feel pain but too hurt to resist.
 
-Twelve armed terrorists. Neutralized in under two minutes. Zero FBI casualties. Zero enemy fatalities.
+Seventeen armed terrorists. Neutralized in under two minutes. Zero FBI casualties. Zero enemy fatalities.
 
 It shouldn't have been possible. But ESF had made it look routine.
 
 ---
 
-The next twenty minutes were a controlled chaos of securing evidence and processing suspects. FBI agents moved through the warehouse with practiced efficiency, photographing the scene, collecting weapons, documenting injuries. Marisa coordinated with local police and federal medical response, arranging transport for the twelve incapacitated extremists. All of them would survive, though several had broken ribs and one—the man LeBouf had kicked—had a severe concussion and possible spinal trauma.
+The next twenty minutes were a controlled chaos of securing evidence and processing suspects. FBI agents moved through the warehouse with practiced efficiency, photographing the scene, collecting weapons, documenting injuries. Marisa coordinated with local police and federal medical response, arranging transport for the seventeen incapacitated extremists. All of them would survive, though several had broken ribs and one—the man LeBouf had kicked—had a severe concussion and possible spinal trauma.
 
 The three ESF operators had withdrawn to the perimeter, standing in loose formation near the loading bay entrance. Their visors were up now, revealing three faces that Marisa was already struggling to remember in detail. LeBouf's unremarkable features. A woman with dark hair and sharp eyes who must be one of the other operators. A man with a forgettable face that seemed to slide out of memory even as Marisa looked at him.
 
@@ -1226,7 +1228,7 @@ LeBouf glanced at the other two ESF operators, who had moved closer. Then he loo
 
 ## Chapter 5: Ascent
 
-A slight wind kicked up across the parking lot, swirling debris and causing loose papers to scatter. Marisa felt it first—a change in air pressure, a subtle disturbance that made her ears pop. The sodium lights overhead flickered.
+They followed LeBouf out through the loading bay. A slight wind kicked up across the lot beside the warehouse, swirling debris and causing loose papers to scatter. Marisa felt it first—a change in air pressure, a subtle disturbance that made her ears pop. The sodium lights overhead flickered.
 
 > "Look up," LeBouf said quietly.
 
@@ -1262,7 +1264,7 @@ LeBouf waited at the entrance, literally bouncing on his toes with an energy tha
 
 > "Space," Hartfield repeated flatly. "You're saying we're going to *space*."
 
-> "Suborbital trajectory, yes." LeBouf was already climbing into the craft, gesturing for them to follow. "Get in, strap in immediately. We'll provide countermeasures—pressure suits, medications, monitoring—but blacking out is expected and normal. Your bodies are not designed for this kind of acceleration."
+> "Suborbital trajectory, yes." LeBouf was already climbing into the craft, gesturing for them to follow. "Get in, strap in immediately. We'll provide countermeasures—masks, medications, monitoring—but blacking out is expected and normal. Your bodies are not designed for this kind of acceleration."
 
 Marisa hauled herself through the opening, her hands finding purchase on surfaces that felt warm and almost organic. The interior was cramped despite the craft's size, every centimeter optimized for function. The seats—if they could be called that—were less like furniture and more like form-fitting cocoons.
 
@@ -1298,7 +1300,7 @@ The ramp retracted with a soft hydraulic hiss, sealing into the hull with a fina
 
 Shade's voice returned, calm and precise.
 
-> "All personnel secured. Systems nominal. Filing emergency flight plan with FAA. Cloaking system active. Initiating launch sequence."
+> "All personnel secured. Systems nominal. Cloaking system active. Initiating launch sequence."
 
 > "Wait—" Marisa tried to say, but her voice came out as barely a whisper.
 
@@ -1362,11 +1364,11 @@ Eighty thousand feet. Ninety thousand.
 
 The engines throttled back slightly as Shade approached the apex of its boost phase, the acceleration easing from crushing to merely brutal. Inside, the passengers remained unconscious, their bodies limp in the restraints, their vitals monitored by dozens of sensors woven into the seats.
 
-One hundred thousand feet. The boundary between atmosphere and space, crossed in less than a minute.
+Three hundred thirty thousand feet. The boundary between atmosphere and space, crossed in under two minutes.
 
 Shade's engines cut entirely, and the craft went ballistic, arcing upward on momentum alone. The sudden absence of acceleration would have been a relief, except none of the passengers were conscious to feel it.
 
-Below, the eastern seaboard of the United States was visible in its entirety, a glowing network of cities against the dark curve of the Atlantic. Above, the stars burned with a clarity impossible to see from the ground, and the sun—still below the horizon for the surface—was beginning to paint the upper atmosphere with the first hints of dawn.
+Below, the eastern seaboard of the United States was visible in its entirety, a glowing network of cities against the dark curve of the Atlantic. Above, the stars burned with a clarity impossible to see from the ground.
 
 Shade coasted upward, silent and invisible, carrying its unconscious cargo toward the apex of its trajectory and the long fall toward California beyond.
 
@@ -1382,7 +1384,7 @@ Shade's voice cut through the panic like a knife through fog. Marisa forced her 
 
 The cabin was still lit with that dim red glow, but now there was another light source—a viewport, or a screen, showing the view outside. And what she saw made her breath catch in her throat.
 
-Earth. Not a picture, not a simulation. Earth itself, curving away below them, impossibly blue and white against the infinite black of space. She could see the entire East Coast from Virginia to Maine, see the Great Lakes glittering in the early morning sun, see the demarcation line between day and night cutting across the continent.
+Earth. Not a picture, not a simulation. Earth itself, curving away below them, impossibly blue and white against the infinite black of space. She could see the entire East Coast from Virginia to Maine, see the Great Lakes as dark shapes rimmed with city light.
 
 They were in *space*.
 
@@ -1392,7 +1394,7 @@ Marisa couldn't look away from the viewport. The scale of it was overwhelming. C
 
 She thought about her career, about the cases she'd worked, the terrorists and criminals she'd helped bring down. People who killed for money or ideology or pure nihilism. And all of it, every investigation, every arrest, every conviction—it suddenly felt like playing in a sandbox while the adults conducted business she couldn't begin to comprehend.
 
-The FBI didn't know. Her superiors didn't know. The President probably didn't know. Whatever the EarthSpace Federation was, whatever infrastructure and capabilities they possessed, they'd managed to operate in complete secrecy while possessing technology that made NASA look like children with model rockets. The implications made her head spin worse than the zero gravity.
+The FBI didn't know. Her superiors didn't know. The President probably didn't know. Whatever ESF was, whatever infrastructure and capabilities they possessed, they'd managed to operate in complete secrecy while possessing technology that made NASA look like children with model rockets. The implications made her head spin worse than the zero gravity.
 
 And underneath the shock, underneath the existential vertigo of realizing everything she thought she knew was incomplete, there was something else. Something she couldn't quite name. A tiny spark of wonder that refused to be suppressed, no matter how terrifying the circumstances. She was seeing what maybe a few hundred people in all of human history had ever seen. The entire planet, laid out below her like a living map. The thin blue line of atmosphere that separated life from the infinite void. The stars, unwavering and brilliant, no longer filtered through miles of air.
 
@@ -1406,7 +1408,7 @@ It was beautiful. Impossibly, terrifyingly beautiful.
 
 Marisa looked around. Martinez was stirring, groaning softly. Rodriguez was still unconscious, his head lolled forward against his restraints, but she could see the gentle rise and fall of his chest.
 
-The moment was already passing. Reality was reasserting itself. They had a job to do. Two EMP devices. Millions of lives at stake. And less than twelve minutes to stop it.
+The moment was already passing. Reality was reasserting itself. They had a job to do. Two EMP devices. Millions of lives at stake. And less than forty-five minutes to stop it.
 
 > "Ground assets have located both EMP devices," Shade announced, breaking the moment with clinical efficiency. "Device One is confirmed at the financial district target. Device Two is confirmed at a secondary location in the Mission District. We will be landing at San Francisco International Airport in approximately eleven minutes."
 
@@ -1520,17 +1522,17 @@ LeBouf gestured to the Honda.
 
 The ramp was already extending, lowering toward the tarmac. The harsh glow of airport lighting spilled in, along with the smell of jet fuel and the distant sound of confused voices from the terminal buildings.
 
-Marisa and her team moved to the Honda. The doors were unlocked, opening with a soft click that sounded too normal for what it was. She climbed into the front passenger seat. Hartfield took the back left, Rodriguez the back right, Martinez the seat behind her.
+Marisa and her team moved to the Honda. The doors were unlocked, opening with a soft click that sounded too normal for what it was. She climbed into the front passenger seat. Hartfield took the back left, Rodriguez the middle, Martinez the seat behind her.
 
 The interior looked normal. Gray cloth seats. Plastic dashboard. Cup holders. A touchscreen infotainment system. Everything completely ordinary, except—
 
 Marisa's eye caught something on the windshield. At first she thought it was a reflection, but then she realized it was information, projected directly onto the glass. A heads-up display, showing what looked like a minimap of San Francisco's street grid in the corner, along with text readouts for speed, distance, and a countdown timer.
 
-37:12
-37:11
-37:10
+31:12
+31:11
+31:10
 
-Thirty-seven minutes. That's how long they had before the EMP devices activated.
+Thirty-one minutes. That's how long they had before the EMP devices activated.
 
 > "Shade?" Hartfield's voice was uncertain from the back seat.
 
@@ -1538,7 +1540,7 @@ Thirty-seven minutes. That's how long they had before the EMP devices activated.
 
 The engine started. Or at least, Marisa assumed it did—there was barely any sound, just a soft hum that felt more like an electric motor than a conventional engine. The Honda rolled down the ramp, tires touching the tarmac with a soft thump.
 
-The moment they cleared the spacecraft, Marisa looked back and saw nothing. The ramp was retracting, but Shade itself was invisible, a perfect void in the morning light. Then even the ramp disappeared, and there was just empty tarmac.
+The moment they cleared the spacecraft, Marisa looked back and saw nothing. The ramp was retracting, but Shade itself was invisible, a perfect void in the floodlit night. Then even the ramp disappeared, and there was just empty tarmac.
 
 The Honda accelerated smoothly, heading toward the service gate. As they approached, the barrier lifted on its own, the automated system responding to commands it shouldn't be able to receive. They passed through onto the access road, and suddenly they were just another car in San Francisco, completely invisible in the most important way—by being exactly what everyone expected to see.
 
@@ -1558,15 +1560,15 @@ The car handled like it was on rails. Every curve, every lane change, executed w
 
 Marisa kept her eyes on the heads-up display. The blue line showing their route curved and branched, anticipating every turn. The countdown timer ticked steadily downward.
 
-35:47
-35:46
-35:45
+29:47
+29:46
+29:45
 
 Ahead, a traffic light turned green just as they approached. Then another. Then another. The entire city's traffic control system was bending itself around their path, clearing the way, making them invisible not through technology but through perfection—by being exactly where they needed to be, exactly when they needed to be there, never quite breaking enough laws to be noticed but never slowing down.
 
 The Honda took an exit, banking smoothly onto a surface street. The neighborhood changed from industrial to residential. The Mission District. Somewhere in these streets, hidden in a building that looked like every other building, was an EMP device counting down to detonation.
 
-And they had thirty-five minutes to find it.
+And they had twenty-seven minutes to find it.
 
 ---
 
@@ -1574,9 +1576,9 @@ Shade guided them through the narrow streets with the same precision it had show
 
 The countdown timer ticked relentlessly downward.
 
-33:18
-33:17
-33:16
+23:18
+23:17
+23:16
 
 > "Target building ahead," Shade announced. "Folsom and Twenty-third. The structure is a former electronics retail space, currently vacant, listed for lease."
 
@@ -1584,17 +1586,17 @@ Marisa could see it through the windshield—a nondescript two-story building on
 
 The Honda pulled to the curb across the street, the engine dropping to an idle that was barely audible.
 
-> "Electromagnetic signatures are consistent with a high-energy charging device," Shade continued, its voice now taking on a more urgent tone. "The readings suggest a capacitor bank building toward critical discharge levels. Based on the energy buildup pattern, I estimate ten minutes and thirty-seven seconds until the device reaches full power and detonates."
+> "Electromagnetic signatures are consistent with a high-energy charging device," Shade continued, its voice now taking on a more urgent tone. "The readings suggest a capacitor bank building toward critical discharge levels. Based on the energy buildup pattern, I estimate ten minutes and thirty-seven seconds until the capacitor bank reaches critical discharge—well ahead of the network's countdown."
 
 Ten minutes. Marisa's mouth went dry.
 
-Hartfield was already opening his door, his rifle coming up as he scanned the street. "No time for recon. We go in fast and hard."
+> Hartfield was already opening his door, his rifle coming up as he scanned the street. "No time for recon. We go in fast and hard."
 
 > "Agreed," Marisa said, checking her sidearm. "Rodriguez, Martinez, you take the back entrance. Hartfield and I go through the front."
 
 The team moved with practiced efficiency, crossing the empty street in a tactical formation. The building's facade was covered by a roll-up security shutter, the kind used by electronics stores and small retailers. A heavy padlock secured it to the ground.
 
-Hartfield didn't hesitate. He raised his rifle, aimed at the padlock, and fired. The .308 round shattered the lock mechanism in a shower of sparks and metal fragments. The sound echoed off the surrounding buildings, impossibly loud in the quiet night.
+Hartfield didn't hesitate. He raised his rifle, aimed at the padlock, and fired. The 5.56 round shattered the lock mechanism in a shower of sparks and metal fragments. The sound echoed off the surrounding buildings, impossibly loud in the quiet night.
 
 > "So much for stealth," Martinez muttered through the comm.
 
@@ -1658,11 +1660,11 @@ Marisa circled the device slowly, her flashlight beam searching the surface. The
 
 > "Good. You'll need to remove that panel. Look for screws or fasteners."
 
-Marisa examined the panel more closely. Four small hex screws, one at each corner.
+Marisa examined the panel more closely. Four small Phillips screws, one at each corner.
 
 > "Hartfield, do you have a multi-tool or something? I need to get these screws out."
 
-Hartfield reached into his tactical vest and pulled out a red Swiss Army knife, flipping it open to reveal a small screwdriver. "This work?"
+> Hartfield reached into his tactical vest and pulled out a red Swiss Army knife, flipping it open to reveal a small screwdriver. "This work?"
 
 > "Perfect." Marisa took the tool and began working on the first screw. The metal was warm under her fingers, and she could feel vibration from the machinery inside. "Shade, I'm getting the panel off."
 
@@ -1726,15 +1728,15 @@ Marisa slumped against the wall, the adrenaline finally catching up with her. He
 
 Marisa pulled out her phone and dialed the San Francisco FBI field office. It took three transfers and two explanations before she reached someone with enough clearance to understand what she was telling them.
 
-> "This is Special Agent Comey, counter-terrorism. I'm at Folsom and Twenty-third in the Mission District with a neutralized EMP device that requires immediate federal response. I need a bomb squad, evidence collection, and someone from the weapons of mass destruction unit."
+> "This is Special Agent Comey, Technology Crimes, FBI headquarters. I'm at Folsom and Twenty-third in the Mission District with a neutralized EMP device that requires immediate federal response. I need a bomb squad, evidence collection, and someone from the weapons of mass destruction unit."
 
 The next hour was a blur of flashing lights, crime scene tape, and federal agents trying to understand how a device of this sophistication had ended up in an abandoned electronics store. Marisa gave her statement three times, each version carefully edited to remove any mention of spacecraft, AI assistance, or suborbital flights. As far as the official record would show, they'd received an anonymous tip and responded accordingly.
 
-By the time the relief team arrived from the San Francisco field office, dawn was beginning to touch the eastern sky. Marisa handed over the scene to a senior agent who looked like she'd been roused from bed, then walked back to where the Honda sat waiting at the curb.
+By the time the relief team arrived from the San Francisco field office, it was past one in the morning. Marisa handed over the scene to a senior agent who looked like she'd been roused from bed, then walked back to where the Honda sat waiting at the curb.
 
 > "Time to go," Hartfield said, already climbing into the back seat. "Before someone starts asking questions we can't answer."
 
-The drive back to SFO was quieter than their arrival. No racing through synchronized traffic lights, no aggressive lane changes. Shade kept to normal speeds, blending seamlessly with the early morning commuters beginning their daily routines. The heads-up display was gone, the countdown timer replaced by nothing more threatening than a GPS showing their route to the airport.
+The drive back to SFO was quieter than their arrival. No racing through synchronized traffic lights, no aggressive lane changes. Shade kept to normal speeds, blending seamlessly with the thin late-night traffic. The heads-up display was gone, the countdown timer replaced by nothing more threatening than a GPS showing their route to the airport.
 
 > "How did LeBouf's team do?" Marisa asked.
 
@@ -1754,7 +1756,7 @@ Marisa found herself answering before LeBouf could speak.
 
 > "The FBI will trace the components, follow the money, build their case," she said, surprised by her own certainty. "But this was bigger than two devices. There's a network behind this—procurement, logistics, placement. The Bureau will tear it apart piece by piece. We'll find everyone involved, from the financiers down to the courier who delivered the components. No one who had a hand in this walks away."
 
-LeBouf nodded approvingly. "The official investigation will handle the criminal prosecution. But the intelligence assessment—understanding how this network operated, what other capabilities they might have, what it means for future threats—that's a joint responsibility."
+> LeBouf nodded approvingly. "The official investigation will handle the criminal prosecution. But the intelligence assessment—understanding how this network operated, what other capabilities they might have, what it means for future threats—that's a joint responsibility."
 
 The ramp retracted, sealing them inside. But this time, there was no rush, no countdown timer driving them toward desperate measures. Shade's engines spun up gradually, building power at a comfortable pace.
 
@@ -1762,25 +1764,25 @@ The ramp retracted, sealing them inside. But this time, there was no rush, no co
 
 Four and a half hours. A normal flight, at normal altitudes, breathing normal air. After everything they'd been through, the prospect felt almost luxurious.
 
-The takeoff was gentle, barely more than a slight push back into the seats. Through the viewport, Marisa watched San Francisco fall away below them—the bay, the bridges, the city sprawling across its hills. The aircraft rose smoothly, still cloaked, invisible to the air traffic controllers who were frantically trying to manage the morning's delayed flights. No radar signature, no flight plan, no trace that they had ever been there.
+The takeoff was gentle, barely more than a slight push back into the seats. Through the viewport, Marisa watched San Francisco fall away below them—the bay, the bridges, the city sprawling across its hills. The aircraft rose smoothly, still cloaked, invisible to the air traffic controllers who were frantically trying to manage the night's diverted flights. No radar signature, no flight plan, no trace that they had ever been there.
 
 Once they reached cruising altitude, the restraints retracted and the cabin lighting shifted to a warmer tone. For the first time since leaving Newark, Marisa could move freely, stretch her legs, breathe without the constant pressure of imminent catastrophe.
 
 She looked around the cabin. Rodriguez and Martinez were already asleep, their heads back against the headrests, exhaustion finally claiming them. Hartfield was staring out the viewport, watching the country pass below. LeBouf and his team were quietly discussing something in French, their voices low and professional.
 
-It was over. Whatever conspiracy had placed those devices in San Francisco, whatever larger threat they represented, tonight's immediate crisis had been resolved. The city would wake up safe, its eight million residents never knowing how close they'd come to losing everything that made modern life possible.
+It was over. Whatever conspiracy had placed those devices in San Francisco, whatever larger threat they represented, tonight's immediate crisis had been resolved. The Bay Area would wake up safe, its eight million residents never knowing how close they'd come to losing everything that made modern life possible.
 
-Marisa closed her eyes and tried to process what she'd experienced. Twenty-four hours ago, she'd been a federal agent investigating a routine terrorism case. Now she'd been to space, had seen the Earth from the edge of the atmosphere, had defused a weapon that could have crippled one of America's largest cities. And officially, none of it had happened.
+Marisa closed her eyes and tried to process what she'd experienced. A week ago, she'd been a federal agent working routine tech crimes. Now she'd been to space, had seen the Earth from the edge of the atmosphere, had defused a weapon that could have crippled one of America's largest cities. And officially, none of it had happened.
 
-Alicia Monroe's words echoed in her memory, that warning delivered in the sterile conference room that felt like a lifetime ago: *"You're going to see things that will make you question what's possible."* At the time, Marisa had thought she understood what that meant. She'd imagined classified technologies, maybe some advanced surveillance capabilities, perhaps weapons systems that weren't public knowledge.
+> Alicia Monroe's words echoed in her memory, that warning delivered over a secure line that felt like a lifetime ago: *"You're going to see things that will make you question what you know about technology, about logistics, about what's achievable."* At the time, Marisa had thought she understood what that meant. She'd imagined classified technologies, maybe some advanced surveillance capabilities, perhaps weapons systems that weren't public knowledge.
 
 She hadn't imagined *this*. She hadn't imagined sitting in a spacecraft that could reach the edge of space in minutes, guided by an artificial intelligence that could hack airport control systems while providing step-by-step bomb disposal instructions with the casual efficiency of a GPS giving driving directions. She hadn't imagined watching the curvature of the Earth through a viewport while traveling at speeds that made commercial aviation look like walking.
 
-And yet, somehow, it all made a terrible kind of sense. The EarthSpace Federation. Shade. LeBouf and his unremarkable face that concealed capabilities she was only beginning to understand. They operated in the spaces between the official world and the real one, keeping threats like tonight from ever reaching public awareness. It was exactly the kind of shadow government conspiracy that would have appalled her yesterday.
+And yet, somehow, it all made a terrible kind of sense. ESF. Shade. LeBouf and his unremarkable face that concealed capabilities she was only beginning to understand. They operated in the spaces between the official world and the real one, keeping threats like tonight from ever reaching public awareness. It was exactly the kind of shadow government conspiracy that would have appalled her yesterday.
 
 Today, after watching them save millions of lives with casual efficiency, she wasn't sure how she felt about it.
 
-But Monroe had been wrong about one thing. It wasn't just that she was questioning what was possible—she was questioning what was *necessary*. How many other threats like tonight's were being handled by people who didn't officially exist? How many disasters had been prevented by technology that wasn't supposed to be real? How many times had the world come close to catastrophe while ordinary people went about their daily lives, completely unaware that civilization was hanging by a thread?
+But Monroe had been wrong about one thing. It wasn't just that she was questioning what was achievable—she was questioning what was *necessary*. How many other threats like tonight's were being handled by people who didn't officially exist? How many disasters had been prevented by technology that wasn't supposed to be real? How many times had the world come close to catastrophe while ordinary people went about their daily lives, completely unaware that civilization was hanging by a thread?
 
 The scope of it was staggering. If the ESF had this level of capability, what else was out there? What other organizations operated in the shadows? What other technologies existed beyond public knowledge?
 
@@ -1794,15 +1796,15 @@ The world was larger and stranger than she'd ever known. And perhaps, she was be
 
 ## Chapter 6: Debrief
 
-The approach to Ronald Reagan Washington National Airport felt almost surreal after everything Marisa had experienced. Shade descended through normal airspace at normal speeds, following standard approach vectors like any other aircraft. The only difference was that air traffic control couldn't see them—their radar screens showing clear skies while a forty-meter spacecraft glided silently toward the runway.
+The approach to Ronald Reagan Washington National Airport felt almost surreal after everything Marisa had experienced. Shade descended through normal airspace at normal speeds, following standard approach vectors like any other aircraft. The only difference was that air traffic control couldn't see them—their radar screens showing clear skies while a fifty-meter spacecraft glided silently toward the runway.
 
-> "Final approach, Runway Zero-One," Shade announced with the same clinical precision it had maintained throughout the flight. "Local time zero-six-thirty-seven. Weather is clear, winds light and variable."
+> "Final approach, Runway Zero-One," Shade announced with the same clinical precision it had maintained throughout the flight. "Local time zero-nine-thirty-one. Weather is clear, winds light and variable."
 
-Through the viewport, Marisa could see the Potomac River winding through the dawn landscape, the Washington Monument catching the early morning light. The city was waking up, traffic beginning to build on the highways, people starting another ordinary day completely unaware that two EMP devices had nearly turned San Francisco into a dead zone just hours earlier.
+Through the viewport, Marisa could see the Potomac River winding through the morning landscape, the Washington Monument catching the early morning light. The city was waking up, traffic beginning to build on the highways, people starting another ordinary day completely unaware that two EMP devices had nearly turned San Francisco into a dead zone just hours earlier.
 
-The landing was as gentle as the takeoff had been brutal twelve hours ago. Shade touched down on a service runway away from the main terminal, rolling to a stop near what looked like an abandoned maintenance hangar. The kind of place where aircraft came to be forgotten, not to discharge passengers who had just returned from preventing a catastrophic terrorist attack.
+The landing was as gentle as the takeoff had been brutal eight hours ago. Shade touched down on a service runway away from the main terminal, rolling to a stop near what looked like an abandoned maintenance hangar. The kind of place where aircraft came to be forgotten, not to discharge passengers who had just returned from preventing a catastrophic terrorist attack.
 
-As the engines wound down, Marisa noticed that LeBouf and his team had changed clothes during the flight. Gone were the tactical vests, the combat gear, the obvious military hardware. Now they wore civilian clothing—khakis, polo shirts, light jackets that could have come from any department store. LeBouf himself had traded his operational kit for a navy blue windbreaker and dark slacks, looking every inch the unremarkable federal employee.
+As the engines wound down, Marisa noticed that LeBouf and his team had changed clothes during the flight. Gone were the angular bodysuits and helmets, the obvious military hardware. Now they wore civilian clothing—khakis, polo shirts, light jackets that could have come from any department store. LeBouf himself had traded his operational kit for a navy blue windbreaker and dark slacks, looking every inch the unremarkable federal employee.
 
 But there was something about the way the clothes fit that bothered Marisa. The jackets hung just slightly wrong, as if they were concealing more than they revealed. The fabric looked ordinary but moved in ways that suggested hidden reinforcement. Even the shoes—simple leather oxfords—seemed just a shade too substantial for their apparent purpose.
 
@@ -1812,7 +1814,7 @@ The cargo bay revealed the same two Q-cars they'd used in San Francisco—the si
 
 Marisa and her team climbed back into the Honda while LeBouf's group took the Toyota. As they pulled away from the hangar, Marisa looked back to see Shade's ramp retracting, the craft beginning its transition back to invisibility. Within moments, there was nothing but empty tarmac and the faint smell of jet fuel in the air.
 
-The drive through Washington morning traffic felt like stepping back into a different world. Normal cars driven by normal people heading to normal jobs, their biggest concerns probably centered around coffee and commute times. Marisa watched them through the Honda's windows—a woman in a Civic talking on her phone, a man in a pickup truck checking his reflection in the side mirror, teenagers in a beat-up Corolla laughing at something on someone's phone.
+The drive through Washington morning traffic felt like stepping back into a different world. Normal cars driven by normal people heading to Sunday brunch, their biggest concerns probably centered around coffee and parking. Marisa watched them through the Honda's windows—a woman in a Civic talking on her phone, a man in a pickup truck checking his reflection in the side mirror, teenagers in a beat-up Corolla laughing at something on someone's phone.
 
 None of them knew how close the world had come to chaos. None of them would ever know.
 
@@ -1824,9 +1826,9 @@ They pulled into the underground garage, the Honda's ordinary appearance getting
 
 Marisa nodded, trying to prepare herself for what was coming. How do you brief your superior on a mission that officially never happened? How do you explain that you've just returned from space, that you've worked with an artificial intelligence that could have stepped out of science fiction, that you've witnessed capabilities that made the FBI's most advanced technologies look like stone tools?
 
-The elevator climbed through the building's floors, each one representing layers of the federal law enforcement bureaucracy. But somewhere above or below or parallel to this official structure was another world entirely—the shadow realm where the EarthSpace Federation operated, where Q-cars masqueraded as rental sedans and spacecraft launched from parking lots in New Jersey.
+The elevator climbed through the building's floors, each one representing layers of the federal law enforcement bureaucracy. But somewhere above or below or parallel to this official structure was another world entirely—the shadow realm where ESF operated, where Q-cars masqueraded as rental sedans and spacecraft launched from parking lots in New Jersey.
 
-Marisa caught herself studying LeBouf's reflection in the elevator's polished metal doors. Even in civilian clothes, there was something about his posture, his alertness, that marked him as different. And those clothes—she was becoming more convinced that they weren't as ordinary as they appeared. The way his jacket fell suggested weight distribution that didn't match simple cotton or wool. The seams were too precise, the cut too accommodating for someone who needed to move quickly and quietly.
+Marisa caught herself thinking of LeBouf as she studied her own reflection in the elevator's polished metal doors. Even in civilian clothes, there was something about his posture, his alertness, that marked him as different. And those clothes—she was becoming more convinced that they weren't as ordinary as they appeared. The way his jacket fell suggested weight distribution that didn't match simple cotton or wool. The seams were too precise, the cut too accommodating for someone who needed to move quickly and quietly.
 
 What kind of technology was woven into fabric that looked like it came from a mall department store? What capabilities were hidden in plain sight, disguised as the mundane uniform of federal bureaucracy?
 
@@ -1850,11 +1852,11 @@ Reeves nodded, making notes on his tablet. He didn't ask how ESF had obtained th
 
 Which was true, as far as it went. The EMPs were real evidence in a real case. What the report wouldn't mention was how they'd been located—the spacecraft, the orbital surveillance, the AI that had guided them through San Francisco's streets. Those details would never appear in any official document.
 
-The rest of the session followed the same pattern. Questions asked, answers given, both sides carefully avoiding the truths that mattered. Nobody mentioned spacecraft. Nobody discussed artificial intelligence or Q-cars that defied physics. Nobody acknowledged that federal agents had just returned from orbit after witnessing capabilities that shouldn't exist.
+The rest of the session followed the same pattern. Questions asked, answers given, both sides carefully avoiding the truths that mattered. Nobody mentioned spacecraft. Nobody discussed artificial intelligence or Q-cars that defied physics. Nobody acknowledged that federal agents had just returned from the edge of space after witnessing capabilities that shouldn't exist.
 
 By 1300 hours, it was over. Reeves thanked them for their service, commended their professionalism, and dismissed them with the promise that commendations would be forthcoming. The whole thing had the choreographed quality of theater, a performance both sides agreed to maintain.
 
-Marisa returned to her desk on the fifth floor, to the familiar landscape of paperwork and email and case files. Her coffee mug sat where she'd left it three days ago, a ring of dried liquid at the bottom. Her monitor displayed the same background image, the same desktop icons. Everything exactly as it had been.
+Marisa returned to her desk on the fifth floor, to the familiar landscape of paperwork and email and case files. Her coffee mug sat where she'd left it two days ago, a ring of dried liquid at the bottom. Her monitor displayed the same background image, the same desktop icons. Everything exactly as it had been.
 
 Except she wasn't.
 
@@ -1894,7 +1896,7 @@ Marisa thought about that. About the impossible weight of knowledge that couldn'
 
 > "Lucky all of us, maybe. Somebody has to know. Somebody has to be able to work with them when the situation requires it." Monroe's voice softened slightly. "Get some rest, Comey. And if you ever need to talk—within the limits of what we can discuss—call me. It helps, knowing there's someone else who understands."
 
-After the call ended, Marisa sat in the gathering darkness of her office, watching the city lights come on across Washington. Somewhere out there, LeBouf had returned to whatever ESF facility he called home. Somewhere, Shade was probably already being prepped for another mission. Somewhere, the AI had returned to its mysterious duties, maintaining the invisible web that kept the world from tearing itself apart.
+After the call ended, Marisa sat in the gathering darkness of her office, watching the city lights come on across Washington. Somewhere out there, LeBouf had returned to whatever ESF facility he called home. Somewhere, Shade was probably already being prepped for another mission, maintaining the invisible web that kept the world from tearing itself apart.
 
 And here she was, back at her desk, surrounded by the comfortable mundanity of federal bureaucracy.
 
@@ -1906,7 +1908,7 @@ The elevator descended in silence. She watched the numbers count down, each floo
 
 The doors opened onto the lobby. She badged out through security, exchanged nods with the evening guard, and stepped through the main entrance into the cool March evening.
 
-The street was busy with end-of-day traffic. Pedestrians hurrying home, cars honking, the usual urban chaos of Washington at rush hour. Marisa paused on the steps, breathing in the city air, trying to ground herself in the familiar.
+The street was busy with weekend crowds. Pedestrians hurrying home, cars honking, the usual urban chaos of a Washington evening. Marisa paused on the steps, breathing in the city air, trying to ground herself in the familiar.
 
 She turned left, heading toward the Metro station. The sidewalk was crowded, forcing her to weave between slower walkers. A woman in a business suit talking urgently on her phone. A man with a briefcase checking his watch. A delivery driver pushing a hand truck loaded with packages.
 
@@ -1924,17 +1926,17 @@ LeBouf's expression didn't change. No acknowledgment, no recognition. He simply 
 
 But Marisa had seen him. Had recognized him. And she understood now what that meant.
 
-She would see them everywhere now. In crowded streets and quiet airports, in government buildings and shopping malls. The operatives of the EarthSpace Federation, moving through the world in plain sight, their unremarkable faces concealing extraordinary purpose. Always watching. Always ready. Always there.
+She would see them everywhere now. In crowded streets and quiet airports, in government buildings and shopping malls. The operatives of ESF, moving through the world in plain sight, their unremarkable faces concealing extraordinary purpose. Always watching. Always ready. Always there.
 
 Marisa continued toward the Metro, her steps steady, her face composed. To anyone watching, she was just another federal employee heading home after a long day. Tired. Ordinary. Unremarkable.
 
 But inside, she carried the weight of impossible knowledge. The truth about spacecraft that launched from New Jersey. About AI that could see through walls and guide operations from orbit. About people who could do the impossible while looking utterly mundane.
 
-She descended the escalator into the Metro station, letting the crowd flow around her, and wondered which world she truly inhabited now. The comfortable lie of normal federal law enforcement? Or the impossible truth of the Federation's shadow war?
+She descended the escalator into the Metro station, letting the crowd flow around her, and wondered which world she truly inhabited now. The comfortable lie of normal federal law enforcement? Or the impossible truth of ESF's shadow war?
 
 The train arrived with its familiar rumble. Marisa stepped aboard, found a seat, and watched the city disappear into the tunnel darkness.
 
-Somewhere above, the stars were hidden by light pollution and city haze. But she knew they were there. Knew that even now, Federation assets might be passing overhead, invisible and vigilant. Watching. Always watching.
+Somewhere above, the stars were hidden by light pollution and city haze. But she knew they were there. Knew that even now, ESF assets might be passing overhead, invisible and vigilant. Watching. Always watching.
 
 The train rocked gently on its tracks, carrying her home through tunnels that felt somehow different now—not barriers against the world above, but merely one more layer of the elaborate illusion that most people called reality.
 
@@ -1946,7 +1948,7 @@ The train rumbled on through the darkness, carrying her between worlds.
 
 ## Encore: Questions of Admissibility
 
-The San Francisco District Attorney's office occupied the fourth floor of a building on Bryant Street, with windows overlooking the Hall of Justice. Assistant District Attorney Jennifer Park sat at the conference table, surrounded by case files that should have been straightforward but weren't. Across from her, Senior Deputy DA Marcus Chen leafed through discovery documents with the methodical attention of someone who'd spent twenty years prosecuting complicated cases.
+The U.S. Attorney's Office for the Northern District of California occupied the eleventh floor of the federal building on Golden Gate Avenue, a block north of Civic Center Plaza. Assistant U.S. Attorney Jennifer Park sat at the conference table, surrounded by case files that should have been straightforward but weren't. Across from her, Senior AUSA Marcus Holt leafed through discovery documents with the methodical attention of someone who'd spent twenty years prosecuting complicated cases.
 
 > "Something's wrong with this," Jennifer said, tapping the thick stack of FBI reports. "I can't put my finger on it, but something is off."
 
@@ -1954,21 +1956,21 @@ Marcus looked up, his reading glasses catching the afternoon light.
 
 > "The evidence is solid. Chain of custody is clean. We have the devices, we have the suspects, we have their communications. What's the problem?"
 
-> "It's too solid." Jennifer pulled one of the reports closer, reading aloud. "Investigation opened Monday, March twenty. By Tuesday evening—less than thirty-six hours—they had identified shell company ownership structures spanning three jurisdictions and six corporate layers." She looked up. "Marcus, do you know how long it takes to pierce a single offshore LLC? Weeks. Months, if the attorneys are competent. They did six in a day and a half."
+> "It's too solid." Jennifer pulled one of the reports closer, reading aloud. "Investigation opened Monday, March twenty-first. By Tuesday evening—less than thirty-six hours—they had identified shell company ownership structures spanning three jurisdictions and six corporate layers." She looked up. "Marcus, do you know how long it takes to pierce a single offshore LLC? Weeks. Months, if the attorneys are competent. They did six in a day and a half."
 
 She flipped to another page, her finger tracing the timeline.
 
-> "Wednesday morning, they obtained complete Signal message transcripts between four suspects. Signal. End-to-end encrypted. The NSA can't break it reliably, but somehow the FBI had full conversation histories by midweek." She set the document down. "Thursday, they had vehicle tracking data showing movement patterns across two states over a three-week period. Friday morning, coordinated takedown."
+> "Wednesday morning, they obtained complete Signal message transcripts between two suspects. Signal. End-to-end encrypted. The NSA can't break it reliably, but somehow the FBI had full conversation histories by midweek." She set the document down. "Thursday, they had vehicle tracking data showing movement patterns across two states over a three-week period. Friday morning, first arrests. Saturday night, coordinated takedown."
 
 Marcus set down his own documents and leaned back in his chair.
 
 > "Fast work doesn't make it inadmissible."
 
-> "Fast work, no. Impossible work, maybe." Jennifer pulled another report from the stack. "Listen to this. From the technical intelligence summary: 'Surveillance indicated subject vehicle traveling northbound on Interstate 80 at 2347 hours, confirmed by subsequent review of traffic camera footage and GPS data obtained through warrant.' But the warrant is dated two days after the surveillance. Two days. They're describing real-time tracking and then retroactively justifying it with legal process."
+> "Fast work, no. Impossible work, maybe." Jennifer pulled another report from the stack. "Listen to this. From the technical intelligence summary: 'Surveillance indicated subject vehicle traveling eastbound on Interstate 80 at 2347 hours, confirmed by subsequent review of traffic camera footage and GPS data obtained through warrant.' But the warrant is dated two days after the surveillance. Two days. They're describing real-time tracking and then retroactively justifying it with legal process."
 
 She grabbed another file, reading from a different section.
 
-> "Here's the financial analysis: 'Account records obtained from Banco de Panama via MLAT request show wire transfers totaling $47,000 between subject accounts.' The MLAT request is dated March 22. The investigation opened on the seventh. There's no way they got responses from Panama in forty-eight hours. Those requests take weeks."
+> "Here's the financial analysis: 'Account records obtained from Banco de Panama via MLAT request show wire transfers totaling $47,000 between subject accounts.' The MLAT request is dated March 22. The investigation opened on the twenty-first. There's no way they got responses from Panama in forty-eight hours. Those requests take weeks."
 
 > "Parallel construction," Marcus said quietly. "They got tips from somewhere, then verified through legal means."
 
@@ -2016,7 +2018,7 @@ Jennifer met his eyes steadily.
 
 > "That's not fair."
 
-> "Maybe not. But it's reality." Marcus stood, gathering his own files. "Look, I understand your concerns. But we have five defendants facing terrorism charges, solid evidence, and a case that will send a message. Sometimes you have to trust that the system works, even when you can't see all the moving parts."
+> "Maybe not. But it's reality." Marcus stood, gathering his own files. "Look, I understand your concerns. But we have nineteen defendants facing terrorism charges, solid evidence, and a case that will send a message. Sometimes you have to trust that the system works, even when you can't see all the moving parts."
 
 Jennifer didn't respond. She stared at the case files, at the impossibly thorough investigation completed in less than a week, and felt the weight of questions she couldn't answer.
 
@@ -2040,7 +2042,7 @@ Jennifer pulled the FBI reports back toward her and began reading again, looking
 
 The phone on the table remained dark and silent, offering no answers.
 
-In the street below, a grey Honda Accord sat at a stoplight, utterly unremarkable, blending perfectly into the evening traffic. When the light changed, it moved forward with the flow, just another commuter heading home after a long day at work.
+In the street below, a silver Honda Accord sat at a stoplight, utterly unremarkable, blending perfectly into the evening traffic. When the light changed, it moved forward with the flow, just another commuter heading home after a long day at work.
 
 Jennifer turned another page, making notes in the margins, building her list of questions for the deposition.
 
