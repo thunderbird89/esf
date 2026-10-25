@@ -4133,30 +4133,6 @@ But the story of what they'd accomplished together was just beginning.
 
 ---
 
-Lieutenant Miguel Freitas brought his Talon down onto Portuguese soil with the same precision he'd used landing at Galileo Station twenty-six hours earlier. The approach had been routine - standard re-entry from orbit, descent through European airspace, final approach to the base he'd trained at for nearly two years before deploying to Jupiter.
-
-But nothing felt routine anymore.
-
-The Portuguese Talons landed in sequence - Delta, Echo, and the rest - twenty-one fighters finding their assigned positions on the apron. Twenty-one where twenty-five had launched. Delta Flight led them in, Ramos on Miguel's wing, the formation tight despite the exhaustion that weighed on every pilot.
-
-When Miguel's landing gear touched concrete, he felt something release in his chest. Earth. Home. Real gravity, real air, real ground beneath him.
-
-He'd made it.
-
-The ground crews were waiting, along with what looked like half the base personnel. Miguel could see the Portuguese Air Force Chief of Staff, senior officers in dress uniform, and rows of personnel standing at attention. An honor guard, he realized. For pilots returning from... what? A classified mission no one could explain yet.
-
-But they knew it had been important.
-
-Miguel went through the shutdown procedure, opened the canopy, pulled off his helmet. The Portuguese air hit him - familiar smells, familiar temperature, the particular feeling of being home that he hadn't realized he'd missed until this moment.
-
-He climbed down from his Talon, boots hitting Portuguese concrete, and joined the other pilots forming up. Captain Ramos at the front, Delta Flight behind her, the other squadrons falling in.
-
-Welcome speech, medical examination, debrief. All before he was allowed near his phone again. 73 messages, 106 missed calls, from his sister Sofia, from his parents, from Maria, his girlfriend - it all blurred together. He jabbed at one of the call logs.
-
-> "Hi Sofia. ... Yes, I'm home. ... I missed you too."
-
----
-
 The White House Situation Room had been in a state of controlled tension for the past eight hours.
 
 President Donald Trump sat at the head of the table, flanked by his Chief of Staff and National Security Advisor. The Joint Chiefs of Staff occupied the remaining seats - Army, Navy, Air Force, Marines, Space Force, and the National Guard Bureau. Each one had been monitoring the situation through carefully curated briefings, filtered intelligence reports, and the occasional update from observatories that had picked up anomalous flashes near Jupiter.
@@ -4682,6 +4658,30 @@ And on Major Tanaka's Talon, the grinning hell raven watched over the apron with
 The battle was over.
 
 But the story of what they'd accomplished - that was just beginning.
+
+---
+
+Lieutenant Miguel Freitas brought his Talon down onto Portuguese soil with the same precision he'd used landing at Galileo Station twenty-six hours earlier. The approach had been routine - standard re-entry from orbit, descent through European airspace, final approach to the base he'd trained at for nearly two years before deploying to Jupiter.
+
+But nothing felt routine anymore.
+
+The Portuguese Talons landed in sequence - Delta, Echo, and the rest - twenty-one fighters finding their assigned positions on the apron. Twenty-one where twenty-five had launched. Delta Flight led them in, Ramos on Miguel's wing, the formation tight despite the exhaustion that weighed on every pilot.
+
+When Miguel's landing gear touched concrete, he felt something release in his chest. Earth. Home. Real gravity, real air, real ground beneath him.
+
+He'd made it.
+
+The ground crews were waiting, along with what looked like half the base personnel. Miguel could see the Portuguese Air Force Chief of Staff, senior officers in dress uniform, and rows of personnel standing at attention. An honor guard, he realized. For pilots returning from... what? A classified mission no one could explain yet.
+
+But they knew it had been important.
+
+Miguel went through the shutdown procedure, opened the canopy, pulled off his helmet. The Portuguese air hit him - familiar smells, familiar temperature, the particular feeling of being home that he hadn't realized he'd missed until this moment.
+
+He climbed down from his Talon, boots hitting Portuguese concrete, and joined the other pilots forming up. Captain Ramos at the front, Delta Flight behind her, the other squadrons falling in.
+
+Welcome speech, medical examination, debrief. All before he was allowed near his phone again. 73 messages, 106 missed calls, from his sister Sofia, from his parents, from Maria, his girlfriend - it all blurred together. He jabbed at one of the call logs.
+
+> "Hi Sofia. ... Yes, I'm home. ... I missed you too."
 
 ---
 
