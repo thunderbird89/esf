@@ -17,3 +17,4 @@ exclude_files:
 exclude:
   - esf.code-workspace
   - stories/story-adrenaline.md
+  - translation
